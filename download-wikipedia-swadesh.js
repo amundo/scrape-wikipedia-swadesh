@@ -17,7 +17,10 @@ let buildLexicon = async url => {
     title,
     language: title.replace(' Swadesh list', ''),
     source: "Wikipedia",
-    url	
+    url	,
+    notes: [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
   }
   
   let table = dom.querySelector('table')
