@@ -1,38 +1,63 @@
-let parseForms = cell => cell
-  .split`,`
-  .map(x => x.trim())
-	.map(pair => pair
-    .slice(0,-1)
-    .split(' ('))
-  	  .map(([ru, rulat]) => ({
-        orthographic: ru,
-        form: rulat
-      })
-  )
+let parseSwadeshTermSPAN = span => {
+  let labeledSelectors = [
+    {
+      "label": "orthographic",
+      "selector": "[lang]:not(.tr)"
+    },
+    {
+      "label": "form",
+      "selector": "[lang].tr"
+    },
+    {
+      "label": "note",
+      "selector": ".swadesh-note"
+    }
+  ]
 
-let parseRow = row => {
-  let tds = Array.from(row.querySelectorAll('td'))
-
-  let id = tds[0].textContent
-  let gloss = tds[1].textContent
-  let forms = parseForms(tds[2].textContent)
+  let word = labeledSelectors.reduce((word, {label, selector}) => {
+    if (span.querySelector(selector)) {
+      word[label] = span.querySelector(selector).textContent
+    } else {
+      word[label] = ''
+    }
+    return word
+  }, {})
   
-  return forms.map(({form,orthographic}) => ({form, gloss, orthographic, metadata: {swadeshNumber: id}}))
+  return word
+}
+
+let parseTermsTD = td => {
+  let swadeshTerms = Array.from(td.querySelectorAll('.swadesh-term'))
+  let words = swadeshTerms.map(swadeshTerm => parseSwadeshTermSPAN(swadeshTerm))
+ 
+  return words
 }
   
 let parseSwadeshTable = table => {
-  table.querySelectorAll('a')
-    .forEach(a => a.innerHTML = a.textContent)
+  let tbody = table.querySelector('tbody')
+  let rows = Array.from(tbody.querySelectorAll('tr'))
 
-  let words = []
+  rows = rows.filter(row => row.querySelector('td'))
 
-  Array.from(table.querySelectorAll('tr'))
-    .filter(tr => tr.querySelector('td') && tr.textContent.trim().length > 3)
-    .forEach(tr => 
-      words.push(...parseRow(tr))
-    )
+  return rows.map(row => {
+    let cells = Array.from(row.querySelectorAll('td'))
+    let gloss = cells[1].textContent.trim()
+    let metadata = {
+      "swadeshNumber": cells[0].textContent.trim()
+    }
 
-  return words
+    let words = parseTermsTD(cells[2])
+
+    words = words.map(word => {
+      return {
+        gloss, 
+        ...word
+      }
+    })
+
+    return words
+  })
+
 }
   
 export {parseSwadeshTable}
