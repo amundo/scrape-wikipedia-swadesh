@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "title": "English Swadesh list",
+    "language": "English",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:English_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": []
+}
