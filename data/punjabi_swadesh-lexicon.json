@@ -1,0 +1,1435 @@
+{
+  "metadata": {
+    "title": "Punjabi Swadesh list",
+    "language": "Punjabi",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:Punjabi_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": [
+    {
+      "gloss": "I (1sg)",
+      "orthographic": "",
+      "form": "maĩ",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "tū̃",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "tusī̃",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "iha",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "uha",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "asī̃",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "tusī̃",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "iha",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "uha",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "iha",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "uha",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "itthe",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "utthe",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "kauṇ",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "kī",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "kitthe",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kadõ",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "kivẽ",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "nahī̃",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "nā",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sārā",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sabh",
+      "note": ""
+    },
+    {
+      "gloss": "many",
+      "orthographic": "",
+      "form": "bahut",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "kujjha",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "thoṛe",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "ghaṭṭa",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "virle",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "dūjā",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "dūsrā",
+      "note": ""
+    },
+    {
+      "gloss": "one",
+      "orthographic": "",
+      "form": "ikka",
+      "note": ""
+    },
+    {
+      "gloss": "two",
+      "orthographic": "",
+      "form": "do",
+      "note": ""
+    },
+    {
+      "gloss": "three",
+      "orthographic": "",
+      "form": "tinn",
+      "note": ""
+    },
+    {
+      "gloss": "four",
+      "orthographic": "",
+      "form": "cār",
+      "note": ""
+    },
+    {
+      "gloss": "five",
+      "orthographic": "",
+      "form": "pañj",
+      "note": ""
+    },
+    {
+      "gloss": "big",
+      "orthographic": "",
+      "form": "vaḍḍā",
+      "note": ""
+    },
+    {
+      "gloss": "long",
+      "orthographic": "",
+      "form": "lammā",
+      "note": ""
+    },
+    {
+      "gloss": "wide",
+      "orthographic": "",
+      "form": "cauṛā",
+      "note": ""
+    },
+    {
+      "gloss": "thick",
+      "orthographic": "",
+      "form": "moṭā",
+      "note": ""
+    },
+    {
+      "gloss": "heavy",
+      "orthographic": "",
+      "form": "bhārī",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "choṭā",
+      "note": ""
+    },
+    {
+      "gloss": "short",
+      "orthographic": "",
+      "form": "choṭā",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "bhīṛā",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "sauṛā",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "patlā",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "aurat",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "ādamī",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "manukkha",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "inasān",
+      "note": ""
+    },
+    {
+      "gloss": "child",
+      "orthographic": "",
+      "form": "baccā",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "patnī",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "patī",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "mātā",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "pio",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "pitā",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "abbā",
+      "note": ""
+    },
+    {
+      "gloss": "animal",
+      "orthographic": "",
+      "form": "jānvar",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "macchī",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "pañchī",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "kuttā",
+      "note": ""
+    },
+    {
+      "gloss": "louse",
+      "orthographic": "",
+      "form": "jū̃",
+      "note": ""
+    },
+    {
+      "gloss": "snake",
+      "orthographic": "",
+      "form": "sappa",
+      "note": ""
+    },
+    {
+      "gloss": "worm",
+      "orthographic": "",
+      "form": "kīṛā",
+      "note": ""
+    },
+    {
+      "gloss": "tree",
+      "orthographic": "",
+      "form": "rukkha",
+      "note": ""
+    },
+    {
+      "gloss": "forest",
+      "orthographic": "",
+      "form": "jaṅgal",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "soṭī",
+      "note": ""
+    },
+    {
+      "gloss": "fruit",
+      "orthographic": "",
+      "form": "phal",
+      "note": ""
+    },
+    {
+      "gloss": "seed",
+      "orthographic": "",
+      "form": "bīj",
+      "note": ""
+    },
+    {
+      "gloss": "leaf",
+      "orthographic": "",
+      "form": "patā",
+      "note": ""
+    },
+    {
+      "gloss": "root",
+      "orthographic": "",
+      "form": "jaṛh",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "chilla",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "chāl",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "khalla",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "phulla",
+      "note": ""
+    },
+    {
+      "gloss": "grass",
+      "orthographic": "",
+      "form": "ghāh",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "rassī",
+      "note": ""
+    },
+    {
+      "gloss": "skin",
+      "orthographic": "",
+      "form": "camṛī",
+      "note": ""
+    },
+    {
+      "gloss": "meat",
+      "orthographic": "",
+      "form": "mās",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "xūn",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "lahū",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "rakat",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "haḍḍī",
+      "note": ""
+    },
+    {
+      "gloss": "fat (noun)",
+      "orthographic": "",
+      "form": "carbī",
+      "note": ""
+    },
+    {
+      "gloss": "egg",
+      "orthographic": "",
+      "form": "iṅgā",
+      "note": ""
+    },
+    {
+      "gloss": "horn",
+      "orthographic": "",
+      "form": "siṅg",
+      "note": ""
+    },
+    {
+      "gloss": "tail",
+      "orthographic": "",
+      "form": "pūch",
+      "note": ""
+    },
+    {
+      "gloss": "feather",
+      "orthographic": "",
+      "form": "pant",
+      "note": ""
+    },
+    {
+      "gloss": "hair",
+      "orthographic": "",
+      "form": "vāl",
+      "note": ""
+    },
+    {
+      "gloss": "head",
+      "orthographic": "",
+      "form": "sir",
+      "note": ""
+    },
+    {
+      "gloss": "ear",
+      "orthographic": "",
+      "form": "kann",
+      "note": ""
+    },
+    {
+      "gloss": "eye",
+      "orthographic": "",
+      "form": "akkha",
+      "note": ""
+    },
+    {
+      "gloss": "nose",
+      "orthographic": "",
+      "form": "nakka",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "mū̃h",
+      "note": ""
+    },
+    {
+      "gloss": "tooth",
+      "orthographic": "",
+      "form": "dand",
+      "note": ""
+    },
+    {
+      "gloss": "tongue (organ)",
+      "orthographic": "",
+      "form": "jībh",
+      "note": ""
+    },
+    {
+      "gloss": "fingernail",
+      "orthographic": "",
+      "form": "naṅgal",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "pair",
+      "note": ""
+    },
+    {
+      "gloss": "leg",
+      "orthographic": "",
+      "form": "latta",
+      "note": ""
+    },
+    {
+      "gloss": "knee",
+      "orthographic": "",
+      "form": "goḍe",
+      "note": ""
+    },
+    {
+      "gloss": "hand",
+      "orthographic": "",
+      "form": "hattha",
+      "note": ""
+    },
+    {
+      "gloss": "wing",
+      "orthographic": "",
+      "form": "pakkha",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "ḍhiḍḍa",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "peṭ",
+      "note": ""
+    },
+    {
+      "gloss": "guts",
+      "orthographic": "",
+      "form": "himmat",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "gardan",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "piṭṭha",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "vāpas",
+      "note": ""
+    },
+    {
+      "gloss": "breast",
+      "orthographic": "",
+      "form": "chātī",
+      "note": ""
+    },
+    {
+      "gloss": "heart",
+      "orthographic": "",
+      "form": "dil",
+      "note": ""
+    },
+    {
+      "gloss": "liver",
+      "orthographic": "",
+      "form": "jigar",
+      "note": ""
+    },
+    {
+      "gloss": "to drink",
+      "orthographic": "",
+      "form": "pīṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to eat",
+      "orthographic": "",
+      "form": "khāṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to bite",
+      "orthographic": "",
+      "form": "vaḍḍhaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to suck",
+      "orthographic": "",
+      "form": "cūsṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to spit",
+      "orthographic": "",
+      "form": "thukkaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to vomit",
+      "orthographic": "",
+      "form": "ulaṭī karnā",
+      "note": ""
+    },
+    {
+      "gloss": "to blow",
+      "orthographic": "",
+      "form": "phūkṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to breathe",
+      "orthographic": "",
+      "form": "sāh laiṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to laugh",
+      "orthographic": "",
+      "form": "hassaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to see",
+      "orthographic": "",
+      "form": "vekhṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to hear",
+      "orthographic": "",
+      "form": "suṇnā",
+      "note": ""
+    },
+    {
+      "gloss": "to know",
+      "orthographic": "",
+      "form": "jāṇnā",
+      "note": ""
+    },
+    {
+      "gloss": "to think",
+      "orthographic": "",
+      "form": "socṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "suṅghṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "ḍarnā",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "sauṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to live",
+      "orthographic": "",
+      "form": "jiūṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to die",
+      "orthographic": "",
+      "form": "marnā",
+      "note": ""
+    },
+    {
+      "gloss": "to kill",
+      "orthographic": "",
+      "form": "mārnā",
+      "note": ""
+    },
+    {
+      "gloss": "to fight",
+      "orthographic": "",
+      "form": "laṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to hunt",
+      "orthographic": "",
+      "form": "ṭolṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to hit",
+      "orthographic": "",
+      "form": "jaṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to cut",
+      "orthographic": "",
+      "form": "kaṭṭaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to split",
+      "orthographic": "",
+      "form": "pāṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to stab",
+      "orthographic": "",
+      "form": "khobhṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to scratch",
+      "orthographic": "",
+      "form": "gharūṇḍṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to dig",
+      "orthographic": "",
+      "form": "puṭṭaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to swim",
+      "orthographic": "",
+      "form": "tairnā",
+      "note": ""
+    },
+    {
+      "gloss": "to fly",
+      "orthographic": "",
+      "form": "uḍḍaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to walk",
+      "orthographic": "",
+      "form": "turnā",
+      "note": ""
+    },
+    {
+      "gloss": "to come",
+      "orthographic": "",
+      "form": "āuṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to lie (as in a bed)",
+      "orthographic": "",
+      "form": "leṭṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to lie (as in a bed)",
+      "orthographic": "",
+      "form": "paiṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to sit",
+      "orthographic": "",
+      "form": "bahiṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to stand",
+      "orthographic": "",
+      "form": "khaṛhnā",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": "muṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to fall",
+      "orthographic": "",
+      "form": "ḍiggaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to give",
+      "orthographic": "",
+      "form": "deṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to hold",
+      "orthographic": "",
+      "form": "phaṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to squeeze",
+      "orthographic": "",
+      "form": "nacoṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "to rub",
+      "orthographic": "",
+      "form": "maḷnā",
+      "note": ""
+    },
+    {
+      "gloss": "to wash",
+      "orthographic": "",
+      "form": "dhoṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to wipe",
+      "orthographic": "",
+      "form": "hūñjhṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to pull",
+      "orthographic": "",
+      "form": "khiccaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "dhakkaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to throw",
+      "orthographic": "",
+      "form": "suṭṭaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to tie",
+      "orthographic": "",
+      "form": "bannhṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to sew",
+      "orthographic": "",
+      "form": "siū̃ṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to count",
+      "orthographic": "",
+      "form": "giṇnā",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "ākhaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to sing",
+      "orthographic": "",
+      "form": "gāuṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to play",
+      "orthographic": "",
+      "form": "kheḍṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to float",
+      "orthographic": "",
+      "form": "tārnā",
+      "note": ""
+    },
+    {
+      "gloss": "to flow",
+      "orthographic": "",
+      "form": "vagṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to freeze",
+      "orthographic": "",
+      "form": "jammṇā",
+      "note": ""
+    },
+    {
+      "gloss": "to swell",
+      "orthographic": "",
+      "form": "sujjaṇā",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "sūraj",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": "cand",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": "tārā",
+      "note": ""
+    },
+    {
+      "gloss": "water",
+      "orthographic": "",
+      "form": "pāṇī",
+      "note": ""
+    },
+    {
+      "gloss": "rain",
+      "orthographic": "",
+      "form": "bāriś",
+      "note": ""
+    },
+    {
+      "gloss": "river",
+      "orthographic": "",
+      "form": "nadī",
+      "note": ""
+    },
+    {
+      "gloss": "lake",
+      "orthographic": "",
+      "form": "jhīl",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "samundar",
+      "note": ""
+    },
+    {
+      "gloss": "salt",
+      "orthographic": "",
+      "form": "lūṇ",
+      "note": ""
+    },
+    {
+      "gloss": "stone",
+      "orthographic": "",
+      "form": "patthar",
+      "note": ""
+    },
+    {
+      "gloss": "sand",
+      "orthographic": "",
+      "form": "ret",
+      "note": ""
+    },
+    {
+      "gloss": "dust",
+      "orthographic": "",
+      "form": "dhūṛ",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "zamīn",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "dhartī",
+      "note": ""
+    },
+    {
+      "gloss": "cloud",
+      "orthographic": "",
+      "form": "baddal",
+      "note": ""
+    },
+    {
+      "gloss": "fog",
+      "orthographic": "",
+      "form": "kohrā",
+      "note": ""
+    },
+    {
+      "gloss": "fog",
+      "orthographic": "",
+      "form": "dhund",
+      "note": ""
+    },
+    {
+      "gloss": "sky",
+      "orthographic": "",
+      "form": "asamān",
+      "note": ""
+    },
+    {
+      "gloss": "wind",
+      "orthographic": "",
+      "form": "havā",
+      "note": ""
+    },
+    {
+      "gloss": "snow",
+      "orthographic": "",
+      "form": "baraf",
+      "note": ""
+    },
+    {
+      "gloss": "ice",
+      "orthographic": "",
+      "form": "baraf",
+      "note": ""
+    },
+    {
+      "gloss": "smoke",
+      "orthographic": "",
+      "form": "dhū̃ā̃",
+      "note": ""
+    },
+    {
+      "gloss": "fire",
+      "orthographic": "",
+      "form": "agga",
+      "note": ""
+    },
+    {
+      "gloss": "ash",
+      "orthographic": "",
+      "form": "suāha",
+      "note": ""
+    },
+    {
+      "gloss": "ash",
+      "orthographic": "",
+      "form": "rākh",
+      "note": ""
+    },
+    {
+      "gloss": "to burn",
+      "orthographic": "",
+      "form": "sāṛnā",
+      "note": ""
+    },
+    {
+      "gloss": "road",
+      "orthographic": "",
+      "form": "saṛak",
+      "note": ""
+    },
+    {
+      "gloss": "mountain",
+      "orthographic": "",
+      "form": "pahāṛ",
+      "note": ""
+    },
+    {
+      "gloss": "red",
+      "orthographic": "",
+      "form": "lāl",
+      "note": ""
+    },
+    {
+      "gloss": "green",
+      "orthographic": "",
+      "form": "harā",
+      "note": ""
+    },
+    {
+      "gloss": "yellow",
+      "orthographic": "",
+      "form": "pīlā",
+      "note": ""
+    },
+    {
+      "gloss": "white",
+      "orthographic": "",
+      "form": "safaid",
+      "note": ""
+    },
+    {
+      "gloss": "white",
+      "orthographic": "",
+      "form": "ciṭṭā",
+      "note": ""
+    },
+    {
+      "gloss": "black",
+      "orthographic": "",
+      "form": "kālā",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "rāt",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "hanerā",
+      "note": ""
+    },
+    {
+      "gloss": "day",
+      "orthographic": "",
+      "form": "din",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "sāl",
+      "note": ""
+    },
+    {
+      "gloss": "warm",
+      "orthographic": "",
+      "form": "garam",
+      "note": ""
+    },
+    {
+      "gloss": "cold",
+      "orthographic": "",
+      "form": "ṭhaṇḍā",
+      "note": ""
+    },
+    {
+      "gloss": "full",
+      "orthographic": "",
+      "form": "pūrā",
+      "note": ""
+    },
+    {
+      "gloss": "new",
+      "orthographic": "",
+      "form": "navā̃",
+      "note": ""
+    },
+    {
+      "gloss": "old",
+      "orthographic": "",
+      "form": "purāṇā",
+      "note": ""
+    },
+    {
+      "gloss": "good",
+      "orthographic": "",
+      "form": "caṅgā",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "burā",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "xarāb",
+      "note": ""
+    },
+    {
+      "gloss": "rotten",
+      "orthographic": "",
+      "form": "saṛiā",
+      "note": ""
+    },
+    {
+      "gloss": "dirty",
+      "orthographic": "",
+      "form": "gandā",
+      "note": ""
+    },
+    {
+      "gloss": "straight",
+      "orthographic": "",
+      "form": "siddhā",
+      "note": ""
+    },
+    {
+      "gloss": "round",
+      "orthographic": "",
+      "form": "gol",
+      "note": ""
+    },
+    {
+      "gloss": "sharp (as a knife)",
+      "orthographic": "",
+      "form": "tez",
+      "note": ""
+    },
+    {
+      "gloss": "dull (as a knife)",
+      "orthographic": "",
+      "form": "khuṇḍhā",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "kūḷā",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "ciknā",
+      "note": ""
+    },
+    {
+      "gloss": "wet",
+      "orthographic": "",
+      "form": "bhijja",
+      "note": ""
+    },
+    {
+      "gloss": "dry",
+      "orthographic": "",
+      "form": "sukkā",
+      "note": ""
+    },
+    {
+      "gloss": "correct",
+      "orthographic": "",
+      "form": "sahī",
+      "note": ""
+    },
+    {
+      "gloss": "near",
+      "orthographic": "",
+      "form": "koḷ",
+      "note": ""
+    },
+    {
+      "gloss": "near",
+      "orthographic": "",
+      "form": "neṛe",
+      "note": ""
+    },
+    {
+      "gloss": "far",
+      "orthographic": "",
+      "form": "dūr",
+      "note": ""
+    },
+    {
+      "gloss": "right",
+      "orthographic": "",
+      "form": "sajjā",
+      "note": ""
+    },
+    {
+      "gloss": "left",
+      "orthographic": "",
+      "form": "khabbā",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "utte",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "'te",
+      "note": ""
+    },
+    {
+      "gloss": "in",
+      "orthographic": "",
+      "form": "vicca",
+      "note": ""
+    },
+    {
+      "gloss": "with",
+      "orthographic": "",
+      "form": "nāl",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "ate",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "te",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "je",
+      "note": ""
+    },
+    {
+      "gloss": "because",
+      "orthographic": "",
+      "form": "kiuṅki",
+      "note": ""
+    },
+    {
+      "gloss": "name",
+      "orthographic": "",
+      "form": "nām",
+      "note": ""
+    },
+    {
+      "gloss": "name",
+      "orthographic": "",
+      "form": "nā",
+      "note": ""
+    }
+  ]
+}

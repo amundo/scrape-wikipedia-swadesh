@@ -1,0 +1,1765 @@
+{
+  "metadata": {
+    "title": "Telugu Swadesh list",
+    "language": "Telugu",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:Telugu_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": [
+    {
+      "gloss": "I (1sg)",
+      "orthographic": "",
+      "form": "nēnu",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "nuvvu",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "nīvu",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "ataḍu",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "atanu",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "vāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "vāru",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "manamu",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "mēmu",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "mīru",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "vāḷḷu",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "avi",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "idi",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "adi",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "ikkaḍa",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "iccaṭa",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "īḍa",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "akkaḍa",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "accaṭa",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "āḍa",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "evaru",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "ēmiṭi",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "ēṇṭi",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "ekkaḍa",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "eccaṭa",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "ēḍa",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "eppuḍu",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "elā",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "eṭlā",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "kādu",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "lēdu",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "andaru",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "annī",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "mottamu",
+      "note": ""
+    },
+    {
+      "gloss": "many",
+      "orthographic": "",
+      "form": "cālā",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "kondaru",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "konni",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "konta",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "konni",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "vērē",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "itara",
+      "note": ""
+    },
+    {
+      "gloss": "one",
+      "orthographic": "",
+      "form": "okaṭi",
+      "note": ""
+    },
+    {
+      "gloss": "two",
+      "orthographic": "",
+      "form": "reṇḍu",
+      "note": ""
+    },
+    {
+      "gloss": "three",
+      "orthographic": "",
+      "form": "mūḍu",
+      "note": ""
+    },
+    {
+      "gloss": "four",
+      "orthographic": "",
+      "form": "nālugu",
+      "note": ""
+    },
+    {
+      "gloss": "five",
+      "orthographic": "",
+      "form": "aidu",
+      "note": ""
+    },
+    {
+      "gloss": "big",
+      "orthographic": "",
+      "form": "pedda",
+      "note": ""
+    },
+    {
+      "gloss": "long",
+      "orthographic": "",
+      "form": "poḍavaina",
+      "note": ""
+    },
+    {
+      "gloss": "wide",
+      "orthographic": "",
+      "form": "veḍalpaina",
+      "note": ""
+    },
+    {
+      "gloss": "thick",
+      "orthographic": "",
+      "form": "mandamaina",
+      "note": ""
+    },
+    {
+      "gloss": "thick",
+      "orthographic": "",
+      "form": "cikkani",
+      "note": ""
+    },
+    {
+      "gloss": "heavy",
+      "orthographic": "",
+      "form": "baruvaina",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "cinna",
+      "note": ""
+    },
+    {
+      "gloss": "short",
+      "orthographic": "",
+      "form": "poṭṭi",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "irukaina",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "sannani",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "sannani",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "palucani",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "āḍadi",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "strī",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "mahiḷa",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "magavāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "puruṣuḍu",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "maniṣi",
+      "note": ""
+    },
+    {
+      "gloss": "child",
+      "orthographic": "",
+      "form": "pilla",
+      "note": ""
+    },
+    {
+      "gloss": "child",
+      "orthographic": "",
+      "form": "pillavāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "peḷḷāṁ",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "bhārya",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "āli",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "moguḍu",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "bharta",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "penimiṭi",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "amma",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "talli",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "nānna",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "taṇḍri",
+      "note": ""
+    },
+    {
+      "gloss": "animal",
+      "orthographic": "",
+      "form": "jantuvu",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "cēpa",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "pakṣi",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "piṭṭa",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "kukka",
+      "note": ""
+    },
+    {
+      "gloss": "louse",
+      "orthographic": "",
+      "form": "pēnu",
+      "note": ""
+    },
+    {
+      "gloss": "snake",
+      "orthographic": "",
+      "form": "pāmu",
+      "note": ""
+    },
+    {
+      "gloss": "worm",
+      "orthographic": "",
+      "form": "purugu",
+      "note": ""
+    },
+    {
+      "gloss": "tree",
+      "orthographic": "",
+      "form": "ceṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "forest",
+      "orthographic": "",
+      "form": "aḍavi",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "karra",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "kaṭṭe",
+      "note": ""
+    },
+    {
+      "gloss": "fruit",
+      "orthographic": "",
+      "form": "paṇḍu",
+      "note": ""
+    },
+    {
+      "gloss": "fruit",
+      "orthographic": "",
+      "form": "phalamu",
+      "note": ""
+    },
+    {
+      "gloss": "seed",
+      "orthographic": "",
+      "form": "vittanaṁ",
+      "note": ""
+    },
+    {
+      "gloss": "leaf",
+      "orthographic": "",
+      "form": "āku",
+      "note": ""
+    },
+    {
+      "gloss": "root",
+      "orthographic": "",
+      "form": "vēru",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "beraḍu",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "puvvu",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "puṣpamu",
+      "note": ""
+    },
+    {
+      "gloss": "grass",
+      "orthographic": "",
+      "form": "gaḍḍi",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "tāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "mōku",
+      "note": ""
+    },
+    {
+      "gloss": "skin",
+      "orthographic": "",
+      "form": "tōlu",
+      "note": ""
+    },
+    {
+      "gloss": "skin",
+      "orthographic": "",
+      "form": "carmamu",
+      "note": ""
+    },
+    {
+      "gloss": "meat",
+      "orthographic": "",
+      "form": "māṁsaṁ",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "raktamu",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": " netturu",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "emuka",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "bomike",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "bokka",
+      "note": ""
+    },
+    {
+      "gloss": "fat (noun)",
+      "orthographic": "",
+      "form": "kovvu",
+      "note": ""
+    },
+    {
+      "gloss": "egg",
+      "orthographic": "",
+      "form": "guḍḍu",
+      "note": ""
+    },
+    {
+      "gloss": "horn",
+      "orthographic": "",
+      "form": "kommu",
+      "note": ""
+    },
+    {
+      "gloss": "tail",
+      "orthographic": "",
+      "form": "tōka",
+      "note": ""
+    },
+    {
+      "gloss": "feather",
+      "orthographic": "",
+      "form": "īka",
+      "note": ""
+    },
+    {
+      "gloss": "hair",
+      "orthographic": "",
+      "form": "veṇṭrukalu",
+      "note": ""
+    },
+    {
+      "gloss": "hair",
+      "orthographic": "",
+      "form": "juṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "head",
+      "orthographic": "",
+      "form": "tala",
+      "note": ""
+    },
+    {
+      "gloss": "ear",
+      "orthographic": "",
+      "form": "cevi",
+      "note": ""
+    },
+    {
+      "gloss": "eye",
+      "orthographic": "",
+      "form": "kannu",
+      "note": ""
+    },
+    {
+      "gloss": "eye",
+      "orthographic": "",
+      "form": "nētraṁ",
+      "note": ""
+    },
+    {
+      "gloss": "nose",
+      "orthographic": "",
+      "form": "mukku",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "nōru",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "mūti",
+      "note": ""
+    },
+    {
+      "gloss": "tooth",
+      "orthographic": "",
+      "form": "pannu",
+      "note": ""
+    },
+    {
+      "gloss": "tongue (organ)",
+      "orthographic": "",
+      "form": "nāluka",
+      "note": ""
+    },
+    {
+      "gloss": "fingernail",
+      "orthographic": "",
+      "form": "gōru",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "pādamu",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "aḍugu",
+      "note": ""
+    },
+    {
+      "gloss": "leg",
+      "orthographic": "",
+      "form": "kālu",
+      "note": ""
+    },
+    {
+      "gloss": "knee",
+      "orthographic": "",
+      "form": "mōkālu",
+      "note": ""
+    },
+    {
+      "gloss": "hand",
+      "orthographic": "",
+      "form": "ceyyi",
+      "note": ""
+    },
+    {
+      "gloss": "hand",
+      "orthographic": "",
+      "form": "cēyi",
+      "note": ""
+    },
+    {
+      "gloss": "wing",
+      "orthographic": "",
+      "form": "rekka",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "poṭṭa",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "kaḍupu",
+      "note": ""
+    },
+    {
+      "gloss": "guts",
+      "orthographic": "",
+      "form": "pēgulu",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "meḍa",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "kaṇṭhaṁ",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "vīpu",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "vennu",
+      "note": ""
+    },
+    {
+      "gloss": "breast",
+      "orthographic": "",
+      "form": "cannu",
+      "note": ""
+    },
+    {
+      "gloss": "breast",
+      "orthographic": "",
+      "form": "stanamu",
+      "note": ""
+    },
+    {
+      "gloss": "heart",
+      "orthographic": "",
+      "form": "guṇḍe",
+      "note": ""
+    },
+    {
+      "gloss": "liver",
+      "orthographic": "",
+      "form": "kālēyaṁ",
+      "note": ""
+    },
+    {
+      "gloss": "to drink",
+      "orthographic": "",
+      "form": "tāgu",
+      "note": ""
+    },
+    {
+      "gloss": "to eat",
+      "orthographic": "",
+      "form": "tinu",
+      "note": ""
+    },
+    {
+      "gloss": "to bite",
+      "orthographic": "",
+      "form": "koruku",
+      "note": ""
+    },
+    {
+      "gloss": "to bite",
+      "orthographic": "",
+      "form": "karacu",
+      "note": ""
+    },
+    {
+      "gloss": "to suck",
+      "orthographic": "",
+      "form": "cīku",
+      "note": ""
+    },
+    {
+      "gloss": "to spit",
+      "orthographic": "",
+      "form": "ummu",
+      "note": ""
+    },
+    {
+      "gloss": "to vomit",
+      "orthographic": "",
+      "form": "kakku",
+      "note": ""
+    },
+    {
+      "gloss": "to blow",
+      "orthographic": "",
+      "form": "ūdu",
+      "note": ""
+    },
+    {
+      "gloss": "to blow",
+      "orthographic": "",
+      "form": "vīcu",
+      "note": ""
+    },
+    {
+      "gloss": "to breathe",
+      "orthographic": "",
+      "form": "ūpiri pīlcu",
+      "note": ""
+    },
+    {
+      "gloss": "to laugh",
+      "orthographic": "",
+      "form": "navvu",
+      "note": ""
+    },
+    {
+      "gloss": "to see",
+      "orthographic": "",
+      "form": "cūcu",
+      "note": ""
+    },
+    {
+      "gloss": "to hear",
+      "orthographic": "",
+      "form": "vinu",
+      "note": ""
+    },
+    {
+      "gloss": "to know",
+      "orthographic": "",
+      "form": "telusukonu",
+      "note": ""
+    },
+    {
+      "gloss": "to know",
+      "orthographic": "",
+      "form": "erugu",
+      "note": ""
+    },
+    {
+      "gloss": "to think",
+      "orthographic": "",
+      "form": "ālōciñcu",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "vāsana cūcu",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "mūccūcu",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "beduru",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "bhayapaḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "kunuku",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "tūgu",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "nidra pōvu",
+      "note": ""
+    },
+    {
+      "gloss": "to live",
+      "orthographic": "",
+      "form": "batuku",
+      "note": ""
+    },
+    {
+      "gloss": "to die",
+      "orthographic": "",
+      "form": "caccu",
+      "note": ""
+    },
+    {
+      "gloss": "to kill",
+      "orthographic": "",
+      "form": "campu",
+      "note": ""
+    },
+    {
+      "gloss": "to fight",
+      "orthographic": "",
+      "form": "pōrāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to hunt",
+      "orthographic": "",
+      "form": "vēṭāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to hit",
+      "orthographic": "",
+      "form": "koṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "to cut",
+      "orthographic": "",
+      "form": "kōyu",
+      "note": ""
+    },
+    {
+      "gloss": "to split",
+      "orthographic": "",
+      "form": "cīlcu",
+      "note": ""
+    },
+    {
+      "gloss": "to stab",
+      "orthographic": "",
+      "form": "poḍucu",
+      "note": ""
+    },
+    {
+      "gloss": "to stab",
+      "orthographic": "",
+      "form": "kuccu /kuɕːu/",
+      "note": ""
+    },
+    {
+      "gloss": "to scratch",
+      "orthographic": "",
+      "form": "gīru",
+      "note": ""
+    },
+    {
+      "gloss": "to dig",
+      "orthographic": "",
+      "form": "tavvu",
+      "note": ""
+    },
+    {
+      "gloss": "to swim",
+      "orthographic": "",
+      "form": "īdu",
+      "note": ""
+    },
+    {
+      "gloss": "to fly",
+      "orthographic": "",
+      "form": "eguru",
+      "note": ""
+    },
+    {
+      "gloss": "to fly",
+      "orthographic": "",
+      "form": " egaravēyu",
+      "note": ""
+    },
+    {
+      "gloss": "to walk",
+      "orthographic": "",
+      "form": "naḍucu",
+      "note": ""
+    },
+    {
+      "gloss": "to come",
+      "orthographic": "",
+      "form": "vaccu",
+      "note": ""
+    },
+    {
+      "gloss": "to lie (as in a bed)",
+      "orthographic": "",
+      "form": "paḍukonu",
+      "note": ""
+    },
+    {
+      "gloss": "to sit",
+      "orthographic": "",
+      "form": "kūrconu",
+      "note": ""
+    },
+    {
+      "gloss": "to stand",
+      "orthographic": "",
+      "form": "niluconu",
+      "note": ""
+    },
+    {
+      "gloss": "to stand",
+      "orthographic": "",
+      "form": "nilabaḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": "tippu",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": " tirugu",
+      "note": ""
+    },
+    {
+      "gloss": "to fall",
+      "orthographic": "",
+      "form": "paḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to give",
+      "orthographic": "",
+      "form": "iccu",
+      "note": ""
+    },
+    {
+      "gloss": "to hold",
+      "orthographic": "",
+      "form": "paṭṭukonu",
+      "note": ""
+    },
+    {
+      "gloss": "to squeeze",
+      "orthographic": "",
+      "form": "pisuku",
+      "note": ""
+    },
+    {
+      "gloss": "to rub",
+      "orthographic": "",
+      "form": "ruddu",
+      "note": ""
+    },
+    {
+      "gloss": "to wash",
+      "orthographic": "",
+      "form": "kaḍugu",
+      "note": ""
+    },
+    {
+      "gloss": "to wipe",
+      "orthographic": "",
+      "form": "tuḍucu",
+      "note": ""
+    },
+    {
+      "gloss": "to pull",
+      "orthographic": "",
+      "form": "lāgu",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "neṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "tōyu",
+      "note": ""
+    },
+    {
+      "gloss": "to throw",
+      "orthographic": "",
+      "form": "visuru",
+      "note": ""
+    },
+    {
+      "gloss": "to tie",
+      "orthographic": "",
+      "form": "kaṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "to sew",
+      "orthographic": "",
+      "form": "kuṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "to count",
+      "orthographic": "",
+      "form": "lekkiñcu",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "ceppu",
+      "note": ""
+    },
+    {
+      "gloss": "to sing",
+      "orthographic": "",
+      "form": "pāḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to play",
+      "orthographic": "",
+      "form": "āḍu",
+      "note": ""
+    },
+    {
+      "gloss": "to float",
+      "orthographic": "",
+      "form": "tēlu",
+      "note": ""
+    },
+    {
+      "gloss": "to flow",
+      "orthographic": "",
+      "form": "pāru",
+      "note": ""
+    },
+    {
+      "gloss": "to freeze",
+      "orthographic": "",
+      "form": "gaḍḍakaṭṭu",
+      "note": ""
+    },
+    {
+      "gloss": "to swell",
+      "orthographic": "",
+      "form": "vācu",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "sūryuḍu",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "poddu",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": "candruḍu",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": "candamāma",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": " nelavēlpu",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": "nakṣatraṁ",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": "tāra",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": " cukka",
+      "note": ""
+    },
+    {
+      "gloss": "water",
+      "orthographic": "",
+      "form": "nīru",
+      "note": ""
+    },
+    {
+      "gloss": "rain",
+      "orthographic": "",
+      "form": "kuriyu",
+      "note": ""
+    },
+    {
+      "gloss": "rain",
+      "orthographic": "",
+      "form": "varṣiñcu",
+      "note": ""
+    },
+    {
+      "gloss": "river",
+      "orthographic": "",
+      "form": "nadi",
+      "note": ""
+    },
+    {
+      "gloss": "lake",
+      "orthographic": "",
+      "form": "sarassu",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "samudraṁ",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "kaḍali",
+      "note": ""
+    },
+    {
+      "gloss": "salt",
+      "orthographic": "",
+      "form": "uppu",
+      "note": ""
+    },
+    {
+      "gloss": "stone",
+      "orthographic": "",
+      "form": "rāyi",
+      "note": ""
+    },
+    {
+      "gloss": "sand",
+      "orthographic": "",
+      "form": "isuka",
+      "note": ""
+    },
+    {
+      "gloss": "dust",
+      "orthographic": "",
+      "form": "dummu",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "mannu",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "maṭṭi",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "nēla",
+      "note": ""
+    },
+    {
+      "gloss": "cloud",
+      "orthographic": "",
+      "form": "mabbu",
+      "note": ""
+    },
+    {
+      "gloss": "fog",
+      "orthographic": "",
+      "form": "pogamañcu",
+      "note": ""
+    },
+    {
+      "gloss": "sky",
+      "orthographic": "",
+      "form": "niṅgi",
+      "note": ""
+    },
+    {
+      "gloss": "sky",
+      "orthographic": "",
+      "form": "ākāśaṁ",
+      "note": ""
+    },
+    {
+      "gloss": "wind",
+      "orthographic": "",
+      "form": "gāli",
+      "note": ""
+    },
+    {
+      "gloss": "snow",
+      "orthographic": "",
+      "form": "mañcu",
+      "note": ""
+    },
+    {
+      "gloss": "ice",
+      "orthographic": "",
+      "form": "gaḍḍamañcu",
+      "note": ""
+    },
+    {
+      "gloss": "smoke",
+      "orthographic": "",
+      "form": "poga",
+      "note": ""
+    },
+    {
+      "gloss": "fire",
+      "orthographic": "",
+      "form": "maṇṭa",
+      "note": ""
+    },
+    {
+      "gloss": "fire",
+      "orthographic": "",
+      "form": "nippu",
+      "note": ""
+    },
+    {
+      "gloss": "ash",
+      "orthographic": "",
+      "form": "būḍida",
+      "note": ""
+    },
+    {
+      "gloss": "to burn",
+      "orthographic": "",
+      "form": "kālu",
+      "note": ""
+    },
+    {
+      "gloss": "to burn",
+      "orthographic": "",
+      "form": " maṇḍu",
+      "note": ""
+    },
+    {
+      "gloss": "road",
+      "orthographic": "",
+      "form": "bāṭa",
+      "note": ""
+    },
+    {
+      "gloss": "mountain",
+      "orthographic": "",
+      "form": "koṇḍa",
+      "note": ""
+    },
+    {
+      "gloss": "red",
+      "orthographic": "",
+      "form": "erra",
+      "note": ""
+    },
+    {
+      "gloss": "green",
+      "orthographic": "",
+      "form": "pacca",
+      "note": ""
+    },
+    {
+      "gloss": "yellow",
+      "orthographic": "",
+      "form": "pasupu",
+      "note": ""
+    },
+    {
+      "gloss": "white",
+      "orthographic": "",
+      "form": "tella",
+      "note": ""
+    },
+    {
+      "gloss": "black",
+      "orthographic": "",
+      "form": "nalla",
+      "note": ""
+    },
+    {
+      "gloss": "black",
+      "orthographic": "",
+      "form": "karri",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "rēyi",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "rātri",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "māpu",
+      "note": ""
+    },
+    {
+      "gloss": "day",
+      "orthographic": "",
+      "form": "pagalu",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "yēḍu",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "yēḍādi",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "saṁvatsaraṁ",
+      "note": ""
+    },
+    {
+      "gloss": "warm",
+      "orthographic": "",
+      "form": "veccani",
+      "note": ""
+    },
+    {
+      "gloss": "cold",
+      "orthographic": "",
+      "form": "callani",
+      "note": ""
+    },
+    {
+      "gloss": "full",
+      "orthographic": "",
+      "form": "niṇḍu",
+      "note": ""
+    },
+    {
+      "gloss": "new",
+      "orthographic": "",
+      "form": "kotta",
+      "note": ""
+    },
+    {
+      "gloss": "old",
+      "orthographic": "",
+      "form": "pāta",
+      "note": ""
+    },
+    {
+      "gloss": "good",
+      "orthographic": "",
+      "form": "mañci",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "ceḍḍa",
+      "note": ""
+    },
+    {
+      "gloss": "rotten",
+      "orthographic": "",
+      "form": "kuḷḷina",
+      "note": ""
+    },
+    {
+      "gloss": "rotten",
+      "orthographic": "",
+      "form": "ceḍina",
+      "note": ""
+    },
+    {
+      "gloss": "dirty",
+      "orthographic": "",
+      "form": "murikaina",
+      "note": ""
+    },
+    {
+      "gloss": "straight",
+      "orthographic": "",
+      "form": "nēru",
+      "note": ""
+    },
+    {
+      "gloss": "round",
+      "orthographic": "",
+      "form": "guṇḍrani",
+      "note": ""
+    },
+    {
+      "gloss": "sharp (as a knife)",
+      "orthographic": "",
+      "form": "padunaina",
+      "note": ""
+    },
+    {
+      "gloss": "dull (as a knife)",
+      "orthographic": "",
+      "form": "moṇḍi",
+      "note": ""
+    },
+    {
+      "gloss": "dull (as a knife)",
+      "orthographic": "",
+      "form": "moddaina",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "nunnani",
+      "note": ""
+    },
+    {
+      "gloss": "wet",
+      "orthographic": "",
+      "form": "taḍi",
+      "note": ""
+    },
+    {
+      "gloss": "dry",
+      "orthographic": "",
+      "form": "poḍi",
+      "note": ""
+    },
+    {
+      "gloss": "dry",
+      "orthographic": "",
+      "form": "eṇḍu",
+      "note": ""
+    },
+    {
+      "gloss": "correct",
+      "orthographic": "",
+      "form": "saraina",
+      "note": ""
+    },
+    {
+      "gloss": "near",
+      "orthographic": "",
+      "form": "daggara",
+      "note": ""
+    },
+    {
+      "gloss": "far",
+      "orthographic": "",
+      "form": "dūraṁ",
+      "note": ""
+    },
+    {
+      "gloss": "right",
+      "orthographic": "",
+      "form": "kuḍi",
+      "note": ""
+    },
+    {
+      "gloss": "left",
+      "orthographic": "",
+      "form": "eḍama",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "-vadda",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "-vaipu",
+      "note": ""
+    },
+    {
+      "gloss": "in",
+      "orthographic": "",
+      "form": "-lō",
+      "note": ""
+    },
+    {
+      "gloss": "with",
+      "orthographic": "",
+      "form": "-tō",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "mariyu",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "-itē",
+      "note": ""
+    },
+    {
+      "gloss": "because",
+      "orthographic": "",
+      "form": "-valla",
+      "note": ""
+    },
+    {
+      "gloss": "because",
+      "orthographic": "",
+      "form": "endukaṇṭē",
+      "note": ""
+    },
+    {
+      "gloss": "name",
+      "orthographic": "",
+      "form": "pēru",
+      "note": ""
+    }
+  ]
+}

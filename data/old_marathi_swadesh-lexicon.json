@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "title": "Old Marathi Swadesh list",
+    "language": "Old Marathi",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:Old_Marathi_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": [
+    {
+      "gloss": "I (1sg)",
+      "orthographic": "",
+      "form": "mī",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "tuṃ",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "to",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "tyo",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "āmīṃ",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "āmhī",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "tumhe",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "tumhīṃ",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "te",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "tīyā",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "hā",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "he",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "heṃ",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "to",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "tī",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "teṃ",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "etha",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "tetha",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "tekaḍe",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "kavaṇa",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "kavhaṇa",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "koṇa",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "koṇha",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "kāī",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "kāya",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "kāye",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "koṭhe",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kaīṃ",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "keṃvhā",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kaiṃ",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kedhavāṃ",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "kaisa",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "kaisenī",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "nāhī",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "nāhīṃ",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sakaḷa",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sakaḷai",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sagaḷa",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sakaḷīka",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "sakaḷaika",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "lahāṇā",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "lahānā",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "lahānāla",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "lāna",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "pātaḷa",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "mānusa",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "māsā",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "macha",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "maccha",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "pākhīruṃ",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "pakṣī",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "kutīrā",
+      "note": ""
+    },
+    {
+      "gloss": "snake",
+      "orthographic": "",
+      "form": "sāpa",
+      "note": ""
+    },
+    {
+      "gloss": "tree",
+      "orthographic": "",
+      "form": "jhāḍa",
+      "note": ""
+    },
+    {
+      "gloss": "leaf",
+      "orthographic": "",
+      "form": "pāna",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "phula",
+      "note": ""
+    },
+    {
+      "gloss": "grass",
+      "orthographic": "",
+      "form": "gavata",
+      "note": ""
+    },
+    {
+      "gloss": "meat",
+      "orthographic": "",
+      "form": "mauṃsa",
+      "note": ""
+    },
+    {
+      "gloss": "horn",
+      "orthographic": "",
+      "form": "siṃga",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "toṃḍa",
+      "note": ""
+    },
+    {
+      "gloss": "tooth",
+      "orthographic": "",
+      "form": "dāṃta",
+      "note": ""
+    },
+    {
+      "gloss": "tongue (organ)",
+      "orthographic": "",
+      "form": "jībha",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "pāula",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "poṭa",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "gaḷā",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "pāṭa",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "pāṭhī",
+      "note": ""
+    }
+  ]
+}

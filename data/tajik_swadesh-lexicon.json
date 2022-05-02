@@ -1,0 +1,1339 @@
+{
+  "metadata": {
+    "title": "Tajik Swadesh list",
+    "language": "Tajik",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:Tajik_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": [
+    {
+      "gloss": "I (1sg)",
+      "orthographic": "",
+      "form": "man",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "tu",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "ü",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "vay",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "mo",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "šumo",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "onho",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "in",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "on",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "injo",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "onjo",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "kī",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "čī",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "kujo",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kay",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "čixel",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "na",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "hama",
+      "note": ""
+    },
+    {
+      "gloss": "many",
+      "orthographic": "",
+      "form": "bisyor",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "yagon",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "kam",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "digar",
+      "note": ""
+    },
+    {
+      "gloss": "one",
+      "orthographic": "",
+      "form": "yak",
+      "note": ""
+    },
+    {
+      "gloss": "two",
+      "orthographic": "",
+      "form": "du",
+      "note": ""
+    },
+    {
+      "gloss": "three",
+      "orthographic": "",
+      "form": "se",
+      "note": ""
+    },
+    {
+      "gloss": "four",
+      "orthographic": "",
+      "form": "čor",
+      "note": ""
+    },
+    {
+      "gloss": "five",
+      "orthographic": "",
+      "form": "panj",
+      "note": ""
+    },
+    {
+      "gloss": "big",
+      "orthographic": "",
+      "form": "kalon",
+      "note": ""
+    },
+    {
+      "gloss": "long",
+      "orthographic": "",
+      "form": "daroz",
+      "note": ""
+    },
+    {
+      "gloss": "wide",
+      "orthographic": "",
+      "form": "farox",
+      "note": ""
+    },
+    {
+      "gloss": "thick",
+      "orthographic": "",
+      "form": "ġafs",
+      "note": ""
+    },
+    {
+      "gloss": "heavy",
+      "orthographic": "",
+      "form": "vaznin",
+      "note": ""
+    },
+    {
+      "gloss": "heavy",
+      "orthographic": "",
+      "form": "sangin",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "xurd",
+      "note": ""
+    },
+    {
+      "gloss": "short",
+      "orthographic": "",
+      "form": "kütoh",
+      "note": ""
+    },
+    {
+      "gloss": "short",
+      "orthographic": "",
+      "form": "past",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "tang",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "tunuk",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "zan",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "mard",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "inson",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "odam",
+      "note": ""
+    },
+    {
+      "gloss": "child",
+      "orthographic": "",
+      "form": "küdak",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "zan",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "šavhar",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "modar",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "padar",
+      "note": ""
+    },
+    {
+      "gloss": "animal",
+      "orthographic": "",
+      "form": "jonvar",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "mohī",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "parranda",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "sag",
+      "note": ""
+    },
+    {
+      "gloss": "louse",
+      "orthographic": "",
+      "form": "šipiš",
+      "note": ""
+    },
+    {
+      "gloss": "snake",
+      "orthographic": "",
+      "form": "mor",
+      "note": ""
+    },
+    {
+      "gloss": "worm",
+      "orthographic": "",
+      "form": "kirm",
+      "note": ""
+    },
+    {
+      "gloss": "tree",
+      "orthographic": "",
+      "form": "daraxt",
+      "note": ""
+    },
+    {
+      "gloss": "forest",
+      "orthographic": "",
+      "form": "beša",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "čüb",
+      "note": ""
+    },
+    {
+      "gloss": "fruit",
+      "orthographic": "",
+      "form": "meva",
+      "note": ""
+    },
+    {
+      "gloss": "seed",
+      "orthographic": "",
+      "form": "tuxm",
+      "note": ""
+    },
+    {
+      "gloss": "leaf",
+      "orthographic": "",
+      "form": "barg",
+      "note": ""
+    },
+    {
+      "gloss": "root",
+      "orthographic": "",
+      "form": "reša",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "püsti daraxt",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "gul",
+      "note": ""
+    },
+    {
+      "gloss": "grass",
+      "orthographic": "",
+      "form": "sabza",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "arġamčin",
+      "note": ""
+    },
+    {
+      "gloss": "skin",
+      "orthographic": "",
+      "form": "püst",
+      "note": ""
+    },
+    {
+      "gloss": "meat",
+      "orthographic": "",
+      "form": "güšt",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "xun",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "ustuxon",
+      "note": ""
+    },
+    {
+      "gloss": "fat (noun)",
+      "orthographic": "",
+      "form": "čarb",
+      "note": ""
+    },
+    {
+      "gloss": "egg",
+      "orthographic": "",
+      "form": "tuxm",
+      "note": ""
+    },
+    {
+      "gloss": "horn",
+      "orthographic": "",
+      "form": "šox",
+      "note": ""
+    },
+    {
+      "gloss": "tail",
+      "orthographic": "",
+      "form": "dum",
+      "note": ""
+    },
+    {
+      "gloss": "feather",
+      "orthographic": "",
+      "form": "par",
+      "note": ""
+    },
+    {
+      "gloss": "hair",
+      "orthographic": "",
+      "form": "müy",
+      "note": ""
+    },
+    {
+      "gloss": "head",
+      "orthographic": "",
+      "form": "sar",
+      "note": ""
+    },
+    {
+      "gloss": "ear",
+      "orthographic": "",
+      "form": "güš",
+      "note": ""
+    },
+    {
+      "gloss": "eye",
+      "orthographic": "",
+      "form": "čašm",
+      "note": ""
+    },
+    {
+      "gloss": "nose",
+      "orthographic": "",
+      "form": "binī",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "dahon",
+      "note": ""
+    },
+    {
+      "gloss": "tooth",
+      "orthographic": "",
+      "form": "dandon",
+      "note": ""
+    },
+    {
+      "gloss": "tongue (organ)",
+      "orthographic": "",
+      "form": "zabon",
+      "note": ""
+    },
+    {
+      "gloss": "fingernail",
+      "orthographic": "",
+      "form": "noxun",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "poy",
+      "note": ""
+    },
+    {
+      "gloss": "leg",
+      "orthographic": "",
+      "form": "ling",
+      "note": ""
+    },
+    {
+      "gloss": "knee",
+      "orthographic": "",
+      "form": "zonu",
+      "note": ""
+    },
+    {
+      "gloss": "hand",
+      "orthographic": "",
+      "form": "dast",
+      "note": ""
+    },
+    {
+      "gloss": "wing",
+      "orthographic": "",
+      "form": "bol",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "šikam",
+      "note": ""
+    },
+    {
+      "gloss": "guts",
+      "orthographic": "",
+      "form": "rüda",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "gardan",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "pušt",
+      "note": ""
+    },
+    {
+      "gloss": "breast",
+      "orthographic": "",
+      "form": "sina",
+      "note": ""
+    },
+    {
+      "gloss": "heart",
+      "orthographic": "",
+      "form": "dil",
+      "note": ""
+    },
+    {
+      "gloss": "liver",
+      "orthographic": "",
+      "form": "jigar",
+      "note": ""
+    },
+    {
+      "gloss": "to drink",
+      "orthographic": "",
+      "form": "nüšidan",
+      "note": ""
+    },
+    {
+      "gloss": "to eat",
+      "orthographic": "",
+      "form": "xürdan",
+      "note": ""
+    },
+    {
+      "gloss": "to bite",
+      "orthographic": "",
+      "form": "gazidan",
+      "note": ""
+    },
+    {
+      "gloss": "to suck",
+      "orthographic": "",
+      "form": "makidan",
+      "note": ""
+    },
+    {
+      "gloss": "to spit",
+      "orthographic": "",
+      "form": "tuf kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to vomit",
+      "orthographic": "",
+      "form": "qay kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to blow",
+      "orthographic": "",
+      "form": "puf kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to breathe",
+      "orthographic": "",
+      "form": "nafas kašidan",
+      "note": ""
+    },
+    {
+      "gloss": "to laugh",
+      "orthographic": "",
+      "form": "xandidan",
+      "note": ""
+    },
+    {
+      "gloss": "to see",
+      "orthographic": "",
+      "form": "didan",
+      "note": ""
+    },
+    {
+      "gloss": "to hear",
+      "orthographic": "",
+      "form": "šunidan",
+      "note": ""
+    },
+    {
+      "gloss": "to know",
+      "orthographic": "",
+      "form": "donistan",
+      "note": ""
+    },
+    {
+      "gloss": "to think",
+      "orthographic": "",
+      "form": "andešidan",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "büy kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "tarsidan",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "xobidan",
+      "note": ""
+    },
+    {
+      "gloss": "to live",
+      "orthographic": "",
+      "form": "zistan",
+      "note": ""
+    },
+    {
+      "gloss": "to live",
+      "orthographic": "",
+      "form": "zindagī kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to die",
+      "orthographic": "",
+      "form": "murdan",
+      "note": ""
+    },
+    {
+      "gloss": "to kill",
+      "orthographic": "",
+      "form": "kuštan",
+      "note": ""
+    },
+    {
+      "gloss": "to fight",
+      "orthographic": "",
+      "form": "jangidan",
+      "note": ""
+    },
+    {
+      "gloss": "to hunt",
+      "orthographic": "",
+      "form": "šikor kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to hit",
+      "orthographic": "",
+      "form": "zadan",
+      "note": ""
+    },
+    {
+      "gloss": "to cut",
+      "orthographic": "",
+      "form": "burridan",
+      "note": ""
+    },
+    {
+      "gloss": "to split",
+      "orthographic": "",
+      "form": "šikoftan",
+      "note": ""
+    },
+    {
+      "gloss": "to stab",
+      "orthographic": "",
+      "form": "kord zadan",
+      "note": ""
+    },
+    {
+      "gloss": "to scratch",
+      "orthographic": "",
+      "form": "xanjol kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to dig",
+      "orthographic": "",
+      "form": "koftan",
+      "note": ""
+    },
+    {
+      "gloss": "to swim",
+      "orthographic": "",
+      "form": "šino kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to fly",
+      "orthographic": "",
+      "form": "paridan",
+      "note": ""
+    },
+    {
+      "gloss": "to walk",
+      "orthographic": "",
+      "form": "gaštan",
+      "note": ""
+    },
+    {
+      "gloss": "to come",
+      "orthographic": "",
+      "form": "omadan",
+      "note": ""
+    },
+    {
+      "gloss": "to lie (as in a bed)",
+      "orthographic": "",
+      "form": "daroz kašidan",
+      "note": ""
+    },
+    {
+      "gloss": "to sit",
+      "orthographic": "",
+      "form": "nišastan",
+      "note": ""
+    },
+    {
+      "gloss": "to sit",
+      "orthographic": "",
+      "form": "šištan",
+      "note": ""
+    },
+    {
+      "gloss": "to stand",
+      "orthographic": "",
+      "form": "istodan",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": "čarxidan",
+      "note": ""
+    },
+    {
+      "gloss": "to fall",
+      "orthographic": "",
+      "form": "aftodan",
+      "note": ""
+    },
+    {
+      "gloss": "to give",
+      "orthographic": "",
+      "form": "dodan",
+      "note": ""
+    },
+    {
+      "gloss": "to hold",
+      "orthographic": "",
+      "form": "giriftan",
+      "note": ""
+    },
+    {
+      "gloss": "to squeeze",
+      "orthographic": "",
+      "form": "fišor kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to rub",
+      "orthographic": "",
+      "form": "molidan",
+      "note": ""
+    },
+    {
+      "gloss": "to wash",
+      "orthographic": "",
+      "form": "šustan",
+      "note": ""
+    },
+    {
+      "gloss": "to wipe",
+      "orthographic": "",
+      "form": "pok kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to pull",
+      "orthographic": "",
+      "form": "kašidan",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "tela dodan",
+      "note": ""
+    },
+    {
+      "gloss": "to throw",
+      "orthographic": "",
+      "form": "partoftan",
+      "note": ""
+    },
+    {
+      "gloss": "to throw",
+      "orthographic": "",
+      "form": "andoxtan",
+      "note": ""
+    },
+    {
+      "gloss": "to tie",
+      "orthographic": "",
+      "form": "bastan",
+      "note": ""
+    },
+    {
+      "gloss": "to sew",
+      "orthographic": "",
+      "form": "düxtan",
+      "note": ""
+    },
+    {
+      "gloss": "to count",
+      "orthographic": "",
+      "form": "šumurdan",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "guftan",
+      "note": ""
+    },
+    {
+      "gloss": "to sing",
+      "orthographic": "",
+      "form": "surudan",
+      "note": ""
+    },
+    {
+      "gloss": "to play",
+      "orthographic": "",
+      "form": "bozī kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to float",
+      "orthographic": "",
+      "form": "šinovar šudan",
+      "note": ""
+    },
+    {
+      "gloss": "to flow",
+      "orthographic": "",
+      "form": "ravon šudan",
+      "note": ""
+    },
+    {
+      "gloss": "to freeze",
+      "orthographic": "",
+      "form": "yax kardan",
+      "note": ""
+    },
+    {
+      "gloss": "to swell",
+      "orthographic": "",
+      "form": "omosidan",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "xuršed",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "oftob",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": "moh",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": "sitora",
+      "note": ""
+    },
+    {
+      "gloss": "water",
+      "orthographic": "",
+      "form": "ob",
+      "note": ""
+    },
+    {
+      "gloss": "rain",
+      "orthographic": "",
+      "form": "boron",
+      "note": ""
+    },
+    {
+      "gloss": "river",
+      "orthographic": "",
+      "form": "rüd",
+      "note": ""
+    },
+    {
+      "gloss": "river",
+      "orthographic": "",
+      "form": "daryo",
+      "note": ""
+    },
+    {
+      "gloss": "lake",
+      "orthographic": "",
+      "form": "kül",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "bahr",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "daryo",
+      "note": ""
+    },
+    {
+      "gloss": "salt",
+      "orthographic": "",
+      "form": "namak",
+      "note": ""
+    },
+    {
+      "gloss": "stone",
+      "orthographic": "",
+      "form": "sang",
+      "note": ""
+    },
+    {
+      "gloss": "sand",
+      "orthographic": "",
+      "form": "reg",
+      "note": ""
+    },
+    {
+      "gloss": "dust",
+      "orthographic": "",
+      "form": "čang",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "zamin",
+      "note": ""
+    },
+    {
+      "gloss": "cloud",
+      "orthographic": "",
+      "form": "abr",
+      "note": ""
+    },
+    {
+      "gloss": "fog",
+      "orthographic": "",
+      "form": "tuman",
+      "note": ""
+    },
+    {
+      "gloss": "sky",
+      "orthographic": "",
+      "form": "osmon",
+      "note": ""
+    },
+    {
+      "gloss": "wind",
+      "orthographic": "",
+      "form": "bod",
+      "note": ""
+    },
+    {
+      "gloss": "snow",
+      "orthographic": "",
+      "form": "barf",
+      "note": ""
+    },
+    {
+      "gloss": "ice",
+      "orthographic": "",
+      "form": "yax",
+      "note": ""
+    },
+    {
+      "gloss": "smoke",
+      "orthographic": "",
+      "form": "dud",
+      "note": ""
+    },
+    {
+      "gloss": "fire",
+      "orthographic": "",
+      "form": "otaš",
+      "note": ""
+    },
+    {
+      "gloss": "ash",
+      "orthographic": "",
+      "form": "xokistar",
+      "note": ""
+    },
+    {
+      "gloss": "to burn",
+      "orthographic": "",
+      "form": "süxtan",
+      "note": ""
+    },
+    {
+      "gloss": "road",
+      "orthographic": "",
+      "form": "roh",
+      "note": ""
+    },
+    {
+      "gloss": "mountain",
+      "orthographic": "",
+      "form": "küh",
+      "note": ""
+    },
+    {
+      "gloss": "red",
+      "orthographic": "",
+      "form": "surx",
+      "note": ""
+    },
+    {
+      "gloss": "green",
+      "orthographic": "",
+      "form": "sabz",
+      "note": ""
+    },
+    {
+      "gloss": "yellow",
+      "orthographic": "",
+      "form": "zard",
+      "note": ""
+    },
+    {
+      "gloss": "white",
+      "orthographic": "",
+      "form": "safed",
+      "note": ""
+    },
+    {
+      "gloss": "black",
+      "orthographic": "",
+      "form": "siyoh",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "šab",
+      "note": ""
+    },
+    {
+      "gloss": "day",
+      "orthographic": "",
+      "form": "rüz",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "sol",
+      "note": ""
+    },
+    {
+      "gloss": "warm",
+      "orthographic": "",
+      "form": "garm",
+      "note": ""
+    },
+    {
+      "gloss": "cold",
+      "orthographic": "",
+      "form": "xunuk",
+      "note": ""
+    },
+    {
+      "gloss": "cold",
+      "orthographic": "",
+      "form": "sard",
+      "note": ""
+    },
+    {
+      "gloss": "full",
+      "orthographic": "",
+      "form": "pur",
+      "note": ""
+    },
+    {
+      "gloss": "new",
+      "orthographic": "",
+      "form": "nav",
+      "note": ""
+    },
+    {
+      "gloss": "old",
+      "orthographic": "",
+      "form": "kühna",
+      "note": "inanimate"
+    },
+    {
+      "gloss": "old",
+      "orthographic": "",
+      "form": "pir",
+      "note": "animate"
+    },
+    {
+      "gloss": "good",
+      "orthographic": "",
+      "form": "naġz",
+      "note": ""
+    },
+    {
+      "gloss": "good",
+      "orthographic": "",
+      "form": "xub",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "bad",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "ganda",
+      "note": ""
+    },
+    {
+      "gloss": "rotten",
+      "orthographic": "",
+      "form": "püsida",
+      "note": ""
+    },
+    {
+      "gloss": "dirty",
+      "orthographic": "",
+      "form": "čirkin",
+      "note": ""
+    },
+    {
+      "gloss": "straight",
+      "orthographic": "",
+      "form": "rost",
+      "note": ""
+    },
+    {
+      "gloss": "round",
+      "orthographic": "",
+      "form": "gird",
+      "note": ""
+    },
+    {
+      "gloss": "sharp (as a knife)",
+      "orthographic": "",
+      "form": "tez",
+      "note": ""
+    },
+    {
+      "gloss": "dull (as a knife)",
+      "orthographic": "",
+      "form": "kund",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "sufta",
+      "note": ""
+    },
+    {
+      "gloss": "wet",
+      "orthographic": "",
+      "form": "tar",
+      "note": ""
+    },
+    {
+      "gloss": "dry",
+      "orthographic": "",
+      "form": "xušk",
+      "note": ""
+    },
+    {
+      "gloss": "correct",
+      "orthographic": "",
+      "form": "durust",
+      "note": ""
+    },
+    {
+      "gloss": "near",
+      "orthographic": "",
+      "form": "nazdik",
+      "note": ""
+    },
+    {
+      "gloss": "far",
+      "orthographic": "",
+      "form": "dur",
+      "note": ""
+    },
+    {
+      "gloss": "right",
+      "orthographic": "",
+      "form": "rost",
+      "note": ""
+    },
+    {
+      "gloss": "left",
+      "orthographic": "",
+      "form": "čap",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "ba",
+      "note": ""
+    },
+    {
+      "gloss": "in",
+      "orthographic": "",
+      "form": "dar",
+      "note": ""
+    },
+    {
+      "gloss": "with",
+      "orthographic": "",
+      "form": "bo",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "u",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "agar",
+      "note": ""
+    },
+    {
+      "gloss": "because",
+      "orthographic": "",
+      "form": "čunki",
+      "note": ""
+    },
+    {
+      "gloss": "name",
+      "orthographic": "",
+      "form": "nom",
+      "note": ""
+    }
+  ]
+}

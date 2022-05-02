@@ -1,0 +1,1555 @@
+{
+  "metadata": {
+    "title": "Ukrainian Swadesh list",
+    "language": "Ukrainian",
+    "source": "Wikipedia",
+    "url": "http://en.wiktionary.org/wiki/Appendix:Ukrainian_Swadesh_list",
+    "notes": [
+      "Parsed from HTML with https://github.com/amundo/scrape-wikipedia-swadesh/"
+    ]
+  },
+  "words": [
+    {
+      "gloss": "I (1sg)",
+      "orthographic": "",
+      "form": "ja",
+      "note": ""
+    },
+    {
+      "gloss": "you (2sg)",
+      "orthographic": "",
+      "form": "ty",
+      "note": ""
+    },
+    {
+      "gloss": "he, she, it (3sg)",
+      "orthographic": "",
+      "form": "vin",
+      "note": ""
+    },
+    {
+      "gloss": "we (1pl)",
+      "orthographic": "",
+      "form": "my",
+      "note": ""
+    },
+    {
+      "gloss": "you (2pl)",
+      "orthographic": "",
+      "form": "vy",
+      "note": ""
+    },
+    {
+      "gloss": "they (3pl)",
+      "orthographic": "",
+      "form": "voný",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "ce",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "se",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "cej",
+      "note": ""
+    },
+    {
+      "gloss": "this",
+      "orthographic": "",
+      "form": "sej",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "te",
+      "note": ""
+    },
+    {
+      "gloss": "that",
+      "orthographic": "",
+      "form": "toj",
+      "note": ""
+    },
+    {
+      "gloss": "here",
+      "orthographic": "",
+      "form": "tut",
+      "note": ""
+    },
+    {
+      "gloss": "there",
+      "orthographic": "",
+      "form": "tam",
+      "note": ""
+    },
+    {
+      "gloss": "who",
+      "orthographic": "",
+      "form": "xto",
+      "note": ""
+    },
+    {
+      "gloss": "what",
+      "orthographic": "",
+      "form": "ščo",
+      "note": ""
+    },
+    {
+      "gloss": "where",
+      "orthographic": "",
+      "form": "de",
+      "note": ""
+    },
+    {
+      "gloss": "when",
+      "orthographic": "",
+      "form": "kolý",
+      "note": ""
+    },
+    {
+      "gloss": "how",
+      "orthographic": "",
+      "form": "jak",
+      "note": ""
+    },
+    {
+      "gloss": "not",
+      "orthographic": "",
+      "form": "ne",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "usé",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "vse",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "usí",
+      "note": ""
+    },
+    {
+      "gloss": "all",
+      "orthographic": "",
+      "form": "vsi",
+      "note": ""
+    },
+    {
+      "gloss": "many",
+      "orthographic": "",
+      "form": "baháto",
+      "note": ""
+    },
+    {
+      "gloss": "many",
+      "orthographic": "",
+      "form": "mnóho",
+      "note": ""
+    },
+    {
+      "gloss": "some",
+      "orthographic": "",
+      "form": "kílʹka",
+      "note": ""
+    },
+    {
+      "gloss": "few",
+      "orthographic": "",
+      "form": "málo",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "ínšyj",
+      "note": ""
+    },
+    {
+      "gloss": "other",
+      "orthographic": "",
+      "form": "ónyj",
+      "note": ""
+    },
+    {
+      "gloss": "one",
+      "orthographic": "",
+      "form": "odýn",
+      "note": ""
+    },
+    {
+      "gloss": "two",
+      "orthographic": "",
+      "form": "dva",
+      "note": ""
+    },
+    {
+      "gloss": "three",
+      "orthographic": "",
+      "form": "try",
+      "note": ""
+    },
+    {
+      "gloss": "four",
+      "orthographic": "",
+      "form": "čotýry",
+      "note": ""
+    },
+    {
+      "gloss": "five",
+      "orthographic": "",
+      "form": "pʺjatʹ",
+      "note": ""
+    },
+    {
+      "gloss": "big",
+      "orthographic": "",
+      "form": "velýkyj",
+      "note": ""
+    },
+    {
+      "gloss": "long",
+      "orthographic": "",
+      "form": "dóvhyj",
+      "note": ""
+    },
+    {
+      "gloss": "wide",
+      "orthographic": "",
+      "form": "šyrókyj",
+      "note": ""
+    },
+    {
+      "gloss": "thick",
+      "orthographic": "",
+      "form": "tóvstyj",
+      "note": ""
+    },
+    {
+      "gloss": "heavy",
+      "orthographic": "",
+      "form": "važkýj",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "malýj",
+      "note": ""
+    },
+    {
+      "gloss": "small",
+      "orthographic": "",
+      "form": "malénʹkyj",
+      "note": ""
+    },
+    {
+      "gloss": "short",
+      "orthographic": "",
+      "form": "korótkyj",
+      "note": ""
+    },
+    {
+      "gloss": "narrow",
+      "orthographic": "",
+      "form": "vúzʹkyj",
+      "note": ""
+    },
+    {
+      "gloss": "thin",
+      "orthographic": "",
+      "form": "tonkýj",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "žínka",
+      "note": ""
+    },
+    {
+      "gloss": "woman",
+      "orthographic": "",
+      "form": "žoná",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "čolovík",
+      "note": ""
+    },
+    {
+      "gloss": "man (adult male)",
+      "orthographic": "",
+      "form": "mužčýna",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "ljudýna",
+      "note": ""
+    },
+    {
+      "gloss": "man (human being)",
+      "orthographic": "",
+      "form": "čolovík",
+      "note": ""
+    },
+    {
+      "gloss": "child",
+      "orthographic": "",
+      "form": "dytýna",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "družýna",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "žínka",
+      "note": ""
+    },
+    {
+      "gloss": "wife",
+      "orthographic": "",
+      "form": "žoná",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "čolovík",
+      "note": ""
+    },
+    {
+      "gloss": "husband",
+      "orthographic": "",
+      "form": "muž",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "máty",
+      "note": ""
+    },
+    {
+      "gloss": "mother",
+      "orthographic": "",
+      "form": "nénja",
+      "note": ""
+    },
+    {
+      "gloss": "father",
+      "orthographic": "",
+      "form": "bátʹko",
+      "note": ""
+    },
+    {
+      "gloss": "animal",
+      "orthographic": "",
+      "form": "tvarýna",
+      "note": ""
+    },
+    {
+      "gloss": "animal",
+      "orthographic": "",
+      "form": "zvir",
+      "note": ""
+    },
+    {
+      "gloss": "fish",
+      "orthographic": "",
+      "form": "rýba",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "ptax",
+      "note": ""
+    },
+    {
+      "gloss": "bird",
+      "orthographic": "",
+      "form": "ptýcja",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "pes",
+      "note": ""
+    },
+    {
+      "gloss": "dog",
+      "orthographic": "",
+      "form": "sobáka",
+      "note": ""
+    },
+    {
+      "gloss": "louse",
+      "orthographic": "",
+      "form": "vóša",
+      "note": ""
+    },
+    {
+      "gloss": "snake",
+      "orthographic": "",
+      "form": "zmijá",
+      "note": ""
+    },
+    {
+      "gloss": "worm",
+      "orthographic": "",
+      "form": "červʺják",
+      "note": ""
+    },
+    {
+      "gloss": "tree",
+      "orthographic": "",
+      "form": "dérevo",
+      "note": ""
+    },
+    {
+      "gloss": "forest",
+      "orthographic": "",
+      "form": "lis",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "pálycja",
+      "note": ""
+    },
+    {
+      "gloss": "stick",
+      "orthographic": "",
+      "form": "kyj",
+      "note": ""
+    },
+    {
+      "gloss": "fruit",
+      "orthographic": "",
+      "form": "plid",
+      "note": ""
+    },
+    {
+      "gloss": "seed",
+      "orthographic": "",
+      "form": "símʺja",
+      "note": ""
+    },
+    {
+      "gloss": "seed",
+      "orthographic": "",
+      "form": "nasínnja",
+      "note": ""
+    },
+    {
+      "gloss": "leaf",
+      "orthographic": "",
+      "form": "lystók",
+      "note": ""
+    },
+    {
+      "gloss": "root",
+      "orthographic": "",
+      "form": "kórinʹ",
+      "note": ""
+    },
+    {
+      "gloss": "bark (of a tree)",
+      "orthographic": "",
+      "form": "korá",
+      "note": ""
+    },
+    {
+      "gloss": "flower",
+      "orthographic": "",
+      "form": "kvítka",
+      "note": ""
+    },
+    {
+      "gloss": "grass",
+      "orthographic": "",
+      "form": "trava",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "virʹóvka",
+      "note": ""
+    },
+    {
+      "gloss": "rope",
+      "orthographic": "",
+      "form": "motúzka",
+      "note": ""
+    },
+    {
+      "gloss": "skin",
+      "orthographic": "",
+      "form": "škíra",
+      "note": ""
+    },
+    {
+      "gloss": "meat",
+      "orthographic": "",
+      "form": "mʺjáso",
+      "note": ""
+    },
+    {
+      "gloss": "blood",
+      "orthographic": "",
+      "form": "krov",
+      "note": ""
+    },
+    {
+      "gloss": "bone",
+      "orthographic": "",
+      "form": "kístka",
+      "note": ""
+    },
+    {
+      "gloss": "fat (noun)",
+      "orthographic": "",
+      "form": "žyr",
+      "note": ""
+    },
+    {
+      "gloss": "egg",
+      "orthographic": "",
+      "form": "jajcé",
+      "note": ""
+    },
+    {
+      "gloss": "horn",
+      "orthographic": "",
+      "form": "rih",
+      "note": ""
+    },
+    {
+      "gloss": "tail",
+      "orthographic": "",
+      "form": "xvist",
+      "note": ""
+    },
+    {
+      "gloss": "feather",
+      "orthographic": "",
+      "form": "peró",
+      "note": ""
+    },
+    {
+      "gloss": "hair",
+      "orthographic": "",
+      "form": "volóssja",
+      "note": ""
+    },
+    {
+      "gloss": "head",
+      "orthographic": "",
+      "form": "holová",
+      "note": ""
+    },
+    {
+      "gloss": "ear",
+      "orthographic": "",
+      "form": "vúxo",
+      "note": ""
+    },
+    {
+      "gloss": "eye",
+      "orthographic": "",
+      "form": "óko",
+      "note": ""
+    },
+    {
+      "gloss": "nose",
+      "orthographic": "",
+      "form": "nis",
+      "note": ""
+    },
+    {
+      "gloss": "mouth",
+      "orthographic": "",
+      "form": "rot",
+      "note": ""
+    },
+    {
+      "gloss": "tooth",
+      "orthographic": "",
+      "form": "zub",
+      "note": ""
+    },
+    {
+      "gloss": "tongue (organ)",
+      "orthographic": "",
+      "form": "jazýk",
+      "note": ""
+    },
+    {
+      "gloss": "fingernail",
+      "orthographic": "",
+      "form": "níhotʹ",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "stopá",
+      "note": ""
+    },
+    {
+      "gloss": "foot",
+      "orthographic": "",
+      "form": "nohá",
+      "note": ""
+    },
+    {
+      "gloss": "leg",
+      "orthographic": "",
+      "form": "nohá",
+      "note": ""
+    },
+    {
+      "gloss": "knee",
+      "orthographic": "",
+      "form": "kolíno",
+      "note": ""
+    },
+    {
+      "gloss": "hand",
+      "orthographic": "",
+      "form": "ruká",
+      "note": ""
+    },
+    {
+      "gloss": "wing",
+      "orthographic": "",
+      "form": "kryló",
+      "note": ""
+    },
+    {
+      "gloss": "belly",
+      "orthographic": "",
+      "form": "žyvít",
+      "note": ""
+    },
+    {
+      "gloss": "guts",
+      "orthographic": "",
+      "form": "kyšký",
+      "note": ""
+    },
+    {
+      "gloss": "guts",
+      "orthographic": "",
+      "form": "nútrošči",
+      "note": ""
+    },
+    {
+      "gloss": "neck",
+      "orthographic": "",
+      "form": "šýja",
+      "note": ""
+    },
+    {
+      "gloss": "back",
+      "orthographic": "",
+      "form": "spyná",
+      "note": ""
+    },
+    {
+      "gloss": "breast",
+      "orthographic": "",
+      "form": "hrúdy",
+      "note": ""
+    },
+    {
+      "gloss": "heart",
+      "orthographic": "",
+      "form": "sérce",
+      "note": ""
+    },
+    {
+      "gloss": "liver",
+      "orthographic": "",
+      "form": "pečínka",
+      "note": ""
+    },
+    {
+      "gloss": "to drink",
+      "orthographic": "",
+      "form": "pýty",
+      "note": ""
+    },
+    {
+      "gloss": "to eat",
+      "orthographic": "",
+      "form": "jísty",
+      "note": ""
+    },
+    {
+      "gloss": "to bite",
+      "orthographic": "",
+      "form": "kusáty",
+      "note": ""
+    },
+    {
+      "gloss": "to suck",
+      "orthographic": "",
+      "form": "smoktáty",
+      "note": ""
+    },
+    {
+      "gloss": "to suck",
+      "orthographic": "",
+      "form": "ssáty",
+      "note": ""
+    },
+    {
+      "gloss": "to spit",
+      "orthographic": "",
+      "form": "pljuváty",
+      "note": ""
+    },
+    {
+      "gloss": "to vomit",
+      "orthographic": "",
+      "form": "bljuváty",
+      "note": ""
+    },
+    {
+      "gloss": "to blow",
+      "orthographic": "",
+      "form": "dúty",
+      "note": ""
+    },
+    {
+      "gloss": "to breathe",
+      "orthographic": "",
+      "form": "dýxaty",
+      "note": ""
+    },
+    {
+      "gloss": "to laugh",
+      "orthographic": "",
+      "form": "smijátysja",
+      "note": ""
+    },
+    {
+      "gloss": "to see",
+      "orthographic": "",
+      "form": "dyvýtysja",
+      "note": ""
+    },
+    {
+      "gloss": "to see",
+      "orthographic": "",
+      "form": "báčyty",
+      "note": ""
+    },
+    {
+      "gloss": "to hear",
+      "orthographic": "",
+      "form": "čúty",
+      "note": ""
+    },
+    {
+      "gloss": "to hear",
+      "orthographic": "",
+      "form": "slúxaty",
+      "note": ""
+    },
+    {
+      "gloss": "to know",
+      "orthographic": "",
+      "form": "znáty",
+      "note": ""
+    },
+    {
+      "gloss": "to think",
+      "orthographic": "",
+      "form": "dúmaty",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "čúty",
+      "note": ""
+    },
+    {
+      "gloss": "to smell",
+      "orthographic": "",
+      "form": "njúxaty",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "bojátysja",
+      "note": ""
+    },
+    {
+      "gloss": "to fear",
+      "orthographic": "",
+      "form": "ljakátysja",
+      "note": ""
+    },
+    {
+      "gloss": "to sleep",
+      "orthographic": "",
+      "form": "spáty",
+      "note": ""
+    },
+    {
+      "gloss": "to live",
+      "orthographic": "",
+      "form": "žýty",
+      "note": ""
+    },
+    {
+      "gloss": "to die",
+      "orthographic": "",
+      "form": "vmyráty",
+      "note": ""
+    },
+    {
+      "gloss": "to kill",
+      "orthographic": "",
+      "form": "vbyváty",
+      "note": ""
+    },
+    {
+      "gloss": "to fight",
+      "orthographic": "",
+      "form": "býtysja",
+      "note": ""
+    },
+    {
+      "gloss": "to hunt",
+      "orthographic": "",
+      "form": "poljuváty",
+      "note": ""
+    },
+    {
+      "gloss": "to hit",
+      "orthographic": "",
+      "form": "býty",
+      "note": ""
+    },
+    {
+      "gloss": "to cut",
+      "orthographic": "",
+      "form": "rízaty",
+      "note": ""
+    },
+    {
+      "gloss": "to split",
+      "orthographic": "",
+      "form": "dilýty",
+      "note": ""
+    },
+    {
+      "gloss": "to stab",
+      "orthographic": "",
+      "form": "kolóty",
+      "note": ""
+    },
+    {
+      "gloss": "to scratch",
+      "orthographic": "",
+      "form": "drjápaty",
+      "note": ""
+    },
+    {
+      "gloss": "to scratch",
+      "orthographic": "",
+      "form": "škrjábaty",
+      "note": ""
+    },
+    {
+      "gloss": "to dig",
+      "orthographic": "",
+      "form": "rýty",
+      "note": ""
+    },
+    {
+      "gloss": "to swim",
+      "orthographic": "",
+      "form": "plávaty",
+      "note": ""
+    },
+    {
+      "gloss": "to fly",
+      "orthographic": "",
+      "form": "litáty",
+      "note": ""
+    },
+    {
+      "gloss": "to walk",
+      "orthographic": "",
+      "form": "jty",
+      "note": ""
+    },
+    {
+      "gloss": "to walk",
+      "orthographic": "",
+      "form": "xodýty",
+      "note": ""
+    },
+    {
+      "gloss": "to come",
+      "orthographic": "",
+      "form": "pryxódyty",
+      "note": ""
+    },
+    {
+      "gloss": "to lie (as in a bed)",
+      "orthographic": "",
+      "form": "ležáty",
+      "note": ""
+    },
+    {
+      "gloss": "to sit",
+      "orthographic": "",
+      "form": "sydíty",
+      "note": ""
+    },
+    {
+      "gloss": "to stand",
+      "orthographic": "",
+      "form": "stojáty",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": "vertíty",
+      "note": ""
+    },
+    {
+      "gloss": "to turn (intransitive)",
+      "orthographic": "",
+      "form": "krutýty",
+      "note": ""
+    },
+    {
+      "gloss": "to fall",
+      "orthographic": "",
+      "form": "pádaty",
+      "note": ""
+    },
+    {
+      "gloss": "to give",
+      "orthographic": "",
+      "form": "daváty",
+      "note": ""
+    },
+    {
+      "gloss": "to hold",
+      "orthographic": "",
+      "form": "trymáty",
+      "note": ""
+    },
+    {
+      "gloss": "to squeeze",
+      "orthographic": "",
+      "form": "čávyty",
+      "note": ""
+    },
+    {
+      "gloss": "to squeeze",
+      "orthographic": "",
+      "form": "výtyskaty",
+      "note": ""
+    },
+    {
+      "gloss": "to rub",
+      "orthographic": "",
+      "form": "térty",
+      "note": ""
+    },
+    {
+      "gloss": "to wash",
+      "orthographic": "",
+      "form": "mýty",
+      "note": ""
+    },
+    {
+      "gloss": "to wipe",
+      "orthographic": "",
+      "form": "vytyráty",
+      "note": ""
+    },
+    {
+      "gloss": "to pull",
+      "orthographic": "",
+      "form": "tjahnúty",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "štovxáty",
+      "note": ""
+    },
+    {
+      "gloss": "to push",
+      "orthographic": "",
+      "form": "týsnuty",
+      "note": ""
+    },
+    {
+      "gloss": "to throw",
+      "orthographic": "",
+      "form": "kydáty",
+      "note": ""
+    },
+    {
+      "gloss": "to tie",
+      "orthographic": "",
+      "form": "zvʺjázuvaty",
+      "note": ""
+    },
+    {
+      "gloss": "to sew",
+      "orthographic": "",
+      "form": "šýty",
+      "note": ""
+    },
+    {
+      "gloss": "to count",
+      "orthographic": "",
+      "form": "raxuváty",
+      "note": ""
+    },
+    {
+      "gloss": "to count",
+      "orthographic": "",
+      "form": "ličýty",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "kazáty",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "móvyty",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "rektý",
+      "note": ""
+    },
+    {
+      "gloss": "to say",
+      "orthographic": "",
+      "form": "hovorýty",
+      "note": ""
+    },
+    {
+      "gloss": "to sing",
+      "orthographic": "",
+      "form": "spiváty",
+      "note": ""
+    },
+    {
+      "gloss": "to play",
+      "orthographic": "",
+      "form": "hráty",
+      "note": ""
+    },
+    {
+      "gloss": "to float",
+      "orthographic": "",
+      "form": "plávaty",
+      "note": ""
+    },
+    {
+      "gloss": "to flow",
+      "orthographic": "",
+      "form": "tektý",
+      "note": ""
+    },
+    {
+      "gloss": "to freeze",
+      "orthographic": "",
+      "form": "mérznuty",
+      "note": ""
+    },
+    {
+      "gloss": "to swell",
+      "orthographic": "",
+      "form": "opuxáty",
+      "note": ""
+    },
+    {
+      "gloss": "sun",
+      "orthographic": "",
+      "form": "sónce",
+      "note": ""
+    },
+    {
+      "gloss": "moon",
+      "orthographic": "",
+      "form": "mísjacʹ",
+      "note": ""
+    },
+    {
+      "gloss": "star",
+      "orthographic": "",
+      "form": "zírka",
+      "note": ""
+    },
+    {
+      "gloss": "water",
+      "orthographic": "",
+      "form": "vodá",
+      "note": ""
+    },
+    {
+      "gloss": "rain",
+      "orthographic": "",
+      "form": "došč",
+      "note": ""
+    },
+    {
+      "gloss": "river",
+      "orthographic": "",
+      "form": "riká",
+      "note": ""
+    },
+    {
+      "gloss": "lake",
+      "orthographic": "",
+      "form": "ózero",
+      "note": ""
+    },
+    {
+      "gloss": "sea",
+      "orthographic": "",
+      "form": "móre",
+      "note": ""
+    },
+    {
+      "gloss": "salt",
+      "orthographic": "",
+      "form": "silʹ",
+      "note": ""
+    },
+    {
+      "gloss": "stone",
+      "orthographic": "",
+      "form": "káminʹ",
+      "note": ""
+    },
+    {
+      "gloss": "sand",
+      "orthographic": "",
+      "form": "pisók",
+      "note": ""
+    },
+    {
+      "gloss": "dust",
+      "orthographic": "",
+      "form": "pyl",
+      "note": ""
+    },
+    {
+      "gloss": "dust",
+      "orthographic": "",
+      "form": "pórox",
+      "note": ""
+    },
+    {
+      "gloss": "earth",
+      "orthographic": "",
+      "form": "zemlja",
+      "note": ""
+    },
+    {
+      "gloss": "cloud",
+      "orthographic": "",
+      "form": "xmára",
+      "note": ""
+    },
+    {
+      "gloss": "cloud",
+      "orthographic": "",
+      "form": "óbolok",
+      "note": ""
+    },
+    {
+      "gloss": "fog",
+      "orthographic": "",
+      "form": "tumán",
+      "note": ""
+    },
+    {
+      "gloss": "sky",
+      "orthographic": "",
+      "form": "nébo",
+      "note": ""
+    },
+    {
+      "gloss": "wind",
+      "orthographic": "",
+      "form": "víter",
+      "note": ""
+    },
+    {
+      "gloss": "snow",
+      "orthographic": "",
+      "form": "snih",
+      "note": ""
+    },
+    {
+      "gloss": "ice",
+      "orthographic": "",
+      "form": "krýha",
+      "note": ""
+    },
+    {
+      "gloss": "ice",
+      "orthographic": "",
+      "form": "lid",
+      "note": ""
+    },
+    {
+      "gloss": "smoke",
+      "orthographic": "",
+      "form": "dym",
+      "note": ""
+    },
+    {
+      "gloss": "fire",
+      "orthographic": "",
+      "form": "vohónʹ",
+      "note": ""
+    },
+    {
+      "gloss": "ash",
+      "orthographic": "",
+      "form": "pópil",
+      "note": ""
+    },
+    {
+      "gloss": "to burn",
+      "orthographic": "",
+      "form": "horíty",
+      "note": ""
+    },
+    {
+      "gloss": "road",
+      "orthographic": "",
+      "form": "doróha",
+      "note": ""
+    },
+    {
+      "gloss": "mountain",
+      "orthographic": "",
+      "form": "horá",
+      "note": ""
+    },
+    {
+      "gloss": "red",
+      "orthographic": "",
+      "form": "červónyj",
+      "note": ""
+    },
+    {
+      "gloss": "green",
+      "orthographic": "",
+      "form": "zelényj",
+      "note": ""
+    },
+    {
+      "gloss": "yellow",
+      "orthographic": "",
+      "form": "žóvtyj",
+      "note": ""
+    },
+    {
+      "gloss": "white",
+      "orthographic": "",
+      "form": "bílyj",
+      "note": ""
+    },
+    {
+      "gloss": "black",
+      "orthographic": "",
+      "form": "čórnyj",
+      "note": ""
+    },
+    {
+      "gloss": "night",
+      "orthographic": "",
+      "form": "nič",
+      "note": ""
+    },
+    {
+      "gloss": "day",
+      "orthographic": "",
+      "form": "denʹ",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "rik",
+      "note": ""
+    },
+    {
+      "gloss": "year",
+      "orthographic": "",
+      "form": "líto",
+      "note": ""
+    },
+    {
+      "gloss": "warm",
+      "orthographic": "",
+      "form": "téplyj",
+      "note": ""
+    },
+    {
+      "gloss": "cold",
+      "orthographic": "",
+      "form": "xolódnyj",
+      "note": ""
+    },
+    {
+      "gloss": "full",
+      "orthographic": "",
+      "form": "póvnyj",
+      "note": ""
+    },
+    {
+      "gloss": "new",
+      "orthographic": "",
+      "form": "novýj",
+      "note": ""
+    },
+    {
+      "gloss": "old",
+      "orthographic": "",
+      "form": "starýj",
+      "note": ""
+    },
+    {
+      "gloss": "good",
+      "orthographic": "",
+      "form": "dóbryj",
+      "note": ""
+    },
+    {
+      "gloss": "bad",
+      "orthographic": "",
+      "form": "pohányj",
+      "note": ""
+    },
+    {
+      "gloss": "rotten",
+      "orthographic": "",
+      "form": "hnylýj",
+      "note": ""
+    },
+    {
+      "gloss": "dirty",
+      "orthographic": "",
+      "form": "brúdnyj",
+      "note": ""
+    },
+    {
+      "gloss": "straight",
+      "orthographic": "",
+      "form": "prjamýj",
+      "note": ""
+    },
+    {
+      "gloss": "round",
+      "orthographic": "",
+      "form": "krúhlyj",
+      "note": ""
+    },
+    {
+      "gloss": "sharp (as a knife)",
+      "orthographic": "",
+      "form": "hóstryj",
+      "note": ""
+    },
+    {
+      "gloss": "dull (as a knife)",
+      "orthographic": "",
+      "form": "tupýj",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "hládkyj",
+      "note": ""
+    },
+    {
+      "gloss": "smooth",
+      "orthographic": "",
+      "form": "ŕivnyj",
+      "note": ""
+    },
+    {
+      "gloss": "wet",
+      "orthographic": "",
+      "form": "volóhyj",
+      "note": ""
+    },
+    {
+      "gloss": "wet",
+      "orthographic": "",
+      "form": "mókryj",
+      "note": ""
+    },
+    {
+      "gloss": "dry",
+      "orthographic": "",
+      "form": "suxýj",
+      "note": ""
+    },
+    {
+      "gloss": "correct",
+      "orthographic": "",
+      "form": "právylʹnyj",
+      "note": ""
+    },
+    {
+      "gloss": "near",
+      "orthographic": "",
+      "form": "blyzʹkýj",
+      "note": ""
+    },
+    {
+      "gloss": "far",
+      "orthographic": "",
+      "form": "dalékyj",
+      "note": ""
+    },
+    {
+      "gloss": "right",
+      "orthographic": "",
+      "form": "právyj",
+      "note": ""
+    },
+    {
+      "gloss": "left",
+      "orthographic": "",
+      "form": "lívyj",
+      "note": ""
+    },
+    {
+      "gloss": "at",
+      "orthographic": "",
+      "form": "na",
+      "note": ""
+    },
+    {
+      "gloss": "in",
+      "orthographic": "",
+      "form": "v",
+      "note": ""
+    },
+    {
+      "gloss": "in",
+      "orthographic": "",
+      "form": "u",
+      "note": ""
+    },
+    {
+      "gloss": "with",
+      "orthographic": "",
+      "form": "z",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "i",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "j",
+      "note": ""
+    },
+    {
+      "gloss": "and",
+      "orthographic": "",
+      "form": "ta",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "jakščó",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "kolý",
+      "note": ""
+    },
+    {
+      "gloss": "if",
+      "orthographic": "",
+      "form": "jakbý",
+      "note": ""
+    },
+    {
+      "gloss": "because",
+      "orthographic": "",
+      "form": "bo",
+      "note": ""
+    },
+    {
+      "gloss": "name",
+      "orthographic": "",
+      "form": "imʺjá",
+      "note": ""
+    }
+  ]
+}
