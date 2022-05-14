@@ -2,12 +2,19 @@ import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import {parseSwadeshTable} from './parse-swadesh-table.js'
 
 
-let buildLexicon = async ({url,dom}) => {
-  let title = url.split("/").pop().split(':')[1].replaceAll('_', ' ')
+let getLanguageNameFromURL = url => url
+  .split("/")
+  .pop()
+  .split(':')[1]
+  .replaceAll('_', ' ')
+  .replace(' Swadesh list', '')
 
+
+let buildLexicon = async ({url,dom}) => {
+  
   let metadata = {
-    title,
-    language: title.replace(' Swadesh list', ''),
+    title: getLanguageNameFromURL(url) + ' Swadesh list',
+    language: getLanguageNameFromURL(url),
     source: "Wikipedia",
     url	,
     notes: [
@@ -29,7 +36,6 @@ let saveLexicon = async lexicon => {
   await Deno.writeTextFile(`data/${fileName}`, JSON.stringify(lexicon,null,2))
 }
 
-
 let links = JSON.parse(Deno.readTextFileSync('swadesh-list-page-links.json'))
 
 // not sure why these are failing yet
@@ -39,22 +45,31 @@ let troubleLanguages = [
   "Irish",
   "Japanese",
   "Korean",
-  "Middle Korean"
+  "Middle Korean",
+  "Ojibwe",
+  "Purepecha",
+  "Thai"
 ]
 
 links.links = links.links.filter(link => !troubleLanguages.includes(link.language))
 
-for await(let link of links.links){
-  console.log(link.language + ': ' + link.url)
-  let response = await fetch(link.url)
-  let html = await response.text()
-  
-  let dom = new DOMParser().parseFromString(html, 'text/html')
+let scrapeWikipedia = async links => {
+  for await(let link of links.links){
 
-  let lexicon = await buildLexicon({url:link.url,dom})
-  await saveLexicon(lexicon)
+    let html = await Deno.readTextFile(`html/${link.htmlFileName}`)
+    
+    let dom = new DOMParser().parseFromString(html, 'text/html')
+
+    try {
+      let lexicon = await buildLexicon({url:link.url,dom})
+      if(lexicon.words.length){
+        await saveLexicon(lexicon)
+      }
+    } catch(e){
+      console.log(`Error in ${link.language}`)
+    }
+  }
 }
 
-
-
+scrapeWikipedia(links)
 

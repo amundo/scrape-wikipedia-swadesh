@@ -21,16 +21,24 @@ let linkP = individualLanguagesTH.parentElement.nextElementSibling.querySelector
 let links = Array.from(linkP.querySelectorAll('p a'))
   .map(a => ({
       url: new URL(a.getAttribute('href'), 'http://en.wiktionary.org/').href,
-      language: a.textContent
+      language: a.textContent,
+      htmlFileName: `${a.textContent}.html`
+
     })
   )
+  .sort(({language:a}, {language:b}) => a < b ? -1 : 1)
   
+// since we got the links from this page, we have to fix the url for that link
+links
+  .find(({language}) => language == 'Ukrainian')
+  .url = `http://en.wiktionary.org/wiki/Appendix:Ukrainian_Swadesh_list`
+
 // add some metadata and save the file
 let swadeshListPages = {
     "metadata": {
       "title": "Links to Swadesh list pages on Wiktionary",
       "source": "Wiktionary",
-      "url": "https://en.wiktionary.org/wiki/Appendix:Welsh_Swadesh_list",
+      "url": "https://en.wiktionary.org/wiki/Appendix:Ukrainian_Swadesh_list",
       "generatedBy": "generate-links-list.js"
     },
     links

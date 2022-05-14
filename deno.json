@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "generate-links": "deno run --allow-read --allow-net --allow-write generate-links-list.js",
+    "mirror": "deno run --allow-read --allow-net --allow-write mirror-wikipedia-swadesh.js",
+    "scrape": "deno run --allow-read --allow-net --allow-write scrape-swadesh.js"
+  }
+}

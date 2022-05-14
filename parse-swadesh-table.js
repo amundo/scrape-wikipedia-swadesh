@@ -60,4 +60,8 @@ let parseSwadeshTable = table => {
 
 }
   
-export {parseSwadeshTable}
+export {
+  parseSwadeshTable,
+  parseTermsTD,
+  parseTermsSPAN
+}

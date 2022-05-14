@@ -2,681 +2,849 @@
   "metadata": {
     "title": "Links to Swadesh list pages on Wiktionary",
     "source": "Wiktionary",
-    "url": "https://en.wiktionary.org/wiki/Appendix:Welsh_Swadesh_list",
+    "url": "https://en.wiktionary.org/wiki/Appendix:Ukrainian_Swadesh_list",
     "generatedBy": "generate-links-list.js"
   },
   "links": [
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Afrikaans_Swadesh_list",
-      "language": "Afrikaans"
+      "language": "Afrikaans",
+      "htmlFileName": "Afrikaans.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Albanian_Swadesh_list",
-      "language": "Albanian"
+      "language": "Albanian",
+      "htmlFileName": "Albanian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Amharic_Swadesh_list",
-      "language": "Amharic"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Antillean_Creole_Swadesh_list",
-      "language": "Antillean Creole"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Arabic_Swadesh_list",
-      "language": "Standard Arabic"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Cypriot_Arabic_Swadesh_list",
-      "language": "Cypriot"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Egyptian_Arabic_Swadesh_list",
-      "language": "Egyptian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Moroccan_Arabic_Swadesh_list",
-      "language": "Moroccan"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:South_Levantine_Arabic_Swadesh_list",
-      "language": "Palestinian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Tunisian_Arabic_Swadesh_list",
-      "language": "Tunisian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Armenian_Swadesh_list",
-      "language": "Armenian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Aromanian_Swadesh_list",
-      "language": "Aromanian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Assamese_Swadesh_list",
-      "language": "Assamese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Avar_Swadesh_list",
-      "language": "Avar"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Bangala_Swadesh_list",
-      "language": "Bangala"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Bashkir_Swadesh_list",
-      "language": "Bashkir"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Basque_Swadesh_list",
-      "language": "Basque"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Belarusian_Swadesh_list",
-      "language": "Belarusian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Bengali_Swadesh_list",
-      "language": "Bengali"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Tashelhit_Swadesh_list",
-      "language": "Tashelhit"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Central_Atlas_Tamazight_Swadesh_list",
-      "language": "Central Atlas Tamazight"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Breton_Swadesh_list",
-      "language": "Breton"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Buginese_Swadesh_list",
-      "language": "Buginese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Bulgarian_Swadesh_list",
-      "language": "Bulgarian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Burmese_Swadesh_list",
-      "language": "Burmese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Burushaski_Swadesh_list",
-      "language": "Burushaski"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Cape_Verdean_Swadesh_list",
-      "language": "Cape Verdean"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Catalan_Swadesh_list",
-      "language": "Catalan"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Cebuano_Swadish_list",
-      "language": "Cebuano"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Chechen_Swadesh_list",
-      "language": "Chechen"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list",
-      "language": "Mandarin"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Cantonese_Swadesh_list",
-      "language": "Cantonese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Gan_Swadesh_list",
-      "language": "Gan"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Amoy_Min_Nan_Swadesh_list",
-      "language": "Min Nan"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Min_Dong_Swadesh_list",
-      "language": "Min Dong"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Chinese_Swadesh_list",
-      "language": "Old Chinese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Wu_Swadesh_list",
-      "language": "Wu"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Cornish_Swadesh_list",
-      "language": "Cornish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Crimean_Tatar_Swadesh_list",
-      "language": "Crimean Tatar"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Czech_Swadesh_list",
-      "language": "Czech"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Dalmatian_Swadesh_list",
-      "language": "Dalmatian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list",
-      "language": "Danish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list",
-      "language": "Dutch"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Limburgish_Swadesh_list",
-      "language": "Limburgish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Zealandic_Swadesh_list",
-      "language": "Zealandic"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Egyptian_Swadesh_list",
-      "language": "Egyptian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:English_Swadesh_list",
-      "language": "English"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_English_Swadesh_list",
-      "language": "Old"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Middle_English_Swadesh_list",
-      "language": "Middle"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Elamite_Swadesh_list",
-      "language": "Elamite"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Estonian_Swadesh_list",
-      "language": "Estonian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Faroese_Swadesh_list",
-      "language": "Faroese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Fiji_Hindi_Swadesh_list",
-      "language": "Fiji Hindi"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Fijian_Swadesh_list",
-      "language": "Fijian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Finnish_Swadesh_list",
-      "language": "Finnish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Fongbe_Swadesh_list",
-      "language": "Fongbe"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:French_Swadesh_list",
-      "language": "French"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_French_Swadesh_list",
-      "language": "Old French"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:West_Frisian_Swadesh_list",
-      "language": "Frisian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Friulian_Swadesh_list",
-      "language": "Friulian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Galician_Swadesh_list",
-      "language": "Galician"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Garo_Swadesh_list",
-      "language": "Garo"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Gelao_Swadesh_lists",
-      "language": "Gelao"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Georgian_Swadesh_list",
-      "language": "Georgian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:German_Swadesh_list",
-      "language": "German"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Gothic_Swadesh_list",
-      "language": "Gothic"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Greek_Swadesh_list",
-      "language": "Greek"
+      "language": "Amharic",
+      "htmlFileName": "Amharic.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Ancient_Greek_Swadesh_list",
-      "language": "Ancient Greek"
+      "language": "Ancient Greek",
+      "htmlFileName": "Ancient Greek.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Guaran%C3%AD_Swadesh_list",
-      "language": "Guaraní"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Antillean_Creole_Swadesh_list",
+      "language": "Antillean Creole",
+      "htmlFileName": "Antillean Creole.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Guinea-Bissau_Swadesh_list",
-      "language": "Guinea-Bissau Creole"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Armenian_Swadesh_list",
+      "language": "Armenian",
+      "htmlFileName": "Armenian.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Gujarati_Swadesh_list",
-      "language": "Gujarati"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Aromanian_Swadesh_list",
+      "language": "Aromanian",
+      "htmlFileName": "Aromanian.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Haitian_Creole_Swadesh_list",
-      "language": "Haitian Creole"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Assamese_Swadesh_list",
+      "language": "Assamese",
+      "htmlFileName": "Assamese.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Hausa_Swadesh_list",
-      "language": "Hausa"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Avar_Swadesh_list",
+      "language": "Avar",
+      "htmlFileName": "Avar.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Hawaiian_Swadesh_list",
-      "language": "Hawaiian"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Bangala_Swadesh_list",
+      "language": "Bangala",
+      "htmlFileName": "Bangala.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Modern_Hebrew_Swadesh_list",
-      "language": "Hebrew"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Bashkir_Swadesh_list",
+      "language": "Bashkir",
+      "htmlFileName": "Bashkir.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Hindi_Swadesh_list",
-      "language": "Hindi"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Basque_Swadesh_list",
+      "language": "Basque",
+      "htmlFileName": "Basque.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Hittite_Swadesh_list",
-      "language": "Hittite"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Belarusian_Swadesh_list",
+      "language": "Belarusian",
+      "htmlFileName": "Belarusian.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:White_Hmong_Swadesh_list",
-      "language": "Hmong"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Hungarian_Swadesh_list",
-      "language": "Hungarian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Icelandic_Swadesh_list",
-      "language": "Icelandic"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Ilocano_Swadesh_list",
-      "language": "Ilocano"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Indonesian_Swadesh_list",
-      "language": "Indonesian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Irish_Swadesh_list",
-      "language": "Irish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Italian_Swadesh_list",
-      "language": "Italian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Neapolitan_Swadesh_list",
-      "language": "Neapolitan"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Sicilian_Swadesh_list",
-      "language": "Sicilian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list",
-      "language": "Japanese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Javanese_Swadesh_list",
-      "language": "Javanese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Jeju_Swadesh_list",
-      "language": "Jeju"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Jizhao_Swadesh_list",
-      "language": "Jizhao"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Kashubian_Swadesh_list",
-      "language": "Kashubian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Khmer_Swadesh_list",
-      "language": "Khmer"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Konkani_Swadesh_list",
-      "language": "Konkani"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Korean_Swadesh_list",
-      "language": "Korean"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Middle_Korean_Swadesh_list",
-      "language": "Middle Korean"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Latin_Swadesh_list",
-      "language": "Latin"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Vulgar_Latin_Swadesh_list",
-      "language": "Vulgar Latin"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Latvian_Swadesh_list",
-      "language": "Latvian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Lingala_Swadesh_list",
-      "language": "Lingala"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Lithuanian_Swadesh_list",
-      "language": "Lithuanian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Low_Saxon_Swadesh_list",
-      "language": "Low Saxon"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Sallaands_Swadesh_list",
-      "language": "Sallaands"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Macedonian_Swadesh_list",
-      "language": "Macedonian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Makasar_Swadesh_list",
-      "language": "Makasar"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Malagasy_Swadesh_list",
-      "language": "Malagasy"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Malay_Swadesh_list",
-      "language": "Malay"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Malayalam_Swadesh_list",
-      "language": "Malayalam"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Maltese_Swadesh_list",
-      "language": "Maltese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Manx_Swadesh_list",
-      "language": "Manx"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Maori_Swadesh_list",
-      "language": "Māori"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Marathi_Swadesh_list",
-      "language": "Marathi"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Marathi_Swadesh_list",
-      "language": "Old Marathi"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Mauritian_Creole_Swadesh_list",
-      "language": "Mauritian Creole"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Megleno-Romanian_Swadesh_list",
-      "language": "Megleno-Romanian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Mongolian_Swadesh_list",
-      "language": "Mongolian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Navajo_Swadesh_list",
-      "language": "Navajo"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Bengali_Swadesh_list",
+      "language": "Bengali",
+      "htmlFileName": "Bengali.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Bokm%C3%A5l_Swadesh_list",
-      "language": "Bokmål"
+      "language": "Bokmål",
+      "htmlFileName": "Bokmål.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Nynorsk_Swadesh_list",
-      "language": "Nynorsk"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Breton_Swadesh_list",
+      "language": "Breton",
+      "htmlFileName": "Breton.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Northern_Kurdish_Swadesh_list",
-      "language": "Northern Kurdish"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Buginese_Swadesh_list",
+      "language": "Buginese",
+      "htmlFileName": "Buginese.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Ojibwe_Swadesh_list",
-      "language": "Ojibwe"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Bulgarian_Swadesh_list",
+      "language": "Bulgarian",
+      "htmlFileName": "Bulgarian.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Okinawan_Swadesh_list",
-      "language": "Okinawan"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Burmese_Swadesh_list",
+      "language": "Burmese",
+      "htmlFileName": "Burmese.html"
     },
     {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Ossetian_Swadesh_list",
-      "language": "Ossetian"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Papiamento_Swadesh_list",
-      "language": "Papiamento"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Polish_Swadesh_list",
-      "language": "Polish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Polish_Swadesh_list",
-      "language": "Old Polish"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Portuguese_Swadesh_list",
-      "language": "Portuguese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Portuguese_Swadesh_list",
-      "language": "Old Portuguese"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Punjabi_Swadesh_list",
-      "language": "Punjabi"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Purepecha_Swadesh_list",
-      "language": "Purepecha"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Swadesh_list_for_Quechuan_languages",
-      "language": "Quechua"
-    },
-    {
-      "url": "http://en.wiktionary.org/wiki/Appendix:Romani_Swadesh_list",
-      "language": "Romani"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Burushaski_Swadesh_list",
+      "language": "Burushaski",
+      "htmlFileName": "Burushaski.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Cal%C3%B3_Swadesh_list",
-      "language": "Caló"
+      "language": "Caló",
+      "htmlFileName": "Caló.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Cantonese_Swadesh_list",
+      "language": "Cantonese",
+      "htmlFileName": "Cantonese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Cape_Verdean_Swadesh_list",
+      "language": "Cape Verdean",
+      "htmlFileName": "Cape Verdean.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Catalan_Swadesh_list",
+      "language": "Catalan",
+      "htmlFileName": "Catalan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Cebuano_Swadish_list",
+      "language": "Cebuano",
+      "htmlFileName": "Cebuano.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Central_Atlas_Tamazight_Swadesh_list",
+      "language": "Central Atlas Tamazight",
+      "htmlFileName": "Central Atlas Tamazight.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Chechen_Swadesh_list",
+      "language": "Chechen",
+      "htmlFileName": "Chechen.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Cornish_Swadesh_list",
+      "language": "Cornish",
+      "htmlFileName": "Cornish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Crimean_Tatar_Swadesh_list",
+      "language": "Crimean Tatar",
+      "htmlFileName": "Crimean Tatar.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Cypriot_Arabic_Swadesh_list",
+      "language": "Cypriot",
+      "htmlFileName": "Cypriot.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Czech_Swadesh_list",
+      "language": "Czech",
+      "htmlFileName": "Czech.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Dalmatian_Swadesh_list",
+      "language": "Dalmatian",
+      "htmlFileName": "Dalmatian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list",
+      "language": "Danish",
+      "htmlFileName": "Danish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list",
+      "language": "Dutch",
+      "htmlFileName": "Dutch.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Egyptian_Arabic_Swadesh_list",
+      "language": "Egyptian",
+      "htmlFileName": "Egyptian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Egyptian_Swadesh_list",
+      "language": "Egyptian",
+      "htmlFileName": "Egyptian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Elamite_Swadesh_list",
+      "language": "Elamite",
+      "htmlFileName": "Elamite.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:English_Swadesh_list",
+      "language": "English",
+      "htmlFileName": "English.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Estonian_Swadesh_list",
+      "language": "Estonian",
+      "htmlFileName": "Estonian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Faroese_Swadesh_list",
+      "language": "Faroese",
+      "htmlFileName": "Faroese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Fiji_Hindi_Swadesh_list",
+      "language": "Fiji Hindi",
+      "htmlFileName": "Fiji Hindi.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Fijian_Swadesh_list",
+      "language": "Fijian",
+      "htmlFileName": "Fijian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Finnish_Swadesh_list",
+      "language": "Finnish",
+      "htmlFileName": "Finnish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Fongbe_Swadesh_list",
+      "language": "Fongbe",
+      "htmlFileName": "Fongbe.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:French_Swadesh_list",
+      "language": "French",
+      "htmlFileName": "French.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:West_Frisian_Swadesh_list",
+      "language": "Frisian",
+      "htmlFileName": "Frisian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Friulian_Swadesh_list",
+      "language": "Friulian",
+      "htmlFileName": "Friulian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Galician_Swadesh_list",
+      "language": "Galician",
+      "htmlFileName": "Galician.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Gan_Swadesh_list",
+      "language": "Gan",
+      "htmlFileName": "Gan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Garo_Swadesh_list",
+      "language": "Garo",
+      "htmlFileName": "Garo.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Gelao_Swadesh_lists",
+      "language": "Gelao",
+      "htmlFileName": "Gelao.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Georgian_Swadesh_list",
+      "language": "Georgian",
+      "htmlFileName": "Georgian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:German_Swadesh_list",
+      "language": "German",
+      "htmlFileName": "German.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Gothic_Swadesh_list",
+      "language": "Gothic",
+      "htmlFileName": "Gothic.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Greek_Swadesh_list",
+      "language": "Greek",
+      "htmlFileName": "Greek.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Guaran%C3%AD_Swadesh_list",
+      "language": "Guaraní",
+      "htmlFileName": "Guaraní.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Guinea-Bissau_Swadesh_list",
+      "language": "Guinea-Bissau Creole",
+      "htmlFileName": "Guinea-Bissau Creole.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Gujarati_Swadesh_list",
+      "language": "Gujarati",
+      "htmlFileName": "Gujarati.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Haitian_Creole_Swadesh_list",
+      "language": "Haitian Creole",
+      "htmlFileName": "Haitian Creole.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Hausa_Swadesh_list",
+      "language": "Hausa",
+      "htmlFileName": "Hausa.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Hawaiian_Swadesh_list",
+      "language": "Hawaiian",
+      "htmlFileName": "Hawaiian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Modern_Hebrew_Swadesh_list",
+      "language": "Hebrew",
+      "htmlFileName": "Hebrew.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Hindi_Swadesh_list",
+      "language": "Hindi",
+      "htmlFileName": "Hindi.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Hittite_Swadesh_list",
+      "language": "Hittite",
+      "htmlFileName": "Hittite.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:White_Hmong_Swadesh_list",
+      "language": "Hmong",
+      "htmlFileName": "Hmong.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Hungarian_Swadesh_list",
+      "language": "Hungarian",
+      "htmlFileName": "Hungarian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Icelandic_Swadesh_list",
+      "language": "Icelandic",
+      "htmlFileName": "Icelandic.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Ilocano_Swadesh_list",
+      "language": "Ilocano",
+      "htmlFileName": "Ilocano.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Indonesian_Swadesh_list",
+      "language": "Indonesian",
+      "htmlFileName": "Indonesian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Irish_Swadesh_list",
+      "language": "Irish",
+      "htmlFileName": "Irish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Italian_Swadesh_list",
+      "language": "Italian",
+      "htmlFileName": "Italian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list",
+      "language": "Japanese",
+      "htmlFileName": "Japanese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Javanese_Swadesh_list",
+      "language": "Javanese",
+      "htmlFileName": "Javanese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Jeju_Swadesh_list",
+      "language": "Jeju",
+      "htmlFileName": "Jeju.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Jizhao_Swadesh_list",
+      "language": "Jizhao",
+      "htmlFileName": "Jizhao.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Kashubian_Swadesh_list",
+      "language": "Kashubian",
+      "htmlFileName": "Kashubian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Khmer_Swadesh_list",
+      "language": "Khmer",
+      "htmlFileName": "Khmer.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Konkani_Swadesh_list",
+      "language": "Konkani",
+      "htmlFileName": "Konkani.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Korean_Swadesh_list",
+      "language": "Korean",
+      "htmlFileName": "Korean.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Latin_Swadesh_list",
+      "language": "Latin",
+      "htmlFileName": "Latin.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Latvian_Swadesh_list",
+      "language": "Latvian",
+      "htmlFileName": "Latvian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Limburgish_Swadesh_list",
+      "language": "Limburgish",
+      "htmlFileName": "Limburgish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Lingala_Swadesh_list",
+      "language": "Lingala",
+      "htmlFileName": "Lingala.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Lithuanian_Swadesh_list",
+      "language": "Lithuanian",
+      "htmlFileName": "Lithuanian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Low_Saxon_Swadesh_list",
+      "language": "Low Saxon",
+      "htmlFileName": "Low Saxon.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Macedonian_Swadesh_list",
+      "language": "Macedonian",
+      "htmlFileName": "Macedonian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Makasar_Swadesh_list",
+      "language": "Makasar",
+      "htmlFileName": "Makasar.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Malagasy_Swadesh_list",
+      "language": "Malagasy",
+      "htmlFileName": "Malagasy.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Malay_Swadesh_list",
+      "language": "Malay",
+      "htmlFileName": "Malay.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Malayalam_Swadesh_list",
+      "language": "Malayalam",
+      "htmlFileName": "Malayalam.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Maltese_Swadesh_list",
+      "language": "Maltese",
+      "htmlFileName": "Maltese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list",
+      "language": "Mandarin",
+      "htmlFileName": "Mandarin.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Manx_Swadesh_list",
+      "language": "Manx",
+      "htmlFileName": "Manx.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Marathi_Swadesh_list",
+      "language": "Marathi",
+      "htmlFileName": "Marathi.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Mauritian_Creole_Swadesh_list",
+      "language": "Mauritian Creole",
+      "htmlFileName": "Mauritian Creole.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Megleno-Romanian_Swadesh_list",
+      "language": "Megleno-Romanian",
+      "htmlFileName": "Megleno-Romanian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Middle_English_Swadesh_list",
+      "language": "Middle",
+      "htmlFileName": "Middle.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Middle_Korean_Swadesh_list",
+      "language": "Middle Korean",
+      "htmlFileName": "Middle Korean.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Min_Dong_Swadesh_list",
+      "language": "Min Dong",
+      "htmlFileName": "Min Dong.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Amoy_Min_Nan_Swadesh_list",
+      "language": "Min Nan",
+      "htmlFileName": "Min Nan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Mongolian_Swadesh_list",
+      "language": "Mongolian",
+      "htmlFileName": "Mongolian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Moroccan_Arabic_Swadesh_list",
+      "language": "Moroccan",
+      "htmlFileName": "Moroccan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Maori_Swadesh_list",
+      "language": "Māori",
+      "htmlFileName": "Māori.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Navajo_Swadesh_list",
+      "language": "Navajo",
+      "htmlFileName": "Navajo.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Neapolitan_Swadesh_list",
+      "language": "Neapolitan",
+      "htmlFileName": "Neapolitan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Northern_Kurdish_Swadesh_list",
+      "language": "Northern Kurdish",
+      "htmlFileName": "Northern Kurdish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Nynorsk_Swadesh_list",
+      "language": "Nynorsk",
+      "htmlFileName": "Nynorsk.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Ojibwe_Swadesh_list",
+      "language": "Ojibwe",
+      "htmlFileName": "Ojibwe.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Okinawan_Swadesh_list",
+      "language": "Okinawan",
+      "htmlFileName": "Okinawan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_English_Swadesh_list",
+      "language": "Old",
+      "htmlFileName": "Old.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_French_Swadesh_list",
+      "language": "Old French",
+      "htmlFileName": "Old French.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Chinese_Swadesh_list",
+      "language": "Old Chinese",
+      "htmlFileName": "Old Chinese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Marathi_Swadesh_list",
+      "language": "Old Marathi",
+      "htmlFileName": "Old Marathi.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Polish_Swadesh_list",
+      "language": "Old Polish",
+      "htmlFileName": "Old Polish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Old_Portuguese_Swadesh_list",
+      "language": "Old Portuguese",
+      "htmlFileName": "Old Portuguese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Ossetian_Swadesh_list",
+      "language": "Ossetian",
+      "htmlFileName": "Ossetian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:South_Levantine_Arabic_Swadesh_list",
+      "language": "Palestinian",
+      "htmlFileName": "Palestinian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Papiamento_Swadesh_list",
+      "language": "Papiamento",
+      "htmlFileName": "Papiamento.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Polish_Swadesh_list",
+      "language": "Polish",
+      "htmlFileName": "Polish.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Portuguese_Swadesh_list",
+      "language": "Portuguese",
+      "htmlFileName": "Portuguese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Punjabi_Swadesh_list",
+      "language": "Punjabi",
+      "htmlFileName": "Punjabi.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Purepecha_Swadesh_list",
+      "language": "Purepecha",
+      "htmlFileName": "Purepecha.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Swadesh_list_for_Quechuan_languages",
+      "language": "Quechua",
+      "htmlFileName": "Quechua.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Romani_Swadesh_list",
+      "language": "Romani",
+      "htmlFileName": "Romani.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Romanian_Swadesh_list",
-      "language": "Romanian"
+      "language": "Romanian",
+      "htmlFileName": "Romanian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Russian_Swadesh_list",
-      "language": "Russian"
+      "language": "Russian",
+      "htmlFileName": "Russian.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Sallaands_Swadesh_list",
+      "language": "Sallaands",
+      "htmlFileName": "Sallaands.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Sanskrit_Swadesh_list",
-      "language": "Sanskrit"
+      "language": "Sanskrit",
+      "htmlFileName": "Sanskrit.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Scottish_Gaelic_Swadesh_list",
-      "language": "Scottish Gaelic"
+      "language": "Scottish Gaelic",
+      "htmlFileName": "Scottish Gaelic.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Serbo-Croatian_Swadesh_list",
-      "language": "Serbo-Croatian"
+      "language": "Serbo-Croatian",
+      "htmlFileName": "Serbo-Croatian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Siberian_Tatar_Swadesh_list",
-      "language": "Siberian Tatar"
+      "language": "Siberian Tatar",
+      "htmlFileName": "Siberian Tatar.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Sicilian_Swadesh_list",
+      "language": "Sicilian",
+      "htmlFileName": "Sicilian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Slovak_Swadesh_list",
-      "language": "Slovak"
+      "language": "Slovak",
+      "htmlFileName": "Slovak.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Slovene_Swadesh_list",
-      "language": "Slovene"
+      "language": "Slovene",
+      "htmlFileName": "Slovene.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Somali_Swadesh_list",
-      "language": "Somali"
+      "language": "Somali",
+      "htmlFileName": "Somali.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Spanish_Swadesh_list",
-      "language": "Spanish"
+      "language": "Spanish",
+      "htmlFileName": "Spanish.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Sranan_Swadesh_list",
-      "language": "Sranan"
+      "language": "Sranan",
+      "htmlFileName": "Sranan.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Arabic_Swadesh_list",
+      "language": "Standard Arabic",
+      "htmlFileName": "Standard Arabic.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Sumerian_Swadesh_list",
-      "language": "Sumerian"
+      "language": "Sumerian",
+      "htmlFileName": "Sumerian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Sundanese_Swadesh_list",
-      "language": "Sundanese"
+      "language": "Sundanese",
+      "htmlFileName": "Sundanese.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Swahili_Swadesh_list",
-      "language": "Swahili"
+      "language": "Swahili",
+      "htmlFileName": "Swahili.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Swedish_Swadesh_list",
-      "language": "Swedish"
+      "language": "Swedish",
+      "htmlFileName": "Swedish.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tagalog_Swadesh_list",
-      "language": "Tagalog"
+      "language": "Tagalog",
+      "htmlFileName": "Tagalog.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tahitian_Swadesh_list",
-      "language": "Tahitian"
+      "language": "Tahitian",
+      "htmlFileName": "Tahitian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tajik_Swadesh_list",
-      "language": "Tajik"
+      "language": "Tajik",
+      "htmlFileName": "Tajik.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tamil_Swadesh_list",
-      "language": "Tamil"
+      "language": "Tamil",
+      "htmlFileName": "Tamil.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Tashelhit_Swadesh_list",
+      "language": "Tashelhit",
+      "htmlFileName": "Tashelhit.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tatar_Swadesh_list",
-      "language": "Tatar"
+      "language": "Tatar",
+      "htmlFileName": "Tatar.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Telugu_Swadesh_list",
-      "language": "Telugu"
+      "language": "Telugu",
+      "htmlFileName": "Telugu.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Temiar_Swadesh_list",
-      "language": "Temiar"
+      "language": "Temiar",
+      "htmlFileName": "Temiar.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Thai_Swadesh_list",
-      "language": "Thai"
+      "language": "Thai",
+      "htmlFileName": "Thai.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tocharian_B_Swadesh_list",
-      "language": "Tocharian B"
+      "language": "Tocharian B",
+      "htmlFileName": "Tocharian B.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tok_Pisin_Swadesh_list",
-      "language": "Tok Pisin"
+      "language": "Tok Pisin",
+      "htmlFileName": "Tok Pisin.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Tunisian_Arabic_Swadesh_list",
+      "language": "Tunisian",
+      "htmlFileName": "Tunisian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Turkish_Swadesh_list",
-      "language": "Turkish"
+      "language": "Turkish",
+      "htmlFileName": "Turkish.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Tuvaluan_Swadesh_list",
-      "language": "Tuvaluan"
+      "language": "Tuvaluan",
+      "htmlFileName": "Tuvaluan.html"
     },
     {
-      "url": "http://en.wiktionary.org/null",
-      "language": "Ukrainian"
+      "url": "http://en.wiktionary.org/wiki/Appendix:Ukrainian_Swadesh_list",
+      "language": "Ukrainian",
+      "htmlFileName": "Ukrainian.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Vietnamese_Swadesh_list",
-      "language": "Vietnamese"
+      "language": "Vietnamese",
+      "htmlFileName": "Vietnamese.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Vulgar_Latin_Swadesh_list",
+      "language": "Vulgar Latin",
+      "htmlFileName": "Vulgar Latin.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Walloon_Swadesh_list",
-      "language": "Walloon"
+      "language": "Walloon",
+      "htmlFileName": "Walloon.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Welsh_Swadesh_list",
-      "language": "Welsh"
+      "language": "Welsh",
+      "htmlFileName": "Welsh.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:West_Coast_Bajau_Swadesh_list",
-      "language": "West Coast Bajau"
+      "language": "West Coast Bajau",
+      "htmlFileName": "West Coast Bajau.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Wu_Swadesh_list",
+      "language": "Wu",
+      "htmlFileName": "Wu.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Wutunhua_Swadesh_list",
-      "language": "Wutunhua"
+      "language": "Wutunhua",
+      "htmlFileName": "Wutunhua.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Yiddish_Swadesh_list",
-      "language": "Yiddish"
+      "language": "Yiddish",
+      "htmlFileName": "Yiddish.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Zazaki_Swadesh_list",
-      "language": "Zazaki"
+      "language": "Zazaki",
+      "htmlFileName": "Zazaki.html"
+    },
+    {
+      "url": "http://en.wiktionary.org/wiki/Appendix:Zealandic_Swadesh_list",
+      "language": "Zealandic",
+      "htmlFileName": "Zealandic.html"
     },
     {
       "url": "http://en.wiktionary.org/wiki/Appendix:Zulu_Swadesh_list",
-      "language": "Zulu"
+      "language": "Zulu",
+      "htmlFileName": "Zulu.html"
     }
   ]
 }
