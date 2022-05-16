@@ -1,5 +1,5 @@
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import {parseSwadeshTable} from './parse-swadesh-table.js'
+import {parse} from './parse-swadesh-table.js'
 
 
 let getLanguageNameFromURL = url => url
@@ -24,7 +24,7 @@ let buildLexicon = async ({url,dom}) => {
   
   let table = dom.querySelector('table')
 
-  let words = parseSwadeshTable(table)
+  let words = parse(table)
     .flat()
 
   return {metadata, words}
@@ -66,7 +66,7 @@ let scrapeWikipedia = async links => {
         await saveLexicon(lexicon)
       }
     } catch(e){
-      console.log(`Error in ${link.language}`)
+      console.log(`Error in ${link.language}`, e)
     }
   }
 }

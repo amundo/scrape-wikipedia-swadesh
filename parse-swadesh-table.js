@@ -1,67 +1,49 @@
-let parseSwadeshTermSPAN = span => {
-  let labeledSelectors = [
-    {
-      "label": "orthographic",
-      "selector": "[lang]:not(.tr)"
-    },
-    {
-      "label": "form",
-      "selector": "[lang].tr"
-    },
-    {
-      "label": "note",
-      "selector": ".swadesh-note"
-    }
-  ]
 
-  let word = labeledSelectors.reduce((word, {label, selector}) => {
-    if (span.querySelector(selector)) {
-      word[label] = span.querySelector(selector).textContent
-    } else {
-      word[label] = ''
-    }
-    return word
-  }, {})
+let parseFormsTD = td => {
+  let termSPANS = Array.from(td.querySelectorAll('.swadesh-term'))
+
+  let words = termSPANS.map(termSPAN => {
+    let form 
+    let orthographic
   
-  return word
-}
+    if(td.querySelector('.tr[lang]')){
+      form = td.querySelector('.tr[lang]').textContent.trim()
+      orthographic = td.querySelector('span[lang] a').textContent.trim()
+    } else {
+       form = td.querySelector('span[lang] a').textContent.trim()
+       orthographic = form
+    }
 
-let parseTermsTD = td => {
-  let swadeshTerms = Array.from(td.querySelectorAll('.swadesh-term'))
-  let words = swadeshTerms.map(swadeshTerm => parseSwadeshTermSPAN(swadeshTerm))
- 
+    return { form, orthographic}
+  })
+
   return words
 }
-  
-let parseSwadeshTable = table => {
+
+let parse = table => {
   let tbody = table.querySelector('tbody')
   let rows = Array.from(tbody.querySelectorAll('tr'))
+    .filter(row => row.querySelector('td'))
 
-  rows = rows.filter(row => row.querySelector('td'))
+  let words = rows.map(row => {
+    let cells = Array.from(row.children)
+    let [numberTD, glossTD, formsTD, ipaTD] = cells
 
-  return rows.map(row => {
-    let cells = Array.from(row.querySelectorAll('td'))
-    let gloss = cells[1].textContent.trim()
-    let metadata = {
-      "swadeshNumber": cells[0].textContent.trim()
-    }
+    let number = numberTD.textContent.trim()
+    let gloss = glossTD.textContent.trim()
+    let words = parseFormsTD(formsTD)
 
-    let words = parseTermsTD(cells[2])
-
-    words = words.map(word => {
-      return {
-        gloss, 
-        ...word
-      }
-    })
-
-    return words
+    return words.map(({form,orthographic}) => ({
+      form,
+      orthographic,
+      gloss,
+      // metadata: {swadeshNumber: number}
+    }))
   })
+  return words.flat()
 
 }
   
 export {
-  parseSwadeshTable,
-  parseTermsTD,
-  parseTermsSPAN
+  parse
 }
