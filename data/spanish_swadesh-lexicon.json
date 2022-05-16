@@ -10,1462 +10,1219 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yo",
+      "orthographic": "yo",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tú",
+      "orthographic": "tú",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tú",
+      "orthographic": "tú",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "",
-      "note": "formal"
+      "form": "tú",
+      "orthographic": "tú",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "él",
+      "orthographic": "él",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "él",
+      "orthographic": "él",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nosotros",
+      "orthographic": "nosotros",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nosotros",
+      "orthographic": "nosotros",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "vosotros",
+      "orthographic": "vosotros",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "vosotros",
+      "orthographic": "vosotros",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "vosotros",
+      "orthographic": "vosotros",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ellos",
+      "orthographic": "ellos",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ellos",
+      "orthographic": "ellos",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "este",
+      "orthographic": "este",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ese",
+      "orthographic": "ese",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ese",
+      "orthographic": "ese",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "aquí",
+      "orthographic": "aquí",
+      "gloss": "here"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "aquí",
+      "orthographic": "aquí",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ahí",
+      "orthographic": "ahí",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "quién",
+      "orthographic": "quién",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "qué",
+      "orthographic": "qué",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dónde",
+      "orthographic": "dónde",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cuándo",
+      "orthographic": "cuándo",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cómo",
+      "orthographic": "cómo",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "no",
+      "orthographic": "no",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "todo",
+      "orthographic": "todo",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "muchos",
+      "orthographic": "muchos",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "algunos",
+      "orthographic": "algunos",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "poco",
+      "orthographic": "poco",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "otro",
+      "orthographic": "otro",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "uno",
+      "orthographic": "uno",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dos",
+      "orthographic": "dos",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tres",
+      "orthographic": "tres",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cuatro",
+      "orthographic": "cuatro",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cinco",
+      "orthographic": "cinco",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "grande",
+      "orthographic": "grande",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "largo",
+      "orthographic": "largo",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ancho",
+      "orthographic": "ancho",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "grueso",
+      "orthographic": "grueso",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pesado",
+      "orthographic": "pesado",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pequeño",
+      "orthographic": "pequeño",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "corto",
+      "orthographic": "corto",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "estrecho",
+      "orthographic": "estrecho",
+      "gloss": "narrow"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "estrecho",
+      "orthographic": "estrecho",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "delgado",
+      "orthographic": "delgado",
+      "gloss": "thin"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "delgado",
+      "orthographic": "delgado",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mujer",
+      "orthographic": "mujer",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hombre",
+      "orthographic": "hombre",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hombre",
+      "orthographic": "hombre",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "niño",
+      "orthographic": "niño",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "esposa",
+      "orthographic": "esposa",
+      "gloss": "wife"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "esposa",
+      "orthographic": "esposa",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "esposo",
+      "orthographic": "esposo",
+      "gloss": "husband"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "esposo",
+      "orthographic": "esposo",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "madre",
+      "orthographic": "madre",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "padre",
+      "orthographic": "padre",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "animal",
+      "orthographic": "animal",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pez",
+      "orthographic": "pez",
+      "gloss": "fish"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pez",
+      "orthographic": "pez",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pájaro",
+      "orthographic": "pájaro",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "perro",
+      "orthographic": "perro",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "piojo",
+      "orthographic": "piojo",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "serpiente",
+      "orthographic": "serpiente",
+      "gloss": "snake"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "serpiente",
+      "orthographic": "serpiente",
+      "gloss": "snake"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "serpiente",
+      "orthographic": "serpiente",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gusano",
+      "orthographic": "gusano",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "árbol",
+      "orthographic": "árbol",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bosque",
+      "orthographic": "bosque",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "palo",
+      "orthographic": "palo",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "fruta",
+      "orthographic": "fruta",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "semilla",
+      "orthographic": "semilla",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hoja",
+      "orthographic": "hoja",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "raíz",
+      "orthographic": "raíz",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "corteza",
+      "orthographic": "corteza",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "flor",
+      "orthographic": "flor",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hierba",
+      "orthographic": "hierba",
+      "gloss": "grass"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hierba",
+      "orthographic": "hierba",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cuerda",
+      "orthographic": "cuerda",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "piel",
+      "orthographic": "piel",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "carne",
+      "orthographic": "carne",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sangre",
+      "orthographic": "sangre",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hueso",
+      "orthographic": "hueso",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "grasa",
+      "orthographic": "grasa",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "huevo",
+      "orthographic": "huevo",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cuerno",
+      "orthographic": "cuerno",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cola",
+      "orthographic": "cola",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pluma",
+      "orthographic": "pluma",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pelo",
+      "orthographic": "pelo",
+      "gloss": "hair"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pelo",
+      "orthographic": "pelo",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cabeza",
+      "orthographic": "cabeza",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "oreja",
+      "orthographic": "oreja",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ojo",
+      "orthographic": "ojo",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nariz",
+      "orthographic": "nariz",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "boca",
+      "orthographic": "boca",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "diente",
+      "orthographic": "diente",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lengua",
+      "orthographic": "lengua",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "uña",
+      "orthographic": "uña",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pie",
+      "orthographic": "pie",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pierna",
+      "orthographic": "pierna",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rodilla",
+      "orthographic": "rodilla",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mano",
+      "orthographic": "mano",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ala",
+      "orthographic": "ala",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "barriga",
+      "orthographic": "barriga",
+      "gloss": "belly"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "barriga",
+      "orthographic": "barriga",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tripas",
+      "orthographic": "tripas",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cuello",
+      "orthographic": "cuello",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "espalda",
+      "orthographic": "espalda",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pecho",
+      "orthographic": "pecho",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "corazón",
+      "orthographic": "corazón",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hígado",
+      "orthographic": "hígado",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "beber",
+      "orthographic": "beber",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "comer",
+      "orthographic": "comer",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "morder",
+      "orthographic": "morder",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chupar",
+      "orthographic": "chupar",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "escupir",
+      "orthographic": "escupir",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "vomitar",
+      "orthographic": "vomitar",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "soplar",
+      "orthographic": "soplar",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "respirar",
+      "orthographic": "respirar",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "reír",
+      "orthographic": "reír",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ver",
+      "orthographic": "ver",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "oír",
+      "orthographic": "oír",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "saber",
+      "orthographic": "saber",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pensar",
+      "orthographic": "pensar",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "oler",
+      "orthographic": "oler",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "temer",
+      "orthographic": "temer",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dormir",
+      "orthographic": "dormir",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "vivir",
+      "orthographic": "vivir",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "morir",
+      "orthographic": "morir",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "matar",
+      "orthographic": "matar",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pelear",
+      "orthographic": "pelear",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cazar",
+      "orthographic": "cazar",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "golpear",
+      "orthographic": "golpear",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cortar",
+      "orthographic": "cortar",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "partir",
+      "orthographic": "partir",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "apuñalar",
+      "orthographic": "apuñalar",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "arañar",
+      "orthographic": "arañar",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "arañar",
+      "orthographic": "arañar",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cavar",
+      "orthographic": "cavar",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cavar",
+      "orthographic": "cavar",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nadar",
+      "orthographic": "nadar",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "volar",
+      "orthographic": "volar",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "caminar",
+      "orthographic": "caminar",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "venir",
+      "orthographic": "venir",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
-      "form": "",
-      "note": "action"
+      "form": "echarse",
+      "orthographic": "echarse",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "echarse",
+      "orthographic": "echarse",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
-      "form": "",
-      "note": "state"
+      "form": "echarse",
+      "orthographic": "echarse",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sentarse",
+      "orthographic": "sentarse",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
-      "form": "",
-      "note": "state"
+      "form": "sentarse",
+      "orthographic": "sentarse",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "levantarse",
+      "orthographic": "levantarse",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "levantarse",
+      "orthographic": "levantarse",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "girar",
+      "orthographic": "girar",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "girar",
+      "orthographic": "girar",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "caer",
+      "orthographic": "caer",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dar",
+      "orthographic": "dar",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tener",
+      "orthographic": "tener",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "apretar",
+      "orthographic": "apretar",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "frotar",
+      "orthographic": "frotar",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lavar",
+      "orthographic": "lavar",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "limpiar",
+      "orthographic": "limpiar",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tirar",
+      "orthographic": "tirar",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tirar",
+      "orthographic": "tirar",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tirar",
+      "orthographic": "tirar",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "empujar",
+      "orthographic": "empujar",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tirar",
+      "orthographic": "tirar",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tirar",
+      "orthographic": "tirar",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "atar",
+      "orthographic": "atar",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coser",
+      "orthographic": "coser",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "contar",
+      "orthographic": "contar",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "decir",
+      "orthographic": "decir",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cantar",
+      "orthographic": "cantar",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "jugar",
+      "orthographic": "jugar",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "flotar",
+      "orthographic": "flotar",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "fluir",
+      "orthographic": "fluir",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "congelarse",
+      "orthographic": "congelarse",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "congelarse",
+      "orthographic": "congelarse",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hincharse",
+      "orthographic": "hincharse",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sol",
+      "orthographic": "sol",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "luna",
+      "orthographic": "luna",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "estrella",
+      "orthographic": "estrella",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "agua",
+      "orthographic": "agua",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lluvia",
+      "orthographic": "lluvia",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "río",
+      "orthographic": "río",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lago",
+      "orthographic": "lago",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mar",
+      "orthographic": "mar",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sal",
+      "orthographic": "sal",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "piedra",
+      "orthographic": "piedra",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "arena",
+      "orthographic": "arena",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "polvo",
+      "orthographic": "polvo",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tierra",
+      "orthographic": "tierra",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nube",
+      "orthographic": "nube",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "niebla",
+      "orthographic": "niebla",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cielo",
+      "orthographic": "cielo",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "viento",
+      "orthographic": "viento",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nieve",
+      "orthographic": "nieve",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hielo",
+      "orthographic": "hielo",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "humo",
+      "orthographic": "humo",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "fuego",
+      "orthographic": "fuego",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cenizas",
+      "orthographic": "cenizas",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "quemar",
+      "orthographic": "quemar",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "camino",
+      "orthographic": "camino",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "montaña",
+      "orthographic": "montaña",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rojo",
+      "orthographic": "rojo",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "verde",
+      "orthographic": "verde",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "amarillo",
+      "orthographic": "amarillo",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blanco",
+      "orthographic": "blanco",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "negro",
+      "orthographic": "negro",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "noche",
+      "orthographic": "noche",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "día",
+      "orthographic": "día",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "año",
+      "orthographic": "año",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "caliente",
+      "orthographic": "caliente",
+      "gloss": "warm"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "caliente",
+      "orthographic": "caliente",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "frío",
+      "orthographic": "frío",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lleno",
+      "orthographic": "lleno",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nuevo",
+      "orthographic": "nuevo",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "viejo",
+      "orthographic": "viejo",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bueno",
+      "orthographic": "bueno",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "malo",
+      "orthographic": "malo",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "podrido",
+      "orthographic": "podrido",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sucio",
+      "orthographic": "sucio",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "recto",
+      "orthographic": "recto",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "redondo",
+      "orthographic": "redondo",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "agudo",
+      "orthographic": "agudo",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "agudo",
+      "orthographic": "agudo",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sin filo",
+      "orthographic": "sin filo",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sin filo",
+      "orthographic": "sin filo",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sin filo",
+      "orthographic": "sin filo",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liso",
+      "orthographic": "liso",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mojado",
+      "orthographic": "mojado",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "seco",
+      "orthographic": "seco",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "correcto",
+      "orthographic": "correcto",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cerca",
+      "orthographic": "cerca",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lejos",
+      "orthographic": "lejos",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "derecha",
+      "orthographic": "derecha",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "izquierda",
+      "orthographic": "izquierda",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "en",
+      "orthographic": "en",
+      "gloss": "at"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "en",
+      "orthographic": "en",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "en",
+      "orthographic": "en",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "con",
+      "orthographic": "con",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "y",
+      "orthographic": "y",
+      "gloss": "and"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "y",
+      "orthographic": "y",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "si",
+      "orthographic": "si",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "porque",
+      "orthographic": "porque",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nombre",
+      "orthographic": "nombre",
+      "gloss": "name"
     }
   ]
 }

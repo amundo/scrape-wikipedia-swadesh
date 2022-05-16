@@ -10,1414 +10,1179 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mi",
+      "orthographic": "mi",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yu",
+      "orthographic": "yu",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "em",
+      "orthographic": "em",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "",
-      "note": "inclusive"
+      "form": "yumi",
+      "orthographic": "yumi",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "",
-      "note": "exclusive"
+      "form": "yumi",
+      "orthographic": "yumi",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yupela",
+      "orthographic": "yupela",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dispela",
+      "orthographic": "dispela",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dispela",
+      "orthographic": "dispela",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hia",
+      "orthographic": "hia",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "long hap",
+      "orthographic": "long hap",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "",
-      "note": "interrogative"
+      "form": "husat",
+      "orthographic": "husat",
+      "gloss": "who"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "",
-      "note": "demonstrative"
+      "form": "husat",
+      "orthographic": "husat",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wanem",
+      "orthographic": "wanem",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "we",
+      "orthographic": "we",
+      "gloss": "where"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "we",
+      "orthographic": "we",
+      "gloss": "where"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "we",
+      "orthographic": "we",
+      "gloss": "where"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "we",
+      "orthographic": "we",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wanem",
+      "orthographic": "wanem",
+      "gloss": "when"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wanem",
+      "orthographic": "wanem",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "olsem",
+      "orthographic": "olsem",
+      "gloss": "how"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "olsem",
+      "orthographic": "olsem",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "no",
+      "orthographic": "no",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "olgeta",
+      "orthographic": "olgeta",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "planti",
+      "orthographic": "planti",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sampela",
+      "orthographic": "sampela",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liklik",
+      "orthographic": "liklik",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "narapela",
+      "orthographic": "narapela",
+      "gloss": "other"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "narapela",
+      "orthographic": "narapela",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wan",
+      "orthographic": "wan",
+      "gloss": "one"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wan",
+      "orthographic": "wan",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tu",
+      "orthographic": "tu",
+      "gloss": "two"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tu",
+      "orthographic": "tu",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tri",
+      "orthographic": "tri",
+      "gloss": "three"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tri",
+      "orthographic": "tri",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "fo",
+      "orthographic": "fo",
+      "gloss": "four"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "fo",
+      "orthographic": "fo",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "faiv",
+      "orthographic": "faiv",
+      "gloss": "five"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "faiv",
+      "orthographic": "faiv",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bikpela",
+      "orthographic": "bikpela",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "longpela",
+      "orthographic": "longpela",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brait",
+      "orthographic": "brait",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "strong",
+      "orthographic": "strong",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hevi",
+      "orthographic": "hevi",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liklik",
+      "orthographic": "liklik",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sotpela",
+      "orthographic": "sotpela",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "no",
+      "orthographic": "no",
+      "gloss": "narrow"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "no",
+      "orthographic": "no",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bun nating",
+      "orthographic": "bun nating",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "meri",
+      "orthographic": "meri",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "man",
+      "orthographic": "man",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "man",
+      "orthographic": "man",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "man",
+      "orthographic": "man",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pikinini",
+      "orthographic": "pikinini",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "meri",
+      "orthographic": "meri",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "man",
+      "orthographic": "man",
+      "gloss": "husband"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "man",
+      "orthographic": "man",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mama",
+      "orthographic": "mama",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "papa",
+      "orthographic": "papa",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "animal",
+      "orthographic": "animal",
+      "gloss": "animal"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "animal",
+      "orthographic": "animal",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pis",
+      "orthographic": "pis",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pisin",
+      "orthographic": "pisin",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dok",
+      "orthographic": "dok",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "laus",
+      "orthographic": "laus",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "snek",
+      "orthographic": "snek",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liklik",
+      "orthographic": "liklik",
+      "gloss": "worm"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liklik",
+      "orthographic": "liklik",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "diwai",
+      "orthographic": "diwai",
+      "gloss": "tree"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "diwai",
+      "orthographic": "diwai",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bus",
+      "orthographic": "bus",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "han",
+      "orthographic": "han",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pikinini",
+      "orthographic": "pikinini",
+      "gloss": "fruit"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pikinini",
+      "orthographic": "pikinini",
+      "gloss": "fruit"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lip",
+      "orthographic": "lip",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kil",
+      "orthographic": "kil",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "skin",
+      "orthographic": "skin",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "plaua",
+      "orthographic": "plaua",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gras",
+      "orthographic": "gras",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rop",
+      "orthographic": "rop",
+      "gloss": "rope"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rop",
+      "orthographic": "rop",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "skin",
+      "orthographic": "skin",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mit",
+      "orthographic": "mit",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blut",
+      "orthographic": "blut",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bun",
+      "orthographic": "bun",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gris",
+      "orthographic": "gris",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kiau",
+      "orthographic": "kiau",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hon",
+      "orthographic": "hon",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tel",
+      "orthographic": "tel",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gras",
+      "orthographic": "gras",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gras",
+      "orthographic": "gras",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "het",
+      "orthographic": "het",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ia",
+      "orthographic": "ia",
+      "gloss": "ear"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ia",
+      "orthographic": "ia",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ai",
+      "orthographic": "ai",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nus",
+      "orthographic": "nus",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "maut",
+      "orthographic": "maut",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tit",
+      "orthographic": "tit",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tang",
+      "orthographic": "tang",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kapa",
+      "orthographic": "kapa",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "put",
+      "orthographic": "put",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lek",
+      "orthographic": "lek",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "skru",
+      "orthographic": "skru",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "han",
+      "orthographic": "han",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "han",
+      "orthographic": "han",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bel",
+      "orthographic": "bel",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ol",
+      "orthographic": "ol",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nek",
+      "orthographic": "nek",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bak",
+      "orthographic": "bak",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "susu",
+      "orthographic": "susu",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pam",
+      "orthographic": "pam",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "liva",
+      "orthographic": "liva",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dringim",
+      "orthographic": "dringim",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kaikaim",
+      "orthographic": "kaikaim",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kaikaim",
+      "orthographic": "kaikaim",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "susu",
+      "orthographic": "susu",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "spet",
+      "orthographic": "spet",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "traut",
+      "orthographic": "traut",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "winim",
+      "orthographic": "winim",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pulim win",
+      "orthographic": "pulim win",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lap",
+      "orthographic": "lap",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lukim",
+      "orthographic": "lukim",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "harim",
+      "orthographic": "harim",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "save",
+      "orthographic": "save",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tingting",
+      "orthographic": "tingting",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "smelim",
+      "orthographic": "smelim",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "i",
+      "orthographic": "i",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "slip",
+      "orthographic": "slip",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "i",
+      "orthographic": "i",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dai",
+      "orthographic": "dai",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kilim",
+      "orthographic": "kilim",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pait",
+      "orthographic": "pait",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pait",
+      "orthographic": "pait",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ranim",
+      "orthographic": "ranim",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "paitim",
+      "orthographic": "paitim",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "katim",
+      "orthographic": "katim",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "katim",
+      "orthographic": "katim",
+      "gloss": "to split"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "katim",
+      "orthographic": "katim",
+      "gloss": "to split"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "katim",
+      "orthographic": "katim",
+      "gloss": "to split"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "digim",
+      "orthographic": "digim",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "swim",
+      "orthographic": "swim",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "flai",
+      "orthographic": "flai",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wokabaut",
+      "orthographic": "wokabaut",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kam",
+      "orthographic": "kam",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "slip",
+      "orthographic": "slip",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sindaun",
+      "orthographic": "sindaun",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sanap",
+      "orthographic": "sanap",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tanim",
+      "orthographic": "tanim",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pundaun",
+      "orthographic": "pundaun",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "givim",
+      "orthographic": "givim",
+      "gloss": "to give"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "givim",
+      "orthographic": "givim",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "holim",
+      "orthographic": "holim",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "krungutim",
+      "orthographic": "krungutim",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pilim",
+      "orthographic": "pilim",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "waswas",
+      "orthographic": "waswas",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "waswas",
+      "orthographic": "waswas",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "waipim",
+      "orthographic": "waipim",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pulim",
+      "orthographic": "pulim",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "subim",
+      "orthographic": "subim",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tromoi",
+      "orthographic": "tromoi",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nektait",
+      "orthographic": "nektait",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "samapim",
+      "orthographic": "samapim",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kaunim",
+      "orthographic": "kaunim",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tok",
+      "orthographic": "tok",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "singsing",
+      "orthographic": "singsing",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pilai",
+      "orthographic": "pilai",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "plot",
+      "orthographic": "plot",
+      "gloss": "to float"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "solap",
+      "orthographic": "solap",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "san",
+      "orthographic": "san",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mun",
+      "orthographic": "mun",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sta",
+      "orthographic": "sta",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wara",
+      "orthographic": "wara",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ren",
+      "orthographic": "ren",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wara",
+      "orthographic": "wara",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "raunwara",
+      "orthographic": "raunwara",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "solwara",
+      "orthographic": "solwara",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sol",
+      "orthographic": "sol",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ston",
+      "orthographic": "ston",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "das",
+      "orthographic": "das",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "das",
+      "orthographic": "das",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "graun",
+      "orthographic": "graun",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "klaut",
+      "orthographic": "klaut",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sno",
+      "orthographic": "sno",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "skai",
+      "orthographic": "skai",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "win",
+      "orthographic": "win",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ais",
+      "orthographic": "ais",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ais",
+      "orthographic": "ais",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "smok",
+      "orthographic": "smok",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "paia",
+      "orthographic": "paia",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sit",
+      "orthographic": "sit",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "paia",
+      "orthographic": "paia",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rot",
+      "orthographic": "rot",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "maunten",
+      "orthographic": "maunten",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "retpela",
+      "orthographic": "retpela",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "grinpela",
+      "orthographic": "grinpela",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yelopela",
+      "orthographic": "yelopela",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "waitpela",
+      "orthographic": "waitpela",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blakpela",
+      "orthographic": "blakpela",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nait",
+      "orthographic": "nait",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "de",
+      "orthographic": "de",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yia",
+      "orthographic": "yia",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hotpela",
+      "orthographic": "hotpela",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "kolpela",
+      "orthographic": "kolpela",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pulap",
+      "orthographic": "pulap",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nupela",
+      "orthographic": "nupela",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "olpela",
+      "orthographic": "olpela",
+      "gloss": "old"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "olpela",
+      "orthographic": "olpela",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gutpela",
+      "orthographic": "gutpela",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nogut",
+      "orthographic": "nogut",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nogut",
+      "orthographic": "nogut",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nogut",
+      "orthographic": "nogut",
+      "gloss": "dirty"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nogut",
+      "orthographic": "nogut",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "stretpela",
+      "orthographic": "stretpela",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "raunpela",
+      "orthographic": "raunpela",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sapela",
+      "orthographic": "sapela",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "stretpela",
+      "orthographic": "stretpela",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wet",
+      "orthographic": "wet",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "drai",
+      "orthographic": "drai",
+      "gloss": "dry"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "klosap",
+      "orthographic": "klosap",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "longwe",
+      "orthographic": "longwe",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "raithan",
+      "orthographic": "raithan",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lephan",
+      "orthographic": "lephan",
+      "gloss": "left"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lephan",
+      "orthographic": "lephan",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "long",
+      "orthographic": "long",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "long",
+      "orthographic": "long",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wantaim",
+      "orthographic": "wantaim",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "na",
+      "orthographic": "na",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sapos",
+      "orthographic": "sapos",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "long wanem",
+      "orthographic": "long wanem",
+      "gloss": "because"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "long wanem",
+      "orthographic": "long wanem",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nem",
+      "orthographic": "nem",
+      "gloss": "name"
     }
   ]
 }

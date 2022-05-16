@@ -10,1120 +10,934 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "ik",
-      "note": ""
+      "orthographic": "𐌹𐌺",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "þu",
-      "note": ""
+      "orthographic": "𐌸𐌿",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "is",
-      "note": "masculine"
+      "orthographic": "𐌹𐍃",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "si",
-      "note": "feminine"
+      "form": "is",
+      "orthographic": "𐌹𐍃",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "ita",
-      "note": "neuter"
+      "form": "is",
+      "orthographic": "𐌹𐍃",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "weis",
-      "note": ""
+      "orthographic": "𐍅𐌴𐌹𐍃",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "jus",
-      "note": ""
+      "orthographic": "𐌾𐌿𐍃",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "eis",
-      "note": ""
+      "orthographic": "𐌴𐌹𐍃",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "sa",
-      "note": ""
+      "orthographic": "𐍃𐌰",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "jains",
-      "note": ""
+      "orthographic": "𐌾𐌰𐌹𐌽𐍃",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "hēr",
-      "note": ""
+      "orthographic": "𐌷𐌴𐍂",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "þar",
-      "note": ""
+      "orthographic": "𐌸𐌰𐍂",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "ƕas",
-      "note": "masculine"
+      "orthographic": "𐍈𐌰𐍃",
+      "gloss": "who"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "ƕō",
-      "note": "feminine"
+      "form": "ƕas",
+      "orthographic": "𐍈𐌰𐍃",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "ƕa",
-      "note": ""
+      "orthographic": "𐍈𐌰",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "ƕar",
-      "note": ""
+      "orthographic": "𐍈𐌰𐍂",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "ƕan",
-      "note": ""
+      "orthographic": "𐍈𐌰𐌽",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "ƕaiwa",
-      "note": ""
+      "orthographic": "𐍈𐌰𐌹𐍅𐌰",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "ni",
-      "note": ""
+      "orthographic": "𐌽𐌹",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "alls",
-      "note": ""
+      "orthographic": "𐌰𐌻𐌻𐍃",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "manags",
-      "note": ""
+      "orthographic": "𐌼𐌰𐌽𐌰𐌲𐍃",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "sums",
-      "note": ""
+      "orthographic": "𐍃𐌿𐌼𐍃",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "faus",
-      "note": ""
+      "orthographic": "𐍆𐌰𐌿𐍃",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "anþar",
-      "note": ""
+      "orthographic": "𐌰𐌽𐌸𐌰𐍂",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "ains",
-      "note": ""
+      "orthographic": "𐌰𐌹𐌽𐍃",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "twai",
-      "note": ""
+      "orthographic": "𐍄𐍅𐌰𐌹",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "þreis",
-      "note": ""
+      "orthographic": "𐌸𐍂𐌴𐌹𐍃",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "fidwōr",
-      "note": ""
+      "orthographic": "𐍆𐌹𐌳𐍅𐍉𐍂",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "fimf",
-      "note": ""
+      "orthographic": "𐍆𐌹𐌼𐍆",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "mikils",
-      "note": ""
+      "orthographic": "𐌼𐌹𐌺𐌹𐌻𐍃",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "laggs",
-      "note": ""
+      "orthographic": "𐌻𐌰𐌲𐌲𐍃",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "braiþs",
-      "note": ""
+      "orthographic": "𐌱𐍂𐌰𐌹𐌸𐍃",
+      "gloss": "wide"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "kaurus",
-      "note": ""
+      "orthographic": "𐌺𐌰𐌿𐍂𐌿𐍃",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "leitils",
-      "note": ""
+      "orthographic": "𐌻𐌴𐌹𐍄𐌹𐌻𐍃",
+      "gloss": "small"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "aggwus",
-      "note": ""
+      "orthographic": "𐌰𐌲𐌲𐍅𐌿𐍃",
+      "gloss": "narrow"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
       "form": "qinō",
-      "note": ""
+      "orthographic": "𐌵𐌹𐌽𐍉",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "wair",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌹𐍂",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "guma",
-      "note": ""
+      "form": "wair",
+      "orthographic": "𐍅𐌰𐌹𐍂",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "manna",
-      "note": ""
+      "orthographic": "𐌼𐌰𐌽𐌽𐌰",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "barn",
-      "note": ""
+      "orthographic": "𐌱𐌰𐍂𐌽",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "qēns",
-      "note": ""
+      "orthographic": "𐌵𐌴𐌽𐍃",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "aba",
-      "note": ""
+      "orthographic": "𐌰𐌱𐌰",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "aiþei",
-      "note": ""
+      "orthographic": "𐌰𐌹𐌸𐌴𐌹",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "atta",
-      "note": ""
+      "orthographic": "𐌰𐍄𐍄𐌰",
+      "gloss": "father"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "fadar",
-      "note": ""
+      "form": "atta",
+      "orthographic": "𐌰𐍄𐍄𐌰",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "dius",
-      "note": ""
+      "orthographic": "𐌳𐌹𐌿𐍃",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "fisks",
-      "note": ""
+      "orthographic": "𐍆𐌹𐍃𐌺𐍃",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "fugls",
-      "note": ""
+      "orthographic": "𐍆𐌿𐌲𐌻𐍃",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "hunds",
-      "note": ""
+      "orthographic": "𐌷𐌿𐌽𐌳𐍃",
+      "gloss": "dog"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "waurms",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌿𐍂𐌼𐍃",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "maþa",
-      "note": ""
+      "orthographic": "𐌼𐌰𐌸𐌰",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "bagms",
-      "note": ""
+      "orthographic": "𐌱𐌰𐌲𐌼𐍃",
+      "gloss": "tree"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "walus",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌻𐌿𐍃",
+      "gloss": "stick"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "hrugga",
-      "note": ""
+      "form": "walus",
+      "orthographic": "𐍅𐌰𐌻𐌿𐍃",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "akran",
-      "note": ""
+      "orthographic": "𐌰𐌺𐍂𐌰𐌽",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "fraiw",
-      "note": ""
+      "orthographic": "𐍆𐍂𐌰𐌹𐍅",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "laufs",
-      "note": ""
+      "orthographic": "𐌻𐌰𐌿𐍆𐍃",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "waurts",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌿𐍂𐍄𐍃",
+      "gloss": "root"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "blōma",
-      "note": ""
+      "orthographic": "𐌱𐌻𐍉𐌼𐌰",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "hawi",
-      "note": ""
+      "orthographic": "𐌷𐌰𐍅𐌹",
+      "gloss": "grass"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "mimz",
-      "note": ""
+      "orthographic": "𐌼𐌹𐌼𐌶",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "blōþ",
-      "note": ""
+      "orthographic": "𐌱𐌻𐍉𐌸",
+      "gloss": "blood"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "haurn",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌿𐍂𐌽",
+      "gloss": "horn"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "tagl",
-      "note": "singulative"
+      "orthographic": "𐍄𐌰𐌲𐌻",
+      "gloss": "hair"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "skufta",
-      "note": "collective"
+      "form": "tagl",
+      "orthographic": "𐍄𐌰𐌲𐌻",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "haubiþ",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌿𐌱𐌹𐌸",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "ausō",
-      "note": ""
+      "orthographic": "𐌰𐌿𐍃𐍉",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "augō",
-      "note": ""
+      "orthographic": "𐌰𐌿𐌲𐍉",
+      "gloss": "eye"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "munþs",
-      "note": ""
+      "orthographic": "𐌼𐌿𐌽𐌸𐍃",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "tunþus",
-      "note": ""
+      "orthographic": "𐍄𐌿𐌽𐌸𐌿𐍃",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "tuggō",
-      "note": ""
+      "orthographic": "𐍄𐌿𐌲𐌲𐍉",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "fōtus",
-      "note": ""
+      "orthographic": "𐍆𐍉𐍄𐌿𐍃",
+      "gloss": "foot"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "kniu",
-      "note": ""
+      "orthographic": "𐌺𐌽𐌹𐌿",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "handus",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌽𐌳𐌿𐍃",
+      "gloss": "hand"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "wamba",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌼𐌱𐌰",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "hairþram",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌹𐍂𐌸𐍂𐌰𐌼",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "hals",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌻𐍃",
+      "gloss": "neck"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "brusts",
-      "note": ""
+      "orthographic": "𐌱𐍂𐌿𐍃𐍄𐍃",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "hairtō",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌹𐍂𐍄𐍉",
+      "gloss": "heart"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "drigkan",
-      "note": ""
+      "orthographic": "𐌳𐍂𐌹𐌲𐌺𐌰𐌽",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "matjan",
-      "note": ""
+      "orthographic": "𐌼𐌰𐍄𐌾𐌰𐌽",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "beitan",
-      "note": ""
+      "orthographic": "𐌱𐌴𐌹𐍄𐌰𐌽",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "speiwan",
-      "note": ""
+      "orthographic": "𐍃𐍀𐌴𐌹𐍅𐌰𐌽",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "waian",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌹𐌰𐌽",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "hlahjan",
-      "note": ""
+      "orthographic": "𐌷𐌻𐌰𐌷𐌾𐌰𐌽",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "saiƕan",
-      "note": ""
+      "orthographic": "𐍃𐌰𐌹𐍈𐌰𐌽",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "hausjan",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌿𐍃𐌾𐌰𐌽",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "witan",
-      "note": ""
+      "orthographic": "𐍅𐌹𐍄𐌰𐌽",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "hugjan",
-      "note": "to suppose, to mind"
+      "orthographic": "𐌷𐌿𐌲𐌾𐌰𐌽",
+      "gloss": "to think"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "þagkjan",
-      "note": "to ponder"
+      "form": "hugjan",
+      "orthographic": "𐌷𐌿𐌲𐌾𐌰𐌽",
+      "gloss": "to think"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "þugkjan",
-      "note": "to opine, to seem"
+      "form": "hugjan",
+      "orthographic": "𐌷𐌿𐌲𐌾𐌰𐌽",
+      "gloss": "to think"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "fraþjan",
-      "note": "understand, realise"
+      "form": "hugjan",
+      "orthographic": "𐌷𐌿𐌲𐌾𐌰𐌽",
+      "gloss": "to think"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "ōgan",
-      "note": ""
+      "orthographic": "𐍉𐌲𐌰𐌽",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "faurhtjan",
-      "note": ""
+      "form": "ōgan",
+      "orthographic": "𐍉𐌲𐌰𐌽",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "slēpan",
-      "note": ""
+      "orthographic": "𐍃𐌻𐌴𐍀𐌰𐌽",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "liban",
-      "note": ""
+      "orthographic": "𐌻𐌹𐌱𐌰𐌽",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "gadauþnan",
-      "note": ""
+      "orthographic": "𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌰𐌽",
+      "gloss": "to die"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
-      "form": "gaswiltan",
-      "note": ""
+      "form": "gadauþnan",
+      "orthographic": "𐌲𐌰𐌳𐌰𐌿𐌸𐌽𐌰𐌽",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "usqiman",
-      "note": ""
+      "orthographic": "𐌿𐍃𐌵𐌹𐌼𐌰𐌽",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
-      "form": "afdauþjan",
-      "note": ""
+      "form": "usqiman",
+      "orthographic": "𐌿𐍃𐌵𐌹𐌼𐌰𐌽",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "weihan",
-      "note": ""
+      "orthographic": "𐍅𐌴𐌹𐌷𐌰𐌽",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "slahan",
-      "note": ""
+      "orthographic": "𐍃𐌻𐌰𐌷𐌰𐌽",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "maitan",
-      "note": ""
+      "orthographic": "𐌼𐌰𐌹𐍄𐌰𐌽",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "graban",
-      "note": ""
+      "orthographic": "𐌲𐍂𐌰𐌱𐌰𐌽",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "gaggan",
-      "note": ""
+      "orthographic": "𐌲𐌰𐌲𐌲𐌰𐌽",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "galeiþan",
-      "note": ""
+      "form": "gaggan",
+      "orthographic": "𐌲𐌰𐌲𐌲𐌰𐌽",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "qiman",
-      "note": ""
+      "orthographic": "𐌵𐌹𐌼𐌰𐌽",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "ligan",
-      "note": ""
+      "orthographic": "𐌻𐌹𐌲𐌰𐌽",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "sitan",
-      "note": ""
+      "orthographic": "𐍃𐌹𐍄𐌰𐌽",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "standan",
-      "note": ""
+      "orthographic": "𐍃𐍄𐌰𐌽𐌳𐌰𐌽",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "wandjan",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌽𐌳𐌾𐌰𐌽",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "driusan",
-      "note": ""
+      "orthographic": "𐌳𐍂𐌹𐌿𐍃𐌰𐌽",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "giban",
-      "note": ""
+      "orthographic": "𐌲𐌹𐌱𐌰𐌽",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "haban",
-      "note": ""
+      "orthographic": "𐌷𐌰𐌱𐌰𐌽",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "þreihan",
-      "note": ""
+      "orthographic": "𐌸𐍂𐌴𐌹𐌷𐌰𐌽",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "bnauan",
-      "note": ""
+      "orthographic": "𐌱𐌽𐌰𐌿𐌰𐌽",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "þwahan",
-      "note": ""
+      "orthographic": "𐌸𐍅𐌰𐌷𐌰𐌽",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "biswairban",
-      "note": ""
+      "orthographic": "𐌱𐌹𐍃𐍅𐌰𐌹𐍂𐌱𐌰𐌽",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "þinsan",
-      "note": ""
+      "orthographic": "𐌸𐌹𐌽𐍃𐌰𐌽",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "tiuhan",
-      "note": ""
+      "form": "þinsan",
+      "orthographic": "𐌸𐌹𐌽𐍃𐌰𐌽",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "afskiuban",
-      "note": ""
+      "orthographic": "𐌰𐍆𐍃𐌺𐌹𐌿𐌱𐌰𐌽",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "wairpan",
-      "note": ""
+      "orthographic": "𐍅𐌰𐌹𐍂𐍀𐌰𐌽",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "bindan",
-      "note": ""
+      "orthographic": "𐌱𐌹𐌽𐌳𐌰𐌽",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "siujan",
-      "note": ""
+      "orthographic": "𐍃𐌹𐌿𐌾𐌰𐌽",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "garaþjan",
-      "note": ""
+      "orthographic": "𐌲𐌰𐍂𐌰𐌸𐌾𐌰𐌽",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "qiþan",
-      "note": ""
+      "orthographic": "𐌵𐌹𐌸𐌰𐌽",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "liuþōn",
-      "note": ""
+      "orthographic": "𐌻𐌹𐌿𐌸𐍉𐌽",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "rinnan",
-      "note": ""
+      "orthographic": "𐍂𐌹𐌽𐌽𐌰𐌽",
+      "gloss": "to flow"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "sunnō",
-      "note": ""
+      "orthographic": "𐍃𐌿𐌽𐌽𐍉",
+      "gloss": "sun"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
-      "form": "sauil",
-      "note": ""
+      "form": "sunnō",
+      "orthographic": "𐍃𐌿𐌽𐌽𐍉",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "mēna",
-      "note": ""
+      "orthographic": "𐌼𐌴𐌽𐌰",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "stairnō",
-      "note": ""
+      "orthographic": "𐍃𐍄𐌰𐌹𐍂𐌽𐍉",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "watō",
-      "note": ""
+      "orthographic": "𐍅𐌰𐍄𐍉",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "rign",
-      "note": ""
+      "orthographic": "𐍂𐌹𐌲𐌽",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "aƕa",
-      "note": ""
+      "orthographic": "𐌰𐍈𐌰",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "saiws",
-      "note": ""
+      "orthographic": "𐍃𐌰𐌹𐍅𐍃",
+      "gloss": "lake"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
-      "form": "marisaiws",
-      "note": ""
+      "form": "saiws",
+      "orthographic": "𐍃𐌰𐌹𐍅𐍃",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "marei",
-      "note": ""
+      "orthographic": "𐌼𐌰𐍂𐌴𐌹",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "salt",
-      "note": ""
+      "orthographic": "𐍃𐌰𐌻𐍄",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "stains",
-      "note": ""
+      "orthographic": "𐍃𐍄𐌰𐌹𐌽𐍃",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "malma",
-      "note": ""
+      "orthographic": "𐌼𐌰𐌻𐌼𐌰",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "stubjus",
-      "note": ""
+      "orthographic": "𐍃𐍄𐌿𐌱𐌾𐌿𐍃",
+      "gloss": "dust"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
-      "form": "mulda",
-      "note": ""
+      "form": "stubjus",
+      "orthographic": "𐍃𐍄𐌿𐌱𐌾𐌿𐍃",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "airþa",
-      "note": ""
+      "orthographic": "𐌰𐌹𐍂𐌸𐌰",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "milhma",
-      "note": ""
+      "orthographic": "𐌼𐌹𐌻𐌷𐌼𐌰",
+      "gloss": "cloud"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "himins",
-      "note": ""
+      "orthographic": "𐌷𐌹𐌼𐌹𐌽𐍃",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "winds",
-      "note": ""
+      "orthographic": "𐍅𐌹𐌽𐌳𐍃",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "snaiws",
-      "note": ""
+      "orthographic": "𐍃𐌽𐌰𐌹𐍅𐍃",
+      "gloss": "snow"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "fōn",
-      "note": ""
+      "orthographic": "𐍆𐍉𐌽",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "azgō",
-      "note": ""
+      "orthographic": "𐌰𐌶𐌲𐍉",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "brinnan",
-      "note": ""
+      "orthographic": "𐌱𐍂𐌹𐌽𐌽𐌰𐌽",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "wigs",
-      "note": ""
+      "orthographic": "𐍅𐌹𐌲𐍃",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "fairguni",
-      "note": ""
+      "orthographic": "𐍆𐌰𐌹𐍂𐌲𐌿𐌽𐌹",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "rauþs",
-      "note": ""
+      "orthographic": "𐍂𐌰𐌿𐌸𐍃",
+      "gloss": "red"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "ƕeits",
-      "note": ""
+      "orthographic": "𐍈𐌴𐌹𐍄𐍃",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "swarts",
-      "note": ""
+      "orthographic": "𐍃𐍅𐌰𐍂𐍄𐍃",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "nahts",
-      "note": ""
+      "orthographic": "𐌽𐌰𐌷𐍄𐍃",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "dags",
-      "note": ""
+      "orthographic": "𐌳𐌰𐌲𐍃",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "jēr",
-      "note": ""
+      "orthographic": "𐌾𐌴𐍂",
+      "gloss": "year"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "aþnam",
-      "note": ""
+      "form": "jēr",
+      "orthographic": "𐌾𐌴𐍂",
+      "gloss": "year"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "kalds",
-      "note": ""
+      "orthographic": "𐌺𐌰𐌻𐌳𐍃",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "fulls",
-      "note": ""
+      "orthographic": "𐍆𐌿𐌻𐌻𐍃",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "niujis",
-      "note": ""
+      "orthographic": "𐌽𐌹𐌿𐌾𐌹𐍃",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "sineigs",
-      "note": "of people"
+      "orthographic": "𐍃𐌹𐌽𐌴𐌹𐌲𐍃",
+      "gloss": "old"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "fairneis",
-      "note": "of things"
+      "form": "sineigs",
+      "orthographic": "𐍃𐌹𐌽𐌴𐌹𐌲𐍃",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "gōþs",
-      "note": ""
+      "orthographic": "𐌲𐍉𐌸𐍃",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "ubils",
-      "note": ""
+      "orthographic": "𐌿𐌱𐌹𐌻𐍃",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "fuls",
-      "note": ""
+      "orthographic": "𐍆𐌿𐌻𐍃",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "unhrains",
-      "note": ""
+      "orthographic": "𐌿𐌽𐌷𐍂𐌰𐌹𐌽𐍃",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "raihts",
-      "note": ""
+      "orthographic": "𐍂𐌰𐌹𐌷𐍄𐍃",
+      "gloss": "straight"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "*ƕass",
-      "note": ""
+      "orthographic": "*𐍈𐌰𐍃𐍃",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "slaihts",
-      "note": ""
+      "orthographic": "𐍃𐌻𐌰𐌹𐌷𐍄𐍃",
+      "gloss": "smooth"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "þaursus",
-      "note": ""
+      "orthographic": "𐌸𐌰𐌿𐍂𐍃𐌿𐍃",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "garaihts",
-      "note": ""
+      "orthographic": "𐌲𐌰𐍂𐌰𐌹𐌷𐍄𐍃",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "nēƕa",
-      "note": ""
+      "orthographic": "𐌽𐌴𐍈𐌰",
+      "gloss": "near"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
-      "form": "nēƕ",
-      "note": ""
+      "form": "nēƕa",
+      "orthographic": "𐌽𐌴𐍈𐌰",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "fairra",
-      "note": ""
+      "orthographic": "𐍆𐌰𐌹𐍂𐍂𐌰",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "taihswa",
-      "note": ""
+      "orthographic": "𐍄𐌰𐌹𐌷𐍃𐍅𐌰",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "hleiduma",
-      "note": ""
+      "orthographic": "𐌷𐌻𐌴𐌹𐌳𐌿𐌼𐌰",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "at",
-      "note": ""
+      "orthographic": "𐌰𐍄",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
       "form": "in",
-      "note": ""
+      "orthographic": "𐌹𐌽",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
       "form": "miþ",
-      "note": ""
+      "orthographic": "𐌼𐌹𐌸",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "jah",
-      "note": ""
+      "orthographic": "𐌾𐌰𐌷",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "jabai",
-      "note": ""
+      "orthographic": "𐌾𐌰𐌱𐌰𐌹",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "untē",
-      "note": ""
+      "orthographic": "𐌿𐌽𐍄𐌴",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "namō",
-      "note": ""
+      "orthographic": "𐌽𐌰𐌼𐍉",
+      "gloss": "name"
     }
   ]
 }

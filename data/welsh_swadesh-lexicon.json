@@ -10,1708 +10,1424 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mi",
+      "orthographic": "mi",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mi",
+      "orthographic": "mi",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ti",
+      "orthographic": "ti",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ef",
+      "orthographic": "ef",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ef",
+      "orthographic": "ef",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ef",
+      "orthographic": "ef",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ni",
+      "orthographic": "ni",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chi",
+      "orthographic": "chi",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chi",
+      "orthographic": "chi",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwy",
+      "orthographic": "hwy",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwy",
+      "orthographic": "hwy",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwy",
+      "orthographic": "hwy",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwn",
+      "orthographic": "hwn",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwn",
+      "orthographic": "hwn",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwn",
+      "orthographic": "hwn",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwnnw",
+      "orthographic": "hwnnw",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwnnw",
+      "orthographic": "hwnnw",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hwnnw",
+      "orthographic": "hwnnw",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yma",
+      "orthographic": "yma",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yna",
+      "orthographic": "yna",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pwy",
+      "orthographic": "pwy",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "beth",
+      "orthographic": "beth",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ble",
+      "orthographic": "ble",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pryd",
+      "orthographic": "pryd",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sut",
+      "orthographic": "sut",
+      "gloss": "how"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sut",
+      "orthographic": "sut",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ddim",
+      "orthographic": "ddim",
+      "gloss": "not"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ddim",
+      "orthographic": "ddim",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "holl",
+      "orthographic": "holl",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "holl",
+      "orthographic": "holl",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "holl",
+      "orthographic": "holl",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llawer",
+      "orthographic": "llawer",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhai",
+      "orthographic": "rhai",
+      "gloss": "some"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhai",
+      "orthographic": "rhai",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ychydig",
+      "orthographic": "ychydig",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "arall",
+      "orthographic": "arall",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "un",
+      "orthographic": "un",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dau",
+      "orthographic": "dau",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tair",
+      "orthographic": "tair",
+      "gloss": "three"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tair",
+      "orthographic": "tair",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pedwar",
+      "orthographic": "pedwar",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pump",
+      "orthographic": "pump",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mawr",
+      "orthographic": "mawr",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hir",
+      "orthographic": "hir",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llydan",
+      "orthographic": "llydan",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tew",
+      "orthographic": "tew",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "trwm",
+      "orthographic": "trwm",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bach",
+      "orthographic": "bach",
+      "gloss": "small"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bach",
+      "orthographic": "bach",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "byr",
+      "orthographic": "byr",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cul",
+      "orthographic": "cul",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tenau",
+      "orthographic": "tenau",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "benw",
+      "orthographic": "benw",
+      "gloss": "woman"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "benw",
+      "orthographic": "benw",
+      "gloss": "woman"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "benw",
+      "orthographic": "benw",
+      "gloss": "woman"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "benw",
+      "orthographic": "benw",
+      "gloss": "woman"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "benw",
+      "orthographic": "benw",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dyn",
+      "orthographic": "dyn",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dyn",
+      "orthographic": "dyn",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dyn",
+      "orthographic": "dyn",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "plant",
+      "orthographic": "plant",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwraig",
+      "orthographic": "gwraig",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gŵr",
+      "orthographic": "gŵr",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mam",
+      "orthographic": "mam",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tad",
+      "orthographic": "tad",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "anifail",
+      "orthographic": "anifail",
+      "gloss": "animal"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "anifail",
+      "orthographic": "anifail",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pysgodyn",
+      "orthographic": "pysgodyn",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "aderyn",
+      "orthographic": "aderyn",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ci",
+      "orthographic": "ci",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llau",
+      "orthographic": "llau",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "neidr",
+      "orthographic": "neidr",
+      "gloss": "snake"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "neidr",
+      "orthographic": "neidr",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "abwydyn",
+      "orthographic": "abwydyn",
+      "gloss": "worm"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "abwydyn",
+      "orthographic": "abwydyn",
+      "gloss": "worm"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "abwydyn",
+      "orthographic": "abwydyn",
+      "gloss": "worm"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "abwydyn",
+      "orthographic": "abwydyn",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coed",
+      "orthographic": "coed",
+      "gloss": "tree"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coed",
+      "orthographic": "coed",
+      "gloss": "tree"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coed",
+      "orthographic": "coed",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coedwig",
+      "orthographic": "coedwig",
+      "gloss": "forest"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coedwig",
+      "orthographic": "coedwig",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffon",
+      "orthographic": "ffon",
+      "gloss": "stick"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffon",
+      "orthographic": "ffon",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffrwyth",
+      "orthographic": "ffrwyth",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "had",
+      "orthographic": "had",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dail",
+      "orthographic": "dail",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwraidd",
+      "orthographic": "gwraidd",
+      "gloss": "root"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwraidd",
+      "orthographic": "gwraidd",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhisgl",
+      "orthographic": "rhisgl",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blodyn",
+      "orthographic": "blodyn",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwellt",
+      "orthographic": "gwellt",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhaff",
+      "orthographic": "rhaff",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "croen",
+      "orthographic": "croen",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cig",
+      "orthographic": "cig",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwaed",
+      "orthographic": "gwaed",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "asgwrn",
+      "orthographic": "asgwrn",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "saim",
+      "orthographic": "saim",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "wy",
+      "orthographic": "wy",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "corn",
+      "orthographic": "corn",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cynffon",
+      "orthographic": "cynffon",
+      "gloss": "tail"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cynffon",
+      "orthographic": "cynffon",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "plu",
+      "orthographic": "plu",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blew",
+      "orthographic": "blew",
+      "gloss": "hair"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blew",
+      "orthographic": "blew",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pen",
+      "orthographic": "pen",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "clust",
+      "orthographic": "clust",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llygad",
+      "orthographic": "llygad",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "trwyn",
+      "orthographic": "trwyn",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ceg",
+      "orthographic": "ceg",
+      "gloss": "mouth"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ceg",
+      "orthographic": "ceg",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dant",
+      "orthographic": "dant",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tafod",
+      "orthographic": "tafod",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ewin",
+      "orthographic": "ewin",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "troed",
+      "orthographic": "troed",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coes",
+      "orthographic": "coes",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "glin",
+      "orthographic": "glin",
+      "gloss": "knee"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "glin",
+      "orthographic": "glin",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llaw",
+      "orthographic": "llaw",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "adain",
+      "orthographic": "adain",
+      "gloss": "wing"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "adain",
+      "orthographic": "adain",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bol",
+      "orthographic": "bol",
+      "gloss": "belly"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bol",
+      "orthographic": "bol",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coluddion",
+      "orthographic": "coluddion",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coluddion",
+      "orthographic": "coluddion",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coluddion",
+      "orthographic": "coluddion",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwddf",
+      "orthographic": "gwddf",
+      "gloss": "neck"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwddf",
+      "orthographic": "gwddf",
+      "gloss": "neck"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwddf",
+      "orthographic": "gwddf",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cefn",
+      "orthographic": "cefn",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bron",
+      "orthographic": "bron",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "calon",
+      "orthographic": "calon",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "afu",
+      "orthographic": "afu",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "yfed",
+      "orthographic": "yfed",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bwyta",
+      "orthographic": "bwyta",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brathu",
+      "orthographic": "brathu",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brathu",
+      "orthographic": "brathu",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sugno",
+      "orthographic": "sugno",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "poeri",
+      "orthographic": "poeri",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwydu",
+      "orthographic": "chwydu",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwythu",
+      "orthographic": "chwythu",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "anadlu",
+      "orthographic": "anadlu",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwerthin",
+      "orthographic": "chwerthin",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gweld",
+      "orthographic": "gweld",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "clywed",
+      "orthographic": "clywed",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwybod",
+      "orthographic": "gwybod",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "meddwl",
+      "orthographic": "meddwl",
+      "gloss": "to think"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "meddwl",
+      "orthographic": "meddwl",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "aroglu",
+      "orthographic": "aroglu",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "aroglu",
+      "orthographic": "aroglu",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bod ag ofn",
+      "orthographic": "bod ag ofn",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bod ag ofn",
+      "orthographic": "bod ag ofn",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cysgu",
+      "orthographic": "cysgu",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "byw",
+      "orthographic": "byw",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "marw",
+      "orthographic": "marw",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lladd",
+      "orthographic": "lladd",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brwydro",
+      "orthographic": "brwydro",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brwydro",
+      "orthographic": "brwydro",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hela",
+      "orthographic": "hela",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bwrw",
+      "orthographic": "bwrw",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "bwrw",
+      "orthographic": "bwrw",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "torri",
+      "orthographic": "torri",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hollti",
+      "orthographic": "hollti",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwanu",
+      "orthographic": "gwanu",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwanu",
+      "orthographic": "gwanu",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cosi",
+      "orthographic": "cosi",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cloddio",
+      "orthographic": "cloddio",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cloddio",
+      "orthographic": "cloddio",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nofio",
+      "orthographic": "nofio",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hedfan",
+      "orthographic": "hedfan",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cerdded",
+      "orthographic": "cerdded",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dod",
+      "orthographic": "dod",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gorwedd",
+      "orthographic": "gorwedd",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "eistedd",
+      "orthographic": "eistedd",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sefyll",
+      "orthographic": "sefyll",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "troi",
+      "orthographic": "troi",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cwympo",
+      "orthographic": "cwympo",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cwympo",
+      "orthographic": "cwympo",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cwympo",
+      "orthographic": "cwympo",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhoi",
+      "orthographic": "rhoi",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dal",
+      "orthographic": "dal",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dal",
+      "orthographic": "dal",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwasgu",
+      "orthographic": "gwasgu",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhwtio",
+      "orthographic": "rhwtio",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhwtio",
+      "orthographic": "rhwtio",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "golchi",
+      "orthographic": "golchi",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sychu",
+      "orthographic": "sychu",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tynnu",
+      "orthographic": "tynnu",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwthio",
+      "orthographic": "gwthio",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "taflu",
+      "orthographic": "taflu",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "clymu",
+      "orthographic": "clymu",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "clymu",
+      "orthographic": "clymu",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwnïo",
+      "orthographic": "gwnïo",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhifo",
+      "orthographic": "rhifo",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dweud",
+      "orthographic": "dweud",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "canu",
+      "orthographic": "canu",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwarae",
+      "orthographic": "chwarae",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nofio",
+      "orthographic": "nofio",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llifo",
+      "orthographic": "llifo",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "rhewi",
+      "orthographic": "rhewi",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwyddo",
+      "orthographic": "chwyddo",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "haul",
+      "orthographic": "haul",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lleuad",
+      "orthographic": "lleuad",
+      "gloss": "moon"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lleuad",
+      "orthographic": "lleuad",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sêr",
+      "orthographic": "sêr",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dŵr",
+      "orthographic": "dŵr",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "glaw",
+      "orthographic": "glaw",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "afon",
+      "orthographic": "afon",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llyn",
+      "orthographic": "llyn",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "môr",
+      "orthographic": "môr",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "halen",
+      "orthographic": "halen",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "carreg",
+      "orthographic": "carreg",
+      "gloss": "stone"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "carreg",
+      "orthographic": "carreg",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tywod",
+      "orthographic": "tywod",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llwch",
+      "orthographic": "llwch",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "daear",
+      "orthographic": "daear",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cwmwl",
+      "orthographic": "cwmwl",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "niwl",
+      "orthographic": "niwl",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "awyr",
+      "orthographic": "awyr",
+      "gloss": "sky"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "awyr",
+      "orthographic": "awyr",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwynt",
+      "orthographic": "gwynt",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "eira",
+      "orthographic": "eira",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "iâ",
+      "orthographic": "iâ",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mwg",
+      "orthographic": "mwg",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "tân",
+      "orthographic": "tân",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "lludw",
+      "orthographic": "lludw",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llosgi",
+      "orthographic": "llosgi",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffordd",
+      "orthographic": "ffordd",
+      "gloss": "road"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffordd",
+      "orthographic": "ffordd",
+      "gloss": "road"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "ffordd",
+      "orthographic": "ffordd",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mynydd",
+      "orthographic": "mynydd",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coch",
+      "orthographic": "coch",
+      "gloss": "red"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "coch",
+      "orthographic": "coch",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "glas",
+      "orthographic": "glas",
+      "gloss": "green"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "glas",
+      "orthographic": "glas",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "melyn",
+      "orthographic": "melyn",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwyn",
+      "orthographic": "gwyn",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "du",
+      "orthographic": "du",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "nos",
+      "orthographic": "nos",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "dydd",
+      "orthographic": "dydd",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "blwyddyn",
+      "orthographic": "blwyddyn",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cynnes",
+      "orthographic": "cynnes",
+      "gloss": "warm"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "cynnes",
+      "orthographic": "cynnes",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "oer",
+      "orthographic": "oer",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llawn",
+      "orthographic": "llawn",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "newydd",
+      "orthographic": "newydd",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "hen",
+      "orthographic": "hen",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "da",
+      "orthographic": "da",
+      "gloss": "good"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "da",
+      "orthographic": "da",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "drwg",
+      "orthographic": "drwg",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "braen",
+      "orthographic": "braen",
+      "gloss": "rotten"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "braen",
+      "orthographic": "braen",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brwnt",
+      "orthographic": "brwnt",
+      "gloss": "dirty"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "brwnt",
+      "orthographic": "brwnt",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "syth",
+      "orthographic": "syth",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "crwn",
+      "orthographic": "crwn",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llym",
+      "orthographic": "llym",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llym",
+      "orthographic": "llym",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pŵl",
+      "orthographic": "pŵl",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "llyfn",
+      "orthographic": "llyfn",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "gwlyb",
+      "orthographic": "gwlyb",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "sych",
+      "orthographic": "sych",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "certh",
+      "orthographic": "certh",
+      "gloss": "correct"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "certh",
+      "orthographic": "certh",
+      "gloss": "correct"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "certh",
+      "orthographic": "certh",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "agos",
+      "orthographic": "agos",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "pell",
+      "orthographic": "pell",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "de",
+      "orthographic": "de",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwith",
+      "orthographic": "chwith",
+      "gloss": "left"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "chwith",
+      "orthographic": "chwith",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "at",
+      "orthographic": "at",
+      "gloss": "at"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "at",
+      "orthographic": "at",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mewn",
+      "orthographic": "mewn",
+      "gloss": "in"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "mewn",
+      "orthographic": "mewn",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "â",
+      "orthographic": "â",
+      "gloss": "with"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "â",
+      "orthographic": "â",
+      "gloss": "with"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "â",
+      "orthographic": "â",
+      "gloss": "with"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "â",
+      "orthographic": "â",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "a",
+      "orthographic": "a",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "os",
+      "orthographic": "os",
+      "gloss": "if"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "os",
+      "orthographic": "os",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "achos",
+      "orthographic": "achos",
+      "gloss": "because"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "achos",
+      "orthographic": "achos",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "",
-      "note": ""
+      "form": "enw",
+      "orthographic": "enw",
+      "gloss": "name"
     }
   ]
 }

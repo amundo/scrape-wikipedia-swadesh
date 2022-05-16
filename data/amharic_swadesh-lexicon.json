@@ -10,1264 +10,1054 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "ʾəne",
-      "note": ""
+      "orthographic": "እኔ",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "ʾäntä",
-      "note": ""
+      "orthographic": "አንተ",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "ʾänči",
-      "note": ""
+      "form": "ʾäntä",
+      "orthographic": "አንተ",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "rəswo",
-      "note": "formal"
+      "form": "ʾäntä",
+      "orthographic": "አንተ",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "ʾəsu",
-      "note": "masculine"
+      "orthographic": "እሱ",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "ʾəsʷa",
-      "note": "feminine"
+      "form": "ʾəsu",
+      "orthographic": "እሱ",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "ʾəña",
-      "note": ""
+      "orthographic": "እኛ",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "ʾənantä",
-      "note": ""
+      "orthographic": "እናንተ",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "ʾənärsu",
-      "note": ""
+      "orthographic": "እነርሱ",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "yəh",
-      "note": ""
+      "orthographic": "ይህ",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "ya",
-      "note": ""
+      "orthographic": "ያ",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "ʾəzih",
-      "note": ""
+      "orthographic": "እዚህ",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "ʾəziya",
-      "note": ""
+      "orthographic": "እዚያ",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "man",
-      "note": ""
+      "orthographic": "ማን",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "mən",
-      "note": ""
+      "orthographic": "ምን",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "yät",
-      "note": ""
+      "orthographic": "የት",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "mäče",
-      "note": ""
+      "orthographic": "መቼ",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "ʾəndet",
-      "note": ""
+      "orthographic": "እንዴት",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "ʾäydäläm",
-      "note": ""
+      "orthographic": "አይደለም",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "hulum",
-      "note": ""
+      "orthographic": "ሁሉም",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "bəzu",
-      "note": ""
+      "orthographic": "ብዙ",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "yätäwäsänä",
-      "note": ""
+      "orthographic": "የተወሰነ",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "ṭəḳit",
-      "note": ""
+      "orthographic": "ጥቂት",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "lela",
-      "note": ""
+      "orthographic": "ሌላ",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "ʾänd",
-      "note": ""
+      "orthographic": "አንድ",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "hulät",
-      "note": ""
+      "orthographic": "ሁለት",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "sost",
-      "note": ""
+      "orthographic": "ሶስት",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "ʾärat",
-      "note": ""
+      "orthographic": "አራት",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "ʾämsət",
-      "note": ""
+      "orthographic": "አምስት",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "təlḳ",
-      "note": ""
+      "orthographic": "ትልቅ",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "räzm",
-      "note": ""
+      "orthographic": "ረዝም",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "säfi",
-      "note": ""
+      "orthographic": "ሰፊ",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
-      "form": "dändana ",
-      "note": ""
+      "form": "dändana",
+      "orthographic": "ደንዳና",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "käbad",
-      "note": ""
+      "orthographic": "ከባድ",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "tənš",
-      "note": ""
+      "orthographic": "ትንሽ",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
       "form": "ʾäč̣r",
-      "note": ""
+      "orthographic": "አጭር",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "ṭäbab",
-      "note": ""
+      "orthographic": "ጠባብ",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
       "form": "ḳäč̣n",
-      "note": ""
+      "orthographic": "ቀጭን",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "setyo ",
-      "note": ""
+      "form": "setyo",
+      "orthographic": "ሴትዮ",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "golmasa ",
-      "note": ""
+      "form": "golmasa",
+      "orthographic": "ጎልማሳ",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "säwu",
-      "note": ""
+      "orthographic": "ሰዉ",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "həṣan",
-      "note": ""
+      "orthographic": "ህጻን",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "mist",
-      "note": ""
+      "orthographic": "ሚስት",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "bal",
-      "note": ""
+      "orthographic": "ባል",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "ʾənat",
-      "note": ""
+      "orthographic": "እናት",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "ʾäbat",
-      "note": ""
+      "orthographic": "አባት",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "ʾənsəsa",
-      "note": ""
+      "orthographic": "እንስሳ",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "ʾäsa",
-      "note": ""
+      "orthographic": "አሳ",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "wäf",
-      "note": ""
+      "orthographic": "ወፍ",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "wuša",
-      "note": ""
+      "orthographic": "ዉሻ",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
       "form": "ḳəmal",
-      "note": ""
+      "orthographic": "ቅማል",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "ʾəbab",
-      "note": ""
+      "orthographic": "እባብ",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "təl",
-      "note": ""
+      "orthographic": "ትል",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "zaf",
-      "note": ""
+      "orthographic": "ዛፍ",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
       "form": "dän",
-      "note": ""
+      "orthographic": "ደን",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "ləmč̣",
-      "note": ""
+      "orthographic": "ልምጭ",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "fərafre",
-      "note": ""
+      "orthographic": "ፍራፍሬ",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "zär",
-      "note": ""
+      "orthographic": "ዘር",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "ḳəṭäl",
-      "note": ""
+      "orthographic": "ቅጠል",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "sər",
-      "note": ""
+      "orthographic": "ስር",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
       "form": "ḳərfit",
-      "note": ""
+      "orthographic": "ቅርፊት",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "ʾäbäba",
-      "note": ""
+      "orthographic": "አበባ",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "sar",
-      "note": ""
+      "orthographic": "ሳር",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
       "form": "gämäd",
-      "note": ""
+      "orthographic": "ገመድ",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "ḳoda",
-      "note": ""
+      "orthographic": "ቆዳ",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "səga",
-      "note": ""
+      "orthographic": "ስጋ",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "däm",
-      "note": ""
+      "orthographic": "ደም",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
       "form": "ʾäṭnət",
-      "note": ""
+      "orthographic": "አጥንት",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
       "form": "śəb",
-      "note": ""
+      "orthographic": "ሥብ",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
       "form": "ʾənḳulal",
-      "note": ""
+      "orthographic": "እንቁላል",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "ḳänd",
-      "note": ""
+      "orthographic": "ቀንድ",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "ǧərat",
-      "note": ""
+      "orthographic": "ጅራት",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
       "form": "laba",
-      "note": ""
+      "orthographic": "ላባ",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "ṣägur",
-      "note": ""
+      "orthographic": "ጸጉር",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "č̣ənḳəlat",
-      "note": ""
+      "orthographic": "ጭንቅላት",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "ǧoro",
-      "note": ""
+      "orthographic": "ጆሮ",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "ʾäyn",
-      "note": ""
+      "orthographic": "አይን",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "ʾäfnəč̣a",
-      "note": ""
+      "orthographic": "አፍንጫ",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "ʾäf",
-      "note": ""
+      "orthographic": "አፍ",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "ṭərs",
-      "note": ""
+      "orthographic": "ጥርስ",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "məlas",
-      "note": ""
+      "orthographic": "ምላስ",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "ṭəfr",
-      "note": ""
+      "orthographic": "ጥፍር",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "yäʾgər mädaf",
-      "note": ""
+      "orthographic": "የእግር መዳፍ",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
       "form": "ʾəgr",
-      "note": ""
+      "orthographic": "እግር",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "gulbät",
-      "note": ""
+      "orthographic": "ጉልበት",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "ʾəǧ",
-      "note": ""
+      "orthographic": "እጅ",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
       "form": "kənf",
-      "note": ""
+      "orthographic": "ክንፍ",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "hod",
-      "note": ""
+      "orthographic": "ሆድ",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "guroro",
-      "note": ""
+      "orthographic": "ጉሮሮ",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "ʾängät",
-      "note": ""
+      "orthographic": "አንገት",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "ǧärba",
-      "note": ""
+      "orthographic": "ጀርባ",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "ṭut",
-      "note": ""
+      "orthographic": "ጡት",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "ləb",
-      "note": ""
+      "orthographic": "ልብ",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
       "form": "gubät",
-      "note": ""
+      "orthographic": "ጉበት",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "mäṭäṭat",
-      "note": ""
+      "orthographic": "መጠጣት",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "mäblat",
-      "note": ""
+      "orthographic": "መብላት",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "mänkäs",
-      "note": ""
+      "orthographic": "መንከስ",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
       "form": "mäṭbat",
-      "note": ""
+      "orthographic": "መጥባት",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "mätfat",
-      "note": ""
+      "orthographic": "መትፋት",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
       "form": "mastawäk",
-      "note": ""
+      "orthographic": "ማስታወክ",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "mänfäs",
-      "note": ""
+      "orthographic": "መንፈስ",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
       "form": "mätänfäs",
-      "note": ""
+      "orthographic": "መተንፈስ",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "mäsaḳ",
-      "note": ""
+      "orthographic": "መሳቅ",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "mayät",
-      "note": ""
+      "orthographic": "ማየት",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "mäsmat",
-      "note": ""
+      "orthographic": "መስማት",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "mawoḳ",
-      "note": ""
+      "orthographic": "ማዎቅ",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "masäb",
-      "note": ""
+      "orthographic": "ማሰብ",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
       "form": "maštät",
-      "note": ""
+      "orthographic": "ማሽተት",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "mäfrat",
-      "note": ""
+      "orthographic": "መፍራት",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "mätäñat",
-      "note": ""
+      "orthographic": "መተኛት",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "mänor",
-      "note": ""
+      "orthographic": "መኖር",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "mämot",
-      "note": ""
+      "orthographic": "መሞት",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "mägdäl",
-      "note": ""
+      "orthographic": "መግደል",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "mätagäl",
-      "note": ""
+      "orthographic": "መታገል",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
       "form": "madän",
-      "note": ""
+      "orthographic": "ማደን",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "mämtat",
-      "note": ""
+      "orthographic": "መምታት",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "mäḳuräṭ",
-      "note": ""
+      "orthographic": "መቁረጥ",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
       "form": "mänäṭaṭäl",
-      "note": ""
+      "orthographic": "መነጣጠል",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "mäwugat",
-      "note": ""
+      "orthographic": "መዉጋት",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
       "form": "mäfaḳ",
-      "note": ""
+      "orthographic": "መፋቅ",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "mäḳofär",
-      "note": ""
+      "orthographic": "መቆፈር",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "mäwañät",
-      "note": ""
+      "orthographic": "መዋኘት",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "mäbrär",
-      "note": ""
+      "orthographic": "መብረር",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "mähed",
-      "note": ""
+      "orthographic": "መሄድ",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "mämṭat",
-      "note": ""
+      "orthographic": "መምጣት",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "mägadäm",
-      "note": ""
+      "orthographic": "መጋደም",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "mäḳämäṭ",
-      "note": ""
+      "orthographic": "መቀመጥ",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "mäḳom",
-      "note": ""
+      "orthographic": "መቆም",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "mätaṭäf",
-      "note": ""
+      "orthographic": "መታጠፍ",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "mäwudäḳ",
-      "note": ""
+      "orthographic": "መዉደቅ",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "mäsṭät",
-      "note": ""
+      "orthographic": "መስጠት",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "mäyaz",
-      "note": ""
+      "orthographic": "መያዝ",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "mäč̣an",
-      "note": ""
+      "orthographic": "መጫን",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "mäboräš",
-      "note": ""
+      "orthographic": "መቦረሽ",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "maṭäb",
-      "note": ""
+      "orthographic": "ማጠብ",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "mašät(mäfätäg)",
-      "note": ""
+      "orthographic": "ማሸት(መፈተግ)",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "mägotät",
-      "note": ""
+      "orthographic": "መጎተት",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "mägfat",
-      "note": ""
+      "orthographic": "መግፋት",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "mäwärwär",
-      "note": ""
+      "orthographic": "መወርወር",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "masär",
-      "note": ""
+      "orthographic": "ማሰር",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "säsfat",
-      "note": ""
+      "orthographic": "ሰስፋት",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "mäḳuṭär",
-      "note": ""
+      "orthographic": "መቁጠር",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "mänagär",
-      "note": ""
+      "orthographic": "መናገር",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "mäzämär",
-      "note": ""
+      "orthographic": "መዘመር",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "mäč̣awät",
-      "note": ""
+      "orthographic": "መጫወት",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "mänsafäf",
-      "note": ""
+      "orthographic": "መንሳፈፍ",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "mäwuräd",
-      "note": ""
+      "orthographic": "መዉረድ",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
       "form": "mäḳäzḳäz",
-      "note": ""
+      "orthographic": "መቀዝቀዝ",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
       "form": "mabäṭ",
-      "note": ""
+      "orthographic": "ማበጥ",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "ṣähäy",
-      "note": ""
+      "orthographic": "ጸሀይ",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "č̣äräḳa",
-      "note": ""
+      "orthographic": "ጨረቃ",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "kokäb",
-      "note": ""
+      "orthographic": "ኮከብ",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "wuha",
-      "note": ""
+      "orthographic": "ዉሃ",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "zənab",
-      "note": ""
+      "orthographic": "ዝናብ",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "wänz",
-      "note": ""
+      "orthographic": "ወንዝ",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "häyḳ",
-      "note": ""
+      "orthographic": "ሀይቅ",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "bahr",
-      "note": ""
+      "orthographic": "ባህር",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "č̣äwu",
-      "note": ""
+      "orthographic": "ጨዉ",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "dəngay",
-      "note": ""
+      "orthographic": "ድንጋይ",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "ʾäšäwa",
-      "note": ""
+      "orthographic": "አሸዋ",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "ʾäbara",
-      "note": ""
+      "orthographic": "አባራ",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "märet",
-      "note": ""
+      "orthographic": "መሬት",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "dämäna",
-      "note": ""
+      "orthographic": "ደመና",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
       "form": "č̣əgag",
-      "note": ""
+      "orthographic": "ጭጋግ",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "sämay",
-      "note": ""
+      "orthographic": "ሰማይ",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "näfas",
-      "note": ""
+      "orthographic": "ነፋስ",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "bənañ",
-      "note": ""
+      "orthographic": "ብናኝ",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
       "form": "bärädo",
-      "note": ""
+      "orthographic": "በረዶ",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
       "form": "č̣əs",
-      "note": ""
+      "orthographic": "ጭስ",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "ʾəsat",
-      "note": ""
+      "orthographic": "እሳት",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "ʾämäd",
-      "note": ""
+      "orthographic": "አመድ",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "maḳaṭäl",
-      "note": ""
+      "orthographic": "ማቃጠል",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "mängäd",
-      "note": ""
+      "orthographic": "መንገድ",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "tärara",
-      "note": ""
+      "orthographic": "ተራራ",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "ḳäy",
-      "note": ""
+      "orthographic": "ቀይ",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
       "form": "ʾärängäde",
-      "note": ""
+      "orthographic": "አረንገዴ",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
       "form": "bič̣a",
-      "note": ""
+      "orthographic": "ቢጫ",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "näč̣",
-      "note": ""
+      "orthographic": "ነጭ",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "ṭəḳur",
-      "note": ""
+      "orthographic": "ጥቁር",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "lelit",
-      "note": ""
+      "orthographic": "ሌሊት",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "ḳän",
-      "note": ""
+      "orthographic": "ቀን",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "ʾämät",
-      "note": ""
+      "orthographic": "አመት",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
       "form": "muḳ",
-      "note": ""
+      "orthographic": "ሙቅ",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "ḳäzḳaza",
-      "note": ""
+      "orthographic": "ቀዝቃዛ",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "mulu",
-      "note": ""
+      "orthographic": "ሙሉ",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "ʾädis",
-      "note": ""
+      "orthographic": "አዲስ",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "ʾäroge",
-      "note": ""
+      "orthographic": "አሮጌ",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "ṭəru",
-      "note": ""
+      "orthographic": "ጥሩ",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "mäṭfo",
-      "note": ""
+      "orthographic": "መጥፎ",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "yägäma",
-      "note": ""
+      "orthographic": "የገማ",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "ḳošaša",
-      "note": ""
+      "orthographic": "ቆሻሻ",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "ḳäṭta",
-      "note": ""
+      "orthographic": "ቀጥታ",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
       "form": "kəb",
-      "note": ""
+      "orthographic": "ክብ",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "səlät",
-      "note": ""
+      "orthographic": "ስለት",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
       "form": "yädolädomä",
-      "note": ""
+      "orthographic": "የዶለዶመ",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "läslasa",
-      "note": ""
+      "orthographic": "ለስላሳ",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "rəṭb",
-      "note": ""
+      "orthographic": "ርጥብ",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "däräḳ",
-      "note": ""
+      "orthographic": "ደረቅ",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "təkkəl",
-      "note": ""
+      "orthographic": "ትክክል",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "ḳərb",
-      "note": ""
+      "orthographic": "ቅርብ",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "ruḳ",
-      "note": ""
+      "orthographic": "ሩቅ",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "ḳäñ",
-      "note": ""
+      "orthographic": "ቀኝ",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "gəra",
-      "note": ""
+      "orthographic": "ግራ",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "lay",
-      "note": ""
+      "orthographic": "ላይ",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "wusṭ ",
-      "note": ""
+      "form": "wusṭ",
+      "orthographic": "ዉስጥ",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
       "form": "kä….gar",
-      "note": ""
+      "orthographic": "ከ….ጋር",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "ʾəna",
-      "note": ""
+      "orthographic": "እና",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "bihon",
-      "note": ""
+      "orthographic": "ቢሆን",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "məknəyatum",
-      "note": ""
+      "orthographic": "ምክንያቱም",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "səm",
-      "note": ""
+      "orthographic": "ስም",
+      "gloss": "name"
     }
   ]
 }

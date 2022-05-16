@@ -10,1294 +10,1079 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "me",
-      "note": ""
+      "orthographic": "მე",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "šen",
-      "note": ""
+      "orthographic": "შენ",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "is",
-      "note": ""
+      "orthographic": "ის",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "čven",
-      "note": ""
+      "orthographic": "ჩვენ",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "tkven",
-      "note": ""
+      "orthographic": "თქვენ",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "isini",
-      "note": ""
+      "orthographic": "ისინი",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "es",
-      "note": ""
+      "orthographic": "ეს",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "is",
-      "note": ""
+      "orthographic": "ის",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "ak",
-      "note": ""
+      "orthographic": "აქ",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "ik",
-      "note": ""
+      "orthographic": "იქ",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "vin",
-      "note": ""
+      "orthographic": "ვინ",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "ra",
-      "note": ""
+      "orthographic": "რა",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "sad",
-      "note": ""
+      "orthographic": "სად",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "rodis ",
-      "note": ""
+      "form": "rodis",
+      "orthographic": "როდის",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
-      "form": "rogor ",
-      "note": ""
+      "form": "rogor",
+      "orthographic": "როგორ",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "ar",
-      "note": ""
+      "orthographic": "არ",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "q̇velaperi",
-      "note": ""
+      "orthographic": "ყველაფერი",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "bevri",
-      "note": ""
+      "orthographic": "ბევრი",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "ramdenime",
-      "note": ""
+      "orthographic": "რამდენიმე",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "coṭa",
-      "note": ""
+      "orthographic": "ცოტა",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "sxva",
-      "note": ""
+      "orthographic": "სხვა",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "erti",
-      "note": ""
+      "orthographic": "ერთი",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "ori",
-      "note": ""
+      "orthographic": "ორი",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "sami",
-      "note": ""
+      "orthographic": "სამი",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "otxi",
-      "note": ""
+      "orthographic": "ოთხი",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "xuti",
-      "note": ""
+      "orthographic": "ხუთი",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "didi",
-      "note": ""
+      "orthographic": "დიდი",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "grʒeli",
-      "note": ""
+      "orthographic": "გრძელი",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "parto",
-      "note": ""
+      "orthographic": "ფართო",
+      "gloss": "wide"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
-      "form": "ganieri",
-      "note": ""
+      "form": "parto",
+      "orthographic": "ფართო",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
       "form": "skeli",
-      "note": ""
+      "orthographic": "სქელი",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "mʒime",
-      "note": ""
+      "orthographic": "მძიმე",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "ṗaṭara",
-      "note": ""
+      "orthographic": "პატარა",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
       "form": "moḳle",
-      "note": ""
+      "orthographic": "მოკლე",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "vic̣ro",
-      "note": ""
+      "orthographic": "ვიწრო",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
       "form": "txeli",
-      "note": ""
+      "orthographic": "თხელი",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
       "form": "kali",
-      "note": ""
+      "orthographic": "ქალი",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "ḳaci",
-      "note": ""
+      "orthographic": "კაცი",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "adamiani",
-      "note": ""
+      "orthographic": "ადამიანი",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "bavšvi",
-      "note": ""
+      "orthographic": "ბავშვი",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "coli",
-      "note": ""
+      "orthographic": "ცოლი",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "kmari",
-      "note": ""
+      "orthographic": "ქმარი",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "deda",
-      "note": ""
+      "orthographic": "დედა",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "mama",
-      "note": ""
+      "orthographic": "მამა",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "cxoveli",
-      "note": ""
+      "orthographic": "ცხოველი",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "tevzi",
-      "note": ""
+      "orthographic": "თევზი",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "čiṭi",
-      "note": ""
+      "orthographic": "ჩიტი",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "ʒaɣli",
-      "note": ""
+      "orthographic": "ძაღლი",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
       "form": "ṭili",
-      "note": ""
+      "orthographic": "ტილი",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "gveli",
-      "note": ""
+      "orthographic": "გველი",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "č̣ia",
-      "note": ""
+      "orthographic": "ჭია",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "xe",
-      "note": ""
+      "orthographic": "ხე",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
       "form": "ṭq̇e",
-      "note": ""
+      "orthographic": "ტყე",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "ǯoxi",
-      "note": ""
+      "orthographic": "ჯოხი",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "xili",
-      "note": ""
+      "orthographic": "ხილი",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "tesli",
-      "note": ""
+      "orthographic": "თესლი",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "potoli",
-      "note": ""
+      "orthographic": "ფოთოლი",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "pesvi",
-      "note": ""
+      "orthographic": "ფესვი",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
       "form": "kerki",
-      "note": ""
+      "orthographic": "ქერქი",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "q̇vavili",
-      "note": ""
+      "orthographic": "ყვავილი",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "balaxi",
-      "note": ""
+      "orthographic": "ბალახი",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
       "form": "toḳi",
-      "note": ""
+      "orthographic": "თოკი",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "ḳani",
-      "note": ""
+      "orthographic": "კანი",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "xorci",
-      "note": ""
+      "orthographic": "ხორცი",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "sisxli",
-      "note": ""
+      "orthographic": "სისხლი",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
       "form": "ʒvali",
-      "note": ""
+      "orthographic": "ძვალი",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
       "form": "koni",
-      "note": ""
+      "orthographic": "ქონი",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
-      "form": "cximi",
-      "note": ""
+      "form": "koni",
+      "orthographic": "ქონი",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
       "form": "ḳvercxi",
-      "note": ""
+      "orthographic": "კვერცხი",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "rka",
-      "note": ""
+      "orthographic": "რქა",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "ḳudi",
-      "note": ""
+      "orthographic": "კუდი",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
       "form": "prta",
-      "note": ""
+      "orthographic": "ფრთა",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "tma",
-      "note": ""
+      "orthographic": "თმა",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "tavi",
-      "note": ""
+      "orthographic": "თავი",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "q̇uri",
-      "note": ""
+      "orthographic": "ყური",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "tvali",
-      "note": ""
+      "orthographic": "თვალი",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "cxviri",
-      "note": ""
+      "orthographic": "ცხვირი",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "ṗiri",
-      "note": ""
+      "orthographic": "პირი",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "ḳbili",
-      "note": ""
+      "orthographic": "კბილი",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "ena",
-      "note": ""
+      "orthographic": "ენა",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "prčxili",
-      "note": ""
+      "orthographic": "ფრჩხილი",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "ṭerpi",
-      "note": ""
+      "orthographic": "ტერფი",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
       "form": "pexi",
-      "note": ""
+      "orthographic": "ფეხი",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "muxli",
-      "note": ""
+      "orthographic": "მუხლი",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "xeli",
-      "note": ""
+      "orthographic": "ხელი",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
       "form": "prta",
-      "note": ""
+      "orthographic": "ფრთა",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "muceli",
-      "note": ""
+      "orthographic": "მუცელი",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "nac̣lavi",
-      "note": ""
+      "orthographic": "ნაწლავი",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "ḳiseri",
-      "note": ""
+      "orthographic": "კისერი",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "zurgi",
-      "note": ""
+      "orthographic": "ზურგი",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "mḳerdi",
-      "note": ""
+      "orthographic": "მკერდი",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "guli",
-      "note": ""
+      "orthographic": "გული",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
       "form": "ɣviʒli",
-      "note": ""
+      "orthographic": "ღვიძლი",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "sma",
-      "note": ""
+      "orthographic": "სმა",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "č̣ama",
-      "note": ""
+      "orthographic": "ჭამა",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "ḳbena",
-      "note": ""
+      "orthographic": "კბენა",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
       "form": "c̣ova",
-      "note": ""
+      "orthographic": "წოვა",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "purtxva",
-      "note": ""
+      "orthographic": "ფურთხვა",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
       "form": "rc̣q̇eva",
-      "note": ""
+      "orthographic": "რწყევა",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "berva",
-      "note": ""
+      "orthographic": "ბერვა",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
       "form": "suntkva",
-      "note": ""
+      "orthographic": "სუნთქვა",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "sicili",
-      "note": ""
+      "orthographic": "სიცილი",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "naxva",
-      "note": ""
+      "orthographic": "ნახვა",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "smena",
-      "note": ""
+      "orthographic": "სმენა",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "codna",
-      "note": ""
+      "orthographic": "ცოდნა",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "pikri",
-      "note": ""
+      "orthographic": "ფიქრი",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
       "form": "q̇nosva",
-      "note": ""
+      "orthographic": "ყნოსვა",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "šiši",
-      "note": ""
+      "orthographic": "შიში",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "ʒili",
-      "note": ""
+      "orthographic": "ძილი",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "cxovreba",
-      "note": ""
+      "orthographic": "ცხოვრება",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "ḳvdeba",
-      "note": ""
+      "orthographic": "კვდება",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "ḳvla",
-      "note": ""
+      "orthographic": "კვლა",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "brʒola",
-      "note": ""
+      "orthographic": "ბრძოლა",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
       "form": "nadiroba",
-      "note": ""
+      "orthographic": "ნადირობა",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "rṭq̇ma",
-      "note": ""
+      "orthographic": "რტყმა",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "č̣ra",
-      "note": ""
+      "orthographic": "ჭრა",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
       "form": "mṭvreva",
-      "note": ""
+      "orthographic": "მტვრევა",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "čarṭq̇ma",
-      "note": ""
+      "orthographic": "ჩარტყმა",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
-      "form": "čacema",
-      "note": ""
+      "form": "čarṭq̇ma",
+      "orthographic": "ჩარტყმა",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
       "form": "pxač̣na",
-      "note": ""
+      "orthographic": "ფხაჭნა",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "barva",
-      "note": ""
+      "orthographic": "ბარვა",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "curva",
-      "note": ""
+      "orthographic": "ცურვა",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "prena",
-      "note": ""
+      "orthographic": "ფრენა",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "siaruli",
-      "note": ""
+      "orthographic": "სიარული",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "mosvla",
-      "note": ""
+      "orthographic": "მოსვლა",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "c̣ola",
-      "note": ""
+      "orthographic": "წოლა",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "ǯdoma",
-      "note": ""
+      "orthographic": "ჯდომა",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "adgoma",
-      "note": ""
+      "orthographic": "ადგომა",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
-      "form": "dgoma",
-      "note": ""
+      "form": "adgoma",
+      "orthographic": "ადგომა",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "ṭriali",
-      "note": ""
+      "orthographic": "ტრიალი",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "dacema",
-      "note": ""
+      "orthographic": "დაცემა",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "micema",
-      "note": ""
+      "orthographic": "მიცემა",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "č̣era",
-      "note": ""
+      "orthographic": "ჭერა",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "dac̣ola",
-      "note": ""
+      "orthographic": "დაწოლა",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "c̣menda",
-      "note": ""
+      "orthographic": "წმენდა",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "recxva",
-      "note": ""
+      "orthographic": "რეცხვა",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "c̣menda",
-      "note": ""
+      "orthographic": "წმენდა",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "treva",
-      "note": ""
+      "orthographic": "თრევა",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "biʒgeba",
-      "note": ""
+      "orthographic": "ბიძგება",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "gadagdeba",
-      "note": ""
+      "orthographic": "გადაგდება",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "šexveva",
-      "note": ""
+      "orthographic": "შეხვევა",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "ḳerva",
-      "note": ""
+      "orthographic": "კერვა",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "tvla",
-      "note": ""
+      "orthographic": "თვლა",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "tkma",
-      "note": ""
+      "orthographic": "თქმა",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "mɣera",
-      "note": ""
+      "orthographic": "მღერა",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "tamašoba",
-      "note": ""
+      "orthographic": "თამაშობა",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "curva",
-      "note": ""
+      "orthographic": "ცურვა",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "dena",
-      "note": ""
+      "orthographic": "დენა",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
       "form": "gaq̇inva",
-      "note": ""
+      "orthographic": "გაყინვა",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
       "form": "gadideba",
-      "note": ""
+      "orthographic": "გადიდება",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "mze",
-      "note": ""
+      "orthographic": "მზე",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "mtvare",
-      "note": ""
+      "orthographic": "მთვარე",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "varsḳvlavi",
-      "note": ""
+      "orthographic": "ვარსკვლავი",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "c̣q̇ali",
-      "note": ""
+      "orthographic": "წყალი",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "c̣vima",
-      "note": ""
+      "orthographic": "წვიმა",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "mdinare",
-      "note": ""
+      "orthographic": "მდინარე",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "ṭba",
-      "note": ""
+      "orthographic": "ტბა",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "zɣva",
-      "note": ""
+      "orthographic": "ზღვა",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "marili",
-      "note": ""
+      "orthographic": "მარილი",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "kva",
-      "note": ""
+      "orthographic": "ქვა",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "sila",
-      "note": ""
+      "orthographic": "სილა",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "mṭveri",
-      "note": ""
+      "orthographic": "მტვერი",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "mic̣a",
-      "note": ""
+      "orthographic": "მიწა",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "ɣrubeli",
-      "note": ""
+      "orthographic": "ღრუბელი",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
       "form": "nisli",
-      "note": ""
+      "orthographic": "ნისლი",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "ca",
-      "note": ""
+      "orthographic": "ცა",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "kari",
-      "note": ""
+      "orthographic": "ქარი",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "tovli",
-      "note": ""
+      "orthographic": "თოვლი",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
       "form": "q̇inuli",
-      "note": ""
+      "orthographic": "ყინული",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
       "form": "ḳvamli",
-      "note": ""
+      "orthographic": "კვამლი",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "cecxli",
-      "note": ""
+      "orthographic": "ცეცხლი",
+      "gloss": "fire"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "xanʒari",
-      "note": ""
+      "form": "cecxli",
+      "orthographic": "ცეცხლი",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "perpli",
-      "note": ""
+      "orthographic": "ფერფლი",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "c̣va",
-      "note": ""
+      "orthographic": "წვა",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "gza",
-      "note": ""
+      "orthographic": "გზა",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "mta",
-      "note": ""
+      "orthographic": "მთა",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "c̣iteli",
-      "note": ""
+      "orthographic": "წითელი",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
       "form": "mc̣vane",
-      "note": ""
+      "orthographic": "მწვანე",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
       "form": "q̇viteli",
-      "note": ""
+      "orthographic": "ყვითელი",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "tetri",
-      "note": ""
+      "orthographic": "თეთრი",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "šavi",
-      "note": ""
+      "orthographic": "შავი",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "ɣame",
-      "note": ""
+      "orthographic": "ღამე",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "dɣe",
-      "note": ""
+      "orthographic": "დღე",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "c̣eli",
-      "note": ""
+      "orthographic": "წელი",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
       "form": "tbili",
-      "note": ""
+      "orthographic": "თბილი",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "civi",
-      "note": ""
+      "orthographic": "ცივი",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "savse",
-      "note": ""
+      "orthographic": "სავსე",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "axali",
-      "note": ""
+      "orthographic": "ახალი",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "ʒveli",
-      "note": ""
+      "orthographic": "ძველი",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "ḳargi",
-      "note": ""
+      "orthographic": "კარგი",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "cudi",
-      "note": ""
+      "orthographic": "ცუდი",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "damṗali",
-      "note": ""
+      "orthographic": "დამპალი",
+      "gloss": "rotten"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
-      "form": "gapuč̣ebuli",
-      "note": ""
+      "form": "damṗali",
+      "orthographic": "დამპალი",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "č̣uč̣q̇iani",
-      "note": ""
+      "orthographic": "ჭუჭყიანი",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "ṗirdaṗiri",
-      "note": ""
+      "orthographic": "პირდაპირი",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
       "form": "mrgvali",
-      "note": ""
+      "orthographic": "მრგვალი",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "basri",
-      "note": ""
+      "orthographic": "ბასრი",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
-      "form": "mč̣reli",
-      "note": ""
+      "form": "basri",
+      "orthographic": "ბასრი",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
       "form": "blagvi",
-      "note": ""
+      "orthographic": "ბლაგვი",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "gluvi",
-      "note": ""
+      "orthographic": "გლუვი",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "sveli",
-      "note": ""
+      "orthographic": "სველი",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "mšrali",
-      "note": ""
+      "orthographic": "მშრალი",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "zusṭi",
-      "note": ""
+      "orthographic": "ზუსტი",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "axlo",
-      "note": ""
+      "orthographic": "ახლო",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "šori",
-      "note": ""
+      "orthographic": "შორი",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "marǯvena",
-      "note": ""
+      "orthographic": "მარჯვენა",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "marcxena",
-      "note": ""
+      "orthographic": "მარცხენა",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "-ši",
-      "note": ""
+      "orthographic": "-ში",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
       "form": "-ši",
-      "note": ""
+      "orthographic": "-ში",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
       "form": "-tan",
-      "note": ""
+      "orthographic": "-თან",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "da",
-      "note": ""
+      "orthographic": "და",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "tu, rom",
-      "note": ""
+      "orthographic": "თუ, რომ",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "radgan",
-      "note": ""
+      "orthographic": "რადგან",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "saxeli",
-      "note": ""
+      "orthographic": "სახელი",
+      "gloss": "name"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "gvari",
-      "note": ""
+      "form": "saxeli",
+      "orthographic": "სახელი",
+      "gloss": "name"
     }
   ]
 }

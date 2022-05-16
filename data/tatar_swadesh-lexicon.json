@@ -10,1480 +10,1234 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "min",
-      "note": ""
+      "orthographic": "мин",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "sin",
-      "note": ""
+      "orthographic": "син",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "ul",
-      "note": ""
+      "orthographic": "ул",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "bez",
-      "note": ""
+      "orthographic": "без",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "sez",
-      "note": ""
+      "orthographic": "сез",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "alar",
-      "note": ""
+      "orthographic": "алар",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "bu",
-      "note": ""
+      "orthographic": "бу",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "tege",
-      "note": ""
+      "orthographic": "теге",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "şul",
-      "note": ""
+      "form": "tege",
+      "orthographic": "теге",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "monda",
-      "note": ""
+      "orthographic": "монда",
+      "gloss": "here"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "biredä",
-      "note": ""
+      "form": "monda",
+      "orthographic": "монда",
+      "gloss": "here"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "bu cirdä",
-      "note": ""
+      "form": "monda",
+      "orthographic": "монда",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "tegendä",
-      "note": ""
+      "orthographic": "тегендә",
+      "gloss": "there"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "anda",
-      "note": ""
+      "form": "tegendä",
+      "orthographic": "тегендә",
+      "gloss": "there"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "şul cirdä",
-      "note": ""
+      "form": "tegendä",
+      "orthographic": "тегендә",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "kem",
-      "note": ""
+      "orthographic": "кем",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "närsä",
-      "note": ""
+      "orthographic": "нәрсә",
+      "gloss": "what"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
-      "form": "ni",
-      "note": ""
+      "form": "närsä",
+      "orthographic": "нәрсә",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "qayda",
-      "note": ""
+      "orthographic": "кайда",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "qayçan",
-      "note": ""
+      "orthographic": "кайчан",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "niçek",
-      "note": ""
+      "orthographic": "ничек",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "tügel",
-      "note": ""
+      "orthographic": "түгел",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "böten",
-      "note": ""
+      "orthographic": "бөтен",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "barı",
-      "note": ""
+      "form": "böten",
+      "orthographic": "бөтен",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "hämmä",
-      "note": ""
+      "form": "böten",
+      "orthographic": "бөтен",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "küp",
-      "note": ""
+      "orthographic": "күп",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "berniçä",
-      "note": ""
+      "orthographic": "берничә",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "az",
-      "note": ""
+      "orthographic": "аз",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "başka",
-      "note": ""
+      "orthographic": "башка",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "ber",
-      "note": ""
+      "orthographic": "бер",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "ike",
-      "note": ""
+      "orthographic": "ике",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "öç",
-      "note": ""
+      "orthographic": "өч",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "dürt",
-      "note": ""
+      "orthographic": "дүрт",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "biş",
-      "note": ""
+      "orthographic": "биш",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "zur",
-      "note": ""
+      "orthographic": "зур",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "ozın",
-      "note": ""
+      "orthographic": "озын",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "kiñ",
-      "note": ""
+      "orthographic": "киң",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
       "form": "yuan",
-      "note": ""
+      "orthographic": "юан",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "awır",
-      "note": ""
+      "orthographic": "авыр",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "keçkenä",
-      "note": ""
+      "orthographic": "кечкенә",
+      "gloss": "small"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "keçe",
-      "note": ""
+      "form": "keçkenä",
+      "orthographic": "кечкенә",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
       "form": "qıska",
-      "note": ""
+      "orthographic": "кыска",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "tar",
-      "note": ""
+      "orthographic": "тар",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
       "form": "neçkä",
-      "note": ""
+      "orthographic": "нечкә",
+      "gloss": "thin"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "näzek",
-      "note": ""
+      "form": "neçkä",
+      "orthographic": "нечкә",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
       "form": "xatın",
-      "note": ""
+      "orthographic": "хатын",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "ir",
-      "note": ""
+      "orthographic": "ир",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "keşe",
-      "note": ""
+      "orthographic": "кеше",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "bala",
-      "note": ""
+      "orthographic": "бала",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "xatın",
-      "note": ""
+      "orthographic": "хатын",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "ir",
-      "note": ""
+      "orthographic": "ир",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "ana",
-      "note": ""
+      "orthographic": "ана",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "ata",
-      "note": ""
+      "orthographic": "ата",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "xaywan",
-      "note": ""
+      "orthographic": "хайван",
+      "gloss": "animal"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "cänlek",
-      "note": ""
+      "form": "xaywan",
+      "orthographic": "хайван",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "balıq",
-      "note": ""
+      "orthographic": "балык",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "qoş",
-      "note": ""
+      "orthographic": "кош",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "et",
-      "note": ""
+      "orthographic": "эт",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
       "form": "bet",
-      "note": ""
+      "orthographic": "бет",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "elan",
-      "note": ""
+      "orthographic": "елан",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "sualçan",
-      "note": ""
+      "orthographic": "суалчан",
+      "gloss": "worm"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
-      "form": "qort",
-      "note": ""
+      "form": "sualçan",
+      "orthographic": "суалчан",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "ağaç",
-      "note": ""
+      "orthographic": "агач",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
       "form": "urman",
-      "note": ""
+      "orthographic": "урман",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "tayak",
-      "note": ""
+      "orthographic": "таяк",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "cimeş",
-      "note": ""
+      "orthographic": "җимеш",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "börtek",
-      "note": ""
+      "orthographic": "бөртек",
+      "gloss": "seed"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
-      "form": "orlıq",
-      "note": ""
+      "form": "börtek",
+      "orthographic": "бөртек",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "yafraq",
-      "note": ""
+      "orthographic": "яфрак",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "tamır",
-      "note": ""
+      "orthographic": "тамыр",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
       "form": "qabıq",
-      "note": ""
+      "orthographic": "кабык",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "çäçäk",
-      "note": ""
+      "orthographic": "чәчәк",
+      "gloss": "flower"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
-      "form": "göl",
-      "note": ""
+      "form": "çäçäk",
+      "orthographic": "чәчәк",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "ülän",
-      "note": ""
+      "orthographic": "үлән",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
       "form": "bau",
-      "note": ""
+      "orthographic": "бау",
+      "gloss": "rope"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "arkan",
-      "note": ""
+      "form": "bau",
+      "orthographic": "бау",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "tire",
-      "note": ""
+      "orthographic": "тире",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "it",
-      "note": ""
+      "orthographic": "ит",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "qan",
-      "note": ""
+      "orthographic": "кан",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
       "form": "söyak",
-      "note": ""
+      "orthographic": "сөяк",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
       "form": "may",
-      "note": ""
+      "orthographic": "май",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
       "form": "yomırka",
-      "note": ""
+      "orthographic": "йомырка",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "mögez",
-      "note": ""
+      "orthographic": "мөгез",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "qoyrıq",
-      "note": ""
+      "orthographic": "койрык",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
       "form": "qaurıy",
-      "note": ""
+      "orthographic": "каурый",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "çäç",
-      "note": ""
+      "orthographic": "чәч",
+      "gloss": "hair"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
-      "form": "qıl",
-      "note": ""
+      "form": "çäç",
+      "orthographic": "чәч",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "baş",
-      "note": ""
+      "orthographic": "баш",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "qolaq",
-      "note": ""
+      "orthographic": "колак",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "küz",
-      "note": ""
+      "orthographic": "күз",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "borın",
-      "note": ""
+      "orthographic": "борын",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "awız",
-      "note": ""
+      "orthographic": "авыз",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "teş",
-      "note": ""
+      "orthographic": "теш",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "tel",
-      "note": ""
+      "orthographic": "тел",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "tırnaq",
-      "note": ""
+      "orthographic": "тырнак",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "taban",
-      "note": ""
+      "orthographic": "табан",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
       "form": "ayak",
-      "note": ""
+      "orthographic": "аяк",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "tez",
-      "note": ""
+      "orthographic": "тез",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "qul",
-      "note": ""
+      "orthographic": "кул",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
       "form": "qanat",
-      "note": ""
+      "orthographic": "канат",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "eç",
-      "note": ""
+      "orthographic": "эч",
+      "gloss": "belly"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
-      "form": "qorsaq",
-      "note": ""
+      "form": "eç",
+      "orthographic": "эч",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "eçäk",
-      "note": ""
+      "orthographic": "эчәк",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "muyen",
-      "note": ""
+      "orthographic": "муен",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "arka",
-      "note": ""
+      "orthographic": "арка",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "kükräk",
-      "note": ""
+      "orthographic": "күкрәк",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "yöräk",
-      "note": ""
+      "orthographic": "йөрәк",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
       "form": "bawır",
-      "note": ""
+      "orthographic": "бавыр",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "eçärgä",
-      "note": ""
+      "orthographic": "эчәргә",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "aşarga",
-      "note": ""
+      "orthographic": "ашарга",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "teşlärgä",
-      "note": ""
+      "orthographic": "тешләргә",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
       "form": "imärgä",
-      "note": ""
+      "orthographic": "имәргә",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "tökerergä",
-      "note": ""
+      "orthographic": "төкерергә",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
       "form": "qosarga",
-      "note": ""
+      "orthographic": "косарга",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "örergä",
-      "note": ""
+      "orthographic": "өрергә",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
-      "form": "isärgä",
-      "note": ""
+      "form": "örergä",
+      "orthographic": "өрергә",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
       "form": "sularga",
-      "note": ""
+      "orthographic": "суларга",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "kölergä",
-      "note": ""
+      "orthographic": "көлергә",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "kürergä",
-      "note": ""
+      "orthographic": "күрергә",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "işetergä",
-      "note": ""
+      "orthographic": "ишетергә",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "belergä",
-      "note": ""
+      "orthographic": "белергә",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "uylarga",
-      "note": ""
+      "orthographic": "уйларга",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
       "form": "isnärgä",
-      "note": ""
+      "orthographic": "иснәргә",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "qurkırga",
-      "note": ""
+      "orthographic": "куркырга",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "yoqlarga",
-      "note": ""
+      "orthographic": "йокларга",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "yaşärgä",
-      "note": ""
+      "orthographic": "яшәргә",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "ülärgä",
-      "note": ""
+      "orthographic": "үләргә",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "üterergä",
-      "note": ""
+      "orthographic": "үтерергә",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "köräşergä",
-      "note": ""
+      "orthographic": "көрәшергә",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
       "form": "aularga",
-      "note": ""
+      "orthographic": "ауларга",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "suğarga",
-      "note": ""
+      "orthographic": "сугарга",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
-      "form": "bärergä",
-      "note": ""
+      "form": "suğarga",
+      "orthographic": "сугарга",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "kisärgä",
-      "note": ""
+      "orthographic": "кисәргә",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
       "form": "bülärgä",
-      "note": ""
+      "orthographic": "бүләргә",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "çänçergä",
-      "note": ""
+      "orthographic": "чәнчергә",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
       "form": "tırnarga",
-      "note": ""
+      "orthographic": "тырнарга",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "qazırga",
-      "note": ""
+      "orthographic": "казырга",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "yözärgä",
-      "note": ""
+      "orthographic": "йөзәргә",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "oçarga",
-      "note": ""
+      "orthographic": "очарга",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "barırga",
-      "note": ""
+      "orthographic": "барырга",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "yörergä",
-      "note": ""
+      "form": "barırga",
+      "orthographic": "барырга",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "kilergä",
-      "note": ""
+      "orthographic": "килергә",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "yatarga",
-      "note": ""
+      "orthographic": "ятарга",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "utırırga",
-      "note": ""
+      "orthographic": "утырырга",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "torırga",
-      "note": ""
+      "orthographic": "торырга",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "borırga",
-      "note": ""
+      "orthographic": "борырга",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "töşärgä",
-      "note": ""
+      "orthographic": "төшәргә",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
-      "form": "egılırga",
-      "note": ""
+      "form": "töşärgä",
+      "orthographic": "төшәргә",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "birergä",
-      "note": ""
+      "orthographic": "бирергә",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "totarga",
-      "note": ""
+      "orthographic": "тотарга",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "qısarga",
-      "note": ""
+      "orthographic": "кысарга",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "ışkırga",
-      "note": ""
+      "orthographic": "ышкырга",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
-      "form": "uarga",
-      "note": ""
+      "form": "ışkırga",
+      "orthographic": "ышкырга",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "yuarga",
-      "note": ""
+      "orthographic": "юарга",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "sörtergä",
-      "note": ""
+      "orthographic": "сөртергә",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "tartırga",
-      "note": ""
+      "orthographic": "тартырга",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "etärgä",
-      "note": ""
+      "orthographic": "этәргә",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "taşlarga",
-      "note": ""
+      "orthographic": "ташларга",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "bäylärgä",
-      "note": ""
+      "orthographic": "бәйләргә",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "tegärgä",
-      "note": ""
+      "orthographic": "тегәргә",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "sanarga",
-      "note": ""
+      "orthographic": "санарга",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "äytergä",
-      "note": ""
+      "orthographic": "әйтергә",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "cırlarga",
-      "note": ""
+      "orthographic": "җырларга",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "uynarga",
-      "note": ""
+      "orthographic": "уйнарга",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "yözärgä",
-      "note": ""
+      "orthographic": "йөзәргә",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "ağarga",
-      "note": ""
+      "orthographic": "агарга",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
       "form": "öşergä",
-      "note": ""
+      "orthographic": "өшергә",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
-      "form": "tuñırga",
-      "note": ""
+      "form": "öşergä",
+      "orthographic": "өшергә",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
       "form": "şeşärgä",
-      "note": ""
+      "orthographic": "шешәргә",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "qoyaş",
-      "note": ""
+      "orthographic": "кояш",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "ay",
-      "note": ""
+      "orthographic": "ай",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "yoldız",
-      "note": ""
+      "orthographic": "йолдыз",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "su",
-      "note": ""
+      "orthographic": "су",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "yañgır",
-      "note": ""
+      "orthographic": "яңгыр",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "elga",
-      "note": ""
+      "orthographic": "елга",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "kül",
-      "note": ""
+      "orthographic": "күл",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "diñgez",
-      "note": ""
+      "orthographic": "диңгез",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "toz",
-      "note": ""
+      "orthographic": "тоз",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "taş",
-      "note": ""
+      "orthographic": "таш",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "qom",
-      "note": ""
+      "orthographic": "ком",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "tuzan",
-      "note": ""
+      "orthographic": "тузан",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "cir",
-      "note": ""
+      "orthographic": "җир",
+      "gloss": "earth"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "tufraq",
-      "note": ""
+      "form": "cir",
+      "orthographic": "җир",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "bolıt",
-      "note": ""
+      "orthographic": "болыт",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
       "form": "toman",
-      "note": ""
+      "orthographic": "томан",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "kük",
-      "note": ""
+      "orthographic": "күк",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "cil",
-      "note": ""
+      "orthographic": "җил",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "qar",
-      "note": ""
+      "orthographic": "кар",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
       "form": "boz",
-      "note": ""
+      "orthographic": "боз",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
       "form": "töten",
-      "note": ""
+      "orthographic": "төтен",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "ut",
-      "note": ""
+      "orthographic": "ут",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "köl",
-      "note": ""
+      "orthographic": "көл",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "yanarga",
-      "note": ""
+      "orthographic": "янарга",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "yul",
-      "note": ""
+      "orthographic": "юл",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "tau",
-      "note": ""
+      "orthographic": "тау",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "qızıl",
-      "note": ""
+      "orthographic": "кызыл",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
       "form": "yaşel",
-      "note": ""
+      "orthographic": "яшел",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
       "form": "sarı",
-      "note": ""
+      "orthographic": "сары",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "aq",
-      "note": ""
+      "orthographic": "ак",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "qara",
-      "note": ""
+      "orthographic": "кара",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "tön",
-      "note": ""
+      "orthographic": "төн",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "kön",
-      "note": ""
+      "orthographic": "көн",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "el",
-      "note": ""
+      "orthographic": "ел",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
       "form": "cılı",
-      "note": ""
+      "orthographic": "җылы",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "salkın",
-      "note": ""
+      "orthographic": "салкын",
+      "gloss": "cold"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
-      "form": "suıq",
-      "note": ""
+      "form": "salkın",
+      "orthographic": "салкын",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "tulı",
-      "note": ""
+      "orthographic": "тулы",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "yaña",
-      "note": ""
+      "orthographic": "яңа",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "iske",
-      "note": ""
+      "orthographic": "иске",
+      "gloss": "old"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
-      "form": "qart",
-      "note": ""
+      "form": "iske",
+      "orthographic": "иске",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "yaxşı",
-      "note": ""
+      "orthographic": "яхшы",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "naçar",
-      "note": ""
+      "orthographic": "начар",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "çerek",
-      "note": ""
+      "orthographic": "черек",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "pıçraq",
-      "note": ""
+      "orthographic": "пычрак",
+      "gloss": "dirty"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
-      "form": "kerle",
-      "note": ""
+      "form": "pıçraq",
+      "orthographic": "пычрак",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "turı",
-      "note": ""
+      "orthographic": "туры",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
       "form": "tügäräk",
-      "note": ""
+      "orthographic": "түгәрәк",
+      "gloss": "round"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
-      "form": "yomrı",
-      "note": ""
+      "form": "tügäräk",
+      "orthographic": "түгәрәк",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "ütken",
-      "note": ""
+      "orthographic": "үткен",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
       "form": "ütmäs",
-      "note": ""
+      "orthographic": "үтмәс",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "şoma",
-      "note": ""
+      "orthographic": "шома",
+      "gloss": "smooth"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "tiges",
-      "note": ""
+      "form": "şoma",
+      "orthographic": "шома",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "yuyeş",
-      "note": ""
+      "orthographic": "юеш",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "qorı",
-      "note": ""
+      "orthographic": "коры",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "döres",
-      "note": ""
+      "orthographic": "дөрес",
+      "gloss": "correct"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
-      "form": "turı",
-      "note": ""
+      "form": "döres",
+      "orthographic": "дөрес",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "yakın",
-      "note": ""
+      "orthographic": "якын",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "eraq",
-      "note": ""
+      "orthographic": "ерак",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "uñ",
-      "note": ""
+      "orthographic": "уң",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "sul",
-      "note": ""
+      "orthographic": "сул",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "-da",
-      "note": ""
+      "orthographic": "-да",
+      "gloss": "at"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "-dä",
-      "note": ""
-    },
-    {
-      "gloss": "at",
-      "orthographic": "",
-      "form": "östendä",
-      "note": ""
-    },
-    {
-      "gloss": "in",
-      "orthographic": "",
       "form": "-da",
-      "note": ""
+      "orthographic": "-да",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "-dä",
-      "note": ""
+      "form": "-da",
+      "orthographic": "-да",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "eçendä",
-      "note": ""
+      "form": "-da",
+      "orthographic": "-да",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
+      "form": "-da",
+      "orthographic": "-да",
+      "gloss": "in"
+    },
+    {
+      "form": "-da",
+      "orthographic": "-да",
+      "gloss": "in"
+    },
+    {
       "form": "belən",
-      "note": ""
+      "orthographic": "белəн",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "da",
-      "note": ""
+      "orthographic": "да",
+      "gloss": "and"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "dä",
-      "note": ""
+      "form": "da",
+      "orthographic": "да",
+      "gloss": "and"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "häm",
-      "note": ""
+      "form": "da",
+      "orthographic": "да",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "-sa",
-      "note": ""
+      "orthographic": "-са",
+      "gloss": "if"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "-sä",
-      "note": ""
+      "form": "-sa",
+      "orthographic": "-са",
+      "gloss": "if"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "ägär",
-      "note": ""
+      "form": "-sa",
+      "orthographic": "-са",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "çönki",
-      "note": ""
+      "orthographic": "чөнки",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "isem",
-      "note": ""
+      "orthographic": "исем",
+      "gloss": "name"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "at",
-      "note": ""
+      "form": "isem",
+      "orthographic": "исем",
+      "gloss": "name"
     }
   ]
 }

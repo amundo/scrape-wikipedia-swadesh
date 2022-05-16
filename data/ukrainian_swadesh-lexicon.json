@@ -10,1546 +10,1289 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "ja",
-      "note": ""
+      "orthographic": "я",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "ty",
-      "note": ""
+      "orthographic": "ти",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "vin",
-      "note": ""
+      "orthographic": "він",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "my",
-      "note": ""
+      "orthographic": "ми",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "vy",
-      "note": ""
+      "orthographic": "ви",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "voný",
-      "note": ""
+      "orthographic": "вони́",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "ce",
-      "note": ""
+      "orthographic": "це",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "se",
-      "note": ""
+      "form": "ce",
+      "orthographic": "це",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "cej",
-      "note": ""
+      "form": "ce",
+      "orthographic": "це",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "sej",
-      "note": ""
+      "form": "ce",
+      "orthographic": "це",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "te",
-      "note": ""
+      "orthographic": "те",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "toj",
-      "note": ""
+      "form": "te",
+      "orthographic": "те",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "tut",
-      "note": ""
+      "orthographic": "тут",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "tam",
-      "note": ""
+      "orthographic": "там",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "xto",
-      "note": ""
+      "orthographic": "хто",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "ščo",
-      "note": ""
+      "orthographic": "що",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "de",
-      "note": ""
+      "orthographic": "де",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "kolý",
-      "note": ""
+      "orthographic": "коли́",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "jak",
-      "note": ""
+      "orthographic": "як",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "ne",
-      "note": ""
+      "orthographic": "не",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "usé",
-      "note": ""
+      "orthographic": "усе́",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "vse",
-      "note": ""
+      "form": "usé",
+      "orthographic": "усе́",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "usí",
-      "note": ""
+      "form": "usé",
+      "orthographic": "усе́",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "vsi",
-      "note": ""
+      "form": "usé",
+      "orthographic": "усе́",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "baháto",
-      "note": ""
+      "orthographic": "бага́то",
+      "gloss": "many"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
-      "form": "mnóho",
-      "note": ""
+      "form": "baháto",
+      "orthographic": "бага́то",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "kílʹka",
-      "note": ""
+      "orthographic": "кі́лька",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "málo",
-      "note": ""
+      "orthographic": "ма́ло",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "ínšyj",
-      "note": ""
+      "orthographic": "і́нший",
+      "gloss": "other"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
-      "form": "ónyj",
-      "note": ""
+      "form": "ínšyj",
+      "orthographic": "і́нший",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "odýn",
-      "note": ""
+      "orthographic": "оди́н",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "dva",
-      "note": ""
+      "orthographic": "два",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "try",
-      "note": ""
+      "orthographic": "три",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "čotýry",
-      "note": ""
+      "orthographic": "чоти́ри",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "pʺjatʹ",
-      "note": ""
+      "orthographic": "п'ять",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "velýkyj",
-      "note": ""
+      "orthographic": "вели́кий",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "dóvhyj",
-      "note": ""
+      "orthographic": "до́вгий",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "šyrókyj",
-      "note": ""
+      "orthographic": "широ́кий",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
       "form": "tóvstyj",
-      "note": ""
+      "orthographic": "то́встий",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "važkýj",
-      "note": ""
+      "orthographic": "важки́й",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "malýj",
-      "note": ""
+      "orthographic": "мали́й",
+      "gloss": "small"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
-      "form": "malénʹkyj",
-      "note": ""
+      "form": "malýj",
+      "orthographic": "мали́й",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
       "form": "korótkyj",
-      "note": ""
+      "orthographic": "коро́ткий",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "vúzʹkyj",
-      "note": ""
+      "orthographic": "ву́зький",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
       "form": "tonkýj",
-      "note": ""
+      "orthographic": "тонки́й",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
       "form": "žínka",
-      "note": ""
+      "orthographic": "жі́нка",
+      "gloss": "woman"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
-      "form": "žoná",
-      "note": ""
+      "form": "žínka",
+      "orthographic": "жі́нка",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "čolovík",
-      "note": ""
+      "orthographic": "чолові́к",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "mužčýna",
-      "note": ""
+      "form": "čolovík",
+      "orthographic": "чолові́к",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "ljudýna",
-      "note": ""
+      "orthographic": "люди́на",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
-      "form": "čolovík",
-      "note": ""
+      "form": "ljudýna",
+      "orthographic": "люди́на",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "dytýna",
-      "note": ""
+      "orthographic": "дити́на",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "družýna",
-      "note": ""
+      "orthographic": "дружи́на",
+      "gloss": "wife"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "žínka",
-      "note": ""
+      "form": "družýna",
+      "orthographic": "дружи́на",
+      "gloss": "wife"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
-      "form": "žoná",
-      "note": ""
+      "form": "družýna",
+      "orthographic": "дружи́на",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "čolovík",
-      "note": ""
+      "orthographic": "чолові́к",
+      "gloss": "husband"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "muž",
-      "note": ""
+      "form": "čolovík",
+      "orthographic": "чолові́к",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "máty",
-      "note": ""
+      "orthographic": "ма́ти",
+      "gloss": "mother"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "nénja",
-      "note": ""
+      "form": "máty",
+      "orthographic": "ма́ти",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "bátʹko",
-      "note": ""
+      "orthographic": "ба́тько",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "tvarýna",
-      "note": ""
+      "orthographic": "твари́на",
+      "gloss": "animal"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
-      "form": "zvir",
-      "note": ""
+      "form": "tvarýna",
+      "orthographic": "твари́на",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "rýba",
-      "note": ""
+      "orthographic": "ри́ба",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "ptax",
-      "note": ""
+      "orthographic": "птах",
+      "gloss": "bird"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
-      "form": "ptýcja",
-      "note": ""
+      "form": "ptax",
+      "orthographic": "птах",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "pes",
-      "note": ""
+      "orthographic": "пес",
+      "gloss": "dog"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
-      "form": "sobáka",
-      "note": ""
+      "form": "pes",
+      "orthographic": "пес",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
       "form": "vóša",
-      "note": ""
+      "orthographic": "во́ша",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "zmijá",
-      "note": ""
+      "orthographic": "змія́",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "červʺják",
-      "note": ""
+      "orthographic": "черв'я́к",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "dérevo",
-      "note": ""
+      "orthographic": "де́рево",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
       "form": "lis",
-      "note": ""
+      "orthographic": "ліс",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "pálycja",
-      "note": ""
+      "orthographic": "па́лиця",
+      "gloss": "stick"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "kyj",
-      "note": ""
+      "form": "pálycja",
+      "orthographic": "па́лиця",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "plid",
-      "note": ""
+      "orthographic": "плід",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "símʺja",
-      "note": ""
+      "orthographic": "сі́м'я",
+      "gloss": "seed"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
-      "form": "nasínnja",
-      "note": ""
+      "form": "símʺja",
+      "orthographic": "сі́м'я",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "lystók",
-      "note": ""
+      "orthographic": "листо́к",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "kórinʹ",
-      "note": ""
+      "orthographic": "ко́рінь",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
       "form": "korá",
-      "note": ""
+      "orthographic": "кора́",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "kvítka",
-      "note": ""
+      "orthographic": "кві́тка",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "trava",
-      "note": ""
+      "orthographic": "трава",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
       "form": "virʹóvka",
-      "note": ""
+      "orthographic": "вірьо́вка",
+      "gloss": "rope"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
-      "form": "motúzka",
-      "note": ""
+      "form": "virʹóvka",
+      "orthographic": "вірьо́вка",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "škíra",
-      "note": ""
+      "orthographic": "шкі́ра",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "mʺjáso",
-      "note": ""
+      "orthographic": "м'я́со",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "krov",
-      "note": ""
+      "orthographic": "кров",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
       "form": "kístka",
-      "note": ""
+      "orthographic": "кі́стка",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
       "form": "žyr",
-      "note": ""
+      "orthographic": "жир",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
       "form": "jajcé",
-      "note": ""
+      "orthographic": "яйце́",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "rih",
-      "note": ""
+      "orthographic": "ріг",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "xvist",
-      "note": ""
+      "orthographic": "хвіст",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
       "form": "peró",
-      "note": ""
+      "orthographic": "перо́",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "volóssja",
-      "note": ""
+      "orthographic": "воло́сся",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "holová",
-      "note": ""
+      "orthographic": "голова́",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "vúxo",
-      "note": ""
+      "orthographic": "ву́хо",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "óko",
-      "note": ""
+      "orthographic": "о́ко",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "nis",
-      "note": ""
+      "orthographic": "ніс",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "rot",
-      "note": ""
+      "orthographic": "рот",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "zub",
-      "note": ""
+      "orthographic": "зуб",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "jazýk",
-      "note": ""
+      "orthographic": "язи́к",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "níhotʹ",
-      "note": ""
+      "orthographic": "ні́готь",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "stopá",
-      "note": ""
+      "orthographic": "стопа́",
+      "gloss": "foot"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
+      "form": "stopá",
+      "orthographic": "стопа́",
+      "gloss": "foot"
+    },
+    {
       "form": "nohá",
-      "note": ""
+      "orthographic": "нога́",
+      "gloss": "leg"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
-      "form": "nohá",
-      "note": ""
-    },
-    {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "kolíno",
-      "note": ""
+      "orthographic": "колі́но",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "ruká",
-      "note": ""
+      "orthographic": "рука́",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
       "form": "kryló",
-      "note": ""
+      "orthographic": "крило́",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "žyvít",
-      "note": ""
+      "orthographic": "живі́т",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "kyšký",
-      "note": ""
+      "orthographic": "кишки́",
+      "gloss": "guts"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
-      "form": "nútrošči",
-      "note": ""
+      "form": "kyšký",
+      "orthographic": "кишки́",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "šýja",
-      "note": ""
+      "orthographic": "ши́я",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "spyná",
-      "note": ""
+      "orthographic": "спина́",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "hrúdy",
-      "note": ""
+      "orthographic": "гру́ди",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "sérce",
-      "note": ""
+      "orthographic": "се́рце",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
       "form": "pečínka",
-      "note": ""
+      "orthographic": "печі́нка",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "pýty",
-      "note": ""
+      "orthographic": "пи́ти",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "jísty",
-      "note": ""
+      "orthographic": "ї́сти",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "kusáty",
-      "note": ""
+      "orthographic": "куса́ти",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
       "form": "smoktáty",
-      "note": ""
+      "orthographic": "смокта́ти",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "ssáty",
-      "note": ""
+      "form": "smoktáty",
+      "orthographic": "смокта́ти",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "pljuváty",
-      "note": ""
+      "orthographic": "плюва́ти",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
       "form": "bljuváty",
-      "note": ""
+      "orthographic": "блюва́ти",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "dúty",
-      "note": ""
+      "orthographic": "ду́ти",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
       "form": "dýxaty",
-      "note": ""
+      "orthographic": "ди́хати",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "smijátysja",
-      "note": ""
+      "orthographic": "смія́тися",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "dyvýtysja",
-      "note": ""
+      "orthographic": "диви́тися",
+      "gloss": "to see"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
-      "form": "báčyty",
-      "note": ""
+      "form": "dyvýtysja",
+      "orthographic": "диви́тися",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "čúty",
-      "note": ""
+      "orthographic": "чу́ти",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
-      "form": "slúxaty",
-      "note": ""
+      "form": "čúty",
+      "orthographic": "чу́ти",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "znáty",
-      "note": ""
+      "orthographic": "зна́ти",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "dúmaty",
-      "note": ""
+      "orthographic": "ду́мати",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
       "form": "čúty",
-      "note": ""
+      "orthographic": "чу́ти",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
-      "form": "njúxaty",
-      "note": ""
+      "form": "čúty",
+      "orthographic": "чу́ти",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "bojátysja",
-      "note": ""
+      "orthographic": "боя́тися",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
-      "form": "ljakátysja",
-      "note": ""
+      "form": "bojátysja",
+      "orthographic": "боя́тися",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "spáty",
-      "note": ""
+      "orthographic": "спа́ти",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "žýty",
-      "note": ""
+      "orthographic": "жи́ти",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "vmyráty",
-      "note": ""
+      "orthographic": "вмира́ти",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "vbyváty",
-      "note": ""
+      "orthographic": "вбива́ти",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "býtysja",
-      "note": ""
+      "orthographic": "би́тися",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
       "form": "poljuváty",
-      "note": ""
+      "orthographic": "полюва́ти",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "býty",
-      "note": ""
+      "orthographic": "би́ти",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "rízaty",
-      "note": ""
+      "orthographic": "рі́зати",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
       "form": "dilýty",
-      "note": ""
+      "orthographic": "діли́ти",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "kolóty",
-      "note": ""
+      "orthographic": "коло́ти",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
       "form": "drjápaty",
-      "note": ""
+      "orthographic": "дря́пати",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
-      "form": "škrjábaty",
-      "note": ""
+      "form": "drjápaty",
+      "orthographic": "дря́пати",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "rýty",
-      "note": ""
+      "orthographic": "ри́ти",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "plávaty",
-      "note": ""
+      "orthographic": "пла́вати",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "litáty",
-      "note": ""
+      "orthographic": "літа́ти",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "jty",
-      "note": ""
+      "orthographic": "йти",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
-      "form": "xodýty",
-      "note": ""
+      "form": "jty",
+      "orthographic": "йти",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "pryxódyty",
-      "note": ""
+      "orthographic": "прихо́дити",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "ležáty",
-      "note": ""
+      "orthographic": "лежа́ти",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "sydíty",
-      "note": ""
+      "orthographic": "сиді́ти",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "stojáty",
-      "note": ""
+      "orthographic": "стоя́ти",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "vertíty",
-      "note": ""
+      "orthographic": "верті́ти",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
-      "form": "krutýty",
-      "note": ""
+      "form": "vertíty",
+      "orthographic": "верті́ти",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "pádaty",
-      "note": ""
+      "orthographic": "па́дати",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "daváty",
-      "note": ""
+      "orthographic": "дава́ти",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "trymáty",
-      "note": ""
+      "orthographic": "трима́ти",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "čávyty",
-      "note": ""
+      "orthographic": "ча́вити",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
-      "form": "výtyskaty",
-      "note": ""
+      "form": "čávyty",
+      "orthographic": "ча́вити",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "térty",
-      "note": ""
+      "orthographic": "те́рти",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "mýty",
-      "note": ""
+      "orthographic": "ми́ти",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "vytyráty",
-      "note": ""
+      "orthographic": "витира́ти",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "tjahnúty",
-      "note": ""
+      "orthographic": "тягну́ти",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "štovxáty",
-      "note": ""
+      "orthographic": "штовха́ти",
+      "gloss": "to push"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
-      "form": "týsnuty",
-      "note": ""
+      "form": "štovxáty",
+      "orthographic": "штовха́ти",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "kydáty",
-      "note": ""
+      "orthographic": "кида́ти",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "zvʺjázuvaty",
-      "note": ""
+      "orthographic": "зв'я́зувати",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "šýty",
-      "note": ""
+      "orthographic": "ши́ти",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "raxuváty",
-      "note": ""
+      "orthographic": "рахува́ти",
+      "gloss": "to count"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
-      "form": "ličýty",
-      "note": ""
+      "form": "raxuváty",
+      "orthographic": "рахува́ти",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "kazáty",
-      "note": ""
+      "orthographic": "каза́ти",
+      "gloss": "to say"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "móvyty",
-      "note": ""
+      "form": "kazáty",
+      "orthographic": "каза́ти",
+      "gloss": "to say"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "rektý",
-      "note": ""
+      "form": "kazáty",
+      "orthographic": "каза́ти",
+      "gloss": "to say"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
-      "form": "hovorýty",
-      "note": ""
+      "form": "kazáty",
+      "orthographic": "каза́ти",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "spiváty",
-      "note": ""
+      "orthographic": "співа́ти",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "hráty",
-      "note": ""
+      "orthographic": "гра́ти",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "plávaty",
-      "note": ""
+      "orthographic": "пла́вати",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "tektý",
-      "note": ""
+      "orthographic": "текти́",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
       "form": "mérznuty",
-      "note": ""
+      "orthographic": "ме́рзнути",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
       "form": "opuxáty",
-      "note": ""
+      "orthographic": "опуха́ти",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "sónce",
-      "note": ""
+      "orthographic": "со́нце",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "mísjacʹ",
-      "note": ""
+      "orthographic": "мі́сяць",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "zírka",
-      "note": ""
+      "orthographic": "зі́рка",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "vodá",
-      "note": ""
+      "orthographic": "вода́",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "došč",
-      "note": ""
+      "orthographic": "дощ",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "riká",
-      "note": ""
+      "orthographic": "ріка́",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "ózero",
-      "note": ""
+      "orthographic": "о́зеро",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "móre",
-      "note": ""
+      "orthographic": "мо́ре",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "silʹ",
-      "note": ""
+      "orthographic": "сіль",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "káminʹ",
-      "note": ""
+      "orthographic": "ка́мінь",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "pisók",
-      "note": ""
+      "orthographic": "пісо́к",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "pyl",
-      "note": ""
+      "orthographic": "пил",
+      "gloss": "dust"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
-      "form": "pórox",
-      "note": ""
+      "form": "pyl",
+      "orthographic": "пил",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "zemlja",
-      "note": ""
+      "orthographic": "земля",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "xmára",
-      "note": ""
+      "orthographic": "хма́ра",
+      "gloss": "cloud"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
-      "form": "óbolok",
-      "note": ""
+      "form": "xmára",
+      "orthographic": "хма́ра",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
       "form": "tumán",
-      "note": ""
+      "orthographic": "тума́н",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "nébo",
-      "note": ""
+      "orthographic": "не́бо",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "víter",
-      "note": ""
+      "orthographic": "ві́тер",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "snih",
-      "note": ""
+      "orthographic": "сніг",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
       "form": "krýha",
-      "note": ""
+      "orthographic": "кри́га",
+      "gloss": "ice"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
-      "form": "lid",
-      "note": ""
+      "form": "krýha",
+      "orthographic": "кри́га",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
       "form": "dym",
-      "note": ""
+      "orthographic": "дим",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "vohónʹ",
-      "note": ""
+      "orthographic": "вого́нь",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "pópil",
-      "note": ""
+      "orthographic": "по́піл",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "horíty",
-      "note": ""
+      "orthographic": "горі́ти",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "doróha",
-      "note": ""
+      "orthographic": "доро́га",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "horá",
-      "note": ""
+      "orthographic": "гора́",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "červónyj",
-      "note": ""
+      "orthographic": "черво́ний",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
       "form": "zelényj",
-      "note": ""
+      "orthographic": "зеле́ний",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
       "form": "žóvtyj",
-      "note": ""
+      "orthographic": "жо́втий",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "bílyj",
-      "note": ""
+      "orthographic": "бі́лий",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "čórnyj",
-      "note": ""
+      "orthographic": "чо́рний",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "nič",
-      "note": ""
+      "orthographic": "ніч",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "denʹ",
-      "note": ""
+      "orthographic": "день",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "rik",
-      "note": ""
+      "orthographic": "рік",
+      "gloss": "year"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "líto",
-      "note": ""
+      "form": "rik",
+      "orthographic": "рік",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
       "form": "téplyj",
-      "note": ""
+      "orthographic": "те́плий",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "xolódnyj",
-      "note": ""
+      "orthographic": "холо́дний",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "póvnyj",
-      "note": ""
+      "orthographic": "по́вний",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "novýj",
-      "note": ""
+      "orthographic": "нови́й",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "starýj",
-      "note": ""
+      "orthographic": "стари́й",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "dóbryj",
-      "note": ""
+      "orthographic": "до́брий",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "pohányj",
-      "note": ""
+      "orthographic": "пога́ний",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "hnylýj",
-      "note": ""
+      "orthographic": "гнили́й",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "brúdnyj",
-      "note": ""
+      "orthographic": "бру́дний",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "prjamýj",
-      "note": ""
+      "orthographic": "прями́й",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
       "form": "krúhlyj",
-      "note": ""
+      "orthographic": "кру́глий",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "hóstryj",
-      "note": ""
+      "orthographic": "го́стрий",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
       "form": "tupýj",
-      "note": ""
+      "orthographic": "тупи́й",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "hládkyj",
-      "note": ""
+      "orthographic": "гла́дкий",
+      "gloss": "smooth"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "ŕivnyj",
-      "note": ""
+      "form": "hládkyj",
+      "orthographic": "гла́дкий",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "volóhyj",
-      "note": ""
+      "orthographic": "воло́гий",
+      "gloss": "wet"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
-      "form": "mókryj",
-      "note": ""
+      "form": "volóhyj",
+      "orthographic": "воло́гий",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "suxýj",
-      "note": ""
+      "orthographic": "сухи́й",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "právylʹnyj",
-      "note": ""
+      "orthographic": "пра́вильний",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "blyzʹkýj",
-      "note": ""
+      "orthographic": "близьки́й",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "dalékyj",
-      "note": ""
+      "orthographic": "дале́кий",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "právyj",
-      "note": ""
+      "orthographic": "пра́вий",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "lívyj",
-      "note": ""
+      "orthographic": "лі́вий",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "na",
-      "note": ""
+      "orthographic": "на",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
       "form": "v",
-      "note": ""
+      "orthographic": "в",
+      "gloss": "in"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
-      "form": "u",
-      "note": ""
+      "form": "v",
+      "orthographic": "в",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
       "form": "z",
-      "note": ""
+      "orthographic": "з",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "i",
-      "note": ""
+      "orthographic": "і",
+      "gloss": "and"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "j",
-      "note": ""
+      "form": "i",
+      "orthographic": "і",
+      "gloss": "and"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
-      "form": "ta",
-      "note": ""
+      "form": "i",
+      "orthographic": "і",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "jakščó",
-      "note": ""
+      "orthographic": "якщо́",
+      "gloss": "if"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "kolý",
-      "note": ""
+      "form": "jakščó",
+      "orthographic": "якщо́",
+      "gloss": "if"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
-      "form": "jakbý",
-      "note": ""
+      "form": "jakščó",
+      "orthographic": "якщо́",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "bo",
-      "note": ""
+      "orthographic": "бо",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "imʺjá",
-      "note": ""
+      "orthographic": "ім'я́",
+      "gloss": "name"
     }
   ]
 }

@@ -10,994 +10,829 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "nāṉ",
-      "note": ""
+      "orthographic": "நான்",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "nī",
-      "note": ""
+      "orthographic": "நீ",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "avaṉ",
-      "note": ""
+      "orthographic": "அவன்",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "avaḷ",
-      "note": ""
+      "form": "avaṉ",
+      "orthographic": "அவன்",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "atu",
-      "note": ""
+      "form": "avaṉ",
+      "orthographic": "அவன்",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "nām",
-      "note": ""
+      "orthographic": "நாம்",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
-      "form": "nāṅkaḷ",
-      "note": ""
+      "form": "nām",
+      "orthographic": "நாம்",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "nīṅkaḷ",
-      "note": ""
+      "orthographic": "நீங்கள்",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "avar",
-      "note": ""
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "avarkaḷ",
-      "note": ""
+      "form": "avar",
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "avai",
-      "note": ""
+      "form": "avar",
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "ivar",
-      "note": ""
+      "form": "avar",
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "ivarkaḷ",
-      "note": ""
+      "form": "avar",
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "ivai",
-      "note": ""
+      "form": "avar",
+      "orthographic": "அவர்",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "itu",
-      "note": ""
+      "orthographic": "இது",
+      "gloss": "this"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
-      "form": "inta",
-      "note": ""
+      "form": "itu",
+      "orthographic": "இது",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "atu",
-      "note": ""
+      "orthographic": "அது",
+      "gloss": "that"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
-      "form": "anta",
-      "note": ""
+      "form": "atu",
+      "orthographic": "அது",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "iṅkē",
-      "note": ""
+      "orthographic": "இங்கே",
+      "gloss": "here"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
-      "form": "iṅku",
-      "note": ""
+      "form": "iṅkē",
+      "orthographic": "இங்கே",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "aṅkē",
-      "note": ""
+      "orthographic": "அங்கே",
+      "gloss": "there"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
-      "form": "aṅku",
-      "note": ""
+      "form": "aṅkē",
+      "orthographic": "அங்கே",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "yār",
-      "note": ""
+      "orthographic": "யார்",
+      "gloss": "who"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "evaṉ",
-      "note": ""
+      "form": "yār",
+      "orthographic": "யார்",
+      "gloss": "who"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "evaḷ",
-      "note": ""
+      "form": "yār",
+      "orthographic": "யார்",
+      "gloss": "who"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
-      "form": "evar",
-      "note": ""
+      "form": "yār",
+      "orthographic": "யார்",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "eṉṉa",
-      "note": ""
+      "orthographic": "என்ன",
+      "gloss": "what"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
-      "form": "etu",
-      "note": ""
+      "form": "eṉṉa",
+      "orthographic": "என்ன",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "eṅkē",
-      "note": ""
+      "orthographic": "எங்கே",
+      "gloss": "where"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
-      "form": "eṅku",
-      "note": ""
+      "form": "eṅkē",
+      "orthographic": "எங்கே",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "eppoḻutu",
-      "note": ""
+      "orthographic": "எப்பொழுது",
+      "gloss": "when"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
-      "form": "eppōtu",
-      "note": ""
+      "form": "eppoḻutu",
+      "orthographic": "எப்பொழுது",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "eppaṭi",
-      "note": ""
+      "orthographic": "எப்படி",
+      "gloss": "how"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "niṟaiya",
-      "note": ""
+      "orthographic": "நிறைய",
+      "gloss": "many"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
-      "form": "pala",
-      "note": ""
+      "form": "niṟaiya",
+      "orthographic": "நிறைய",
+      "gloss": "many"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "nīḷamāṉa",
-      "note": ""
+      "orthographic": "நீளமான",
+      "gloss": "long"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "ciṉṉa",
-      "note": ""
+      "orthographic": "சின்ன",
+      "gloss": "small"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "āḷ",
-      "note": ""
+      "orthographic": "ஆள்",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
-      "form": "āṇ",
-      "note": ""
+      "form": "āḷ",
+      "orthographic": "ஆள்",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "maṉitaṉ",
-      "note": ""
+      "orthographic": "மனிதன்",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "kuḻantai",
-      "note": ""
+      "orthographic": "குழந்தை",
+      "gloss": "child"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "ammā",
-      "note": ""
+      "orthographic": "அம்மா",
+      "gloss": "mother"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "mātā",
-      "note": ""
+      "form": "ammā",
+      "orthographic": "அம்மா",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "appā",
-      "note": ""
+      "orthographic": "அப்பா",
+      "gloss": "father"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "pitā",
-      "note": ""
+      "form": "appā",
+      "orthographic": "அப்பா",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "mirukam",
-      "note": ""
+      "orthographic": "மிருகம்",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "mīṉ",
-      "note": ""
+      "orthographic": "மீன்",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "paṟavai",
-      "note": ""
+      "orthographic": "பறவை",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "nāy",
-      "note": ""
+      "orthographic": "நாய்",
+      "gloss": "dog"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "pāmpu",
-      "note": ""
+      "orthographic": "பாம்பு",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "puḻu",
-      "note": ""
+      "orthographic": "புழு",
+      "gloss": "worm"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "paḻam",
-      "note": ""
+      "orthographic": "பழம்",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "vitai",
-      "note": ""
+      "orthographic": "விதை",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "ilai",
-      "note": ""
+      "orthographic": "இலை",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "vēr",
-      "note": ""
+      "orthographic": "வேர்",
+      "gloss": "root"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "pū",
-      "note": ""
+      "orthographic": "பூ",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "pul",
-      "note": ""
+      "orthographic": "புல்",
+      "gloss": "grass"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "tōl",
-      "note": ""
+      "orthographic": "தோல்",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "māmicam",
-      "note": ""
+      "orthographic": "மாமிசம்",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "elumpu",
-      "note": ""
+      "orthographic": "எலும்பு",
+      "gloss": "blood"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "kompu",
-      "note": ""
+      "orthographic": "கொம்பு",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "vāl",
-      "note": ""
+      "orthographic": "வால்",
+      "gloss": "tail"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "talai",
-      "note": ""
+      "orthographic": "தலை",
+      "gloss": "head"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
-      "form": "maṇṭai",
-      "note": ""
+      "form": "talai",
+      "orthographic": "தலை",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "kātu",
-      "note": ""
+      "orthographic": "காது",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "kaṇ",
-      "note": ""
+      "orthographic": "கண்",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "mūkku",
-      "note": ""
+      "orthographic": "மூக்கு",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "vāy",
-      "note": ""
+      "orthographic": "வாய்",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "pal",
-      "note": ""
+      "orthographic": "பல்",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "nākku",
-      "note": ""
+      "orthographic": "நாக்கு",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "nakam",
-      "note": ""
+      "orthographic": "நகம்",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "kāl",
-      "note": ""
+      "orthographic": "கால்",
+      "gloss": "foot"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
-      "form": "pātam",
-      "note": ""
-    },
-    {
-      "gloss": "leg",
-      "orthographic": "",
       "form": "kāl",
-      "note": ""
+      "orthographic": "கால்",
+      "gloss": "foot"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
+      "form": "kāl",
+      "orthographic": "கால்",
+      "gloss": "leg"
+    },
+    {
       "form": "kai",
-      "note": ""
+      "orthographic": "கை",
+      "gloss": "hand"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "tonti",
-      "note": ""
+      "orthographic": "தொந்தி",
+      "gloss": "belly"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "kaḻuttu",
-      "note": ""
+      "orthographic": "கழுத்து",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "mutuku",
-      "note": ""
+      "orthographic": "முதுகு",
+      "gloss": "back"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "itayam",
-      "note": ""
+      "orthographic": "இதயம்",
+      "gloss": "heart"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "kuṭi",
-      "note": ""
+      "orthographic": "குடி",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "cāppiṭu",
-      "note": ""
+      "orthographic": "சாப்பிடு",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
-      "form": "uṇ",
-      "note": ""
+      "form": "cāppiṭu",
+      "orthographic": "சாப்பிடு",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "kaṭi",
-      "note": ""
+      "orthographic": "கடி",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "tuppu",
-      "note": ""
+      "orthographic": "துப்பு",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "ciri",
-      "note": ""
+      "orthographic": "சிரி",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "tūṅku",
-      "note": ""
+      "orthographic": "தூங்கு",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
-      "form": "uṟaṅku",
-      "note": ""
+      "form": "tūṅku",
+      "orthographic": "தூங்கு",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "vāḻ",
-      "note": ""
+      "orthographic": "வாழ்",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "cā",
-      "note": ""
+      "orthographic": "சா",
+      "gloss": "to die"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
-      "form": "iṟa",
-      "note": ""
+      "form": "cā",
+      "orthographic": "சா",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "kol",
-      "note": ""
+      "orthographic": "கொல்",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "aṭi",
-      "note": ""
+      "orthographic": "அடி",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "veṭṭu",
-      "note": ""
+      "orthographic": "வெட்டு",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
-      "form": "naṟukku",
-      "note": ""
+      "form": "veṭṭu",
+      "orthographic": "வெட்டு",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "kuttu",
-      "note": ""
+      "orthographic": "குத்து",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "nōṇṭu",
-      "note": ""
+      "orthographic": "நோண்டு",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
-      "form": "tōṇṭu",
-      "note": ""
+      "form": "nōṇṭu",
+      "orthographic": "நோண்டு",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "nīntu",
-      "note": ""
+      "orthographic": "நீந்து",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "paṟa",
-      "note": ""
+      "orthographic": "பற",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "naṭa",
-      "note": ""
+      "orthographic": "நட",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "vā",
-      "note": ""
+      "orthographic": "வா",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "paṭu",
-      "note": ""
+      "orthographic": "படு",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "uṭkār",
-      "note": ""
+      "orthographic": "உட்கார்",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "nil",
-      "note": ""
+      "orthographic": "நில்",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "tirumpu",
-      "note": ""
+      "orthographic": "திரும்பு",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "viḻu",
-      "note": ""
+      "orthographic": "விழு",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "koṭu",
-      "note": ""
+      "orthographic": "கொடு",
+      "gloss": "to give"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
-      "form": "tā",
-      "note": ""
+      "form": "koṭu",
+      "orthographic": "கொடு",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "piṭi",
-      "note": ""
+      "orthographic": "பிடி",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "piḻi",
-      "note": ""
+      "orthographic": "பிழி",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "alampu",
-      "note": ""
+      "orthographic": "அலம்பு",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
-      "form": "kaḻuvu",
-      "note": ""
+      "form": "alampu",
+      "orthographic": "அலம்பு",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "iḻu",
-      "note": ""
+      "orthographic": "இழு",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "taḷḷu",
-      "note": ""
+      "orthographic": "தள்ளு",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "vīcu",
-      "note": ""
+      "orthographic": "வீசு",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "kaṭṭu",
-      "note": ""
+      "orthographic": "கட்டு",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "tai",
-      "note": ""
+      "orthographic": "தை",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "eṇṇu",
-      "note": ""
+      "orthographic": "எண்ணு",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "col",
-      "note": ""
+      "orthographic": "சொல்",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "pāṭu",
-      "note": ""
+      "orthographic": "பாடு",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "viḷaiyāṭu",
-      "note": ""
+      "orthographic": "விளையாடு",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "mita",
-      "note": ""
+      "orthographic": "மித",
+      "gloss": "to float"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "cūriyaṉ",
-      "note": ""
+      "orthographic": "சூரியன்",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "nilā",
-      "note": ""
+      "orthographic": "நிலா",
+      "gloss": "moon"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
-      "form": "cantiraṉ",
-      "note": ""
+      "form": "nilā",
+      "orthographic": "நிலா",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "naṭcattiram",
-      "note": ""
+      "orthographic": "நட்சத்திரம்",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "nīr",
-      "note": ""
+      "orthographic": "நீர்",
+      "gloss": "water"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
-      "form": "taṇṇīr",
-      "note": ""
+      "form": "nīr",
+      "orthographic": "நீர்",
+      "gloss": "water"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
-      "form": "jalam",
-      "note": ""
+      "form": "nīr",
+      "orthographic": "நீர்",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "maḻai",
-      "note": ""
+      "orthographic": "மழை",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "āṟu",
-      "note": ""
+      "orthographic": "ஆறு",
+      "gloss": "river"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
-      "form": "nati",
-      "note": ""
+      "form": "āṟu",
+      "orthographic": "ஆறு",
+      "gloss": "river"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "kaṭal",
-      "note": ""
+      "orthographic": "கடல்",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "uppu",
-      "note": ""
+      "orthographic": "உப்பு",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "kal",
-      "note": ""
+      "orthographic": "கல்",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "maṇ",
-      "note": ""
+      "orthographic": "மண்",
+      "gloss": "sand"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "pūmi",
-      "note": ""
+      "orthographic": "பூமி",
+      "gloss": "earth"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "ulakam",
-      "note": ""
+      "form": "pūmi",
+      "orthographic": "பூமி",
+      "gloss": "earth"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
-      "form": "ñālam",
-      "note": ""
+      "form": "pūmi",
+      "orthographic": "பூமி",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "mēkam",
-      "note": ""
+      "orthographic": "மேகம்",
+      "gloss": "cloud"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "vāṉam",
-      "note": ""
+      "orthographic": "வானம்",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "kāṟṟu",
-      "note": ""
+      "orthographic": "காற்று",
+      "gloss": "wind"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "tī",
-      "note": ""
+      "orthographic": "தீ",
+      "gloss": "fire"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "neruppu",
-      "note": ""
+      "form": "tī",
+      "orthographic": "தீ",
+      "gloss": "fire"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "akki",
-      "note": ""
+      "form": "tī",
+      "orthographic": "தீ",
+      "gloss": "fire"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
-      "form": "akkiṉi",
-      "note": ""
+      "form": "tī",
+      "orthographic": "தீ",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "cāmpal",
-      "note": ""
+      "orthographic": "சாம்பல்",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "eri",
-      "note": ""
+      "orthographic": "எரி",
+      "gloss": "to burn"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "malai",
-      "note": ""
+      "orthographic": "மலை",
+      "gloss": "mountain"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "iravu",
-      "note": ""
+      "orthographic": "இரவு",
+      "gloss": "night"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
-      "form": "rāttiri",
-      "note": ""
+      "form": "iravu",
+      "orthographic": "இரவு",
+      "gloss": "night"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
-      "form": "irāttiri",
-      "note": ""
+      "form": "iravu",
+      "orthographic": "இரவு",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "nāḷ",
-      "note": ""
+      "orthographic": "நாள்",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "varṣam",
-      "note": ""
+      "orthographic": "வர்ஷம்",
+      "gloss": "year"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "varuṭam",
-      "note": ""
+      "form": "varṣam",
+      "orthographic": "வர்ஷம்",
+      "gloss": "year"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "varuṣam",
-      "note": ""
+      "form": "varṣam",
+      "orthographic": "வர்ஷம்",
+      "gloss": "year"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
-      "form": "āṇṭu",
-      "note": ""
+      "form": "varṣam",
+      "orthographic": "வர்ஷம்",
+      "gloss": "year"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "muḻu",
-      "note": ""
+      "orthographic": "முழு",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "putu",
-      "note": ""
+      "orthographic": "புது",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "paḻaiya",
-      "note": ""
+      "orthographic": "பழைய",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "nalla",
-      "note": ""
+      "orthographic": "நல்ல",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "keṭṭa",
-      "note": ""
+      "orthographic": "கெட்ட",
+      "gloss": "bad"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "īramāṉa",
-      "note": ""
+      "orthographic": "ஈரமான",
+      "gloss": "wet"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "peyar",
-      "note": ""
+      "orthographic": "பெயர்",
+      "gloss": "name"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
-      "form": "nāmam",
-      "note": ""
+      "form": "peyar",
+      "orthographic": "பெயர்",
+      "gloss": "name"
     }
   ]
 }

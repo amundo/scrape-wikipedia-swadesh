@@ -10,1522 +10,1269 @@
   },
   "words": [
     {
-      "gloss": "I (1sg)",
-      "orthographic": "",
       "form": "moi",
-      "note": ""
+      "orthographic": "মই",
+      "gloss": "I (1sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
       "form": "toi",
-      "note": "familiar"
+      "orthographic": "তই",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "tumi",
-      "note": "casual"
+      "form": "toi",
+      "orthographic": "তই",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "you (2sg)",
-      "orthographic": "",
-      "form": "apuni",
-      "note": "polite"
+      "form": "toi",
+      "orthographic": "তই",
+      "gloss": "you (2sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
       "form": "xi",
-      "note": ""
+      "orthographic": "সি",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "he, she, it (3sg)",
-      "orthographic": "",
-      "form": "i",
-      "note": ""
+      "form": "xi",
+      "orthographic": "সি",
+      "gloss": "he, she, it (3sg)"
     },
     {
-      "gloss": "we (1pl)",
-      "orthographic": "",
       "form": "ami",
-      "note": ""
+      "orthographic": "আমি",
+      "gloss": "we (1pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
       "form": "tohõt",
-      "note": "familiar"
+      "orthographic": "তহঁত",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "tümalük",
-      "note": "casual"
+      "form": "tohõt",
+      "orthographic": "তহঁত",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "you (2pl)",
-      "orthographic": "",
-      "form": "apünalük",
-      "note": "polite"
+      "form": "tohõt",
+      "orthographic": "তহঁত",
+      "gloss": "you (2pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
       "form": "xihõt",
-      "note": ""
+      "orthographic": "সিহঁত",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "they (3pl)",
-      "orthographic": "",
-      "form": "ihõt",
-      "note": ""
+      "form": "xihõt",
+      "orthographic": "সিহঁত",
+      "gloss": "they (3pl)"
     },
     {
-      "gloss": "this",
-      "orthographic": "",
       "form": "ei",
-      "note": ""
+      "orthographic": "এই",
+      "gloss": "this"
     },
     {
-      "gloss": "that",
-      "orthographic": "",
       "form": "xei",
-      "note": ""
+      "orthographic": "সেই",
+      "gloss": "that"
     },
     {
-      "gloss": "here",
-      "orthographic": "",
       "form": "iat",
-      "note": ""
+      "orthographic": "ইয়াত",
+      "gloss": "here"
     },
     {
-      "gloss": "there",
-      "orthographic": "",
       "form": "tat",
-      "note": ""
+      "orthographic": "তাত",
+      "gloss": "there"
     },
     {
-      "gloss": "who",
-      "orthographic": "",
       "form": "kün",
-      "note": ""
+      "orthographic": "কোন",
+      "gloss": "who"
     },
     {
-      "gloss": "what",
-      "orthographic": "",
       "form": "ki",
-      "note": ""
+      "orthographic": "কি",
+      "gloss": "what"
     },
     {
-      "gloss": "where",
-      "orthographic": "",
       "form": "köt",
-      "note": ""
+      "orthographic": "ক’ত",
+      "gloss": "where"
     },
     {
-      "gloss": "when",
-      "orthographic": "",
       "form": "ketia",
-      "note": ""
+      "orthographic": "কেতিয়া",
+      "gloss": "when"
     },
     {
-      "gloss": "how",
-      "orthographic": "",
       "form": "kene",
-      "note": ""
+      "orthographic": "কেনে",
+      "gloss": "how"
     },
     {
-      "gloss": "not",
-      "orthographic": "",
       "form": "nai",
-      "note": ""
+      "orthographic": "নাই",
+      "gloss": "not"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
       "form": "atai",
-      "note": ""
+      "orthographic": "আটাই",
+      "gloss": "all"
     },
     {
-      "gloss": "all",
-      "orthographic": "",
-      "form": "xokolü",
-      "note": ""
+      "form": "atai",
+      "orthographic": "আটাই",
+      "gloss": "all"
     },
     {
-      "gloss": "many",
-      "orthographic": "",
       "form": "bohut",
-      "note": ""
+      "orthographic": "বহুত",
+      "gloss": "many"
     },
     {
-      "gloss": "some",
-      "orthographic": "",
       "form": "olop",
-      "note": ""
+      "orthographic": "অলপ",
+      "gloss": "some"
     },
     {
-      "gloss": "few",
-      "orthographic": "",
       "form": "olop",
-      "note": ""
+      "orthographic": "অলপ",
+      "gloss": "few"
     },
     {
-      "gloss": "other",
-      "orthographic": "",
       "form": "an",
-      "note": ""
+      "orthographic": "আন",
+      "gloss": "other"
     },
     {
-      "gloss": "one",
-      "orthographic": "",
       "form": "ek",
-      "note": ""
+      "orthographic": "এক",
+      "gloss": "one"
     },
     {
-      "gloss": "two",
-      "orthographic": "",
       "form": "dui",
-      "note": ""
+      "orthographic": "দুই",
+      "gloss": "two"
     },
     {
-      "gloss": "three",
-      "orthographic": "",
       "form": "tini",
-      "note": ""
+      "orthographic": "তিনি",
+      "gloss": "three"
     },
     {
-      "gloss": "four",
-      "orthographic": "",
       "form": "sari",
-      "note": ""
+      "orthographic": "চাৰি",
+      "gloss": "four"
     },
     {
-      "gloss": "five",
-      "orthographic": "",
       "form": "pãs",
-      "note": ""
+      "orthographic": "পাঁচ",
+      "gloss": "five"
     },
     {
-      "gloss": "big",
-      "orthographic": "",
       "form": "daṅor",
-      "note": ""
+      "orthographic": "ডাঙৰ",
+      "gloss": "big"
     },
     {
-      "gloss": "long",
-      "orthographic": "",
       "form": "dighol",
-      "note": ""
+      "orthographic": "দীঘল",
+      "gloss": "long"
     },
     {
-      "gloss": "wide",
-      "orthographic": "",
       "form": "bohol",
-      "note": ""
+      "orthographic": "বহল",
+      "gloss": "wide"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
       "form": "dath",
-      "note": ""
+      "orthographic": "ডাঠ",
+      "gloss": "thick"
     },
     {
-      "gloss": "thick",
-      "orthographic": "",
-      "form": "müta",
-      "note": ""
+      "form": "dath",
+      "orthographic": "ডাঠ",
+      "gloss": "thick"
     },
     {
-      "gloss": "heavy",
-      "orthographic": "",
       "form": "bhari",
-      "note": ""
+      "orthographic": "ভাৰী",
+      "gloss": "heavy"
     },
     {
-      "gloss": "small",
-      "orthographic": "",
       "form": "xoru",
-      "note": ""
+      "orthographic": "সৰু",
+      "gloss": "small"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
       "form": "suti",
-      "note": ""
+      "orthographic": "চুটি",
+      "gloss": "short"
     },
     {
-      "gloss": "short",
-      "orthographic": "",
-      "form": "sapor",
-      "note": ""
+      "form": "suti",
+      "orthographic": "চুটি",
+      "gloss": "short"
     },
     {
-      "gloss": "narrow",
-      "orthographic": "",
       "form": "thek",
-      "note": ""
+      "orthographic": "ঠেক",
+      "gloss": "narrow"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
       "form": "patol",
-      "note": ""
+      "orthographic": "পাতল",
+      "gloss": "thin"
     },
     {
-      "gloss": "thin",
-      "orthographic": "",
-      "form": "khin",
-      "note": ""
+      "form": "patol",
+      "orthographic": "পাতল",
+      "gloss": "thin"
     },
     {
-      "gloss": "woman",
-      "orthographic": "",
       "form": "maiki manuh",
-      "note": ""
+      "orthographic": "মাইকী মানুহ",
+      "gloss": "woman"
     },
     {
-      "gloss": "man (adult male)",
-      "orthographic": "",
       "form": "mota manuh",
-      "note": ""
+      "orthographic": "মতা মানুহ",
+      "gloss": "man (adult male)"
     },
     {
-      "gloss": "man (human being)",
-      "orthographic": "",
       "form": "manuh",
-      "note": ""
+      "orthographic": "মানুহ",
+      "gloss": "man (human being)"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
       "form": "löra-süali",
-      "note": ""
+      "orthographic": "ল’ৰা-ছোৱালী",
+      "gloss": "child"
     },
     {
-      "gloss": "child",
-      "orthographic": "",
-      "form": "soli",
-      "note": ""
+      "form": "löra-süali",
+      "orthographic": "ল’ৰা-ছোৱালী",
+      "gloss": "child"
     },
     {
-      "gloss": "wife",
-      "orthographic": "",
       "form": "ghoini",
-      "note": ""
+      "orthographic": "ঘৈণী",
+      "gloss": "wife"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
       "form": "giri",
-      "note": ""
+      "orthographic": "গিৰি",
+      "gloss": "husband"
     },
     {
-      "gloss": "husband",
-      "orthographic": "",
-      "form": "poi",
-      "note": ""
+      "form": "giri",
+      "orthographic": "গিৰি",
+      "gloss": "husband"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
       "form": "ma",
-      "note": ""
+      "orthographic": "মা",
+      "gloss": "mother"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "ai",
-      "note": ""
+      "form": "ma",
+      "orthographic": "মা",
+      "gloss": "mother"
     },
     {
-      "gloss": "mother",
-      "orthographic": "",
-      "form": "amma",
-      "note": ""
+      "form": "ma",
+      "orthographic": "মা",
+      "gloss": "mother"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
       "form": "deuta",
-      "note": ""
+      "orthographic": "দেউতা",
+      "gloss": "father"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "bap",
-      "note": ""
+      "form": "deuta",
+      "orthographic": "দেউতা",
+      "gloss": "father"
     },
     {
-      "gloss": "father",
-      "orthographic": "",
-      "form": "abba",
-      "note": ""
+      "form": "deuta",
+      "orthographic": "দেউতা",
+      "gloss": "father"
     },
     {
-      "gloss": "animal",
-      "orthographic": "",
       "form": "ziw-zontu",
-      "note": ""
+      "orthographic": "জীৱ-জন্তু",
+      "gloss": "animal"
     },
     {
-      "gloss": "fish",
-      "orthographic": "",
       "form": "mas",
-      "note": ""
+      "orthographic": "মাছ",
+      "gloss": "fish"
     },
     {
-      "gloss": "bird",
-      "orthographic": "",
       "form": "sorai",
-      "note": ""
+      "orthographic": "চৰাই",
+      "gloss": "bird"
     },
     {
-      "gloss": "dog",
-      "orthographic": "",
       "form": "kukur",
-      "note": ""
+      "orthographic": "কুকুৰ",
+      "gloss": "dog"
     },
     {
-      "gloss": "louse",
-      "orthographic": "",
       "form": "ükoni",
-      "note": ""
+      "orthographic": "ওকণি",
+      "gloss": "louse"
     },
     {
-      "gloss": "snake",
-      "orthographic": "",
       "form": "xap",
-      "note": ""
+      "orthographic": "সাপ",
+      "gloss": "snake"
     },
     {
-      "gloss": "worm",
-      "orthographic": "",
       "form": "pelu",
-      "note": ""
+      "orthographic": "পেলু",
+      "gloss": "worm"
     },
     {
-      "gloss": "tree",
-      "orthographic": "",
       "form": "gos",
-      "note": ""
+      "orthographic": "গছ",
+      "gloss": "tree"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
       "form": "habi",
-      "note": ""
+      "orthographic": "হাবি",
+      "gloss": "forest"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "zoṅghol",
-      "note": ""
+      "form": "habi",
+      "orthographic": "হাবি",
+      "gloss": "forest"
     },
     {
-      "gloss": "forest",
-      "orthographic": "",
-      "form": "bon",
-      "note": ""
+      "form": "habi",
+      "orthographic": "হাবি",
+      "gloss": "forest"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
       "form": "bari",
-      "note": ""
+      "orthographic": "বাৰি",
+      "gloss": "stick"
     },
     {
-      "gloss": "stick",
-      "orthographic": "",
-      "form": "kathi",
-      "note": ""
+      "form": "bari",
+      "orthographic": "বাৰি",
+      "gloss": "stick"
     },
     {
-      "gloss": "fruit",
-      "orthographic": "",
       "form": "phol",
-      "note": ""
+      "orthographic": "ফল",
+      "gloss": "fruit"
     },
     {
-      "gloss": "seed",
-      "orthographic": "",
       "form": "guti",
-      "note": ""
+      "orthographic": "গুটি",
+      "gloss": "seed"
     },
     {
-      "gloss": "leaf",
-      "orthographic": "",
       "form": "pat",
-      "note": ""
+      "orthographic": "পাত",
+      "gloss": "leaf"
     },
     {
-      "gloss": "root",
-      "orthographic": "",
       "form": "xipa",
-      "note": ""
+      "orthographic": "শিপা",
+      "gloss": "root"
     },
     {
-      "gloss": "bark (of a tree)",
-      "orthographic": "",
       "form": "bakoli",
-      "note": ""
+      "orthographic": "বাকলি",
+      "gloss": "bark (of a tree)"
     },
     {
-      "gloss": "flower",
-      "orthographic": "",
       "form": "phul",
-      "note": ""
+      "orthographic": "ফুল",
+      "gloss": "flower"
     },
     {
-      "gloss": "grass",
-      "orthographic": "",
       "form": "ghãh",
-      "note": ""
+      "orthographic": "ঘাঁহ",
+      "gloss": "grass"
     },
     {
-      "gloss": "rope",
-      "orthographic": "",
       "form": "rosi",
-      "note": ""
+      "orthographic": "ৰছী",
+      "gloss": "rope"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
       "form": "sal",
-      "note": ""
+      "orthographic": "ছাল",
+      "gloss": "skin"
     },
     {
-      "gloss": "skin",
-      "orthographic": "",
-      "form": "samra",
-      "note": ""
+      "form": "sal",
+      "orthographic": "ছাল",
+      "gloss": "skin"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
       "form": "moṅoh",
-      "note": ""
+      "orthographic": "মঙহ",
+      "gloss": "meat"
     },
     {
-      "gloss": "meat",
-      "orthographic": "",
-      "form": "maṅxo",
-      "note": ""
+      "form": "moṅoh",
+      "orthographic": "মঙহ",
+      "gloss": "meat"
     },
     {
-      "gloss": "blood",
-      "orthographic": "",
       "form": "tez",
-      "note": ""
+      "orthographic": "তেজ",
+      "gloss": "blood"
     },
     {
-      "gloss": "bone",
-      "orthographic": "",
       "form": "har",
-      "note": ""
+      "orthographic": "হাড়",
+      "gloss": "bone"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
       "form": "sorri",
-      "note": ""
+      "orthographic": "চৰ্বি",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "fat (noun)",
-      "orthographic": "",
-      "form": "tel",
-      "note": ""
+      "form": "sorri",
+      "orthographic": "চৰ্বি",
+      "gloss": "fat (noun)"
     },
     {
-      "gloss": "egg",
-      "orthographic": "",
       "form": "koni",
-      "note": ""
+      "orthographic": "কণী",
+      "gloss": "egg"
     },
     {
-      "gloss": "horn",
-      "orthographic": "",
       "form": "xiṅ",
-      "note": ""
+      "orthographic": "শিং",
+      "gloss": "horn"
     },
     {
-      "gloss": "tail",
-      "orthographic": "",
       "form": "nez",
-      "note": ""
+      "orthographic": "নেজ",
+      "gloss": "tail"
     },
     {
-      "gloss": "feather",
-      "orthographic": "",
       "form": "pakhi",
-      "note": ""
+      "orthographic": "পাখি",
+      "gloss": "feather"
     },
     {
-      "gloss": "hair",
-      "orthographic": "",
       "form": "suli",
-      "note": ""
+      "orthographic": "চুলি",
+      "gloss": "hair"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
       "form": "mur",
-      "note": ""
+      "orthographic": "মূৰ",
+      "gloss": "head"
     },
     {
-      "gloss": "head",
-      "orthographic": "",
-      "form": "matha",
-      "note": ""
+      "form": "mur",
+      "orthographic": "মূৰ",
+      "gloss": "head"
     },
     {
-      "gloss": "ear",
-      "orthographic": "",
       "form": "kan",
-      "note": ""
+      "orthographic": "কান",
+      "gloss": "ear"
     },
     {
-      "gloss": "eye",
-      "orthographic": "",
       "form": "soku",
-      "note": ""
+      "orthographic": "চকু",
+      "gloss": "eye"
     },
     {
-      "gloss": "nose",
-      "orthographic": "",
       "form": "nak",
-      "note": ""
+      "orthographic": "নাক",
+      "gloss": "nose"
     },
     {
-      "gloss": "mouth",
-      "orthographic": "",
       "form": "mukh",
-      "note": ""
+      "orthographic": "মুখ",
+      "gloss": "mouth"
     },
     {
-      "gloss": "tooth",
-      "orthographic": "",
       "form": "dãt",
-      "note": ""
+      "orthographic": "দাঁত",
+      "gloss": "tooth"
     },
     {
-      "gloss": "tongue (organ)",
-      "orthographic": "",
       "form": "zibha",
-      "note": ""
+      "orthographic": "জিভা",
+      "gloss": "tongue (organ)"
     },
     {
-      "gloss": "fingernail",
-      "orthographic": "",
       "form": "nokh",
-      "note": ""
+      "orthographic": "নখ",
+      "gloss": "fingernail"
     },
     {
-      "gloss": "foot",
-      "orthographic": "",
       "form": "bhori",
-      "note": ""
+      "orthographic": "ভৰি",
+      "gloss": "foot"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
       "form": "bhori",
-      "note": ""
+      "orthographic": "ভৰি",
+      "gloss": "leg"
     },
     {
-      "gloss": "leg",
-      "orthographic": "",
-      "form": "theṅ",
-      "note": ""
+      "form": "bhori",
+      "orthographic": "ভৰি",
+      "gloss": "leg"
     },
     {
-      "gloss": "knee",
-      "orthographic": "",
       "form": "ãthu",
-      "note": ""
+      "orthographic": "আঁঠু",
+      "gloss": "knee"
     },
     {
-      "gloss": "hand",
-      "orthographic": "",
       "form": "hat",
-      "note": ""
+      "orthographic": "হাত",
+      "gloss": "hand"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
       "form": "deuka",
-      "note": ""
+      "orthographic": "ডেউকা",
+      "gloss": "wing"
     },
     {
-      "gloss": "wing",
-      "orthographic": "",
-      "form": "pakhi",
-      "note": ""
+      "form": "deuka",
+      "orthographic": "ডেউকা",
+      "gloss": "wing"
     },
     {
-      "gloss": "belly",
-      "orthographic": "",
       "form": "pet",
-      "note": ""
+      "orthographic": "পেট",
+      "gloss": "belly"
     },
     {
-      "gloss": "guts",
-      "orthographic": "",
       "form": "nari",
-      "note": ""
+      "orthographic": "নাড়ী",
+      "gloss": "guts"
     },
     {
-      "gloss": "neck",
-      "orthographic": "",
       "form": "diṅi",
-      "note": ""
+      "orthographic": "ডিঙি",
+      "gloss": "neck"
     },
     {
-      "gloss": "back",
-      "orthographic": "",
       "form": "pithi",
-      "note": ""
+      "orthographic": "পিঠি",
+      "gloss": "back"
     },
     {
-      "gloss": "breast",
-      "orthographic": "",
       "form": "buku",
-      "note": ""
+      "orthographic": "বুকু",
+      "gloss": "breast"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
       "form": "hia",
-      "note": ""
+      "orthographic": "হিয়া",
+      "gloss": "heart"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
-      "form": "koliza",
-      "note": ""
+      "form": "hia",
+      "orthographic": "হিয়া",
+      "gloss": "heart"
     },
     {
-      "gloss": "heart",
-      "orthographic": "",
-      "form": "amothu",
-      "note": ""
+      "form": "hia",
+      "orthographic": "হিয়া",
+      "gloss": "heart"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
       "form": "zokrit",
-      "note": ""
+      "orthographic": "যকৃত",
+      "gloss": "liver"
     },
     {
-      "gloss": "liver",
-      "orthographic": "",
-      "form": "koliza",
-      "note": "also 'heart'"
+      "form": "zokrit",
+      "orthographic": "যকৃত",
+      "gloss": "liver"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
       "form": "khüa",
-      "note": ""
+      "orthographic": "খোৱা",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
-      "form": "pi kha",
-      "note": ""
+      "form": "khüa",
+      "orthographic": "খোৱা",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to drink",
-      "orthographic": "",
-      "form": "pi",
-      "note": ""
+      "form": "khüa",
+      "orthographic": "খোৱা",
+      "gloss": "to drink"
     },
     {
-      "gloss": "to eat",
-      "orthographic": "",
       "form": "kha",
-      "note": ""
+      "orthographic": "খা",
+      "gloss": "to eat"
     },
     {
-      "gloss": "to bite",
-      "orthographic": "",
       "form": "kamür",
-      "note": ""
+      "orthographic": "কামোৰ",
+      "gloss": "to bite"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
       "form": "suh",
-      "note": ""
+      "orthographic": "চুহ",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "sup",
-      "note": ""
+      "form": "suh",
+      "orthographic": "চুহ",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to suck",
-      "orthographic": "",
-      "form": "xüh",
-      "note": ""
+      "form": "suh",
+      "orthographic": "চুহ",
+      "gloss": "to suck"
     },
     {
-      "gloss": "to spit",
-      "orthographic": "",
       "form": "thu pela",
-      "note": ""
+      "orthographic": "থু পেলা",
+      "gloss": "to spit"
     },
     {
-      "gloss": "to vomit",
-      "orthographic": "",
       "form": "bomi kor",
-      "note": ""
+      "orthographic": "বমি কৰ",
+      "gloss": "to vomit"
     },
     {
-      "gloss": "to blow",
-      "orthographic": "",
       "form": "phu de",
-      "note": ""
+      "orthographic": "ফু দে",
+      "gloss": "to blow"
     },
     {
-      "gloss": "to breathe",
-      "orthographic": "",
       "form": "uxah lo",
-      "note": ""
+      "orthographic": "উশাহ ল",
+      "gloss": "to breathe"
     },
     {
-      "gloss": "to laugh",
-      "orthographic": "",
       "form": "hãh",
-      "note": ""
+      "orthographic": "হাঁহ",
+      "gloss": "to laugh"
     },
     {
-      "gloss": "to see",
-      "orthographic": "",
       "form": "dekh",
-      "note": ""
+      "orthographic": "দেখ",
+      "gloss": "to see"
     },
     {
-      "gloss": "to hear",
-      "orthographic": "",
       "form": "xun",
-      "note": ""
+      "orthographic": "শুন",
+      "gloss": "to hear"
     },
     {
-      "gloss": "to know",
-      "orthographic": "",
       "form": "zan",
-      "note": ""
+      "orthographic": "জান",
+      "gloss": "to know"
     },
     {
-      "gloss": "to think",
-      "orthographic": "",
       "form": "bhabo",
-      "note": ""
+      "orthographic": "ভাব",
+      "gloss": "to think"
     },
     {
-      "gloss": "to smell",
-      "orthographic": "",
       "form": "xuṅ",
-      "note": ""
+      "orthographic": "শুং",
+      "gloss": "to smell"
     },
     {
-      "gloss": "to fear",
-      "orthographic": "",
       "form": "bhoy kha",
-      "note": ""
+      "orthographic": "ভয় খা",
+      "gloss": "to fear"
     },
     {
-      "gloss": "to sleep",
-      "orthographic": "",
       "form": "xu",
-      "note": ""
+      "orthographic": "শু",
+      "gloss": "to sleep"
     },
     {
-      "gloss": "to live",
-      "orthographic": "",
       "form": "ziai thak",
-      "note": ""
+      "orthographic": "জীয়াই থাক",
+      "gloss": "to live"
     },
     {
-      "gloss": "to die",
-      "orthographic": "",
       "form": "mor",
-      "note": ""
+      "orthographic": "মৰ",
+      "gloss": "to die"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
       "form": "mar",
-      "note": ""
+      "orthographic": "মাৰ",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to kill",
-      "orthographic": "",
-      "form": "mari pela",
-      "note": ""
+      "form": "mar",
+      "orthographic": "মাৰ",
+      "gloss": "to kill"
     },
     {
-      "gloss": "to fight",
-      "orthographic": "",
       "form": "zũz",
-      "note": ""
+      "orthographic": "যুঁজ",
+      "gloss": "to fight"
     },
     {
-      "gloss": "to hunt",
-      "orthographic": "",
       "form": "sikar kor",
-      "note": ""
+      "orthographic": "চিকাৰ কৰ",
+      "gloss": "to hunt"
     },
     {
-      "gloss": "to hit",
-      "orthographic": "",
       "form": "pit",
-      "note": ""
+      "orthographic": "পিট",
+      "gloss": "to hit"
     },
     {
-      "gloss": "to cut",
-      "orthographic": "",
       "form": "kat",
-      "note": ""
+      "orthographic": "কাট",
+      "gloss": "to cut"
     },
     {
-      "gloss": "to split",
-      "orthographic": "",
       "form": "bhoga",
-      "note": ""
+      "orthographic": "ভগা",
+      "gloss": "to split"
     },
     {
-      "gloss": "to stab",
-      "orthographic": "",
       "form": "khü̃s",
-      "note": ""
+      "orthographic": "খোঁচ",
+      "gloss": "to stab"
     },
     {
-      "gloss": "to scratch",
-      "orthographic": "",
       "form": "ãsür",
-      "note": ""
+      "orthographic": "আঁচোৰ",
+      "gloss": "to scratch"
     },
     {
-      "gloss": "to dig",
-      "orthographic": "",
       "form": "khando",
-      "note": ""
+      "orthographic": "খান্দ",
+      "gloss": "to dig"
     },
     {
-      "gloss": "to swim",
-      "orthographic": "",
       "form": "xãtür",
-      "note": ""
+      "orthographic": "সাঁতোৰ",
+      "gloss": "to swim"
     },
     {
-      "gloss": "to fly",
-      "orthographic": "",
       "form": "ur",
-      "note": ""
+      "orthographic": "উৰ",
+      "gloss": "to fly"
     },
     {
-      "gloss": "to walk",
-      "orthographic": "",
       "form": "khüz karh",
-      "note": ""
+      "orthographic": "খোজ কাঢ়",
+      "gloss": "to walk"
     },
     {
-      "gloss": "to come",
-      "orthographic": "",
       "form": "ah",
-      "note": ""
+      "orthographic": "আহ",
+      "gloss": "to come"
     },
     {
-      "gloss": "to lie (as in a bed)",
-      "orthographic": "",
       "form": "bagor",
-      "note": ""
+      "orthographic": "বাগৰ",
+      "gloss": "to lie (as in a bed)"
     },
     {
-      "gloss": "to sit",
-      "orthographic": "",
       "form": "boh",
-      "note": ""
+      "orthographic": "বহ",
+      "gloss": "to sit"
     },
     {
-      "gloss": "to stand",
-      "orthographic": "",
       "form": "thi ho",
-      "note": ""
+      "orthographic": "থিয় হ",
+      "gloss": "to stand"
     },
     {
-      "gloss": "to turn (intransitive)",
-      "orthographic": "",
       "form": "pak mar",
-      "note": ""
+      "orthographic": "পাক মাৰ",
+      "gloss": "to turn (intransitive)"
     },
     {
-      "gloss": "to fall",
-      "orthographic": "",
       "form": "par",
-      "note": ""
+      "orthographic": "পাৰ",
+      "gloss": "to fall"
     },
     {
-      "gloss": "to give",
-      "orthographic": "",
       "form": "de",
-      "note": ""
+      "orthographic": "দে",
+      "gloss": "to give"
     },
     {
-      "gloss": "to hold",
-      "orthographic": "",
       "form": "dhor",
-      "note": ""
+      "orthographic": "ধৰ",
+      "gloss": "to hold"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
       "form": "sep",
-      "note": ""
+      "orthographic": "চেপ",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to squeeze",
-      "orthographic": "",
-      "form": "hẽs",
-      "note": ""
+      "form": "sep",
+      "orthographic": "চেপ",
+      "gloss": "to squeeze"
     },
     {
-      "gloss": "to rub",
-      "orthographic": "",
       "form": "ghõh",
-      "note": ""
+      "orthographic": "ঘঁহ",
+      "gloss": "to rub"
     },
     {
-      "gloss": "to wash",
-      "orthographic": "",
       "form": "dhü",
-      "note": ""
+      "orthographic": "ধো",
+      "gloss": "to wash"
     },
     {
-      "gloss": "to wipe",
-      "orthographic": "",
       "form": "müs",
-      "note": ""
+      "orthographic": "মোছ",
+      "gloss": "to wipe"
     },
     {
-      "gloss": "to pull",
-      "orthographic": "",
       "form": "tan",
-      "note": ""
+      "orthographic": "টান",
+      "gloss": "to pull"
     },
     {
-      "gloss": "to push",
-      "orthographic": "",
       "form": "thel",
-      "note": ""
+      "orthographic": "ঠেল",
+      "gloss": "to push"
     },
     {
-      "gloss": "to throw",
-      "orthographic": "",
       "form": "dolia",
-      "note": ""
+      "orthographic": "দলিয়া",
+      "gloss": "to throw"
     },
     {
-      "gloss": "to tie",
-      "orthographic": "",
       "form": "bandho",
-      "note": ""
+      "orthographic": "বান্ধ",
+      "gloss": "to tie"
     },
     {
-      "gloss": "to sew",
-      "orthographic": "",
       "form": "sila",
-      "note": ""
+      "orthographic": "চিলা",
+      "gloss": "to sew"
     },
     {
-      "gloss": "to count",
-      "orthographic": "",
       "form": "gon",
-      "note": ""
+      "orthographic": "গণ",
+      "gloss": "to count"
     },
     {
-      "gloss": "to say",
-      "orthographic": "",
       "form": "ko",
-      "note": ""
+      "orthographic": "ক",
+      "gloss": "to say"
     },
     {
-      "gloss": "to sing",
-      "orthographic": "",
       "form": "ga",
-      "note": ""
+      "orthographic": "গা",
+      "gloss": "to sing"
     },
     {
-      "gloss": "to play",
-      "orthographic": "",
       "form": "khel",
-      "note": ""
+      "orthographic": "খেল",
+      "gloss": "to play"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
       "form": "üpoṅ",
-      "note": ""
+      "orthographic": "ওপং",
+      "gloss": "to float"
     },
     {
-      "gloss": "to float",
-      "orthographic": "",
-      "form": "bhah",
-      "note": ""
+      "form": "üpoṅ",
+      "orthographic": "ওপং",
+      "gloss": "to float"
     },
     {
-      "gloss": "to flow",
-      "orthographic": "",
       "form": "bo",
-      "note": ""
+      "orthographic": "ব",
+      "gloss": "to flow"
     },
     {
-      "gloss": "to freeze",
-      "orthographic": "",
       "form": "phriz kor",
-      "note": ""
+      "orthographic": "ফ্ৰিজ কৰ",
+      "gloss": "to freeze"
     },
     {
-      "gloss": "to swell",
-      "orthographic": "",
       "form": "phul",
-      "note": ""
+      "orthographic": "ফুল",
+      "gloss": "to swell"
     },
     {
-      "gloss": "sun",
-      "orthographic": "",
       "form": "beli",
-      "note": ""
+      "orthographic": "বেলি",
+      "gloss": "sun"
     },
     {
-      "gloss": "moon",
-      "orthographic": "",
       "form": "zün",
-      "note": ""
+      "orthographic": "জোন",
+      "gloss": "moon"
     },
     {
-      "gloss": "star",
-      "orthographic": "",
       "form": "tora",
-      "note": ""
+      "orthographic": "তৰা",
+      "gloss": "star"
     },
     {
-      "gloss": "water",
-      "orthographic": "",
       "form": "pani",
-      "note": ""
+      "orthographic": "পানী",
+      "gloss": "water"
     },
     {
-      "gloss": "rain",
-      "orthographic": "",
       "form": "boroxun",
-      "note": ""
+      "orthographic": "বৰষুণ",
+      "gloss": "rain"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
       "form": "noi",
-      "note": ""
+      "orthographic": "নৈ",
+      "gloss": "river"
     },
     {
-      "gloss": "river",
-      "orthographic": "",
-      "form": "nodi",
-      "note": ""
+      "form": "noi",
+      "orthographic": "নৈ",
+      "gloss": "river"
     },
     {
-      "gloss": "lake",
-      "orthographic": "",
       "form": "bil",
-      "note": ""
+      "orthographic": "বিল",
+      "gloss": "lake"
     },
     {
-      "gloss": "sea",
-      "orthographic": "",
       "form": "xagor",
-      "note": ""
+      "orthographic": "সাগৰ",
+      "gloss": "sea"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
       "form": "nimokh",
-      "note": ""
+      "orthographic": "নিমখ",
+      "gloss": "salt"
     },
     {
-      "gloss": "salt",
-      "orthographic": "",
-      "form": "nun",
-      "note": ""
+      "form": "nimokh",
+      "orthographic": "নিমখ",
+      "gloss": "salt"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
       "form": "xil",
-      "note": ""
+      "orthographic": "শিল",
+      "gloss": "stone"
     },
     {
-      "gloss": "stone",
-      "orthographic": "",
-      "form": "pathor",
-      "note": ""
+      "form": "xil",
+      "orthographic": "শিল",
+      "gloss": "stone"
     },
     {
-      "gloss": "sand",
-      "orthographic": "",
       "form": "bali",
-      "note": ""
+      "orthographic": "বালি",
+      "gloss": "sand"
     },
     {
-      "gloss": "dust",
-      "orthographic": "",
       "form": "dhuli",
-      "note": ""
+      "orthographic": "ধূলি",
+      "gloss": "dust"
     },
     {
-      "gloss": "earth",
-      "orthographic": "",
       "form": "prithiwi",
-      "note": ""
+      "orthographic": "পৃথিৱী",
+      "gloss": "earth"
     },
     {
-      "gloss": "cloud",
-      "orthographic": "",
       "form": "megh",
-      "note": ""
+      "orthographic": "মেঘ",
+      "gloss": "cloud"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
       "form": "kũwoli",
-      "note": ""
+      "orthographic": "কুঁৱলী",
+      "gloss": "fog"
     },
     {
-      "gloss": "fog",
-      "orthographic": "",
-      "form": "nir",
-      "note": ""
+      "form": "kũwoli",
+      "orthographic": "কুঁৱলী",
+      "gloss": "fog"
     },
     {
-      "gloss": "sky",
-      "orthographic": "",
       "form": "akax",
-      "note": ""
+      "orthographic": "আকাশ",
+      "gloss": "sky"
     },
     {
-      "gloss": "wind",
-      "orthographic": "",
       "form": "botah",
-      "note": ""
+      "orthographic": "বতাহ",
+      "gloss": "wind"
     },
     {
-      "gloss": "snow",
-      "orthographic": "",
       "form": "boroph",
-      "note": ""
+      "orthographic": "বৰফ",
+      "gloss": "snow"
     },
     {
-      "gloss": "ice",
-      "orthographic": "",
       "form": "boroph",
-      "note": ""
+      "orthographic": "বৰফ",
+      "gloss": "ice"
     },
     {
-      "gloss": "smoke",
-      "orthographic": "",
       "form": "dhü̃a",
-      "note": ""
+      "orthographic": "ধোঁৱা",
+      "gloss": "smoke"
     },
     {
-      "gloss": "fire",
-      "orthographic": "",
       "form": "zui",
-      "note": ""
+      "orthographic": "জুই",
+      "gloss": "fire"
     },
     {
-      "gloss": "ash",
-      "orthographic": "",
       "form": "sai",
-      "note": ""
+      "orthographic": "ছাই",
+      "gloss": "ash"
     },
     {
-      "gloss": "to burn",
-      "orthographic": "",
       "form": "zola",
-      "note": ""
+      "orthographic": "জলা",
+      "gloss": "to burn"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
       "form": "ali",
-      "note": ""
+      "orthographic": "আলি",
+      "gloss": "road"
     },
     {
-      "gloss": "road",
-      "orthographic": "",
-      "form": "bat",
-      "note": ""
+      "form": "ali",
+      "orthographic": "আলি",
+      "gloss": "road"
     },
     {
-      "gloss": "mountain",
-      "orthographic": "",
       "form": "pahar",
-      "note": ""
+      "orthographic": "পাহাৰ",
+      "gloss": "mountain"
     },
     {
-      "gloss": "red",
-      "orthographic": "",
       "form": "roṅa",
-      "note": ""
+      "orthographic": "ৰঙা",
+      "gloss": "red"
     },
     {
-      "gloss": "green",
-      "orthographic": "",
       "form": "xeuzia",
-      "note": ""
+      "orthographic": "সেউজীয়া",
+      "gloss": "green"
     },
     {
-      "gloss": "yellow",
-      "orthographic": "",
       "form": "halodhia",
-      "note": ""
+      "orthographic": "হালধীয়া",
+      "gloss": "yellow"
     },
     {
-      "gloss": "white",
-      "orthographic": "",
       "form": "boga",
-      "note": ""
+      "orthographic": "বগা",
+      "gloss": "white"
     },
     {
-      "gloss": "black",
-      "orthographic": "",
       "form": "köla",
-      "note": ""
+      "orthographic": "ক’লা",
+      "gloss": "black"
     },
     {
-      "gloss": "night",
-      "orthographic": "",
       "form": "rati",
-      "note": ""
+      "orthographic": "ৰাতি",
+      "gloss": "night"
     },
     {
-      "gloss": "day",
-      "orthographic": "",
       "form": "din",
-      "note": ""
+      "orthographic": "দিন",
+      "gloss": "day"
     },
     {
-      "gloss": "year",
-      "orthographic": "",
       "form": "bosor",
-      "note": ""
+      "orthographic": "বছৰ",
+      "gloss": "year"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
       "form": "topot",
-      "note": ""
+      "orthographic": "তপত",
+      "gloss": "warm"
     },
     {
-      "gloss": "warm",
-      "orthographic": "",
-      "form": "gorom",
-      "note": ""
+      "form": "topot",
+      "orthographic": "তপত",
+      "gloss": "warm"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
       "form": "sẽsa",
-      "note": ""
+      "orthographic": "চেঁচা",
+      "gloss": "cold"
     },
     {
-      "gloss": "cold",
-      "orthographic": "",
-      "form": "thanda",
-      "note": ""
+      "form": "sẽsa",
+      "orthographic": "চেঁচা",
+      "gloss": "cold"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
       "form": "bhora",
-      "note": ""
+      "orthographic": "ভৰা",
+      "gloss": "full"
     },
     {
-      "gloss": "full",
-      "orthographic": "",
-      "form": "pura",
-      "note": ""
+      "form": "bhora",
+      "orthographic": "ভৰা",
+      "gloss": "full"
     },
     {
-      "gloss": "new",
-      "orthographic": "",
       "form": "notun",
-      "note": ""
+      "orthographic": "নতুন",
+      "gloss": "new"
     },
     {
-      "gloss": "old",
-      "orthographic": "",
       "form": "purona",
-      "note": ""
+      "orthographic": "পুৰণা",
+      "gloss": "old"
     },
     {
-      "gloss": "good",
-      "orthographic": "",
       "form": "bhal",
-      "note": ""
+      "orthographic": "ভাল",
+      "gloss": "good"
     },
     {
-      "gloss": "bad",
-      "orthographic": "",
       "form": "bea",
-      "note": ""
+      "orthographic": "বেয়া",
+      "gloss": "bad"
     },
     {
-      "gloss": "rotten",
-      "orthographic": "",
       "form": "gela",
-      "note": ""
+      "orthographic": "গেলা",
+      "gloss": "rotten"
     },
     {
-      "gloss": "dirty",
-      "orthographic": "",
       "form": "letera",
-      "note": ""
+      "orthographic": "লেতেৰা",
+      "gloss": "dirty"
     },
     {
-      "gloss": "straight",
-      "orthographic": "",
       "form": "pün",
-      "note": ""
+      "orthographic": "পোন",
+      "gloss": "straight"
     },
     {
-      "gloss": "round",
-      "orthographic": "",
       "form": "gül",
-      "note": ""
+      "orthographic": "গোল",
+      "gloss": "round"
     },
     {
-      "gloss": "sharp (as a knife)",
-      "orthographic": "",
       "form": "süka",
-      "note": ""
+      "orthographic": "চোকা",
+      "gloss": "sharp (as a knife)"
     },
     {
-      "gloss": "dull (as a knife)",
-      "orthographic": "",
       "form": "bhüta",
-      "note": ""
+      "orthographic": "ভোটা",
+      "gloss": "dull (as a knife)"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
       "form": "mihi",
-      "note": ""
+      "orthographic": "মিহি",
+      "gloss": "smooth"
     },
     {
-      "gloss": "smooth",
-      "orthographic": "",
-      "form": "sikun",
-      "note": ""
+      "form": "mihi",
+      "orthographic": "মিহি",
+      "gloss": "smooth"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
       "form": "tita",
-      "note": ""
+      "orthographic": "তিতা",
+      "gloss": "wet"
     },
     {
-      "gloss": "wet",
-      "orthographic": "",
-      "form": "bhiza",
-      "note": ""
+      "form": "tita",
+      "orthographic": "তিতা",
+      "gloss": "wet"
     },
     {
-      "gloss": "dry",
-      "orthographic": "",
       "form": "xukan",
-      "note": ""
+      "orthographic": "শুকান",
+      "gloss": "dry"
     },
     {
-      "gloss": "correct",
-      "orthographic": "",
       "form": "xuddho",
-      "note": ""
+      "orthographic": "শুদ্ধ",
+      "gloss": "correct"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
       "form": "üsor",
-      "note": ""
+      "orthographic": "ওচৰ",
+      "gloss": "near"
     },
     {
-      "gloss": "near",
-      "orthographic": "",
-      "form": "kax",
-      "note": ""
+      "form": "üsor",
+      "orthographic": "ওচৰ",
+      "gloss": "near"
     },
     {
-      "gloss": "far",
-      "orthographic": "",
       "form": "dur",
-      "note": ""
+      "orthographic": "দূৰ",
+      "gloss": "far"
     },
     {
-      "gloss": "right",
-      "orthographic": "",
       "form": "xü̃",
-      "note": ""
+      "orthographic": "সোঁ",
+      "gloss": "right"
     },
     {
-      "gloss": "left",
-      "orthographic": "",
       "form": "baü̃",
-      "note": ""
+      "orthographic": "বাওঁ",
+      "gloss": "left"
     },
     {
-      "gloss": "at",
-      "orthographic": "",
       "form": "-t",
-      "note": ""
+      "orthographic": "-ত",
+      "gloss": "at"
     },
     {
-      "gloss": "in",
-      "orthographic": "",
       "form": "-t",
-      "note": ""
+      "orthographic": "-ত",
+      "gloss": "in"
     },
     {
-      "gloss": "with",
-      "orthographic": "",
       "form": "(-r) xoite",
-      "note": ""
+      "orthographic": "(-ৰ) সৈতে",
+      "gloss": "with"
     },
     {
-      "gloss": "and",
-      "orthographic": "",
       "form": "aru",
-      "note": ""
+      "orthographic": "আৰু",
+      "gloss": "and"
     },
     {
-      "gloss": "if",
-      "orthographic": "",
       "form": "zodi",
-      "note": ""
+      "orthographic": "যদি",
+      "gloss": "if"
     },
     {
-      "gloss": "because",
-      "orthographic": "",
       "form": "karon",
-      "note": ""
+      "orthographic": "কাৰণ",
+      "gloss": "because"
     },
     {
-      "gloss": "name",
-      "orthographic": "",
       "form": "nam",
-      "note": ""
+      "orthographic": "নাম",
+      "gloss": "name"
     }
   ]
 }
