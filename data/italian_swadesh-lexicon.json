@@ -25,8 +25,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "egli",
-      "orthographic": "egli",
+      "form": "lui",
+      "orthographic": "lui",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -45,8 +45,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "loro",
-      "orthographic": "loro",
+      "form": "essi",
+      "orthographic": "essi",
       "gloss": "they (3pl)"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "here"
     },
     {
-      "form": "qui",
-      "orthographic": "qui",
+      "form": "qua",
+      "orthographic": "qua",
       "gloss": "here"
     },
     {
@@ -75,8 +75,8 @@
       "gloss": "there"
     },
     {
-      "form": "lì",
-      "orthographic": "lì",
+      "form": "là",
+      "orthographic": "là",
       "gloss": "there"
     },
     {
@@ -90,8 +90,8 @@
       "gloss": "what"
     },
     {
-      "form": "che",
-      "orthographic": "che",
+      "form": "cosa",
+      "orthographic": "cosa",
       "gloss": "what"
     },
     {
@@ -145,18 +145,18 @@
       "gloss": "one"
     },
     {
-      "form": "un",
-      "orthographic": "un",
+      "form": "uno",
+      "orthographic": "uno",
       "gloss": "one"
     },
     {
-      "form": "un",
-      "orthographic": "un",
+      "form": "una",
+      "orthographic": "una",
       "gloss": "one"
     },
     {
-      "form": "un",
-      "orthographic": "un",
+      "form": "un'",
+      "orthographic": "un'",
       "gloss": "one"
     },
     {
@@ -305,8 +305,8 @@
       "gloss": "tree"
     },
     {
-      "form": "albero",
-      "orthographic": "albero",
+      "form": "pianta",
+      "orthographic": "pianta",
       "gloss": "tree"
     },
     {
@@ -315,8 +315,8 @@
       "gloss": "forest"
     },
     {
-      "form": "foresta",
-      "orthographic": "foresta",
+      "form": "bosco",
+      "orthographic": "bosco",
       "gloss": "forest"
     },
     {
@@ -365,8 +365,8 @@
       "gloss": "rope"
     },
     {
-      "form": "corda",
-      "orthographic": "corda",
+      "form": "fune",
+      "orthographic": "fune",
       "gloss": "rope"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "uccidere",
-      "orthographic": "uccidere",
+      "form": "ammazzare",
+      "orthographic": "ammazzare",
       "gloss": "to kill"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "distendersi",
-      "orthographic": "distendersi",
+      "form": "giacere",
+      "orthographic": "giacere",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -800,8 +800,8 @@
       "gloss": "to flow"
     },
     {
-      "form": "fluire",
-      "orthographic": "fluire",
+      "form": "scorrere",
+      "orthographic": "scorrere",
       "gloss": "to flow"
     },
     {
@@ -865,8 +865,8 @@
       "gloss": "stone"
     },
     {
-      "form": "sasso",
-      "orthographic": "sasso",
+      "form": "pietra",
+      "orthographic": "pietra",
       "gloss": "stone"
     },
     {
@@ -885,8 +885,8 @@
       "gloss": "earth"
     },
     {
-      "form": "terra",
-      "orthographic": "terra",
+      "form": "mondo",
+      "orthographic": "mondo",
       "gloss": "earth"
     },
     {
@@ -1075,8 +1075,8 @@
       "gloss": "correct"
     },
     {
-      "form": "giusto",
-      "orthographic": "giusto",
+      "form": "corretto",
+      "orthographic": "corretto",
       "gloss": "correct"
     },
     {

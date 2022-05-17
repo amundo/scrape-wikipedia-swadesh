@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tu",
-      "orthographic": "tu",
+      "form": "Jūs",
+      "orthographic": "Jūs",
       "gloss": "you (2sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "this"
     },
     {
-      "form": "šis",
-      "orthographic": "šis",
+      "form": "šitas",
+      "orthographic": "šitas",
       "gloss": "this"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "that"
     },
     {
-      "form": "tas",
-      "orthographic": "tas",
+      "form": "anas",
+      "orthographic": "anas",
       "gloss": "that"
     },
     {
@@ -70,13 +70,13 @@
       "gloss": "here"
     },
     {
-      "form": "čia",
-      "orthographic": "čia",
+      "form": "čionai",
+      "orthographic": "čionai",
       "gloss": "here"
     },
     {
-      "form": "čia",
-      "orthographic": "čia",
+      "form": "šičia",
+      "orthographic": "šičia",
       "gloss": "here"
     },
     {
@@ -85,8 +85,8 @@
       "gloss": "there"
     },
     {
-      "form": "ten",
-      "orthographic": "ten",
+      "form": "tenais",
+      "orthographic": "tenais",
       "gloss": "there"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "where"
     },
     {
-      "form": "kur",
-      "orthographic": "kur",
+      "form": "kame",
+      "orthographic": "kame",
       "gloss": "where"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "all"
     },
     {
-      "form": "viskas",
-      "orthographic": "viskas",
+      "form": "visi",
+      "orthographic": "visi",
       "gloss": "all"
     },
     {
@@ -145,13 +145,13 @@
       "gloss": "some"
     },
     {
-      "form": "kažkiek",
-      "orthographic": "kažkiek",
+      "form": "keli",
+      "orthographic": "keli",
       "gloss": "some"
     },
     {
-      "form": "kažkiek",
-      "orthographic": "kažkiek",
+      "form": "keletas",
+      "orthographic": "keletas",
       "gloss": "some"
     },
     {
@@ -160,13 +160,13 @@
       "gloss": "few"
     },
     {
-      "form": "keletas",
-      "orthographic": "keletas",
+      "form": "nedaug",
+      "orthographic": "nedaug",
       "gloss": "few"
     },
     {
-      "form": "keletas",
-      "orthographic": "keletas",
+      "form": "truputis",
+      "orthographic": "truputis",
       "gloss": "few"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "other"
     },
     {
-      "form": "kitas",
-      "orthographic": "kitas",
+      "form": "anas",
+      "orthographic": "anas",
       "gloss": "other"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "two"
     },
     {
-      "form": "du",
-      "orthographic": "du",
+      "form": "dvi",
+      "orthographic": "dvi",
       "gloss": "two"
     },
     {
@@ -230,13 +230,13 @@
       "gloss": "thick"
     },
     {
-      "form": "storas",
-      "orthographic": "storas",
+      "form": "tankus",
+      "orthographic": "tankus",
       "gloss": "thick"
     },
     {
-      "form": "storas",
-      "orthographic": "storas",
+      "form": "tirštas",
+      "orthographic": "tirštas",
       "gloss": "thick"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "siauras",
-      "orthographic": "siauras",
+      "form": "ankštas",
+      "orthographic": "ankštas",
       "gloss": "narrow"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "thin"
     },
     {
-      "form": "plonas",
-      "orthographic": "plonas",
+      "form": "liesas",
+      "orthographic": "liesas",
       "gloss": "thin"
     },
     {
@@ -295,18 +295,18 @@
       "gloss": "child"
     },
     {
-      "form": "vaikas",
-      "orthographic": "vaikas",
+      "form": "kūdikis",
+      "orthographic": "kūdikis",
       "gloss": "child"
     },
     {
-      "form": "vaikas",
-      "orthographic": "vaikas",
+      "form": "jauniklis",
+      "orthographic": "jauniklis",
       "gloss": "child"
     },
     {
-      "form": "vaikas",
-      "orthographic": "vaikas",
+      "form": "berniukas",
+      "orthographic": "berniukas",
       "gloss": "child"
     },
     {
@@ -335,13 +335,13 @@
       "gloss": "animal"
     },
     {
-      "form": "gyvulys",
-      "orthographic": "gyvulys",
+      "form": "gyvūnas",
+      "orthographic": "gyvūnas",
       "gloss": "animal"
     },
     {
-      "form": "gyvulys",
-      "orthographic": "gyvulys",
+      "form": "žvėris",
+      "orthographic": "žvėris",
       "gloss": "animal"
     },
     {
@@ -360,13 +360,13 @@
       "gloss": "dog"
     },
     {
-      "form": "šuo",
-      "orthographic": "šuo",
+      "form": "šuva",
+      "orthographic": "šuva",
       "gloss": "dog"
     },
     {
-      "form": "šuo",
-      "orthographic": "šuo",
+      "form": "šunis",
+      "orthographic": "šunis",
       "gloss": "dog"
     },
     {
@@ -380,13 +380,13 @@
       "gloss": "snake"
     },
     {
-      "form": "gyvatė",
-      "orthographic": "gyvatė",
+      "form": "angis",
+      "orthographic": "angis",
       "gloss": "snake"
     },
     {
-      "form": "gyvatė",
-      "orthographic": "gyvatė",
+      "form": "žaltys",
+      "orthographic": "žaltys",
       "gloss": "snake"
     },
     {
@@ -395,13 +395,13 @@
       "gloss": "worm"
     },
     {
-      "form": "kirminas",
-      "orthographic": "kirminas",
+      "form": "kirmėlė",
+      "orthographic": "kirmėlė",
       "gloss": "worm"
     },
     {
-      "form": "kirminas",
-      "orthographic": "kirminas",
+      "form": "sliekas",
+      "orthographic": "sliekas",
       "gloss": "worm"
     },
     {
@@ -410,13 +410,13 @@
       "gloss": "tree"
     },
     {
-      "form": "medis",
-      "orthographic": "medis",
+      "form": "kuoka",
+      "orthographic": "kuoka",
       "gloss": "tree"
     },
     {
-      "form": "medis",
-      "orthographic": "medis",
+      "form": "drėvė",
+      "orthographic": "drėvė",
       "gloss": "tree"
     },
     {
@@ -425,8 +425,8 @@
       "gloss": "forest"
     },
     {
-      "form": "miškas",
-      "orthographic": "miškas",
+      "form": "giria",
+      "orthographic": "giria",
       "gloss": "forest"
     },
     {
@@ -435,23 +435,23 @@
       "gloss": "stick"
     },
     {
-      "form": "lazda",
-      "orthographic": "lazda",
+      "form": "pagalys",
+      "orthographic": "pagalys",
       "gloss": "stick"
     },
     {
-      "form": "lazda",
-      "orthographic": "lazda",
+      "form": "žagaras",
+      "orthographic": "žagaras",
       "gloss": "stick"
     },
     {
-      "form": "lazda",
-      "orthographic": "lazda",
+      "form": "stabas",
+      "orthographic": "stabas",
       "gloss": "stick"
     },
     {
-      "form": "lazda",
-      "orthographic": "lazda",
+      "form": "vėzdas",
+      "orthographic": "vėzdas",
       "gloss": "stick"
     },
     {
@@ -465,8 +465,8 @@
       "gloss": "seed"
     },
     {
-      "form": "sėkla",
-      "orthographic": "sėkla",
+      "form": "sėmuo",
+      "orthographic": "sėmuo",
       "gloss": "seed"
     },
     {
@@ -490,8 +490,8 @@
       "gloss": "flower"
     },
     {
-      "form": "gėlė",
-      "orthographic": "gėlė",
+      "form": "žiedas",
+      "orthographic": "žiedas",
       "gloss": "flower"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "skin"
     },
     {
-      "form": "oda",
-      "orthographic": "oda",
+      "form": "plėnė",
+      "orthographic": "plėnė",
       "gloss": "skin"
     },
     {
@@ -535,8 +535,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "riebalai",
-      "orthographic": "riebalai",
+      "form": "taukai",
+      "orthographic": "taukai",
       "gloss": "fat (noun)"
     },
     {
@@ -545,8 +545,8 @@
       "gloss": "egg"
     },
     {
-      "form": "kiaušinis",
-      "orthographic": "kiaušinis",
+      "form": "pautas",
+      "orthographic": "pautas",
       "gloss": "egg"
     },
     {
@@ -625,8 +625,8 @@
       "gloss": "knee"
     },
     {
-      "form": "kelis",
-      "orthographic": "kelis",
+      "form": "klupstis",
+      "orthographic": "klupstis",
       "gloss": "knee"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "belly"
     },
     {
-      "form": "pilvas",
-      "orthographic": "pilvas",
+      "form": "viduriai",
+      "orthographic": "viduriai",
       "gloss": "belly"
     },
     {
@@ -655,8 +655,8 @@
       "gloss": "guts"
     },
     {
-      "form": "viduriai",
-      "orthographic": "viduriai",
+      "form": "žarnos",
+      "orthographic": "žarnos",
       "gloss": "guts"
     },
     {
@@ -675,8 +675,8 @@
       "gloss": "breast"
     },
     {
-      "form": "krūtis",
-      "orthographic": "krūtis",
+      "form": "papas",
+      "orthographic": "papas",
       "gloss": "breast"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "liver"
     },
     {
-      "form": "kepenys",
-      "orthographic": "kepenys",
+      "form": "jeknos",
+      "orthographic": "jeknos",
       "gloss": "liver"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "čiulpti",
-      "orthographic": "čiulpti",
+      "form": "žįsti",
+      "orthographic": "žįsti",
       "gloss": "to suck"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "vemti",
-      "orthographic": "vemti",
+      "form": "riaugėti",
+      "orthographic": "riaugėti",
       "gloss": "to vomit"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "kvėpuoti",
-      "orthographic": "kvėpuoti",
+      "form": "alsuoti",
+      "orthographic": "alsuoti",
       "gloss": "to breathe"
     },
     {
@@ -760,13 +760,13 @@
       "gloss": "to see"
     },
     {
-      "form": "matyti",
-      "orthographic": "matyti",
+      "form": "regėti",
+      "orthographic": "regėti",
       "gloss": "to see"
     },
     {
-      "form": "matyti",
-      "orthographic": "matyti",
+      "form": "išvysti",
+      "orthographic": "išvysti",
       "gloss": "to see"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to hear"
     },
     {
-      "form": "girdėti",
-      "orthographic": "girdėti",
+      "form": "klausytis",
+      "orthographic": "klausytis",
       "gloss": "to hear"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "to know"
     },
     {
-      "form": "žinoti",
-      "orthographic": "žinoti",
+      "form": "išmanyti",
+      "orthographic": "išmanyti",
       "gloss": "to know"
     },
     {
@@ -795,8 +795,8 @@
       "gloss": "to think"
     },
     {
-      "form": "galvoti",
-      "orthographic": "galvoti",
+      "form": "mąstyti",
+      "orthographic": "mąstyti",
       "gloss": "to think"
     },
     {
@@ -805,13 +805,13 @@
       "gloss": "to smell"
     },
     {
-      "form": "uostyti",
-      "orthographic": "uostyti",
+      "form": "smirdėti",
+      "orthographic": "smirdėti",
       "gloss": "to smell"
     },
     {
-      "form": "uostyti",
-      "orthographic": "uostyti",
+      "form": "kvepėti",
+      "orthographic": "kvepėti",
       "gloss": "to smell"
     },
     {
@@ -820,8 +820,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "bijoti",
-      "orthographic": "bijoti",
+      "form": "baidytis",
+      "orthographic": "baidytis",
       "gloss": "to fear"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to sleep"
     },
     {
-      "form": "miegoti",
-      "orthographic": "miegoti",
+      "form": "snausti",
+      "orthographic": "snausti",
       "gloss": "to sleep"
     },
     {
@@ -840,8 +840,8 @@
       "gloss": "to live"
     },
     {
-      "form": "gyventi",
-      "orthographic": "gyventi",
+      "form": "gyvuoti",
+      "orthographic": "gyvuoti",
       "gloss": "to live"
     },
     {
@@ -850,13 +850,13 @@
       "gloss": "to die"
     },
     {
-      "form": "mirti",
-      "orthographic": "mirti",
+      "form": "dvėsti",
+      "orthographic": "dvėsti",
       "gloss": "to die"
     },
     {
-      "form": "mirti",
-      "orthographic": "mirti",
+      "form": "žūti",
+      "orthographic": "žūti",
       "gloss": "to die"
     },
     {
@@ -865,13 +865,13 @@
       "gloss": "to kill"
     },
     {
-      "form": "žudyti",
-      "orthographic": "žudyti",
+      "form": "galabyti",
+      "orthographic": "galabyti",
       "gloss": "to kill"
     },
     {
-      "form": "žudyti",
-      "orthographic": "žudyti",
+      "form": "užmušti",
+      "orthographic": "užmušti",
       "gloss": "to kill"
     },
     {
@@ -880,13 +880,13 @@
       "gloss": "to fight"
     },
     {
-      "form": "kovoti",
-      "orthographic": "kovoti",
+      "form": "kautis",
+      "orthographic": "kautis",
       "gloss": "to fight"
     },
     {
-      "form": "kovoti",
-      "orthographic": "kovoti",
+      "form": "muštis",
+      "orthographic": "muštis",
       "gloss": "to fight"
     },
     {
@@ -900,38 +900,38 @@
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "mušti",
+      "orthographic": "mušti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "duoti",
+      "orthographic": "duoti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "trenkti",
+      "orthographic": "trenkti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "kirsti",
+      "orthographic": "kirsti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "plekštelėti",
+      "orthographic": "plekštelėti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "liuobti",
+      "orthographic": "liuobti",
       "gloss": "to hit"
     },
     {
-      "form": "smogti",
-      "orthographic": "smogti",
+      "form": "kulti",
+      "orthographic": "kulti",
       "gloss": "to hit"
     },
     {
@@ -940,18 +940,18 @@
       "gloss": "to cut"
     },
     {
-      "form": "pjauti",
-      "orthographic": "pjauti",
+      "form": "kirpti",
+      "orthographic": "kirpti",
       "gloss": "to cut"
     },
     {
-      "form": "pjauti",
-      "orthographic": "pjauti",
+      "form": "kirsti",
+      "orthographic": "kirsti",
       "gloss": "to cut"
     },
     {
-      "form": "pjauti",
-      "orthographic": "pjauti",
+      "form": "riekti",
+      "orthographic": "riekti",
       "gloss": "to cut"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "to split"
     },
     {
-      "form": "skelti",
-      "orthographic": "skelti",
+      "form": "dalinti",
+      "orthographic": "dalinti",
       "gloss": "to split"
     },
     {
@@ -970,13 +970,13 @@
       "gloss": "to stab"
     },
     {
-      "form": "durti",
-      "orthographic": "durti",
+      "form": "smeigti",
+      "orthographic": "smeigti",
       "gloss": "to stab"
     },
     {
-      "form": "durti",
-      "orthographic": "durti",
+      "form": "besti",
+      "orthographic": "besti",
       "gloss": "to stab"
     },
     {
@@ -985,33 +985,33 @@
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "brėžti",
+      "orthographic": "brėžti",
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "draskyti",
+      "orthographic": "draskyti",
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "brozdinti",
+      "orthographic": "brozdinti",
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "zulinti",
+      "orthographic": "zulinti",
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "kasyti",
+      "orthographic": "kasyti",
       "gloss": "to scratch"
     },
     {
-      "form": "drėksti",
-      "orthographic": "drėksti",
+      "form": "krapštyti",
+      "orthographic": "krapštyti",
       "gloss": "to scratch"
     },
     {
@@ -1020,13 +1020,13 @@
       "gloss": "to dig"
     },
     {
-      "form": "kasti",
-      "orthographic": "kasti",
+      "form": "rausti",
+      "orthographic": "rausti",
       "gloss": "to dig"
     },
     {
-      "form": "kasti",
-      "orthographic": "kasti",
+      "form": "rakinėti",
+      "orthographic": "rakinėti",
       "gloss": "to dig"
     },
     {
@@ -1040,18 +1040,18 @@
       "gloss": "to fly"
     },
     {
-      "form": "skristi",
-      "orthographic": "skristi",
+      "form": "lėkti",
+      "orthographic": "lėkti",
       "gloss": "to fly"
     },
     {
-      "form": "skristi",
-      "orthographic": "skristi",
+      "form": "skrieti",
+      "orthographic": "skrieti",
       "gloss": "to fly"
     },
     {
-      "form": "skristi",
-      "orthographic": "skristi",
+      "form": "skraidyti",
+      "orthographic": "skraidyti",
       "gloss": "to fly"
     },
     {
@@ -1060,13 +1060,13 @@
       "gloss": "to walk"
     },
     {
-      "form": "eiti",
-      "orthographic": "eiti",
+      "form": "žengti",
+      "orthographic": "žengti",
       "gloss": "to walk"
     },
     {
-      "form": "eiti",
-      "orthographic": "eiti",
+      "form": "vaikščioti",
+      "orthographic": "vaikščioti",
       "gloss": "to walk"
     },
     {
@@ -1075,8 +1075,8 @@
       "gloss": "to come"
     },
     {
-      "form": "ateiti",
-      "orthographic": "ateiti",
+      "form": "atvykti",
+      "orthographic": "atvykti",
       "gloss": "to come"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "gulti",
-      "orthographic": "gulti",
+      "form": "gulėti",
+      "orthographic": "gulėti",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "sėsti",
-      "orthographic": "sėsti",
+      "form": "sėdėti",
+      "orthographic": "sėdėti",
       "gloss": "to sit"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "stoti",
-      "orthographic": "stoti",
+      "form": "stovėti",
+      "orthographic": "stovėti",
       "gloss": "to stand"
     },
     {
@@ -1115,23 +1115,23 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "apsisukti",
-      "orthographic": "apsisukti",
+      "form": "krypti",
+      "orthographic": "krypti",
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "apsisukti",
-      "orthographic": "apsisukti",
+      "form": "kreipti",
+      "orthographic": "kreipti",
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "apsisukti",
-      "orthographic": "apsisukti",
+      "form": "gręžtis",
+      "orthographic": "gręžtis",
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "apsisukti",
-      "orthographic": "apsisukti",
+      "form": "verstis",
+      "orthographic": "verstis",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -1140,18 +1140,18 @@
       "gloss": "to fall"
     },
     {
-      "form": "kristi",
-      "orthographic": "kristi",
+      "form": "pulti",
+      "orthographic": "pulti",
       "gloss": "to fall"
     },
     {
-      "form": "kristi",
-      "orthographic": "kristi",
+      "form": "virsti",
+      "orthographic": "virsti",
       "gloss": "to fall"
     },
     {
-      "form": "kristi",
-      "orthographic": "kristi",
+      "form": "griūti",
+      "orthographic": "griūti",
       "gloss": "to fall"
     },
     {
@@ -1160,8 +1160,8 @@
       "gloss": "to give"
     },
     {
-      "form": "duoti",
-      "orthographic": "duoti",
+      "form": "teikti",
+      "orthographic": "teikti",
       "gloss": "to give"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "laikyti",
-      "orthographic": "laikyti",
+      "form": "turėti",
+      "orthographic": "turėti",
       "gloss": "to hold"
     },
     {
@@ -1180,18 +1180,18 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "spausti",
-      "orthographic": "spausti",
+      "form": "gręžti",
+      "orthographic": "gręžti",
       "gloss": "to squeeze"
     },
     {
-      "form": "spausti",
-      "orthographic": "spausti",
+      "form": "slėgti",
+      "orthographic": "slėgti",
       "gloss": "to squeeze"
     },
     {
-      "form": "spausti",
-      "orthographic": "spausti",
+      "form": "mygti",
+      "orthographic": "mygti",
       "gloss": "to squeeze"
     },
     {
@@ -1205,13 +1205,13 @@
       "gloss": "to wash"
     },
     {
-      "form": "plauti",
-      "orthographic": "plauti",
+      "form": "skalbti",
+      "orthographic": "skalbti",
       "gloss": "to wash"
     },
     {
-      "form": "plauti",
-      "orthographic": "plauti",
+      "form": "mazgoti",
+      "orthographic": "mazgoti",
       "gloss": "to wash"
     },
     {
@@ -1220,8 +1220,8 @@
       "gloss": "to wipe"
     },
     {
-      "form": "šluoti",
-      "orthographic": "šluoti",
+      "form": "valyti",
+      "orthographic": "valyti",
       "gloss": "to wipe"
     },
     {
@@ -1230,13 +1230,13 @@
       "gloss": "to pull"
     },
     {
-      "form": "traukti",
-      "orthographic": "traukti",
+      "form": "tempti",
+      "orthographic": "tempti",
       "gloss": "to pull"
     },
     {
-      "form": "traukti",
-      "orthographic": "traukti",
+      "form": "vilkti",
+      "orthographic": "vilkti",
       "gloss": "to pull"
     },
     {
@@ -1245,8 +1245,8 @@
       "gloss": "to push"
     },
     {
-      "form": "stumti",
-      "orthographic": "stumti",
+      "form": "grūsti",
+      "orthographic": "grūsti",
       "gloss": "to push"
     },
     {
@@ -1255,8 +1255,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "mesti",
-      "orthographic": "mesti",
+      "form": "sviesti",
+      "orthographic": "sviesti",
       "gloss": "to throw"
     },
     {
@@ -1265,8 +1265,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "rišti",
-      "orthographic": "rišti",
+      "form": "sieti",
+      "orthographic": "sieti",
       "gloss": "to tie"
     },
     {
@@ -1280,8 +1280,8 @@
       "gloss": "to count"
     },
     {
-      "form": "skaičiuoti",
-      "orthographic": "skaičiuoti",
+      "form": "skaityti",
+      "orthographic": "skaityti",
       "gloss": "to count"
     },
     {
@@ -1290,18 +1290,18 @@
       "gloss": "to say"
     },
     {
-      "form": "sakyti",
-      "orthographic": "sakyti",
+      "form": "byloti",
+      "orthographic": "byloti",
       "gloss": "to say"
     },
     {
-      "form": "sakyti",
-      "orthographic": "sakyti",
+      "form": "tarti",
+      "orthographic": "tarti",
       "gloss": "to say"
     },
     {
-      "form": "sakyti",
-      "orthographic": "sakyti",
+      "form": "teikti",
+      "orthographic": "teikti",
       "gloss": "to say"
     },
     {
@@ -1310,8 +1310,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "dainuoti",
-      "orthographic": "dainuoti",
+      "form": "giedoti",
+      "orthographic": "giedoti",
       "gloss": "to sing"
     },
     {
@@ -1330,18 +1330,18 @@
       "gloss": "to flow"
     },
     {
-      "form": "tekėti",
-      "orthographic": "tekėti",
+      "form": "bėgti",
+      "orthographic": "bėgti",
       "gloss": "to flow"
     },
     {
-      "form": "tekėti",
-      "orthographic": "tekėti",
+      "form": "srūti",
+      "orthographic": "srūti",
       "gloss": "to flow"
     },
     {
-      "form": "tekėti",
-      "orthographic": "tekėti",
+      "form": "plūsti",
+      "orthographic": "plūsti",
       "gloss": "to flow"
     },
     {
@@ -1355,23 +1355,23 @@
       "gloss": "to swell"
     },
     {
-      "form": "tinti",
-      "orthographic": "tinti",
+      "form": "brinkti",
+      "orthographic": "brinkti",
       "gloss": "to swell"
     },
     {
-      "form": "tinti",
-      "orthographic": "tinti",
+      "form": "pursti",
+      "orthographic": "pursti",
       "gloss": "to swell"
     },
     {
-      "form": "tinti",
-      "orthographic": "tinti",
+      "form": "tvinkti",
+      "orthographic": "tvinkti",
       "gloss": "to swell"
     },
     {
-      "form": "tinti",
-      "orthographic": "tinti",
+      "form": "pūstis",
+      "orthographic": "pūstis",
       "gloss": "to swell"
     },
     {
@@ -1385,13 +1385,13 @@
       "gloss": "moon"
     },
     {
-      "form": "mėnulis",
-      "orthographic": "mėnulis",
+      "form": "mėnuo",
+      "orthographic": "mėnuo",
       "gloss": "moon"
     },
     {
-      "form": "mėnulis",
-      "orthographic": "mėnulis",
+      "form": "mėnesis",
+      "orthographic": "mėnesis",
       "gloss": "moon"
     },
     {
@@ -1425,8 +1425,8 @@
       "gloss": "sea"
     },
     {
-      "form": "jūra",
-      "orthographic": "jūra",
+      "form": "marios",
+      "orthographic": "marios",
       "gloss": "sea"
     },
     {
@@ -1440,8 +1440,8 @@
       "gloss": "stone"
     },
     {
-      "form": "akmuo",
-      "orthographic": "akmuo",
+      "form": "kūlis",
+      "orthographic": "kūlis",
       "gloss": "stone"
     },
     {
@@ -1450,13 +1450,13 @@
       "gloss": "sand"
     },
     {
-      "form": "smėlis",
-      "orthographic": "smėlis",
+      "form": "žvirgždas",
+      "orthographic": "žvirgždas",
       "gloss": "sand"
     },
     {
-      "form": "smėlis",
-      "orthographic": "smėlis",
+      "form": "smiltys",
+      "orthographic": "smiltys",
       "gloss": "sand"
     },
     {
@@ -1480,13 +1480,13 @@
       "gloss": "fog"
     },
     {
-      "form": "rūkas",
-      "orthographic": "rūkas",
+      "form": "migla",
+      "orthographic": "migla",
       "gloss": "fog"
     },
     {
-      "form": "rūkas",
-      "orthographic": "rūkas",
+      "form": "ūkas",
+      "orthographic": "ūkas",
       "gloss": "fog"
     },
     {
@@ -1500,8 +1500,8 @@
       "gloss": "wind"
     },
     {
-      "form": "vėjas",
-      "orthographic": "vėjas",
+      "form": "vėtra",
+      "orthographic": "vėtra",
       "gloss": "wind"
     },
     {
@@ -1600,8 +1600,8 @@
       "gloss": "full"
     },
     {
-      "form": "pilnas",
-      "orthographic": "pilnas",
+      "form": "kupinas",
+      "orthographic": "kupinas",
       "gloss": "full"
     },
     {
@@ -1610,8 +1610,8 @@
       "gloss": "new"
     },
     {
-      "form": "naujas",
-      "orthographic": "naujas",
+      "form": "jaunas",
+      "orthographic": "jaunas",
       "gloss": "new"
     },
     {
@@ -1625,8 +1625,8 @@
       "gloss": "good"
     },
     {
-      "form": "geras",
-      "orthographic": "geras",
+      "form": "labas",
+      "orthographic": "labas",
       "gloss": "good"
     },
     {
@@ -1635,23 +1635,23 @@
       "gloss": "bad"
     },
     {
-      "form": "blogas",
-      "orthographic": "blogas",
+      "form": "prastas",
+      "orthographic": "prastas",
       "gloss": "bad"
     },
     {
-      "form": "blogas",
-      "orthographic": "blogas",
+      "form": "varganas",
+      "orthographic": "varganas",
       "gloss": "bad"
     },
     {
-      "form": "blogas",
-      "orthographic": "blogas",
+      "form": "nelabas",
+      "orthographic": "nelabas",
       "gloss": "bad"
     },
     {
-      "form": "blogas",
-      "orthographic": "blogas",
+      "form": "negeras",
+      "orthographic": "negeras",
       "gloss": "bad"
     },
     {
@@ -1660,8 +1660,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "supuvęs",
-      "orthographic": "supuvęs",
+      "form": "sutrūnijęs",
+      "orthographic": "sutrūnijęs",
       "gloss": "rotten"
     },
     {
@@ -1670,13 +1670,13 @@
       "gloss": "dirty"
     },
     {
-      "form": "nešvarus",
-      "orthographic": "nešvarus",
+      "form": "purvinas",
+      "orthographic": "purvinas",
       "gloss": "dirty"
     },
     {
-      "form": "nešvarus",
-      "orthographic": "nešvarus",
+      "form": "netyras",
+      "orthographic": "netyras",
       "gloss": "dirty"
     },
     {
@@ -1690,8 +1690,8 @@
       "gloss": "round"
     },
     {
-      "form": "apskritas",
-      "orthographic": "apskritas",
+      "form": "apvalus",
+      "orthographic": "apvalus",
       "gloss": "round"
     },
     {
@@ -1705,13 +1705,13 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "bukas",
-      "orthographic": "bukas",
+      "form": "atšipęs",
+      "orthographic": "atšipęs",
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "bukas",
-      "orthographic": "bukas",
+      "form": "neaštrus",
+      "orthographic": "neaštrus",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1720,23 +1720,23 @@
       "gloss": "smooth"
     },
     {
-      "form": "glotnus",
-      "orthographic": "glotnus",
+      "form": "nugludintas",
+      "orthographic": "nugludintas",
       "gloss": "smooth"
     },
     {
-      "form": "glotnus",
-      "orthographic": "glotnus",
+      "form": "švelnus",
+      "orthographic": "švelnus",
       "gloss": "smooth"
     },
     {
-      "form": "glotnus",
-      "orthographic": "glotnus",
+      "form": "lygus",
+      "orthographic": "lygus",
       "gloss": "smooth"
     },
     {
-      "form": "glotnus",
-      "orthographic": "glotnus",
+      "form": "nešiurkštus",
+      "orthographic": "nešiurkštus",
       "gloss": "smooth"
     },
     {
@@ -1745,8 +1745,8 @@
       "gloss": "wet"
     },
     {
-      "form": "drėgnas",
-      "orthographic": "drėgnas",
+      "form": "šlapias",
+      "orthographic": "šlapias",
       "gloss": "wet"
     },
     {
@@ -1760,8 +1760,8 @@
       "gloss": "correct"
     },
     {
-      "form": "teisingas",
-      "orthographic": "teisingas",
+      "form": "tikras",
+      "orthographic": "tikras",
       "gloss": "correct"
     },
     {
@@ -1770,8 +1770,8 @@
       "gloss": "near"
     },
     {
-      "form": "arti",
-      "orthographic": "arti",
+      "form": "šalia",
+      "orthographic": "šalia",
       "gloss": "near"
     },
     {
@@ -1780,13 +1780,13 @@
       "gloss": "far"
     },
     {
-      "form": "tolimas",
-      "orthographic": "tolimas",
+      "form": "atokus",
+      "orthographic": "atokus",
       "gloss": "far"
     },
     {
-      "form": "tolimas",
-      "orthographic": "tolimas",
+      "form": "atstus",
+      "orthographic": "atstus",
       "gloss": "far"
     },
     {
@@ -1805,23 +1805,23 @@
       "gloss": "at"
     },
     {
-      "form": "į",
-      "orthographic": "į",
+      "form": "prie",
+      "orthographic": "prie",
       "gloss": "at"
     },
     {
-      "form": "į",
-      "orthographic": "į",
+      "form": "pas",
+      "orthographic": "pas",
       "gloss": "at"
     },
     {
-      "form": "į",
-      "orthographic": "į",
+      "form": "ties",
+      "orthographic": "ties",
       "gloss": "at"
     },
     {
-      "form": "į",
-      "orthographic": "į",
+      "form": "ant",
+      "orthographic": "ant",
       "gloss": "at"
     },
     {
@@ -1830,8 +1830,8 @@
       "gloss": "in"
     },
     {
-      "form": "į",
-      "orthographic": "į",
+      "form": "in",
+      "orthographic": "in",
       "gloss": "in"
     },
     {
@@ -1840,8 +1840,8 @@
       "gloss": "with"
     },
     {
-      "form": "su",
-      "orthographic": "su",
+      "form": "san-",
+      "orthographic": "san-",
       "gloss": "with"
     },
     {
@@ -1850,8 +1850,8 @@
       "gloss": "and"
     },
     {
-      "form": "ir",
-      "orthographic": "ir",
+      "form": "bei",
+      "orthographic": "bei",
       "gloss": "and"
     },
     {
@@ -1860,8 +1860,8 @@
       "gloss": "if"
     },
     {
-      "form": "jei",
-      "orthographic": "jei",
+      "form": "kad",
+      "orthographic": "kad",
       "gloss": "if"
     },
     {
@@ -1870,13 +1870,13 @@
       "gloss": "because"
     },
     {
-      "form": "nes",
-      "orthographic": "nes",
+      "form": "kadangi",
+      "orthographic": "kadangi",
       "gloss": "because"
     },
     {
-      "form": "nes",
-      "orthographic": "nes",
+      "form": "todėl",
+      "orthographic": "todėl",
       "gloss": "because"
     },
     {
@@ -1885,8 +1885,8 @@
       "gloss": "name"
     },
     {
-      "form": "vardas",
-      "orthographic": "vardas",
+      "form": "pavadinimas",
+      "orthographic": "pavadinimas",
       "gloss": "name"
     }
   ]

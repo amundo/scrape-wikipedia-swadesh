@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tumi",
-      "orthographic": "তুমি",
+      "form": "apni",
+      "orthographic": "আপনি",
       "gloss": "you (2sg)"
     },
     {
@@ -40,8 +40,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "tomra",
-      "orthographic": "তোমরা",
+      "form": "apnara",
+      "orthographic": "আপনারা",
       "gloss": "you (2pl)"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "mother"
     },
     {
-      "form": "ma",
-      "orthographic": "মা",
+      "form": "amma",
+      "orthographic": "আম্মা",
       "gloss": "mother"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "father"
     },
     {
-      "form": "baba",
-      "orthographic": "বাবা",
+      "form": "abba",
+      "orthographic": "আব্বা",
       "gloss": "father"
     },
     {
@@ -345,8 +345,8 @@
       "gloss": "meat"
     },
     {
-      "form": "maṅś",
-      "orthographic": "মাংস",
+      "form": "gośt",
+      "orthographic": "গোশ্ত",
       "gloss": "meat"
     },
     {
@@ -425,8 +425,8 @@
       "gloss": "tongue (organ)"
     },
     {
-      "form": "jibh",
-      "orthographic": "জীভ",
+      "form": "jihba",
+      "orthographic": "জিহবা",
       "gloss": "tongue (organ)"
     },
     {
@@ -520,8 +520,8 @@
       "gloss": "to spit"
     },
     {
-      "form": "cchap",
-      "orthographic": "ছ্যাপ",
+      "form": "thutu",
+      "orthographic": "থুতু",
       "gloss": "to spit"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "bhôẏ kôra",
-      "orthographic": "ভয় করা",
+      "form": "ḍôra",
+      "orthographic": "ডরা",
       "gloss": "to fear"
     },
     {
@@ -600,8 +600,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "mara",
-      "orthographic": "মারা",
+      "form": "mere phela",
+      "orthographic": "মেরে ফেলা",
       "gloss": "to kill"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "water"
     },
     {
-      "form": "pani",
-      "orthographic": "পানি",
+      "form": "jôl",
+      "orthographic": "জল",
       "gloss": "water"
     },
     {
@@ -835,8 +835,8 @@
       "gloss": "salt"
     },
     {
-      "form": "nun",
-      "orthographic": "নুন",
+      "form": "lôbôn",
+      "orthographic": "লবন",
       "gloss": "salt"
     },
     {
@@ -910,8 +910,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "pora",
-      "orthographic": "পোরা",
+      "form": "jôla",
+      "orthographic": "জলা",
       "gloss": "to burn"
     },
     {
@@ -920,8 +920,8 @@
       "gloss": "road"
     },
     {
-      "form": "raśta",
-      "orthographic": "রাস্তা",
+      "form": "pôth",
+      "orthographic": "পথ",
       "gloss": "road"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "night"
     },
     {
-      "form": "ratri",
-      "orthographic": "রাত্রি",
+      "form": "rat",
+      "orthographic": "রাত",
       "gloss": "night"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "with"
     },
     {
-      "form": "-rô śathe",
-      "orthographic": "-র সাথে",
+      "form": "-rô śôṅge",
+      "orthographic": "-র সঙ্গে",
       "gloss": "with"
     },
     {
@@ -1105,13 +1105,13 @@
       "gloss": "and"
     },
     {
-      "form": "ar",
-      "orthographic": "আর",
+      "form": "o",
+      "orthographic": "ও",
       "gloss": "and"
     },
     {
-      "form": "ar",
-      "orthographic": "আর",
+      "form": "ebôṅ",
+      "orthographic": "এবং",
       "gloss": "and"
     },
     {

@@ -185,8 +185,8 @@
       "gloss": "thin"
     },
     {
-      "form": "subțire",
-      "orthographic": "subțire",
+      "form": "slab",
+      "orthographic": "slab",
       "gloss": "thin"
     },
     {
@@ -195,8 +195,8 @@
       "gloss": "woman"
     },
     {
-      "form": "femeie",
-      "orthographic": "femeie",
+      "form": "muiere",
+      "orthographic": "muiere",
       "gloss": "woman"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "tree"
     },
     {
-      "form": "arbore",
-      "orthographic": "arbore",
+      "form": "copac",
+      "orthographic": "copac",
       "gloss": "tree"
     },
     {
@@ -330,13 +330,13 @@
       "gloss": "rope"
     },
     {
-      "form": "sfoară",
-      "orthographic": "sfoară",
+      "form": "frânghie",
+      "orthographic": "frânghie",
       "gloss": "rope"
     },
     {
-      "form": "sfoară",
-      "orthographic": "sfoară",
+      "form": "coardă",
+      "orthographic": "coardă",
       "gloss": "rope"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "feather"
     },
     {
-      "form": "pană",
-      "orthographic": "pană",
+      "form": "fulg",
+      "orthographic": "fulg",
       "gloss": "feather"
     },
     {
@@ -465,18 +465,18 @@
       "gloss": "belly"
     },
     {
-      "form": "burtă",
-      "orthographic": "burtă",
+      "form": "vintre",
+      "orthographic": "vintre",
       "gloss": "belly"
     },
     {
-      "form": "burtă",
-      "orthographic": "burtă",
+      "form": "foale",
+      "orthographic": "foale",
       "gloss": "belly"
     },
     {
-      "form": "burtă",
-      "orthographic": "burtă",
+      "form": "pântece",
+      "orthographic": "pântece",
       "gloss": "belly"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "liver"
     },
     {
-      "form": "ficat",
-      "orthographic": "ficat",
+      "form": "mai",
+      "orthographic": "mai",
       "gloss": "liver"
     },
     {
@@ -545,13 +545,13 @@
       "gloss": "to vomit"
     },
     {
-      "form": "borî",
-      "orthographic": "borî",
+      "form": "vomita",
+      "orthographic": "vomita",
       "gloss": "to vomit"
     },
     {
-      "form": "borî",
-      "orthographic": "borî",
+      "form": "vărsa",
+      "orthographic": "vărsa",
       "gloss": "to vomit"
     },
     {
@@ -565,8 +565,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "răsufla",
-      "orthographic": "răsufla",
+      "form": "respira",
+      "orthographic": "respira",
       "gloss": "to breathe"
     },
     {
@@ -595,8 +595,8 @@
       "gloss": "to think"
     },
     {
-      "form": "cugeta",
-      "orthographic": "cugeta",
+      "form": "gândi",
+      "orthographic": "gândi",
       "gloss": "to think"
     },
     {
@@ -630,8 +630,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "ucide",
-      "orthographic": "ucide",
+      "form": "omorî",
+      "orthographic": "omorî",
       "gloss": "to kill"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to split"
     },
     {
-      "form": "despica",
-      "orthographic": "despica",
+      "form": "spinteca",
+      "orthographic": "spinteca",
       "gloss": "to split"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "săpa",
-      "orthographic": "săpa",
+      "form": "excava",
+      "orthographic": "excava",
       "gloss": "to dig"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "așeza",
-      "orthographic": "așeza",
+      "form": "ședea",
+      "orthographic": "ședea",
       "gloss": "to sit"
     },
     {
@@ -725,8 +725,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "scula în picioare",
-      "orthographic": "scula în picioare",
+      "form": "staa",
+      "orthographic": "staa",
       "gloss": "to stand"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to say"
     },
     {
-      "form": "zice",
-      "orthographic": "zice",
+      "form": "spune",
+      "orthographic": "spune",
       "gloss": "to say"
     },
     {
@@ -865,8 +865,8 @@
       "gloss": "rain"
     },
     {
-      "form": "ploaie",
-      "orthographic": "ploaie",
+      "form": "udătură",
+      "orthographic": "udătură",
       "gloss": "rain"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "dust"
     },
     {
-      "form": "praf",
-      "orthographic": "praf",
+      "form": "pulbere",
+      "orthographic": "pulbere",
       "gloss": "dust"
     },
     {
@@ -940,8 +940,8 @@
       "gloss": "snow"
     },
     {
-      "form": "zăpadă",
-      "orthographic": "zăpadă",
+      "form": "nea",
+      "orthographic": "nea",
       "gloss": "snow"
     },
     {
@@ -950,8 +950,8 @@
       "gloss": "ice"
     },
     {
-      "form": "gheață",
-      "orthographic": "gheață",
+      "form": "sloi",
+      "orthographic": "sloi",
       "gloss": "ice"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "fire"
     },
     {
-      "form": "foc",
-      "orthographic": "foc",
+      "form": "jar",
+      "orthographic": "jar",
       "gloss": "fire"
     },
     {
@@ -975,8 +975,8 @@
       "gloss": "ash"
     },
     {
-      "form": "cenușă",
-      "orthographic": "cenușă",
+      "form": "scrum",
+      "orthographic": "scrum",
       "gloss": "ash"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "road"
     },
     {
-      "form": "drum",
-      "orthographic": "drum",
+      "form": "cale",
+      "orthographic": "cale",
       "gloss": "road"
     },
     {
@@ -1025,8 +1025,8 @@
       "gloss": "black"
     },
     {
-      "form": "negru",
-      "orthographic": "negru",
+      "form": "lai",
+      "orthographic": "lai",
       "gloss": "black"
     },
     {
@@ -1055,8 +1055,8 @@
       "gloss": "cold"
     },
     {
-      "form": "rece",
-      "orthographic": "rece",
+      "form": "frig",
+      "orthographic": "frig",
       "gloss": "cold"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "bad"
     },
     {
-      "form": "rău",
-      "orthographic": "rău",
+      "form": "prost",
+      "orthographic": "prost",
       "gloss": "bad"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "putred",
-      "orthographic": "putred",
+      "form": "cariat",
+      "orthographic": "cariat",
       "gloss": "rotten"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "murdar",
-      "orthographic": "murdar",
+      "form": "jegos",
+      "orthographic": "jegos",
       "gloss": "dirty"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "tocit",
-      "orthographic": "tocit",
+      "form": "bont",
+      "orthographic": "bont",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1145,8 +1145,8 @@
       "gloss": "wet"
     },
     {
-      "form": "ud",
-      "orthographic": "ud",
+      "form": "umed",
+      "orthographic": "umed",
       "gloss": "wet"
     },
     {
@@ -1165,13 +1165,13 @@
       "gloss": "near"
     },
     {
-      "form": "lângă",
-      "orthographic": "lângă",
+      "form": "apropiat",
+      "orthographic": "apropiat",
       "gloss": "near"
     },
     {
-      "form": "lângă",
-      "orthographic": "lângă",
+      "form": "aproape",
+      "orthographic": "aproape",
       "gloss": "near"
     },
     {
@@ -1195,8 +1195,8 @@
       "gloss": "at"
     },
     {
-      "form": "la",
-      "orthographic": "la",
+      "form": "în",
+      "orthographic": "în",
       "gloss": "at"
     },
     {
@@ -1225,8 +1225,8 @@
       "gloss": "because"
     },
     {
-      "form": "deoarece",
-      "orthographic": "deoarece",
+      "form": "pentru că",
+      "orthographic": "pentru că",
       "gloss": "because"
     },
     {

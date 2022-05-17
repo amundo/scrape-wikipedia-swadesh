@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "ʾanta",
-      "orthographic": "أَنْتَ‎",
+      "form": "ʾanti",
+      "orthographic": "أَنْتِ",
       "gloss": "you (2sg)"
     },
     {
@@ -30,8 +30,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "huwa",
-      "orthographic": "هُوَ",
+      "form": "hiya",
+      "orthographic": "هِيَ",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -45,13 +45,13 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "ʾantum",
-      "orthographic": "أَنْتُمْ‎",
+      "form": "ʾantunna",
+      "orthographic": "أَنْتُنَّ",
       "gloss": "you (2pl)"
     },
     {
-      "form": "ʾantum",
-      "orthographic": "أَنْتُمْ‎",
+      "form": "ʾantumā",
+      "orthographic": "أَنْتُمَا",
       "gloss": "you (2pl)"
     },
     {
@@ -60,13 +60,13 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "hum",
-      "orthographic": "هُمْ",
+      "form": "hunna",
+      "orthographic": "هُنَّ",
       "gloss": "they (3pl)"
     },
     {
-      "form": "hum",
-      "orthographic": "هُمْ",
+      "form": "humā",
+      "orthographic": "هُمَا",
       "gloss": "they (3pl)"
     },
     {
@@ -75,13 +75,13 @@
       "gloss": "this"
     },
     {
-      "form": "hāḏā",
-      "orthographic": "هٰذَا",
+      "form": "hāḏihi",
+      "orthographic": "هٰذِهِ",
       "gloss": "this"
     },
     {
-      "form": "hāḏā",
-      "orthographic": "هٰذَا",
+      "form": "hāḏī",
+      "orthographic": "هٰذِي",
       "gloss": "this"
     },
     {
@@ -90,18 +90,18 @@
       "gloss": "that"
     },
     {
-      "form": "ḏālika",
-      "orthographic": "ذٰلِكَ",
+      "form": "ḏāka",
+      "orthographic": "ذَاكَ",
       "gloss": "that"
     },
     {
-      "form": "ḏālika",
-      "orthographic": "ذٰلِكَ",
+      "form": "tilka",
+      "orthographic": "تِلْكَ",
       "gloss": "that"
     },
     {
-      "form": "ḏālika",
-      "orthographic": "ذٰلِكَ",
+      "form": "tīka",
+      "orthographic": "تِيكَ",
       "gloss": "that"
     },
     {
@@ -115,13 +115,13 @@
       "gloss": "there"
     },
     {
-      "form": "hunāka",
-      "orthographic": "هُنَاكَ",
+      "form": "hunālika",
+      "orthographic": "هُنَالِكَ",
       "gloss": "there"
     },
     {
-      "form": "hunāka",
-      "orthographic": "هُنَاكَ",
+      "form": "ṯamma",
+      "orthographic": "ثَمَّ",
       "gloss": "there"
     },
     {
@@ -135,8 +135,8 @@
       "gloss": "what"
     },
     {
-      "form": "mā",
-      "orthographic": "مَا",
+      "form": "māḏā",
+      "orthographic": "مَاذَا",
       "gloss": "what"
     },
     {
@@ -160,18 +160,18 @@
       "gloss": "not"
     },
     {
-      "form": "lā",
-      "orthographic": "لَا",
+      "form": "mā",
+      "orthographic": "مَا",
       "gloss": "not"
     },
     {
-      "form": "lā",
-      "orthographic": "لَا",
+      "form": "lan",
+      "orthographic": "لَنْ",
       "gloss": "not"
     },
     {
-      "form": "lā",
-      "orthographic": "لَا",
+      "form": "lam",
+      "orthographic": "لَمْ",
       "gloss": "not"
     },
     {
@@ -200,23 +200,23 @@
       "gloss": "other"
     },
     {
-      "form": "ʾāḵar",
-      "orthographic": "آخَر",
+      "form": "ʾuḵrā",
+      "orthographic": "أُخْرَى",
       "gloss": "other"
     },
     {
-      "form": "ʾāḵar",
-      "orthographic": "آخَر",
+      "form": "ʾāḵarūn",
+      "orthographic": "آخَرُون",
       "gloss": "other"
     },
     {
-      "form": "ʾāḵar",
-      "orthographic": "آخَر",
+      "form": "ʾuḵar",
+      "orthographic": "أُخَر",
       "gloss": "other"
     },
     {
-      "form": "ʾāḵar",
-      "orthographic": "آخَر",
+      "form": "ʾuḵrayāt",
+      "orthographic": "أُخْرَيَات",
       "gloss": "other"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "one"
     },
     {
-      "form": "wāḥid",
-      "orthographic": "وَاحِد",
+      "form": "wāḥida",
+      "orthographic": "وَاحِدَة",
       "gloss": "one"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "two"
     },
     {
-      "form": "iṯnān",
-      "orthographic": "اِثْنَان",
+      "form": "iṯnatān",
+      "orthographic": "اِثْنَتَان",
       "gloss": "two"
     },
     {
@@ -245,8 +245,8 @@
       "gloss": "three"
     },
     {
-      "form": "ṯalāṯa",
-      "orthographic": "ثَلَاثَة",
+      "form": "ṯalāṯ",
+      "orthographic": "ثَلَاث",
       "gloss": "three"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "four"
     },
     {
-      "form": "ʾarbaʿa",
-      "orthographic": "أَرْبَعَة",
+      "form": "ʾarbaʿ",
+      "orthographic": "أَرْبَع",
       "gloss": "four"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "five"
     },
     {
-      "form": "ḵamsa",
-      "orthographic": "خَمْسَة",
+      "form": "ḵams",
+      "orthographic": "خَمْس",
       "gloss": "five"
     },
     {
@@ -285,8 +285,8 @@
       "gloss": "wide"
     },
     {
-      "form": "raḥb",
-      "orthographic": "رَحْب",
+      "form": "wāsiʿ",
+      "orthographic": "وَاسِع",
       "gloss": "wide"
     },
     {
@@ -325,8 +325,8 @@
       "gloss": "woman"
     },
     {
-      "form": "imraʾa",
-      "orthographic": "اِمْرَأَة",
+      "form": "marʾa",
+      "orthographic": "مَرْأَة",
       "gloss": "woman"
     },
     {
@@ -355,8 +355,8 @@
       "gloss": "husband"
     },
     {
-      "form": "zawj",
-      "orthographic": "زَوْج",
+      "form": "baʿl",
+      "orthographic": "بَعْل",
       "gloss": "husband"
     },
     {
@@ -380,8 +380,8 @@
       "gloss": "fish"
     },
     {
-      "form": "samak",
-      "orthographic": "سَمَك",
+      "form": "ḥūt",
+      "orthographic": "حُوت",
       "gloss": "fish"
     },
     {
@@ -390,8 +390,8 @@
       "gloss": "bird"
     },
     {
-      "form": "ṭāʾir",
-      "orthographic": "طَائِر",
+      "form": "ʿuṣfūr",
+      "orthographic": "عُصْفُور",
       "gloss": "bird"
     },
     {
@@ -410,18 +410,18 @@
       "gloss": "snake"
     },
     {
-      "form": "ḥanaš",
-      "orthographic": "حَنَش",
+      "form": "ṯuʿbān",
+      "orthographic": "ثُعْبَان",
       "gloss": "snake"
     },
     {
-      "form": "ḥanaš",
-      "orthographic": "حَنَش",
+      "form": "ḥayya",
+      "orthographic": "حَيَّة",
       "gloss": "snake"
     },
     {
-      "form": "ḥanaš",
-      "orthographic": "حَنَش",
+      "form": "ʾafʿan",
+      "orthographic": "أَفْعًى",
       "gloss": "snake"
     },
     {
@@ -455,8 +455,8 @@
       "gloss": "seed"
     },
     {
-      "form": "zarʿ",
-      "orthographic": "زَرْع",
+      "form": "zarrīʿa",
+      "orthographic": "زَرِّيعَة",
       "gloss": "seed"
     },
     {
@@ -470,8 +470,8 @@
       "gloss": "root"
     },
     {
-      "form": "jiḏr",
-      "orthographic": "جِذْر",
+      "form": "jaḏr",
+      "orthographic": "جَذْر",
       "gloss": "root"
     },
     {
@@ -545,8 +545,8 @@
       "gloss": "hair"
     },
     {
-      "form": "šaʿr",
-      "orthographic": "شَعْر",
+      "form": "šaʿar",
+      "orthographic": "شَعَر",
       "gloss": "hair"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "ear"
     },
     {
-      "form": "ʾuḏun",
-      "orthographic": "أُذُن",
+      "form": "ʾuḏn",
+      "orthographic": "أُذْن",
       "gloss": "ear"
     },
     {
@@ -620,8 +620,8 @@
       "gloss": "wing"
     },
     {
-      "form": "kanaf",
-      "orthographic": "كَنَف",
+      "form": "janāḥ",
+      "orthographic": "جَنَاح",
       "gloss": "wing"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "breast"
     },
     {
-      "form": "ṯady",
-      "orthographic": "ثَدْي",
+      "form": "ṣadr",
+      "orthographic": "صَدْر",
       "gloss": "breast"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "heart"
     },
     {
-      "form": "lubb",
-      "orthographic": "لُبّ",
+      "form": "qalb",
+      "orthographic": "قَلْب",
       "gloss": "heart"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to swim"
     },
     {
-      "form": "sabaḥa",
-      "orthographic": "سَبَحَ",
+      "form": "ʿāma",
+      "orthographic": "عَامَ",
       "gloss": "to swim"
     },
     {
@@ -830,13 +830,13 @@
       "gloss": "to come"
     },
     {
-      "form": "jāʾa",
-      "orthographic": "جَاءَ",
+      "form": "bāʾa",
+      "orthographic": "بَاءَ",
       "gloss": "to come"
     },
     {
-      "form": "jāʾa",
-      "orthographic": "جَاءَ",
+      "form": "أتَى",
+      "orthographic": "أتَى",
       "gloss": "to come"
     },
     {
@@ -865,13 +865,13 @@
       "gloss": "to fall"
     },
     {
-      "form": "waqaʿa",
-      "orthographic": "وَقَعَ",
+      "form": "saqaṭa",
+      "orthographic": "سَقَطَ",
       "gloss": "to fall"
     },
     {
-      "form": "waqaʿa",
-      "orthographic": "وَقَعَ",
+      "form": "ṭāḥa",
+      "orthographic": "طَاحَ",
       "gloss": "to fall"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "to wipe"
     },
     {
-      "form": "maḥā",
-      "orthographic": "مَحَا",
+      "form": "masaḥa",
+      "orthographic": "مَسَحَ",
       "gloss": "to wipe"
     },
     {
@@ -935,8 +935,8 @@
       "gloss": "to sew"
     },
     {
-      "form": "ḵāṭa",
-      "orthographic": "خَاطَ",
+      "form": "ḵayyaṭa",
+      "orthographic": "خَيَّطَ",
       "gloss": "to sew"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "to float"
     },
     {
-      "form": "ʿāma",
-      "orthographic": "عَامَ",
+      "form": "ṭafā",
+      "orthographic": "طَفَا",
       "gloss": "to float"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "to swell"
     },
     {
-      "form": "warima",
-      "orthographic": "وَرِمَ",
+      "form": "intafaḵa",
+      "orthographic": "اِنْتَفَخَ",
       "gloss": "to swell"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "star"
     },
     {
-      "form": "najm",
-      "orthographic": "نَجْم",
+      "form": "kawkab",
+      "orthographic": "كَوْكَب",
       "gloss": "star"
     },
     {
@@ -1025,8 +1025,8 @@
       "gloss": "river"
     },
     {
-      "form": "nahr",
-      "orthographic": "نَهْر",
+      "form": "nahar",
+      "orthographic": "نَهَر",
       "gloss": "river"
     },
     {
@@ -1040,8 +1040,8 @@
       "gloss": "sea"
     },
     {
-      "form": "baḥr",
-      "orthographic": "بَحْر",
+      "form": "yamm",
+      "orthographic": "يَمّ",
       "gloss": "sea"
     },
     {
@@ -1075,18 +1075,18 @@
       "gloss": "cloud"
     },
     {
-      "form": "saḥāba",
-      "orthographic": "سَحَابَة",
+      "form": "ḡayma",
+      "orthographic": "غَيْمَة",
       "gloss": "cloud"
     },
     {
-      "form": "saḥāba",
-      "orthographic": "سَحَابَة",
+      "form": "ḡamāma",
+      "orthographic": "غَمَامَة",
       "gloss": "cloud"
     },
     {
-      "form": "saḥāba",
-      "orthographic": "سَحَابَة",
+      "form": "ʿanāna",
+      "orthographic": "عَنَانَة",
       "gloss": "cloud"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "smoke"
     },
     {
-      "form": "duḵān",
-      "orthographic": "دُخَان",
+      "form": "duḵḵān",
+      "orthographic": "دُخَّان",
       "gloss": "smoke"
     },
     {
@@ -1155,8 +1155,8 @@
       "gloss": "red"
     },
     {
-      "form": "ʾaḥmar",
-      "orthographic": "أَحْمَر",
+      "form": "ḥamrāʾ",
+      "orthographic": "حَمْرَاء",
       "gloss": "red"
     },
     {
@@ -1165,8 +1165,8 @@
       "gloss": "green"
     },
     {
-      "form": "ʾaḵḍar",
-      "orthographic": "أَخْضَر",
+      "form": "ḵaḍrāʾ",
+      "orthographic": "خَضْرَاء",
       "gloss": "green"
     },
     {
@@ -1175,8 +1175,8 @@
       "gloss": "yellow"
     },
     {
-      "form": "ʾaṣfar",
-      "orthographic": "أَصْفَر",
+      "form": "ṣafrāʾ",
+      "orthographic": "صَفْرَاء",
       "gloss": "yellow"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "white"
     },
     {
-      "form": "ʾabyaḍ",
-      "orthographic": "أَبْيَض",
+      "form": "bayḍāʾ",
+      "orthographic": "بَيْضَاء",
       "gloss": "white"
     },
     {
@@ -1195,8 +1195,8 @@
       "gloss": "black"
     },
     {
-      "form": "ʾaswad",
-      "orthographic": "أَسْوَد",
+      "form": "sawdāʾ",
+      "orthographic": "سَوْدَاء",
       "gloss": "black"
     },
     {
@@ -1215,8 +1215,8 @@
       "gloss": "year"
     },
     {
-      "form": "sana",
-      "orthographic": "سَنَة",
+      "form": "ʿām",
+      "orthographic": "عَام",
       "gloss": "year"
     },
     {
@@ -1240,8 +1240,8 @@
       "gloss": "new"
     },
     {
-      "form": "jadīd",
-      "orthographic": "جَدِيد",
+      "form": "ḥadīṯ",
+      "orthographic": "حَدِيث",
       "gloss": "new"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "old"
     },
     {
-      "form": "qadīm",
-      "orthographic": "قَدِيم",
+      "form": "ʿatīq",
+      "orthographic": "عَتِيق",
       "gloss": "old"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "qaḏir",
-      "orthographic": "قَذِر",
+      "form": "wasiḵ",
+      "orthographic": "وَسِخ",
       "gloss": "dirty"
     },
     {
@@ -1300,8 +1300,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "ṯalim",
-      "orthographic": "ثَلِم",
+      "form": "kalīl",
+      "orthographic": "كَلِيل",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1320,8 +1320,8 @@
       "gloss": "dry"
     },
     {
-      "form": "jāff",
-      "orthographic": "جَافّ",
+      "form": "yābis",
+      "orthographic": "يَابِس",
       "gloss": "dry"
     },
     {
@@ -1350,8 +1350,8 @@
       "gloss": "left"
     },
     {
-      "form": "šimāl",
-      "orthographic": "شِمَال",
+      "form": "yasār",
+      "orthographic": "يَسَار",
       "gloss": "left"
     },
     {
@@ -1365,8 +1365,8 @@
       "gloss": "in"
     },
     {
-      "form": "fī",
-      "orthographic": "فِي",
+      "form": "bi",
+      "orthographic": "بِ",
       "gloss": "in"
     },
     {
@@ -1375,8 +1375,8 @@
       "gloss": "with"
     },
     {
-      "form": "maʿa",
-      "orthographic": "مَعَ",
+      "form": "bi",
+      "orthographic": "بِ",
       "gloss": "with"
     },
     {
@@ -1390,13 +1390,13 @@
       "gloss": "if"
     },
     {
-      "form": "law",
-      "orthographic": "لَوْ",
+      "form": "ʾiḏā",
+      "orthographic": "إِذَا",
       "gloss": "if"
     },
     {
-      "form": "law",
-      "orthographic": "لَوْ",
+      "form": "ʾin",
+      "orthographic": "إِنْ",
       "gloss": "if"
     },
     {
@@ -1405,13 +1405,13 @@
       "gloss": "because"
     },
     {
-      "form": "liʾanna",
-      "orthographic": "لِأَنَّ",
+      "form": "bisababi",
+      "orthographic": "بِسَبَبِ",
       "gloss": "because"
     },
     {
-      "form": "liʾanna",
-      "orthographic": "لِأَنَّ",
+      "form": "ḥayṯu",
+      "orthographic": "حَيْثُ",
       "gloss": "because"
     },
     {

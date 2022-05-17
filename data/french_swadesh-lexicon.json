@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tu",
-      "orthographic": "tu",
+      "form": "vous",
+      "orthographic": "vous",
       "gloss": "you (2sg)"
     },
     {
@@ -30,8 +30,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "il",
-      "orthographic": "il",
+      "form": "elle",
+      "orthographic": "elle",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "ils",
-      "orthographic": "ils",
+      "form": "elles",
+      "orthographic": "elles",
       "gloss": "they (3pl)"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "wife"
     },
     {
-      "form": "femme",
-      "orthographic": "femme",
+      "form": "épouse",
+      "orthographic": "épouse",
       "gloss": "wife"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "husband"
     },
     {
-      "form": "mari",
-      "orthographic": "mari",
+      "form": "époux",
+      "orthographic": "époux",
       "gloss": "husband"
     },
     {
@@ -465,8 +465,8 @@
       "gloss": "guts"
     },
     {
-      "form": "entrailles",
-      "orthographic": "entrailles",
+      "form": "intestins",
+      "orthographic": "intestins",
       "gloss": "guts"
     },
     {
@@ -485,8 +485,8 @@
       "gloss": "breast"
     },
     {
-      "form": "sein",
-      "orthographic": "sein",
+      "form": "poitrine",
+      "orthographic": "poitrine",
       "gloss": "breast"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "s'étendre",
-      "orthographic": "s'étendre",
+      "form": "être étendu",
+      "orthographic": "être étendu",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "s'asseoir",
-      "orthographic": "s'asseoir",
+      "form": "être assis",
+      "orthographic": "être assis",
       "gloss": "to sit"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "se lever",
-      "orthographic": "se lever",
+      "form": "se tenir debout",
+      "orthographic": "se tenir debout",
       "gloss": "to stand"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "jeter",
-      "orthographic": "jeter",
+      "form": "lancer",
+      "orthographic": "lancer",
       "gloss": "to throw"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "year"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "année",
+      "orthographic": "année",
       "gloss": "year"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "new"
     },
     {
-      "form": "nouveau",
-      "orthographic": "nouveau",
+      "form": "neuf",
+      "orthographic": "neuf",
       "gloss": "new"
     },
     {

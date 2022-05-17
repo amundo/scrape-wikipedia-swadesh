@@ -15,8 +15,8 @@
       "gloss": "I (1sg)"
     },
     {
-      "form": "mi",
-      "orthographic": "mi",
+      "form": "fi",
+      "orthographic": "fi",
       "gloss": "I (1sg)"
     },
     {
@@ -30,13 +30,13 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ef",
-      "orthographic": "ef",
+      "form": "fe",
+      "orthographic": "fe",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ef",
-      "orthographic": "ef",
+      "form": "fo",
+      "orthographic": "fo",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "chi",
-      "orthographic": "chi",
+      "form": "chwi",
+      "orthographic": "chwi",
       "gloss": "you (2pl)"
     },
     {
@@ -60,13 +60,13 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "hwy",
-      "orthographic": "hwy",
+      "form": "hwynt",
+      "orthographic": "hwynt",
       "gloss": "they (3pl)"
     },
     {
-      "form": "hwy",
-      "orthographic": "hwy",
+      "form": "nhw",
+      "orthographic": "nhw",
       "gloss": "they (3pl)"
     },
     {
@@ -75,13 +75,13 @@
       "gloss": "this"
     },
     {
-      "form": "hwn",
-      "orthographic": "hwn",
+      "form": "y",
+      "orthographic": "y",
       "gloss": "this"
     },
     {
-      "form": "hwn",
-      "orthographic": "hwn",
+      "form": "yma",
+      "orthographic": "yma",
       "gloss": "this"
     },
     {
@@ -90,13 +90,13 @@
       "gloss": "that"
     },
     {
-      "form": "hwnnw",
-      "orthographic": "hwnnw",
+      "form": "y",
+      "orthographic": "y",
       "gloss": "that"
     },
     {
-      "form": "hwnnw",
-      "orthographic": "hwnnw",
+      "form": "yna",
+      "orthographic": "yna",
       "gloss": "that"
     },
     {
@@ -135,8 +135,8 @@
       "gloss": "how"
     },
     {
-      "form": "sut",
-      "orthographic": "sut",
+      "form": "pa fodd",
+      "orthographic": "pa fodd",
       "gloss": "how"
     },
     {
@@ -145,8 +145,8 @@
       "gloss": "not"
     },
     {
-      "form": "ddim",
-      "orthographic": "ddim",
+      "form": "nid",
+      "orthographic": "nid",
       "gloss": "not"
     },
     {
@@ -155,13 +155,13 @@
       "gloss": "all"
     },
     {
-      "form": "holl",
-      "orthographic": "holl",
+      "form": "i gyd",
+      "orthographic": "i gyd",
       "gloss": "all"
     },
     {
-      "form": "holl",
-      "orthographic": "holl",
+      "form": "oll",
+      "orthographic": "oll",
       "gloss": "all"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "some"
     },
     {
-      "form": "rhai",
-      "orthographic": "rhai",
+      "form": "rhyw",
+      "orthographic": "rhyw",
       "gloss": "some"
     },
     {
@@ -205,8 +205,8 @@
       "gloss": "three"
     },
     {
-      "form": "tair",
-      "orthographic": "tair",
+      "form": "tri",
+      "orthographic": "tri",
       "gloss": "three"
     },
     {
@@ -250,8 +250,8 @@
       "gloss": "small"
     },
     {
-      "form": "bach",
-      "orthographic": "bach",
+      "form": "bychan",
+      "orthographic": "bychan",
       "gloss": "small"
     },
     {
@@ -275,23 +275,23 @@
       "gloss": "woman"
     },
     {
-      "form": "benw",
-      "orthographic": "benw",
+      "form": "benyw",
+      "orthographic": "benyw",
       "gloss": "woman"
     },
     {
-      "form": "benw",
-      "orthographic": "benw",
+      "form": "dynes",
+      "orthographic": "dynes",
       "gloss": "woman"
     },
     {
-      "form": "benw",
-      "orthographic": "benw",
+      "form": "gwraig",
+      "orthographic": "gwraig",
       "gloss": "woman"
     },
     {
-      "form": "benw",
-      "orthographic": "benw",
+      "form": "merch",
+      "orthographic": "merch",
       "gloss": "woman"
     },
     {
@@ -300,8 +300,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "dyn",
-      "orthographic": "dyn",
+      "form": "gŵr",
+      "orthographic": "gŵr",
       "gloss": "man (adult male)"
     },
     {
@@ -340,8 +340,8 @@
       "gloss": "animal"
     },
     {
-      "form": "anifail",
-      "orthographic": "anifail",
+      "form": "mil",
+      "orthographic": "mil",
       "gloss": "animal"
     },
     {
@@ -370,8 +370,8 @@
       "gloss": "snake"
     },
     {
-      "form": "neidr",
-      "orthographic": "neidr",
+      "form": "sarff",
+      "orthographic": "sarff",
       "gloss": "snake"
     },
     {
@@ -380,18 +380,18 @@
       "gloss": "worm"
     },
     {
-      "form": "abwydyn",
-      "orthographic": "abwydyn",
+      "form": "mwydyn",
+      "orthographic": "mwydyn",
       "gloss": "worm"
     },
     {
-      "form": "abwydyn",
-      "orthographic": "abwydyn",
+      "form": "pryf",
+      "orthographic": "pryf",
       "gloss": "worm"
     },
     {
-      "form": "abwydyn",
-      "orthographic": "abwydyn",
+      "form": "pryf genwair",
+      "orthographic": "pryf genwair",
       "gloss": "worm"
     },
     {
@@ -400,13 +400,13 @@
       "gloss": "tree"
     },
     {
-      "form": "coed",
-      "orthographic": "coed",
+      "form": "colfen",
+      "orthographic": "colfen",
       "gloss": "tree"
     },
     {
-      "form": "coed",
-      "orthographic": "coed",
+      "form": "pren",
+      "orthographic": "pren",
       "gloss": "tree"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "forest"
     },
     {
-      "form": "coedwig",
-      "orthographic": "coedwig",
+      "form": "fforest",
+      "orthographic": "fforest",
       "gloss": "forest"
     },
     {
@@ -425,8 +425,8 @@
       "gloss": "stick"
     },
     {
-      "form": "ffon",
-      "orthographic": "ffon",
+      "form": "llory",
+      "orthographic": "llory",
       "gloss": "stick"
     },
     {
@@ -450,8 +450,8 @@
       "gloss": "root"
     },
     {
-      "form": "gwraidd",
-      "orthographic": "gwraidd",
+      "form": "gwreiddyn",
+      "orthographic": "gwreiddyn",
       "gloss": "root"
     },
     {
@@ -515,8 +515,8 @@
       "gloss": "tail"
     },
     {
-      "form": "cynffon",
-      "orthographic": "cynffon",
+      "form": "llost",
+      "orthographic": "llost",
       "gloss": "tail"
     },
     {
@@ -530,8 +530,8 @@
       "gloss": "hair"
     },
     {
-      "form": "blew",
-      "orthographic": "blew",
+      "form": "gwallt",
+      "orthographic": "gwallt",
       "gloss": "hair"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "ceg",
-      "orthographic": "ceg",
+      "form": "genau",
+      "orthographic": "genau",
       "gloss": "mouth"
     },
     {
@@ -595,8 +595,8 @@
       "gloss": "knee"
     },
     {
-      "form": "glin",
-      "orthographic": "glin",
+      "form": "pen-glin",
+      "orthographic": "pen-glin",
       "gloss": "knee"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "wing"
     },
     {
-      "form": "adain",
-      "orthographic": "adain",
+      "form": "asgell",
+      "orthographic": "asgell",
       "gloss": "wing"
     },
     {
@@ -620,8 +620,8 @@
       "gloss": "belly"
     },
     {
-      "form": "bol",
-      "orthographic": "bol",
+      "form": "bola",
+      "orthographic": "bola",
       "gloss": "belly"
     },
     {
@@ -630,13 +630,13 @@
       "gloss": "guts"
     },
     {
-      "form": "coluddion",
-      "orthographic": "coluddion",
+      "form": "perfeddion",
+      "orthographic": "perfeddion",
       "gloss": "guts"
     },
     {
-      "form": "coluddion",
-      "orthographic": "coluddion",
+      "form": "ymysgaroedd",
+      "orthographic": "ymysgaroedd",
       "gloss": "guts"
     },
     {
@@ -645,13 +645,13 @@
       "gloss": "neck"
     },
     {
-      "form": "gwddf",
-      "orthographic": "gwddf",
+      "form": "gwddwg",
+      "orthographic": "gwddwg",
       "gloss": "neck"
     },
     {
-      "form": "gwddf",
-      "orthographic": "gwddf",
+      "form": "mwnwgl",
+      "orthographic": "mwnwgl",
       "gloss": "neck"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "brathu",
-      "orthographic": "brathu",
+      "form": "cnoi",
+      "orthographic": "cnoi",
       "gloss": "to bite"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to think"
     },
     {
-      "form": "meddwl",
-      "orthographic": "meddwl",
+      "form": "tybio",
+      "orthographic": "tybio",
       "gloss": "to think"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "aroglu",
-      "orthographic": "aroglu",
+      "form": "clywed aroglau",
+      "orthographic": "clywed aroglau",
       "gloss": "to smell"
     },
     {
@@ -765,8 +765,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "bod ag ofn",
-      "orthographic": "bod ag ofn",
+      "form": "ofni",
+      "orthographic": "ofni",
       "gloss": "to fear"
     },
     {
@@ -795,8 +795,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "brwydro",
-      "orthographic": "brwydro",
+      "form": "ymladd",
+      "orthographic": "ymladd",
       "gloss": "to fight"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "bwrw",
-      "orthographic": "bwrw",
+      "form": "taro",
+      "orthographic": "taro",
       "gloss": "to hit"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "gwanu",
-      "orthographic": "gwanu",
+      "form": "trywanu",
+      "orthographic": "trywanu",
       "gloss": "to stab"
     },
     {
@@ -845,8 +845,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "cloddio",
-      "orthographic": "cloddio",
+      "form": "palu",
+      "orthographic": "palu",
       "gloss": "to dig"
     },
     {
@@ -895,13 +895,13 @@
       "gloss": "to fall"
     },
     {
-      "form": "cwympo",
-      "orthographic": "cwympo",
+      "form": "disgyn",
+      "orthographic": "disgyn",
       "gloss": "to fall"
     },
     {
-      "form": "cwympo",
-      "orthographic": "cwympo",
+      "form": "syrthio",
+      "orthographic": "syrthio",
       "gloss": "to fall"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "dal",
-      "orthographic": "dal",
+      "form": "dala",
+      "orthographic": "dala",
       "gloss": "to hold"
     },
     {
@@ -930,8 +930,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "rhwtio",
-      "orthographic": "rhwtio",
+      "form": "rhwbio",
+      "orthographic": "rhwbio",
       "gloss": "to rub"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "clymu",
-      "orthographic": "clymu",
+      "form": "rhwymo",
+      "orthographic": "rhwymo",
       "gloss": "to tie"
     },
     {
@@ -1025,8 +1025,8 @@
       "gloss": "moon"
     },
     {
-      "form": "lleuad",
-      "orthographic": "lleuad",
+      "form": "lloer",
+      "orthographic": "lloer",
       "gloss": "moon"
     },
     {
@@ -1070,8 +1070,8 @@
       "gloss": "stone"
     },
     {
-      "form": "carreg",
-      "orthographic": "carreg",
+      "form": "maen",
+      "orthographic": "maen",
       "gloss": "stone"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "sky"
     },
     {
-      "form": "awyr",
-      "orthographic": "awyr",
+      "form": "wybren",
+      "orthographic": "wybren",
       "gloss": "sky"
     },
     {
@@ -1150,13 +1150,13 @@
       "gloss": "road"
     },
     {
-      "form": "ffordd",
-      "orthographic": "ffordd",
+      "form": "heol",
+      "orthographic": "heol",
       "gloss": "road"
     },
     {
-      "form": "ffordd",
-      "orthographic": "ffordd",
+      "form": "hynt",
+      "orthographic": "hynt",
       "gloss": "road"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "red"
     },
     {
-      "form": "coch",
-      "orthographic": "coch",
+      "form": "rhudd",
+      "orthographic": "rhudd",
       "gloss": "red"
     },
     {
@@ -1180,8 +1180,8 @@
       "gloss": "green"
     },
     {
-      "form": "glas",
-      "orthographic": "glas",
+      "form": "gwyrdd",
+      "orthographic": "gwyrdd",
       "gloss": "green"
     },
     {
@@ -1220,8 +1220,8 @@
       "gloss": "warm"
     },
     {
-      "form": "cynnes",
-      "orthographic": "cynnes",
+      "form": "twym",
+      "orthographic": "twym",
       "gloss": "warm"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "good"
     },
     {
-      "form": "da",
-      "orthographic": "da",
+      "form": "mad",
+      "orthographic": "mad",
       "gloss": "good"
     },
     {
@@ -1265,8 +1265,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "braen",
-      "orthographic": "braen",
+      "form": "pwdr",
+      "orthographic": "pwdr",
       "gloss": "rotten"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "brwnt",
-      "orthographic": "brwnt",
+      "form": "budr",
+      "orthographic": "budr",
       "gloss": "dirty"
     },
     {
@@ -1295,8 +1295,8 @@
       "gloss": "sharp (as a knife)"
     },
     {
-      "form": "llym",
-      "orthographic": "llym",
+      "form": "miniog",
+      "orthographic": "miniog",
       "gloss": "sharp (as a knife)"
     },
     {
@@ -1325,13 +1325,13 @@
       "gloss": "correct"
     },
     {
-      "form": "certh",
-      "orthographic": "certh",
+      "form": "cywir",
+      "orthographic": "cywir",
       "gloss": "correct"
     },
     {
-      "form": "certh",
-      "orthographic": "certh",
+      "form": "iawn",
+      "orthographic": "iawn",
       "gloss": "correct"
     },
     {
@@ -1355,8 +1355,8 @@
       "gloss": "left"
     },
     {
-      "form": "chwith",
-      "orthographic": "chwith",
+      "form": "cledd",
+      "orthographic": "cledd",
       "gloss": "left"
     },
     {
@@ -1365,8 +1365,8 @@
       "gloss": "at"
     },
     {
-      "form": "at",
-      "orthographic": "at",
+      "form": "wrth",
+      "orthographic": "wrth",
       "gloss": "at"
     },
     {
@@ -1375,8 +1375,8 @@
       "gloss": "in"
     },
     {
-      "form": "mewn",
-      "orthographic": "mewn",
+      "form": "yn",
+      "orthographic": "yn",
       "gloss": "in"
     },
     {
@@ -1385,18 +1385,18 @@
       "gloss": "with"
     },
     {
-      "form": "â",
-      "orthographic": "â",
+      "form": "efo",
+      "orthographic": "efo",
       "gloss": "with"
     },
     {
-      "form": "â",
-      "orthographic": "â",
+      "form": "gan",
+      "orthographic": "gan",
       "gloss": "with"
     },
     {
-      "form": "â",
-      "orthographic": "â",
+      "form": "gyda",
+      "orthographic": "gyda",
       "gloss": "with"
     },
     {
@@ -1410,8 +1410,8 @@
       "gloss": "if"
     },
     {
-      "form": "os",
-      "orthographic": "os",
+      "form": "pe",
+      "orthographic": "pe",
       "gloss": "if"
     },
     {
@@ -1420,8 +1420,8 @@
       "gloss": "because"
     },
     {
-      "form": "achos",
-      "orthographic": "achos",
+      "form": "oherwydd",
+      "orthographic": "oherwydd",
       "gloss": "because"
     },
     {

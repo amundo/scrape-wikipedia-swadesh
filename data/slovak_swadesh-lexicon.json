@@ -40,8 +40,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "oni",
-      "orthographic": "oni",
+      "form": "ony",
+      "orthographic": "ony",
       "gloss": "they (3pl)"
     },
     {
@@ -50,13 +50,13 @@
       "gloss": "this"
     },
     {
-      "form": "tento",
-      "orthographic": "tento",
+      "form": "táto",
+      "orthographic": "táto",
       "gloss": "this"
     },
     {
-      "form": "tento",
-      "orthographic": "tento",
+      "form": "toto",
+      "orthographic": "toto",
       "gloss": "this"
     },
     {
@@ -65,13 +65,13 @@
       "gloss": "that"
     },
     {
-      "form": "ten",
-      "orthographic": "ten",
+      "form": "tá",
+      "orthographic": "tá",
       "gloss": "that"
     },
     {
-      "form": "ten",
-      "orthographic": "ten",
+      "form": "to",
+      "orthographic": "to",
       "gloss": "that"
     },
     {
@@ -80,8 +80,8 @@
       "gloss": "here"
     },
     {
-      "form": "tu",
-      "orthographic": "tu",
+      "form": "sem",
+      "orthographic": "sem",
       "gloss": "here"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "many"
     },
     {
-      "form": "veľa",
-      "orthographic": "veľa",
+      "form": "mnoho",
+      "orthographic": "mnoho",
       "gloss": "many"
     },
     {
@@ -140,13 +140,13 @@
       "gloss": "some"
     },
     {
-      "form": "niekoľko",
-      "orthographic": "niekoľko",
+      "form": "pár",
+      "orthographic": "pár",
       "gloss": "some"
     },
     {
-      "form": "niekoľko",
-      "orthographic": "niekoľko",
+      "form": "trochu",
+      "orthographic": "trochu",
       "gloss": "some"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "other"
     },
     {
-      "form": "iný",
-      "orthographic": "iný",
+      "form": "ďalší",
+      "orthographic": "ďalší",
       "gloss": "other"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "wife"
     },
     {
-      "form": "manželka",
-      "orthographic": "manželka",
+      "form": "žena",
+      "orthographic": "žena",
       "gloss": "wife"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "husband"
     },
     {
-      "form": "manžel",
-      "orthographic": "manžel",
+      "form": "muž",
+      "orthographic": "muž",
       "gloss": "husband"
     },
     {
@@ -340,8 +340,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "ovocie",
-      "orthographic": "ovocie",
+      "form": "plod",
+      "orthographic": "plod",
       "gloss": "fruit"
     },
     {
@@ -380,8 +380,8 @@
       "gloss": "rope"
     },
     {
-      "form": "lano",
-      "orthographic": "lano",
+      "form": "povraz",
+      "orthographic": "povraz",
       "gloss": "rope"
     },
     {
@@ -480,8 +480,8 @@
       "gloss": "foot"
     },
     {
-      "form": "noha",
-      "orthographic": "noha",
+      "form": "chodidlo",
+      "orthographic": "chodidlo",
       "gloss": "foot"
     },
     {
@@ -530,8 +530,8 @@
       "gloss": "breast"
     },
     {
-      "form": "prsia",
-      "orthographic": "prsia",
+      "form": "hruď",
+      "orthographic": "hruď",
       "gloss": "breast"
     },
     {
@@ -580,8 +580,8 @@
       "gloss": "to blow"
     },
     {
-      "form": "fúkať",
-      "orthographic": "fúkať",
+      "form": "viať",
+      "orthographic": "viať",
       "gloss": "to blow"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "to know"
     },
     {
-      "form": "vedieť",
-      "orthographic": "vedieť",
+      "form": "poznať",
+      "orthographic": "poznať",
       "gloss": "to know"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "to die"
     },
     {
-      "form": "umrieť",
-      "orthographic": "umrieť",
+      "form": "zomrieť",
+      "orthographic": "zomrieť",
       "gloss": "to die"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "to walk"
     },
     {
-      "form": "ísť",
-      "orthographic": "ísť",
+      "form": "kráčať",
+      "orthographic": "kráčať",
       "gloss": "to walk"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "obrátiť",
-      "orthographic": "obrátiť",
+      "form": "otočiť",
+      "orthographic": "otočiť",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -765,8 +765,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "stlačiť",
-      "orthographic": "stlačiť",
+      "form": "stisnúť",
+      "orthographic": "stisnúť",
       "gloss": "to squeeze"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to wash"
     },
     {
-      "form": "umyť",
-      "orthographic": "umyť",
+      "form": "prať",
+      "orthographic": "prať",
       "gloss": "to wash"
     },
     {
@@ -820,8 +820,8 @@
       "gloss": "to count"
     },
     {
-      "form": "počítať",
-      "orthographic": "počítať",
+      "form": "rátať",
+      "orthographic": "rátať",
       "gloss": "to count"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to flow"
     },
     {
-      "form": "tiecť",
-      "orthographic": "tiecť",
+      "form": "prúdiť",
+      "orthographic": "prúdiť",
       "gloss": "to flow"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "sky"
     },
     {
-      "form": "obloha",
-      "orthographic": "obloha",
+      "form": "nebo",
+      "orthographic": "nebo",
       "gloss": "sky"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "horieť",
-      "orthographic": "horieť",
+      "form": "páliť",
+      "orthographic": "páliť",
       "gloss": "to burn"
     },
     {
@@ -1050,8 +1050,8 @@
       "gloss": "cold"
     },
     {
-      "form": "studený",
-      "orthographic": "studený",
+      "form": "chladný",
+      "orthographic": "chladný",
       "gloss": "cold"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "straight"
     },
     {
-      "form": "priamy",
-      "orthographic": "priamy",
+      "form": "rovný",
+      "orthographic": "rovný",
       "gloss": "straight"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "round"
     },
     {
-      "form": "okrúhly",
-      "orthographic": "okrúhly",
+      "form": "guľatý",
+      "orthographic": "guľatý",
       "gloss": "round"
     },
     {
@@ -1165,13 +1165,13 @@
       "gloss": "at"
     },
     {
-      "form": "v",
-      "orthographic": "v",
+      "form": "na",
+      "orthographic": "na",
       "gloss": "at"
     },
     {
-      "form": "v",
-      "orthographic": "v",
+      "form": "pri",
+      "orthographic": "pri",
       "gloss": "at"
     },
     {
@@ -1180,8 +1180,8 @@
       "gloss": "in"
     },
     {
-      "form": "v",
-      "orthographic": "v",
+      "form": "vo",
+      "orthographic": "vo",
       "gloss": "in"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "with"
     },
     {
-      "form": "s",
-      "orthographic": "s",
+      "form": "so",
+      "orthographic": "so",
       "gloss": "with"
     },
     {
@@ -1200,8 +1200,8 @@
       "gloss": "and"
     },
     {
-      "form": "a",
-      "orthographic": "a",
+      "form": "i",
+      "orthographic": "i",
       "gloss": "and"
     },
     {
@@ -1210,18 +1210,18 @@
       "gloss": "if"
     },
     {
-      "form": "ak",
-      "orthographic": "ak",
+      "form": "pokiaľ",
+      "orthographic": "pokiaľ",
       "gloss": "if"
     },
     {
-      "form": "ak",
-      "orthographic": "ak",
+      "form": "keby",
+      "orthographic": "keby",
       "gloss": "if"
     },
     {
-      "form": "ak",
-      "orthographic": "ak",
+      "form": "keď",
+      "orthographic": "keď",
       "gloss": "if"
     },
     {
@@ -1230,8 +1230,8 @@
       "gloss": "because"
     },
     {
-      "form": "pretože",
-      "orthographic": "pretože",
+      "form": "lebo",
+      "orthographic": "lebo",
       "gloss": "because"
     },
     {
@@ -1240,8 +1240,8 @@
       "gloss": "name"
     },
     {
-      "form": "meno",
-      "orthographic": "meno",
+      "form": "názov",
+      "orthographic": "názov",
       "gloss": "name"
     }
   ]

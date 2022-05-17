@@ -45,8 +45,8 @@
       "gloss": "this"
     },
     {
-      "form": "ni1",
-      "orthographic": "呢",
+      "form": "ji1",
+      "orthographic": "依",
       "gloss": "this"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "here"
     },
     {
-      "form": "ni1 dou6",
-      "orthographic": "呢度",
+      "form": "ji1 dou6",
+      "orthographic": "依度",
       "gloss": "here"
     },
     {
@@ -80,13 +80,13 @@
       "gloss": "what"
     },
     {
-      "form": "mat1",
-      "orthographic": "乜",
+      "form": "mat1 je5",
+      "orthographic": "乜嘢",
       "gloss": "what"
     },
     {
-      "form": "mat1",
-      "orthographic": "乜",
+      "form": "me1",
+      "orthographic": "咩",
       "gloss": "what"
     },
     {
@@ -95,8 +95,8 @@
       "gloss": "where"
     },
     {
-      "form": "bin1 dou6",
-      "orthographic": "邊度",
+      "form": "bin1",
+      "orthographic": "邊",
       "gloss": "where"
     },
     {
@@ -110,8 +110,8 @@
       "gloss": "how"
     },
     {
-      "form": "dim2 joeng2",
-      "orthographic": "點樣",
+      "form": "dim2",
+      "orthographic": "點",
       "gloss": "how"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "not"
     },
     {
-      "form": "m4",
-      "orthographic": "唔",
+      "form": "mou5",
+      "orthographic": "冇",
       "gloss": "not"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "all"
     },
     {
-      "form": "cyun4 bou6",
-      "orthographic": "全部",
+      "form": "dou1",
+      "orthographic": "都",
       "gloss": "all"
     },
     {
@@ -155,13 +155,13 @@
       "gloss": "other"
     },
     {
-      "form": "kei4 taa1",
-      "orthographic": "其他",
+      "form": "dai6 ji6 di1",
+      "orthographic": "第二啲",
       "gloss": "other"
     },
     {
-      "form": "kei4 taa1",
-      "orthographic": "其他",
+      "form": "dai6 di1",
+      "orthographic": "第啲",
       "gloss": "other"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "child"
     },
     {
-      "form": "sai3 lou6",
-      "orthographic": "細路",
+      "form": "sai3 lou6 zai2",
+      "orthographic": "細路仔",
       "gloss": "child"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "mother"
     },
     {
-      "form": "aa3 maa1",
-      "orthographic": "阿媽",
+      "form": "lou5 mou5-2",
+      "orthographic": "老母",
       "gloss": "mother"
     },
     {
@@ -285,8 +285,8 @@
       "gloss": "father"
     },
     {
-      "form": "aa3 baa4",
-      "orthographic": "阿爸",
+      "form": "lou5 dau6",
+      "orthographic": "老豆",
       "gloss": "father"
     },
     {
@@ -305,8 +305,8 @@
       "gloss": "bird"
     },
     {
-      "form": "zoek3-2",
-      "orthographic": "雀",
+      "form": "zoek3 zai2",
+      "orthographic": "雀仔",
       "gloss": "bird"
     },
     {
@@ -345,8 +345,8 @@
       "gloss": "stick"
     },
     {
-      "form": "syu6 zi1",
-      "orthographic": "樹枝",
+      "form": "gwan3",
+      "orthographic": "棍",
       "gloss": "stick"
     },
     {
@@ -440,8 +440,8 @@
       "gloss": "hair"
     },
     {
-      "form": "tau4 faat3",
-      "orthographic": "頭髮",
+      "form": "mou4",
+      "orthographic": "毛",
       "gloss": "hair"
     },
     {
@@ -455,8 +455,8 @@
       "gloss": "ear"
     },
     {
-      "form": "ji5 zai2",
-      "orthographic": "耳仔",
+      "form": "ji5",
+      "orthographic": "耳",
       "gloss": "ear"
     },
     {
@@ -470,8 +470,8 @@
       "gloss": "nose"
     },
     {
-      "form": "bei6",
-      "orthographic": "鼻",
+      "form": "bei6 go1",
+      "orthographic": "鼻哥",
       "gloss": "nose"
     },
     {
@@ -480,8 +480,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "zeoi2",
-      "orthographic": "嘴",
+      "form": "hau2",
+      "orthographic": "口",
       "gloss": "mouth"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "leg"
     },
     {
-      "form": "goek3",
-      "orthographic": "腳",
+      "form": "teoi2",
+      "orthographic": "腿",
       "gloss": "leg"
     },
     {
@@ -520,8 +520,8 @@
       "gloss": "knee"
     },
     {
-      "form": "sat1 tau4",
-      "orthographic": "膝頭",
+      "form": "sat1 tau4 go1",
+      "orthographic": "膝頭哥",
       "gloss": "knee"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "breast"
     },
     {
-      "form": "hung1",
-      "orthographic": "胸",
+      "form": "sam1 hau2",
+      "orthographic": "心口",
       "gloss": "breast"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "liver"
     },
     {
-      "form": "gon1",
-      "orthographic": "肝",
+      "form": "jeon6-2",
+      "orthographic": "膶",
       "gloss": "liver"
     },
     {
@@ -600,8 +600,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "kap1",
-      "orthographic": "吸",
+      "form": "zyut3",
+      "orthographic": "啜",
       "gloss": "to suck"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "to spit"
     },
     {
-      "form": "loe1",
-      "orthographic": "𦧲",
+      "form": "tou3, tu1",
+      "orthographic": "吐",
       "gloss": "to spit"
     },
     {
@@ -630,8 +630,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "tau2 hei3",
-      "orthographic": "敨氣",
+      "form": "fu1 kap1",
+      "orthographic": "呼吸",
       "gloss": "to breathe"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "to see"
     },
     {
-      "form": "gin3",
-      "orthographic": "見",
+      "form": "tai2",
+      "orthographic": "睇",
       "gloss": "to see"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to know"
     },
     {
-      "form": "zi1",
-      "orthographic": "知",
+      "form": "zi1 dou3",
+      "orthographic": "知道",
       "gloss": "to know"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "geng1",
-      "orthographic": "驚",
+      "form": "paa3",
+      "orthographic": "怕",
       "gloss": "to fear"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "to sleep"
     },
     {
-      "form": "fan3",
-      "orthographic": "瞓",
+      "form": "fan3 gaau3",
+      "orthographic": "瞓覺",
       "gloss": "to sleep"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to cut"
     },
     {
-      "form": "cit3",
-      "orthographic": "切",
+      "form": "zin2",
+      "orthographic": "剪",
       "gloss": "to cut"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "caap3",
-      "orthographic": "插",
+      "form": "tung2",
+      "orthographic": "捅",
       "gloss": "to stab"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "gwaat3",
-      "orthographic": "刮",
+      "form": "ngaau1",
+      "orthographic": "𢯎",
       "gloss": "to scratch"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "caat3",
-      "orthographic": "擦",
+      "form": "zeot1",
+      "orthographic": "捽",
       "gloss": "to rub"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to pull"
     },
     {
-      "form": "laai1",
-      "orthographic": "拉",
+      "form": "mang1",
+      "orthographic": "掹",
       "gloss": "to pull"
     },
     {
@@ -860,8 +860,8 @@
       "gloss": "to push"
     },
     {
-      "form": "teoi1",
-      "orthographic": "推",
+      "form": "ung2",
+      "orthographic": "擁",
       "gloss": "to push"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "dam2",
-      "orthographic": "抌",
+      "form": "deu6",
+      "orthographic": "掉",
       "gloss": "to throw"
     },
     {
@@ -895,8 +895,8 @@
       "gloss": "to say"
     },
     {
-      "form": "gong2",
-      "orthographic": "講",
+      "form": "waa6",
+      "orthographic": "話",
       "gloss": "to say"
     },
     {
@@ -935,13 +935,13 @@
       "gloss": "sun"
     },
     {
-      "form": "taai3 joeng4",
-      "orthographic": "太陽",
+      "form": "jat6 tau4-2",
+      "orthographic": "日頭",
       "gloss": "sun"
     },
     {
-      "form": "taai3 joeng4",
-      "orthographic": "太陽",
+      "form": "jit6 tau4-2",
+      "orthographic": "熱頭",
       "gloss": "sun"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "stone"
     },
     {
-      "form": "sek6",
-      "orthographic": "石",
+      "form": "sek6 tau4",
+      "orthographic": "石頭",
       "gloss": "stone"
     },
     {
@@ -1100,18 +1100,18 @@
       "gloss": "night"
     },
     {
-      "form": "je6 maan5",
-      "orthographic": "夜晚",
+      "form": "je6 maan5 hak1",
+      "orthographic": "夜晚黑",
       "gloss": "night"
     },
     {
-      "form": "je6 maan5",
-      "orthographic": "夜晚",
+      "form": "maan5 hak1",
+      "orthographic": "晚黑",
       "gloss": "night"
     },
     {
-      "form": "je6 maan5",
-      "orthographic": "夜晚",
+      "form": "maan5 tau4-2",
+      "orthographic": "晚頭",
       "gloss": "night"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "wu1 zou1",
-      "orthographic": "污糟",
+      "form": "laat6 taat3",
+      "orthographic": "邋遢",
       "gloss": "dirty"
     },
     {
@@ -1195,8 +1195,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "deon6",
-      "orthographic": "鈍",
+      "form": "gwat6",
+      "orthographic": "掘",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1245,8 +1245,8 @@
       "gloss": "at"
     },
     {
-      "form": "hai2",
-      "orthographic": "喺",
+      "form": "hoeng2",
+      "orthographic": "響",
       "gloss": "at"
     },
     {
@@ -1255,18 +1255,18 @@
       "gloss": "in"
     },
     {
-      "form": "leoi5 bin6",
-      "orthographic": "裡便",
+      "form": "jap6 bin6",
+      "orthographic": "入便",
       "gloss": "in"
     },
     {
-      "form": "leoi5 bin6",
-      "orthographic": "裡便",
+      "form": "leoi5 min6",
+      "orthographic": "裡面",
       "gloss": "in"
     },
     {
-      "form": "leoi5 bin6",
-      "orthographic": "裡便",
+      "form": "jap6 min6",
+      "orthographic": "入面",
       "gloss": "in"
     },
     {
@@ -1280,8 +1280,8 @@
       "gloss": "and"
     },
     {
-      "form": "tung4",
-      "orthographic": "同",
+      "form": "tung4 maai4",
+      "orthographic": "同埋",
       "gloss": "and"
     },
     {

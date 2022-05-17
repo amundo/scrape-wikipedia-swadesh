@@ -50,8 +50,8 @@
       "gloss": "that"
     },
     {
-      "form": "şu",
-      "orthographic": "şu",
+      "form": "о",
+      "orthographic": "о",
       "gloss": "that"
     },
     {
@@ -100,13 +100,13 @@
       "gloss": "all"
     },
     {
-      "form": "bütün",
-      "orthographic": "bütün",
+      "form": "ep",
+      "orthographic": "ep",
       "gloss": "all"
     },
     {
-      "form": "bütün",
-      "orthographic": "bütün",
+      "form": "episi",
+      "orthographic": "episi",
       "gloss": "all"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "some"
     },
     {
-      "form": "bazı",
-      "orthographic": "bazı",
+      "form": "bir qaç",
+      "orthographic": "bir qaç",
       "gloss": "some"
     },
     {
@@ -135,8 +135,8 @@
       "gloss": "other"
     },
     {
-      "form": "başqa",
-      "orthographic": "başqa",
+      "form": "diger",
+      "orthographic": "diger",
       "gloss": "other"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "wide"
     },
     {
-      "form": "keñ",
-      "orthographic": "keñ",
+      "form": "keniş",
+      "orthographic": "keniş",
       "gloss": "wide"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "erkek",
-      "orthographic": "erkek",
+      "form": "aqay",
+      "orthographic": "aqay",
       "gloss": "man (adult male)"
     },
     {
@@ -235,13 +235,13 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "insan",
-      "orthographic": "insan",
+      "form": "adam",
+      "orthographic": "adam",
       "gloss": "man (human being)"
     },
     {
-      "form": "insan",
-      "orthographic": "insan",
+      "form": "kişi",
+      "orthographic": "kişi",
       "gloss": "man (human being)"
     },
     {
@@ -290,8 +290,8 @@
       "gloss": "dog"
     },
     {
-      "form": "köpek",
-      "orthographic": "köpek",
+      "form": "it",
+      "orthographic": "it",
       "gloss": "dog"
     },
     {
@@ -330,8 +330,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "meyva",
-      "orthographic": "meyva",
+      "form": "yemiş",
+      "orthographic": "yemiş",
       "gloss": "fruit"
     },
     {
@@ -340,8 +340,8 @@
       "gloss": "seed"
     },
     {
-      "form": "urluq",
-      "orthographic": "urluq",
+      "form": "tuhum",
+      "orthographic": "tuhum",
       "gloss": "seed"
     },
     {
@@ -375,13 +375,13 @@
       "gloss": "rope"
     },
     {
-      "form": "arqan",
-      "orthographic": "arqan",
+      "form": "yip",
+      "orthographic": "yip",
       "gloss": "rope"
     },
     {
-      "form": "arqan",
-      "orthographic": "arqan",
+      "form": "sıcım",
+      "orthographic": "sıcım",
       "gloss": "rope"
     },
     {
@@ -405,8 +405,8 @@
       "gloss": "bone"
     },
     {
-      "form": "kemik",
-      "orthographic": "kemik",
+      "form": "süyek",
+      "orthographic": "süyek",
       "gloss": "bone"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "yağ",
-      "orthographic": "yağ",
+      "form": "may",
+      "orthographic": "may",
       "gloss": "fat (noun)"
     },
     {
@@ -430,8 +430,8 @@
       "gloss": "horn"
     },
     {
-      "form": "müyüz",
-      "orthographic": "müyüz",
+      "form": "boynuz",
+      "orthographic": "boynuz",
       "gloss": "horn"
     },
     {
@@ -450,8 +450,8 @@
       "gloss": "hair"
     },
     {
-      "form": "saç",
-      "orthographic": "saç",
+      "form": "qıl",
+      "orthographic": "qıl",
       "gloss": "hair"
     },
     {
@@ -525,8 +525,8 @@
       "gloss": "belly"
     },
     {
-      "form": "qursaq",
-      "orthographic": "qursaq",
+      "form": "qarın",
+      "orthographic": "qarın",
       "gloss": "belly"
     },
     {
@@ -535,8 +535,8 @@
       "gloss": "guts"
     },
     {
-      "form": "iç",
-      "orthographic": "iç",
+      "form": "bağırsaq",
+      "orthographic": "bağırsaq",
       "gloss": "guts"
     },
     {
@@ -550,8 +550,8 @@
       "gloss": "back"
     },
     {
-      "form": "arqa",
-      "orthographic": "arqa",
+      "form": "sırt",
+      "orthographic": "sırt",
       "gloss": "back"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "breast"
     },
     {
-      "form": "köküs",
-      "orthographic": "köküs",
+      "form": "kökrek",
+      "orthographic": "kökrek",
       "gloss": "breast"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "to blow"
     },
     {
-      "form": "esmek",
-      "orthographic": "esmek",
+      "form": "üfürmek",
+      "orthographic": "üfürmek",
       "gloss": "to blow"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "yatmaq",
-      "orthographic": "yatmaq",
+      "form": "uzanmaq",
+      "orthographic": "uzanmaq",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -890,8 +890,8 @@
       "gloss": "river"
     },
     {
-      "form": "özen",
-      "orthographic": "özen",
+      "form": "neer",
+      "orthographic": "neer",
       "gloss": "river"
     },
     {
@@ -970,8 +970,8 @@
       "gloss": "fire"
     },
     {
-      "form": "ateş",
-      "orthographic": "ateş",
+      "form": "ot",
+      "orthographic": "ot",
       "gloss": "fire"
     },
     {
@@ -1000,8 +1000,8 @@
       "gloss": "red"
     },
     {
-      "form": "qırmızı",
-      "orthographic": "qırmızı",
+      "form": "qızıl",
+      "orthographic": "qızıl",
       "gloss": "red"
     },
     {
@@ -1020,8 +1020,8 @@
       "gloss": "white"
     },
     {
-      "form": "beyaz",
-      "orthographic": "beyaz",
+      "form": "aq",
+      "orthographic": "aq",
       "gloss": "white"
     },
     {
@@ -1030,8 +1030,8 @@
       "gloss": "black"
     },
     {
-      "form": "qara",
-      "orthographic": "qara",
+      "form": "siya",
+      "orthographic": "siya",
       "gloss": "black"
     },
     {
@@ -1050,8 +1050,8 @@
       "gloss": "year"
     },
     {
-      "form": "yıl",
-      "orthographic": "yıl",
+      "form": "sene",
+      "orthographic": "sene",
       "gloss": "year"
     },
     {
@@ -1080,8 +1080,8 @@
       "gloss": "old"
     },
     {
-      "form": "eski",
-      "orthographic": "eski",
+      "form": "qart",
+      "orthographic": "qart",
       "gloss": "old"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "good"
     },
     {
-      "form": "yahşı",
-      "orthographic": "yahşı",
+      "form": "eyi",
+      "orthographic": "eyi",
       "gloss": "good"
     },
     {
@@ -1100,8 +1100,8 @@
       "gloss": "bad"
     },
     {
-      "form": "yaramay",
-      "orthographic": "yaramay",
+      "form": "yaman",
+      "orthographic": "yaman",
       "gloss": "bad"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "right"
     },
     {
-      "form": "oñ",
-      "orthographic": "oñ",
+      "form": "sağ",
+      "orthographic": "sağ",
       "gloss": "right"
     },
     {
@@ -1185,18 +1185,18 @@
       "gloss": "at"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-de",
+      "orthographic": "-de",
       "gloss": "at"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-ta",
+      "orthographic": "-ta",
       "gloss": "at"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-te",
+      "orthographic": "-te",
       "gloss": "at"
     },
     {
@@ -1205,18 +1205,18 @@
       "gloss": "in"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-de",
+      "orthographic": "-de",
       "gloss": "in"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-ta",
+      "orthographic": "-ta",
       "gloss": "in"
     },
     {
-      "form": "-da",
-      "orthographic": "-da",
+      "form": "-te",
+      "orthographic": "-te",
       "gloss": "in"
     },
     {
@@ -1225,8 +1225,8 @@
       "gloss": "with"
     },
     {
-      "form": "-nen",
-      "orthographic": "-nen",
+      "form": "ile",
+      "orthographic": "ile",
       "gloss": "with"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "name"
     },
     {
-      "form": "ad",
-      "orthographic": "ad",
+      "form": "isim",
+      "orthographic": "isim",
       "gloss": "name"
     }
   ]

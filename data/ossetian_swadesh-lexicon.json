@@ -25,8 +25,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "wyj",
-      "orthographic": "уый",
+      "form": "uj",
+      "orthographic": "уй",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "max",
-      "orthographic": "мах",
+      "form": "maxtæ",
+      "orthographic": "махтæ",
       "gloss": "we (1pl)"
     },
     {
@@ -45,23 +45,23 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "symax",
-      "orthographic": "сымах",
+      "form": "symaxtæ",
+      "orthographic": "сымахтæ",
       "gloss": "you (2pl)"
     },
     {
-      "form": "symax",
-      "orthographic": "сымах",
+      "form": "uæ",
+      "orthographic": "уæ",
       "gloss": "you (2pl)"
     },
     {
-      "form": "symax",
-      "orthographic": "сымах",
+      "form": "wyn",
+      "orthographic": "уын",
       "gloss": "you (2pl)"
     },
     {
-      "form": "symax",
-      "orthographic": "сымах",
+      "form": "dytæ",
+      "orthographic": "дытæ",
       "gloss": "you (2pl)"
     },
     {
@@ -70,18 +70,18 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "wydon",
-      "orthographic": "уыдон",
+      "form": "wydontæ",
+      "orthographic": "уыдонтæ",
       "gloss": "they (3pl)"
     },
     {
-      "form": "wydon",
-      "orthographic": "уыдон",
+      "form": "wydættæ",
+      "orthographic": "уыдæттæ",
       "gloss": "they (3pl)"
     },
     {
-      "form": "wydon",
-      "orthographic": "уыдон",
+      "form": "wyjtæ",
+      "orthographic": "уыйтæ",
       "gloss": "they (3pl)"
     },
     {
@@ -90,8 +90,8 @@
       "gloss": "this"
     },
     {
-      "form": "aj",
-      "orthographic": "ай",
+      "form": "acy",
+      "orthographic": "ацы",
       "gloss": "this"
     },
     {
@@ -100,13 +100,13 @@
       "gloss": "that"
     },
     {
-      "form": "wyj",
-      "orthographic": "уый",
+      "form": "uj",
+      "orthographic": "уй",
       "gloss": "that"
     },
     {
-      "form": "wyj",
-      "orthographic": "уый",
+      "form": "wycy",
+      "orthographic": "уыцы",
       "gloss": "that"
     },
     {
@@ -115,13 +115,13 @@
       "gloss": "here"
     },
     {
-      "form": "am",
-      "orthographic": "ам",
+      "form": "amyty",
+      "orthographic": "амыты",
       "gloss": "here"
     },
     {
-      "form": "am",
-      "orthographic": "ам",
+      "form": "mænæ",
+      "orthographic": "мæнæ",
       "gloss": "here"
     },
     {
@@ -130,23 +130,23 @@
       "gloss": "there"
     },
     {
-      "form": "wym",
-      "orthographic": "уым",
+      "form": "wymyty",
+      "orthographic": "уымыты",
       "gloss": "there"
     },
     {
-      "form": "wym",
-      "orthographic": "уым",
+      "form": "uærtæ",
+      "orthographic": "уæртæ",
       "gloss": "there"
     },
     {
-      "form": "wym",
-      "orthographic": "уым",
+      "form": "wyrdæm",
+      "orthographic": "уырдæм",
       "gloss": "there"
     },
     {
-      "form": "wym",
-      "orthographic": "уым",
+      "form": "wyrdæmyty",
+      "orthographic": "уырдæмыты",
       "gloss": "there"
     },
     {
@@ -155,18 +155,18 @@
       "gloss": "who"
     },
     {
-      "form": "ḱi",
-      "orthographic": "чи",
+      "form": "ḱitæ",
+      "orthographic": "читæ",
       "gloss": "who"
     },
     {
-      "form": "ḱi",
-      "orthographic": "чи",
+      "form": "kæcy",
+      "orthographic": "кæцы",
       "gloss": "who"
     },
     {
-      "form": "ḱi",
-      "orthographic": "чи",
+      "form": "kæcytæ",
+      "orthographic": "кæцытæ",
       "gloss": "who"
     },
     {
@@ -175,18 +175,18 @@
       "gloss": "what"
     },
     {
-      "form": "cy",
-      "orthographic": "цы",
+      "form": "cytæ",
+      "orthographic": "цытæ",
       "gloss": "what"
     },
     {
-      "form": "cy",
-      "orthographic": "цы",
+      "form": "cæj",
+      "orthographic": "цæй",
       "gloss": "what"
     },
     {
-      "form": "cy",
-      "orthographic": "цы",
+      "form": "cæjty",
+      "orthographic": "цæйты",
       "gloss": "what"
     },
     {
@@ -195,18 +195,18 @@
       "gloss": "where"
     },
     {
-      "form": "kæm",
-      "orthographic": "кæм",
+      "form": "kæmyty",
+      "orthographic": "кæмыты",
       "gloss": "where"
     },
     {
-      "form": "kæm",
-      "orthographic": "кæм",
+      "form": "kædæm",
+      "orthographic": "кæдæм",
       "gloss": "where"
     },
     {
-      "form": "kæm",
-      "orthographic": "кæм",
+      "form": "kædæmty",
+      "orthographic": "кæдæмты",
       "gloss": "where"
     },
     {
@@ -215,8 +215,8 @@
       "gloss": "when"
     },
     {
-      "form": "kæd",
-      "orthographic": "кæд",
+      "form": "k°y",
+      "orthographic": "куы",
       "gloss": "when"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "how"
     },
     {
-      "form": "k°yd",
-      "orthographic": "куыд",
+      "form": "k°ydtytæ",
+      "orthographic": "куыдтытæ",
       "gloss": "how"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "not"
     },
     {
-      "form": "næ",
-      "orthographic": "нæ",
+      "form": "nætæ",
+      "orthographic": "нæтæ",
       "gloss": "not"
     },
     {
@@ -245,28 +245,28 @@
       "gloss": "all"
     },
     {
-      "form": "ægas",
-      "orthographic": "æгас",
+      "form": "iwwyldær",
+      "orthographic": "иууылдæр",
       "gloss": "all"
     },
     {
-      "form": "ægas",
-      "orthographic": "æгас",
+      "form": "æppæt",
+      "orthographic": "æппæт",
       "gloss": "all"
     },
     {
-      "form": "ægas",
-      "orthographic": "æгас",
+      "form": "alcy",
+      "orthographic": "алцы",
       "gloss": "all"
     },
     {
-      "form": "ægas",
-      "orthographic": "æгас",
+      "form": "alcytæ",
+      "orthographic": "алцытæ",
       "gloss": "all"
     },
     {
-      "form": "ægas",
-      "orthographic": "æгас",
+      "form": "ænǽqæn",
+      "orthographic": "æнǽхъæн",
       "gloss": "all"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "many"
     },
     {
-      "form": "biræ",
-      "orthographic": "бирæ",
+      "form": "birætæ",
+      "orthographic": "бирæтæ",
       "gloss": "many"
     },
     {
@@ -285,8 +285,8 @@
       "gloss": "some"
     },
     {
-      "form": "caldær",
-      "orthographic": "цалдæр",
+      "form": "casdær",
+      "orthographic": "цасдæр",
       "gloss": "some"
     },
     {
@@ -295,13 +295,13 @@
       "gloss": "few"
     },
     {
-      "form": "gæzæmæ",
-      "orthographic": "гæзæмæ",
+      "form": "ḱysyl",
+      "orthographic": "чысыл",
       "gloss": "few"
     },
     {
-      "form": "gæzæmæ",
-      "orthographic": "гæзæмæ",
+      "form": "c’us",
+      "orthographic": "цъус",
       "gloss": "few"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "other"
     },
     {
-      "form": "ændær",
-      "orthographic": "æндæр",
+      "form": "innæ",
+      "orthographic": "иннæ",
       "gloss": "other"
     },
     {
@@ -345,18 +345,18 @@
       "gloss": "big"
     },
     {
-      "form": "æstyr",
-      "orthographic": "æстыр",
+      "form": "styr",
+      "orthographic": "стыр",
       "gloss": "big"
     },
     {
-      "form": "æstyr",
-      "orthographic": "æстыр",
+      "form": "eǧaw",
+      "orthographic": "егъау",
       "gloss": "big"
     },
     {
-      "form": "æstyr",
-      "orthographic": "æстыр",
+      "form": "dynǵyr",
+      "orthographic": "дынджыр",
       "gloss": "big"
     },
     {
@@ -370,8 +370,8 @@
       "gloss": "wide"
     },
     {
-      "form": "fætæn",
-      "orthographic": "фæтæн",
+      "form": "uæræx",
+      "orthographic": "уæрæх",
       "gloss": "wide"
     },
     {
@@ -380,8 +380,8 @@
       "gloss": "thick"
     },
     {
-      "form": "stavd",
-      "orthographic": "ставд",
+      "form": "bæzǵyn",
+      "orthographic": "бæзджын",
       "gloss": "thick"
     },
     {
@@ -395,18 +395,18 @@
       "gloss": "small"
     },
     {
-      "form": "gyccyl",
-      "orthographic": "гыццыл",
+      "form": "gyc’yl)",
+      "orthographic": "гыцъыл)",
       "gloss": "small"
     },
     {
-      "form": "gyccyl",
-      "orthographic": "гыццыл",
+      "form": "k’annæg",
+      "orthographic": "къаннæг",
       "gloss": "small"
     },
     {
-      "form": "gyccyl",
-      "orthographic": "гыццыл",
+      "form": "ḱysyl",
+      "orthographic": "чысыл",
       "gloss": "small"
     },
     {
@@ -420,8 +420,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "wyngæg",
-      "orthographic": "уынгæг",
+      "form": "naræg",
+      "orthographic": "нарæг",
       "gloss": "narrow"
     },
     {
@@ -430,23 +430,23 @@
       "gloss": "thin"
     },
     {
-      "form": "tænæg",
-      "orthographic": "тæнæг",
+      "form": "mællæg",
+      "orthographic": "мæллæг",
       "gloss": "thin"
     },
     {
-      "form": "tænæg",
-      "orthographic": "тæнæг",
+      "form": "cola",
+      "orthographic": "цола",
       "gloss": "thin"
     },
     {
-      "form": "tænæg",
-      "orthographic": "тæнæг",
+      "form": "k’æsx°yr",
+      "orthographic": "къæсхуыр",
       "gloss": "thin"
     },
     {
-      "form": "tænæg",
-      "orthographic": "тæнæг",
+      "form": "fydx°yz",
+      "orthographic": "фыдхуыз",
       "gloss": "thin"
     },
     {
@@ -455,8 +455,8 @@
       "gloss": "woman"
     },
     {
-      "form": "sylgojmag",
-      "orthographic": "сылгоймаг",
+      "form": "us",
+      "orthographic": "ус",
       "gloss": "woman"
     },
     {
@@ -465,8 +465,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "nælgojmag",
-      "orthographic": "нæлгоймаг",
+      "form": "læg",
+      "orthographic": "лæг",
       "gloss": "man (adult male)"
     },
     {
@@ -475,13 +475,13 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "adæjmag",
-      "orthographic": "адæймаг",
+      "form": "læg",
+      "orthographic": "лæг",
       "gloss": "man (human being)"
     },
     {
-      "form": "adæjmag",
-      "orthographic": "адæймаг",
+      "form": "udgojmag",
+      "orthographic": "удгоймаг",
       "gloss": "man (human being)"
     },
     {
@@ -490,13 +490,13 @@
       "gloss": "child"
     },
     {
-      "form": "syvællon",
-      "orthographic": "сывæллон",
+      "form": "sabi",
+      "orthographic": "саби",
       "gloss": "child"
     },
     {
-      "form": "syvællon",
-      "orthographic": "сывæллон",
+      "form": "qæbul",
+      "orthographic": "хъæбул",
       "gloss": "child"
     },
     {
@@ -505,8 +505,8 @@
       "gloss": "wife"
     },
     {
-      "form": "us",
-      "orthographic": "ус",
+      "form": "binojnag",
+      "orthographic": "бинойнаг",
       "gloss": "wife"
     },
     {
@@ -530,8 +530,8 @@
       "gloss": "animal"
     },
     {
-      "form": "cærægoj",
-      "orthographic": "цæрæгой",
+      "form": "syrd",
+      "orthographic": "сырд",
       "gloss": "animal"
     },
     {
@@ -540,8 +540,8 @@
       "gloss": "fish"
     },
     {
-      "form": "kæsag",
-      "orthographic": "кæсаг",
+      "form": "kæf",
+      "orthographic": "кæф",
       "gloss": "fish"
     },
     {
@@ -550,8 +550,8 @@
       "gloss": "bird"
     },
     {
-      "form": "marǧ",
-      "orthographic": "маргъ",
+      "form": "c’iw",
+      "orthographic": "цъиу",
       "gloss": "bird"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "worm"
     },
     {
-      "form": "zulk’",
-      "orthographic": "зулкъ",
+      "form": "kalm",
+      "orthographic": "калм",
       "gloss": "worm"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "hair"
     },
     {
-      "form": "qwyn",
-      "orthographic": "хъуын",
+      "form": "qis",
+      "orthographic": "хъис",
       "gloss": "hair"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "nose"
     },
     {
-      "form": "fynʒ",
-      "orthographic": "фындз",
+      "form": "byrynk’",
+      "orthographic": "бырынкъ",
       "gloss": "nose"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "breast"
     },
     {
-      "form": "riw",
-      "orthographic": "риу",
+      "form": "ʒiʒi",
+      "orthographic": "дзидзи",
       "gloss": "breast"
     },
     {
@@ -955,8 +955,8 @@
       "gloss": "to come"
     },
     {
-      "form": "ærcæwyn",
-      "orthographic": "æрцæуын",
+      "form": "cæwyn",
+      "orthographic": "цæуын",
       "gloss": "to come"
     },
     {
@@ -1200,8 +1200,8 @@
       "gloss": "road"
     },
     {
-      "form": "fændag",
-      "orthographic": "фæндаг",
+      "form": "balc",
+      "orthographic": "балц",
       "gloss": "road"
     },
     {
@@ -1340,8 +1340,8 @@
       "gloss": "near"
     },
     {
-      "form": "farsmæ",
-      "orthographic": "фарсмæ",
+      "form": "cur",
+      "orthographic": "цур",
       "gloss": "near"
     },
     {
@@ -1375,18 +1375,18 @@
       "gloss": "with"
     },
     {
-      "form": "æd",
-      "orthographic": "æд",
+      "form": "-imæ",
+      "orthographic": "-имæ",
       "gloss": "with"
     },
     {
-      "form": "dær",
+      "form": "æмæ",
       "orthographic": "æмæ",
       "gloss": "and"
     },
     {
       "form": "dær",
-      "orthographic": "æмæ",
+      "orthographic": "дæр",
       "gloss": "and"
     },
     {
@@ -1400,13 +1400,13 @@
       "gloss": "because"
     },
     {
-      "form": "wymæn",
-      "orthographic": "уымæн",
+      "form": "æмæ",
+      "orthographic": "æмæ",
       "gloss": "because"
     },
     {
-      "form": "wymæn",
-      "orthographic": "уымæн",
+      "form": "wymæ",
+      "orthographic": "уымæ",
       "gloss": "because"
     },
     {

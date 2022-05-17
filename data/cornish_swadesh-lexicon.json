@@ -45,8 +45,8 @@
       "gloss": "this"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "ma",
+      "orthographic": "ma",
       "gloss": "this"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "that"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "na",
+      "orthographic": "na",
       "gloss": "that"
     },
     {
@@ -110,8 +110,8 @@
       "gloss": "many"
     },
     {
-      "form": "lies",
-      "orthographic": "lies",
+      "form": "lower",
+      "orthographic": "lower",
       "gloss": "many"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "big"
     },
     {
-      "form": "bras",
-      "orthographic": "bras",
+      "form": "meur",
+      "orthographic": "meur",
       "gloss": "big"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "small"
     },
     {
-      "form": "bian",
-      "orthographic": "bian",
+      "form": "byghan",
+      "orthographic": "byghan",
       "gloss": "small"
     },
     {
@@ -210,8 +210,8 @@
       "gloss": "thin"
     },
     {
-      "form": "moon",
-      "orthographic": "moon",
+      "form": "tanow",
+      "orthographic": "tanow",
       "gloss": "thin"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "gour",
-      "orthographic": "gour",
+      "form": "gwas",
+      "orthographic": "gwas",
       "gloss": "man (adult male)"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "animal"
     },
     {
-      "form": "enyval",
-      "orthographic": "enyval",
+      "form": "mil",
+      "orthographic": "mil",
       "gloss": "animal"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "forest"
     },
     {
-      "form": "koos",
-      "orthographic": "koos",
+      "form": "koswik",
+      "orthographic": "koswik",
       "gloss": "forest"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "rope"
     },
     {
-      "form": "lovan",
-      "orthographic": "lovan",
+      "form": "korden",
+      "orthographic": "korden",
       "gloss": "rope"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "hair"
     },
     {
-      "form": "blew",
-      "orthographic": "blew",
+      "form": "gols",
+      "orthographic": "gols",
       "gloss": "hair"
     },
     {
@@ -490,8 +490,8 @@
       "gloss": "belly"
     },
     {
-      "form": "kroth",
-      "orthographic": "kroth",
+      "form": "torr",
+      "orthographic": "torr",
       "gloss": "belly"
     },
     {
@@ -545,8 +545,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "sugna",
-      "orthographic": "sugna",
+      "form": "dena",
+      "orthographic": "dena",
       "gloss": "to suck"
     },
     {
@@ -555,8 +555,8 @@
       "gloss": "to spit"
     },
     {
-      "form": "berya",
-      "orthographic": "berya",
+      "form": "trewa",
+      "orthographic": "trewa",
       "gloss": "to spit"
     },
     {
@@ -605,8 +605,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "blasa",
-      "orthographic": "blasa",
+      "form": "klywes",
+      "orthographic": "klywes",
       "gloss": "to smell"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "gweskel",
-      "orthographic": "gweskel",
+      "form": "skwatya",
+      "orthographic": "skwatya",
       "gloss": "to hit"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "gwana",
-      "orthographic": "gwana",
+      "form": "pyghya",
+      "orthographic": "pyghya",
       "gloss": "to stab"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "dalghenna",
-      "orthographic": "dalghenna",
+      "form": "synsi",
+      "orthographic": "synsi",
       "gloss": "to hold"
     },
     {
@@ -750,13 +750,13 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "gwaska",
-      "orthographic": "gwaska",
+      "form": "gwrynya",
+      "orthographic": "gwrynya",
       "gloss": "to squeeze"
     },
     {
-      "form": "gwaska",
-      "orthographic": "gwaska",
+      "form": "strotha",
+      "orthographic": "strotha",
       "gloss": "to squeeze"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "to push"
     },
     {
-      "form": "herdhya",
-      "orthographic": "herdhya",
+      "form": "pokya",
+      "orthographic": "pokya",
       "gloss": "to push"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to sew"
     },
     {
-      "form": "gwrias",
-      "orthographic": "gwrias",
+      "form": "sewya",
+      "orthographic": "sewya",
       "gloss": "to sew"
     },
     {
@@ -815,13 +815,13 @@
       "gloss": "to count"
     },
     {
-      "form": "akontya",
-      "orthographic": "akontya",
+      "form": "amontya",
+      "orthographic": "amontya",
       "gloss": "to count"
     },
     {
-      "form": "akontya",
-      "orthographic": "akontya",
+      "form": "nivera",
+      "orthographic": "nivera",
       "gloss": "to count"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to flow"
     },
     {
-      "form": "bera",
-      "orthographic": "bera",
+      "form": "dinewi",
+      "orthographic": "dinewi",
       "gloss": "to flow"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "stone"
     },
     {
-      "form": "karrek",
-      "orthographic": "karrek",
+      "form": "men",
+      "orthographic": "men",
       "gloss": "stone"
     },
     {
@@ -930,8 +930,8 @@
       "gloss": "dust"
     },
     {
-      "form": "doust",
-      "orthographic": "doust",
+      "form": "polter",
+      "orthographic": "polter",
       "gloss": "dust"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "wind"
     },
     {
-      "form": "gwyns",
-      "orthographic": "gwyns",
+      "form": "awel",
+      "orthographic": "awel",
       "gloss": "wind"
     },
     {
@@ -975,8 +975,8 @@
       "gloss": "ice"
     },
     {
-      "form": "rew",
-      "orthographic": "rew",
+      "form": "yey",
+      "orthographic": "yey",
       "gloss": "ice"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "road"
     },
     {
-      "form": "fordh",
-      "orthographic": "fordh",
+      "form": "hens",
+      "orthographic": "hens",
       "gloss": "road"
     },
     {
@@ -1025,8 +1025,8 @@
       "gloss": "green"
     },
     {
-      "form": "glas",
-      "orthographic": "glas",
+      "form": "gwyrdh",
+      "orthographic": "gwyrdh",
       "gloss": "green"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "old"
     },
     {
-      "form": "hen",
-      "orthographic": "hen",
+      "form": "koth",
+      "orthographic": "koth",
       "gloss": "old"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "good"
     },
     {
-      "form": "da",
-      "orthographic": "da",
+      "form": "mas",
+      "orthographic": "mas",
       "gloss": "good"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "breyn",
-      "orthographic": "breyn",
+      "form": "poder",
+      "orthographic": "poder",
       "gloss": "rotten"
     },
     {
@@ -1145,8 +1145,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "gwastas",
-      "orthographic": "gwastas",
+      "form": "leven",
+      "orthographic": "leven",
       "gloss": "smooth"
     },
     {
@@ -1155,8 +1155,8 @@
       "gloss": "wet"
     },
     {
-      "form": "glyb",
-      "orthographic": "glyb",
+      "form": "gwlygh",
+      "orthographic": "gwlygh",
       "gloss": "wet"
     },
     {

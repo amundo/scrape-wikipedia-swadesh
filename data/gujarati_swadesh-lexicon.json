@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tũ",
-      "orthographic": "તું",
+      "form": "tame",
+      "orthographic": "તમે",
       "gloss": "you (2sg)"
     },
     {
@@ -40,8 +40,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "tame",
-      "orthographic": "તમે",
+      "form": "āpa",
+      "orthographic": "આપ",
       "gloss": "you (2pl)"
     },
     {
@@ -95,8 +95,8 @@
       "gloss": "how"
     },
     {
-      "form": "kevī rīte",
-      "orthographic": "કેવી રીતે",
+      "form": "kem",
+      "orthographic": "કેમ",
       "gloss": "how"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "not"
     },
     {
-      "form": "na",
-      "orthographic": "ન",
+      "form": "nahī̃",
+      "orthographic": "નહીં",
       "gloss": "not"
     },
     {
@@ -115,13 +115,13 @@
       "gloss": "all"
     },
     {
-      "form": "badhũ",
-      "orthographic": "બધું",
+      "form": "tamām",
+      "orthographic": "તમામ",
       "gloss": "all"
     },
     {
-      "form": "badhũ",
-      "orthographic": "બધું",
+      "form": "sarva",
+      "orthographic": "સર્વ",
       "gloss": "all"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "many"
     },
     {
-      "form": "bahu",
-      "orthographic": "બહુ",
+      "form": "ghaṇũ",
+      "orthographic": "ઘણું",
       "gloss": "many"
     },
     {
@@ -140,8 +140,8 @@
       "gloss": "some"
     },
     {
-      "form": "amuk",
-      "orthographic": "અમુક",
+      "form": "thoḍũ",
+      "orthographic": "થોડું",
       "gloss": "some"
     },
     {
@@ -155,8 +155,8 @@
       "gloss": "other"
     },
     {
-      "form": "bījũ",
-      "orthographic": "બીજું",
+      "form": "anya",
+      "orthographic": "અન્ય",
       "gloss": "other"
     },
     {
@@ -205,8 +205,8 @@
       "gloss": "thick"
     },
     {
-      "form": "jāḍũ",
-      "orthographic": "જાડું",
+      "form": "ghaṭṭ",
+      "orthographic": "ઘટ્ટ",
       "gloss": "thick"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "child"
     },
     {
-      "form": "bāḷka",
-      "orthographic": "બાળક",
+      "form": "chokrũ",
+      "orthographic": "છોકરું",
       "gloss": "child"
     },
     {
@@ -295,8 +295,8 @@
       "gloss": "bird"
     },
     {
-      "form": "paṅkhī",
-      "orthographic": "પંખી",
+      "form": "pakṣī",
+      "orthographic": "પક્ષી",
       "gloss": "bird"
     },
     {
@@ -325,8 +325,8 @@
       "gloss": "tree"
     },
     {
-      "form": "jhāḍ",
-      "orthographic": "ઝાડ",
+      "form": "vṛkṣ",
+      "orthographic": "વૃક્ષ",
       "gloss": "tree"
     },
     {
@@ -335,8 +335,8 @@
       "gloss": "forest"
     },
     {
-      "form": "jaṅgal",
-      "orthographic": "જંગલ",
+      "form": "van",
+      "orthographic": "વન",
       "gloss": "forest"
     },
     {
@@ -460,8 +460,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "mõ",
-      "orthographic": "મોં",
+      "form": "mukh",
+      "orthographic": "મુખ",
       "gloss": "mouth"
     },
     {
@@ -540,8 +540,8 @@
       "gloss": "liver"
     },
     {
-      "form": "yakṛt",
-      "orthographic": "યકૃત",
+      "form": "kāḷjũ",
+      "orthographic": "કાળજું",
       "gloss": "liver"
     },
     {
@@ -585,8 +585,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "śvās levo",
-      "orthographic": "શ્વાસ લેવો",
+      "form": "śvasvũ",
+      "orthographic": "શ્વસવું",
       "gloss": "to breathe"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "mārvũ",
-      "orthographic": "મારવું",
+      "form": "ṭhokvũ",
+      "orthographic": "ઠોકવું",
       "gloss": "to hit"
     },
     {
@@ -675,8 +675,8 @@
       "gloss": "to split"
     },
     {
-      "form": "bhāg karvo",
-      "orthographic": "ભાગ કરવો",
+      "form": "bhāgvũ",
+      "orthographic": "ભાગવું",
       "gloss": "to split"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "ūbhavũ",
-      "orthographic": "ઊભવું",
+      "form": "ūbhā rahevũ",
+      "orthographic": "ઊભા રહેવું",
       "gloss": "to stand"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "to float"
     },
     {
-      "form": "tarvũ",
-      "orthographic": "તરવું",
+      "form": "tarāvvũ",
+      "orthographic": "તરાવવું",
       "gloss": "to float"
     },
     {
@@ -840,8 +840,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "ṭhārvũ",
-      "orthographic": "ઠારવું",
+      "form": "ṭharvũ",
+      "orthographic": "ઠરવું",
       "gloss": "to freeze"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to swell"
     },
     {
-      "form": "sujī javũ",
-      "orthographic": "સુજી જવું",
+      "form": "sojo āvavo",
+      "orthographic": "સોજો આવવો",
       "gloss": "to swell"
     },
     {
@@ -860,8 +860,8 @@
       "gloss": "sun"
     },
     {
-      "form": "sūrya",
-      "orthographic": "સૂર્ય",
+      "form": "suraj",
+      "orthographic": "સુરજ",
       "gloss": "sun"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "moon"
     },
     {
-      "form": "candra",
-      "orthographic": "ચંદ્ર",
+      "form": "cā̃do",
+      "orthographic": "ચાંદો",
       "gloss": "moon"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "lake"
     },
     {
-      "form": "sarovar",
-      "orthographic": "સરોવર",
+      "form": "taḷāv",
+      "orthographic": "તળાવ",
       "gloss": "lake"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "salt"
     },
     {
-      "form": "mīṭhũ",
-      "orthographic": "મીઠું",
+      "form": "kṣār",
+      "orthographic": "ક્ષાર",
       "gloss": "salt"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "dry"
     },
     {
-      "form": "sukũ",
-      "orthographic": "સુકું",
+      "form": "korũ",
+      "orthographic": "કોરું",
       "gloss": "dry"
     },
     {
@@ -1135,8 +1135,8 @@
       "gloss": "near"
     },
     {
-      "form": "najīk",
-      "orthographic": "નજીક",
+      "form": "pāse",
+      "orthographic": "પાસે",
       "gloss": "near"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "because"
     },
     {
-      "form": "kāraṇke",
-      "orthographic": "કારણકે",
+      "form": "kemke",
+      "orthographic": "કેમકે",
       "gloss": "because"
     },
     {

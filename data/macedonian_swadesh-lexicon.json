@@ -55,8 +55,8 @@
       "gloss": "here"
     },
     {
-      "form": "tuka",
-      "orthographic": "тука",
+      "form": "ovde",
+      "orthographic": "овде",
       "gloss": "here"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "thick"
     },
     {
-      "form": "debel",
-      "orthographic": "дебел",
+      "form": "gust",
+      "orthographic": "густ",
       "gloss": "thick"
     },
     {
@@ -185,8 +185,8 @@
       "gloss": "short"
     },
     {
-      "form": "kus",
-      "orthographic": "кус",
+      "form": "kratok",
+      "orthographic": "краток",
       "gloss": "short"
     },
     {
@@ -200,8 +200,8 @@
       "gloss": "thin"
     },
     {
-      "form": "slab",
-      "orthographic": "слаб",
+      "form": "tenok",
+      "orthographic": "тенок",
       "gloss": "thin"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "wife"
     },
     {
-      "form": "žena",
-      "orthographic": "жена",
+      "form": "sopruga",
+      "orthographic": "сопруга",
       "gloss": "wife"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "husband"
     },
     {
-      "form": "maž",
-      "orthographic": "маж",
+      "form": "soprug",
+      "orthographic": "сопруг",
       "gloss": "husband"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "dog"
     },
     {
-      "form": "kuče",
-      "orthographic": "куче",
+      "form": "pes",
+      "orthographic": "пес",
       "gloss": "dog"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "stick"
     },
     {
-      "form": "stap",
-      "orthographic": "стап",
+      "form": "pračka",
+      "orthographic": "прачка",
       "gloss": "stick"
     },
     {
@@ -320,8 +320,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "ovošje",
-      "orthographic": "овошје",
+      "form": "plod",
+      "orthographic": "плод",
       "gloss": "fruit"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "rope"
     },
     {
-      "form": "jaže",
-      "orthographic": "јаже",
+      "form": "konop",
+      "orthographic": "коноп",
       "gloss": "rope"
     },
     {
@@ -390,8 +390,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "mast",
-      "orthographic": "маст",
+      "form": "salo",
+      "orthographic": "сало",
       "gloss": "fat (noun)"
     },
     {
@@ -420,8 +420,8 @@
       "gloss": "hair"
     },
     {
-      "form": "kosa",
-      "orthographic": "коса",
+      "form": "vlakno",
+      "orthographic": "влакно",
       "gloss": "hair"
     },
     {
@@ -525,8 +525,8 @@
       "gloss": "liver"
     },
     {
-      "form": "džiger",
-      "orthographic": "џигер",
+      "form": "crn drob",
+      "orthographic": "црн дроб",
       "gloss": "liver"
     },
     {
@@ -545,8 +545,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "kasa",
-      "orthographic": "каса",
+      "form": "grize",
+      "orthographic": "гризе",
       "gloss": "to bite"
     },
     {
@@ -565,8 +565,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "povraḱa",
-      "orthographic": "повраќа",
+      "form": "blue",
+      "orthographic": "блуе",
       "gloss": "to vomit"
     },
     {
@@ -580,8 +580,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "diše",
-      "orthographic": "дише",
+      "form": "vdišuva",
+      "orthographic": "вдишува",
       "gloss": "to breathe"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "to think"
     },
     {
-      "form": "misli",
-      "orthographic": "мисли",
+      "form": "pomisluva",
+      "orthographic": "помислува",
       "gloss": "to think"
     },
     {
@@ -620,13 +620,13 @@
       "gloss": "to smell"
     },
     {
-      "form": "mirisa",
-      "orthographic": "мириса",
+      "form": "smrdi",
+      "orthographic": "смрди",
       "gloss": "to smell"
     },
     {
-      "form": "mirisa",
-      "orthographic": "мириса",
+      "form": "duši",
+      "orthographic": "души",
       "gloss": "to smell"
     },
     {
@@ -660,13 +660,13 @@
       "gloss": "to fight"
     },
     {
-      "form": "bie",
-      "orthographic": "бие",
+      "form": "tepa",
+      "orthographic": "тепа",
       "gloss": "to fight"
     },
     {
-      "form": "bie",
-      "orthographic": "бие",
+      "form": "bori",
+      "orthographic": "бори",
       "gloss": "to fight"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "udira",
-      "orthographic": "удира",
+      "form": "čuka",
+      "orthographic": "чука",
       "gloss": "to hit"
     },
     {
@@ -690,13 +690,13 @@
       "gloss": "to cut"
     },
     {
-      "form": "seče",
-      "orthographic": "сече",
+      "form": "reže",
+      "orthographic": "реже",
       "gloss": "to cut"
     },
     {
-      "form": "seče",
-      "orthographic": "сече",
+      "form": "skratuva",
+      "orthographic": "скратува",
       "gloss": "to cut"
     },
     {
@@ -705,8 +705,8 @@
       "gloss": "to split"
     },
     {
-      "form": "podeluva",
-      "orthographic": "поделува",
+      "form": "rascepuva",
+      "orthographic": "расцепува",
       "gloss": "to split"
     },
     {
@@ -720,8 +720,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "grebe",
-      "orthographic": "гребе",
+      "form": "češa",
+      "orthographic": "чеша",
       "gloss": "to scratch"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to walk"
     },
     {
-      "form": "šeta",
-      "orthographic": "шета",
+      "form": "odi",
+      "orthographic": "оди",
       "gloss": "to walk"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "vrti",
-      "orthographic": "врти",
+      "form": "zavrtuva",
+      "orthographic": "завртува",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "to push"
     },
     {
-      "form": "turka",
-      "orthographic": "турка",
+      "form": "butka",
+      "orthographic": "бутка",
       "gloss": "to push"
     },
     {
@@ -855,8 +855,8 @@
       "gloss": "to say"
     },
     {
-      "form": "veli",
-      "orthographic": "вели",
+      "form": "kažuva",
+      "orthographic": "кажува",
       "gloss": "to say"
     },
     {
@@ -885,8 +885,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "zaleduva",
-      "orthographic": "заледува",
+      "form": "zamrznuva",
+      "orthographic": "замрзнува",
       "gloss": "to freeze"
     },
     {
@@ -895,8 +895,8 @@
       "gloss": "to swell"
     },
     {
-      "form": "otekuva",
-      "orthographic": "отекува",
+      "form": "nababruva",
+      "orthographic": "набабрува",
       "gloss": "to swell"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "ice"
     },
     {
-      "form": "mraz",
-      "orthographic": "мраз",
+      "form": "led",
+      "orthographic": "лед",
       "gloss": "ice"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "smoke"
     },
     {
-      "form": "dim",
-      "orthographic": "дим",
+      "form": "čad",
+      "orthographic": "чад",
       "gloss": "smoke"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "cold"
     },
     {
-      "form": "studen",
-      "orthographic": "студен",
+      "form": "laden",
+      "orthographic": "ладен",
       "gloss": "cold"
     },
     {
@@ -1125,8 +1125,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "valkan",
-      "orthographic": "валкан",
+      "form": "nečist",
+      "orthographic": "нечист",
       "gloss": "dirty"
     },
     {
@@ -1140,13 +1140,13 @@
       "gloss": "round"
     },
     {
-      "form": "trkalest",
-      "orthographic": "тркалест",
+      "form": "trkalezen",
+      "orthographic": "тркалезен",
       "gloss": "round"
     },
     {
-      "form": "trkalest",
-      "orthographic": "тркалест",
+      "form": "kružen",
+      "orthographic": "кружен",
       "gloss": "round"
     },
     {
@@ -1170,13 +1170,13 @@
       "gloss": "wet"
     },
     {
-      "form": "mokar",
-      "orthographic": "мокар",
+      "form": "vlažen",
+      "orthographic": "влажен",
       "gloss": "wet"
     },
     {
-      "form": "mokar",
-      "orthographic": "мокар",
+      "form": "voden",
+      "orthographic": "воден",
       "gloss": "wet"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "correct"
     },
     {
-      "form": "točen",
-      "orthographic": "точен",
+      "form": "pravilen",
+      "orthographic": "правилен",
       "gloss": "correct"
     },
     {
@@ -1220,13 +1220,13 @@
       "gloss": "at"
     },
     {
-      "form": "do",
-      "orthographic": "до",
+      "form": "na",
+      "orthographic": "на",
       "gloss": "at"
     },
     {
-      "form": "do",
-      "orthographic": "до",
+      "form": "kaj",
+      "orthographic": "кај",
       "gloss": "at"
     },
     {
@@ -1255,8 +1255,8 @@
       "gloss": "because"
     },
     {
-      "form": "bidejḱi",
-      "orthographic": "бидејќи",
+      "form": "zatoa što",
+      "orthographic": "затоа што",
       "gloss": "because"
     },
     {

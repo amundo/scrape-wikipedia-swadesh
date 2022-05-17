@@ -85,8 +85,8 @@
       "gloss": "how"
     },
     {
-      "form": "hogy",
-      "orthographic": "hogy",
+      "form": "hogyan",
+      "orthographic": "hogyan",
       "gloss": "how"
     },
     {
@@ -95,8 +95,8 @@
       "gloss": "not"
     },
     {
-      "form": "nem",
-      "orthographic": "nem",
+      "form": "ne",
+      "orthographic": "ne",
       "gloss": "not"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "all"
     },
     {
-      "form": "mind",
-      "orthographic": "mind",
+      "form": "minden",
+      "orthographic": "minden",
       "gloss": "all"
     },
     {
@@ -220,8 +220,8 @@
       "gloss": "child"
     },
     {
-      "form": "gyerek",
-      "orthographic": "gyerek",
+      "form": "gyermek",
+      "orthographic": "gyermek",
       "gloss": "child"
     },
     {
@@ -505,8 +505,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "szop",
-      "orthographic": "szop",
+      "form": "szopik",
+      "orthographic": "szopik",
       "gloss": "to suck"
     },
     {
@@ -895,8 +895,8 @@
       "gloss": "red"
     },
     {
-      "form": "piros",
-      "orthographic": "piros",
+      "form": "vörös",
+      "orthographic": "vörös",
       "gloss": "red"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "old"
     },
     {
-      "form": "öreg",
-      "orthographic": "öreg",
+      "form": "régi",
+      "orthographic": "régi",
       "gloss": "old"
     },
     {
@@ -1050,8 +1050,8 @@
       "gloss": "at"
     },
     {
-      "form": "-nál",
-      "orthographic": "-nál",
+      "form": "-nél",
+      "orthographic": "-nél",
       "gloss": "at"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "in"
     },
     {
-      "form": "-ban",
-      "orthographic": "-ban",
+      "form": "-ben",
+      "orthographic": "-ben",
       "gloss": "in"
     },
     {
@@ -1070,8 +1070,8 @@
       "gloss": "with"
     },
     {
-      "form": "-val",
-      "orthographic": "-val",
+      "form": "-vel",
+      "orthographic": "-vel",
       "gloss": "with"
     },
     {

@@ -30,8 +30,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "yumi",
-      "orthographic": "yumi",
+      "form": "mipela",
+      "orthographic": "mipela",
       "gloss": "we (1pl)"
     },
     {
@@ -70,8 +70,8 @@
       "gloss": "who"
     },
     {
-      "form": "husat",
-      "orthographic": "husat",
+      "form": "em",
+      "orthographic": "em",
       "gloss": "who"
     },
     {
@@ -85,18 +85,18 @@
       "gloss": "where"
     },
     {
-      "form": "we",
-      "orthographic": "we",
+      "form": "westap",
+      "orthographic": "westap",
       "gloss": "where"
     },
     {
-      "form": "we",
-      "orthographic": "we",
+      "form": "wanem",
+      "orthographic": "wanem",
       "gloss": "where"
     },
     {
-      "form": "we",
-      "orthographic": "we",
+      "form": "ples",
+      "orthographic": "ples",
       "gloss": "where"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "when"
     },
     {
-      "form": "wanem",
-      "orthographic": "wanem",
+      "form": "taim",
+      "orthographic": "taim",
       "gloss": "when"
     },
     {
@@ -115,8 +115,8 @@
       "gloss": "how"
     },
     {
-      "form": "olsem",
-      "orthographic": "olsem",
+      "form": "wanem",
+      "orthographic": "wanem",
       "gloss": "how"
     },
     {
@@ -150,8 +150,8 @@
       "gloss": "other"
     },
     {
-      "form": "narapela",
-      "orthographic": "narapela",
+      "form": "arapela",
+      "orthographic": "arapela",
       "gloss": "other"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "one"
     },
     {
-      "form": "wan",
-      "orthographic": "wan",
+      "form": "wanpela",
+      "orthographic": "wanpela",
       "gloss": "one"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "two"
     },
     {
-      "form": "tu",
-      "orthographic": "tu",
+      "form": "tupela",
+      "orthographic": "tupela",
       "gloss": "two"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "three"
     },
     {
-      "form": "tri",
-      "orthographic": "tri",
+      "form": "tripela",
+      "orthographic": "tripela",
       "gloss": "three"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "four"
     },
     {
-      "form": "fo",
-      "orthographic": "fo",
+      "form": "fopela",
+      "orthographic": "fopela",
       "gloss": "four"
     },
     {
@@ -200,8 +200,8 @@
       "gloss": "five"
     },
     {
-      "form": "faiv",
-      "orthographic": "faiv",
+      "form": "faipela",
+      "orthographic": "faipela",
       "gloss": "five"
     },
     {
@@ -245,8 +245,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "no",
-      "orthographic": "no",
+      "form": "brait",
+      "orthographic": "brait",
       "gloss": "narrow"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "man",
-      "orthographic": "man",
+      "form": "manmeri",
+      "orthographic": "manmeri",
       "gloss": "man (human being)"
     },
     {
@@ -290,8 +290,8 @@
       "gloss": "husband"
     },
     {
-      "form": "man",
-      "orthographic": "man",
+      "form": "maritman",
+      "orthographic": "maritman",
       "gloss": "husband"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "animal"
     },
     {
-      "form": "animal",
-      "orthographic": "animal",
+      "form": "abus",
+      "orthographic": "abus",
       "gloss": "animal"
     },
     {
@@ -345,8 +345,8 @@
       "gloss": "worm"
     },
     {
-      "form": "liklik",
-      "orthographic": "liklik",
+      "form": "snek",
+      "orthographic": "snek",
       "gloss": "worm"
     },
     {
@@ -355,8 +355,8 @@
       "gloss": "tree"
     },
     {
-      "form": "diwai",
-      "orthographic": "diwai",
+      "form": "dawai",
+      "orthographic": "dawai",
       "gloss": "tree"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "pikinini",
-      "orthographic": "pikinini",
+      "form": "prut",
+      "orthographic": "prut",
       "gloss": "fruit"
     },
     {
@@ -410,8 +410,8 @@
       "gloss": "rope"
     },
     {
-      "form": "rop",
-      "orthographic": "rop",
+      "form": "lain",
+      "orthographic": "lain",
       "gloss": "rope"
     },
     {
@@ -475,8 +475,8 @@
       "gloss": "ear"
     },
     {
-      "form": "ia",
-      "orthographic": "ia",
+      "form": "yau",
+      "orthographic": "yau",
       "gloss": "ear"
     },
     {
@@ -545,23 +545,23 @@
       "gloss": "guts"
     },
     {
-      "form": "ol",
-      "orthographic": "ol",
+      "form": "samting",
+      "orthographic": "samting",
       "gloss": "guts"
     },
     {
-      "form": "ol",
-      "orthographic": "ol",
+      "form": "insait",
+      "orthographic": "insait",
       "gloss": "guts"
     },
     {
-      "form": "ol",
-      "orthographic": "ol",
+      "form": "long",
+      "orthographic": "long",
       "gloss": "guts"
     },
     {
-      "form": "ol",
-      "orthographic": "ol",
+      "form": "bodi",
+      "orthographic": "bodi",
       "gloss": "guts"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "pait",
-      "orthographic": "pait",
+      "form": "paitim",
+      "orthographic": "paitim",
       "gloss": "to fight"
     },
     {
@@ -715,13 +715,13 @@
       "gloss": "to split"
     },
     {
-      "form": "katim",
-      "orthographic": "katim",
+      "form": "long",
+      "orthographic": "long",
       "gloss": "to split"
     },
     {
-      "form": "katim",
-      "orthographic": "katim",
+      "form": "hap",
+      "orthographic": "hap",
       "gloss": "to split"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to give"
     },
     {
-      "form": "givim",
-      "orthographic": "givim",
+      "form": "gipim",
+      "orthographic": "gipim",
       "gloss": "to give"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to wash"
     },
     {
-      "form": "waswas",
-      "orthographic": "waswas",
+      "form": "wasim",
+      "orthographic": "wasim",
       "gloss": "to wash"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "old"
     },
     {
-      "form": "olpela",
-      "orthographic": "olpela",
+      "form": "lapun",
+      "orthographic": "lapun",
       "gloss": "old"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "nogut",
-      "orthographic": "nogut",
+      "form": "i",
+      "orthographic": "i",
       "gloss": "dirty"
     },
     {
@@ -1140,8 +1140,8 @@
       "gloss": "left"
     },
     {
-      "form": "lephan",
-      "orthographic": "lephan",
+      "form": "kais",
+      "orthographic": "kais",
       "gloss": "left"
     },
     {
@@ -1175,8 +1175,8 @@
       "gloss": "because"
     },
     {
-      "form": "long wanem",
-      "orthographic": "long wanem",
+      "form": "bikos",
+      "orthographic": "bikos",
       "gloss": "because"
     },
     {

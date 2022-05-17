@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "int",
-      "orthographic": "int",
+      "form": "inti",
+      "orthographic": "inti",
       "gloss": "you (2sg)"
     },
     {
@@ -50,13 +50,13 @@
       "gloss": "this"
     },
     {
-      "form": "aða",
-      "orthographic": "aða",
+      "form": "aði",
+      "orthographic": "aði",
       "gloss": "this"
     },
     {
-      "form": "aða",
-      "orthographic": "aða",
+      "form": "alli",
+      "orthographic": "alli",
       "gloss": "this"
     },
     {
@@ -65,13 +65,13 @@
       "gloss": "that"
     },
     {
-      "form": "áðak",
-      "orthographic": "áðak",
+      "form": "áðik",
+      "orthographic": "áðik",
       "gloss": "that"
     },
     {
-      "form": "áðak",
-      "orthographic": "áðak",
+      "form": "állik",
+      "orthographic": "állik",
       "gloss": "that"
     },
     {
@@ -110,8 +110,8 @@
       "gloss": "how"
     },
     {
-      "form": "kif",
-      "orthographic": "kif",
+      "form": "áššikl",
+      "orthographic": "áššikl",
       "gloss": "how"
     },
     {
@@ -120,13 +120,13 @@
       "gloss": "not"
     },
     {
-      "form": "la-",
-      "orthographic": "la-",
+      "form": "má-",
+      "orthographic": "má-",
       "gloss": "not"
     },
     {
-      "form": "la-",
-      "orthographic": "la-",
+      "form": "máy",
+      "orthographic": "máy",
       "gloss": "not"
     },
     {
@@ -150,8 +150,8 @@
       "gloss": "few"
     },
     {
-      "form": "fitte",
-      "orthographic": "fitte",
+      "form": "šfé",
+      "orthographic": "šfé",
       "gloss": "few"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "two"
     },
     {
-      "form": "θnayn",
-      "orthographic": "θnayn",
+      "form": "xnayn",
+      "orthographic": "xnayn",
       "gloss": "two"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "thin"
     },
     {
-      "form": "mǎʿaer",
-      "orthographic": "mǎʿaer",
+      "form": "θkik",
+      "orthographic": "θkik",
       "gloss": "thin"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "woman"
     },
     {
-      "form": "mara",
-      "orthographic": "mara",
+      "form": "nesfán",
+      "orthographic": "nesfán",
       "gloss": "woman"
     },
     {
@@ -250,8 +250,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "intsán",
-      "orthographic": "intsán",
+      "form": "ržel",
+      "orthographic": "ržel",
       "gloss": "man (adult male)"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "husband"
     },
     {
-      "form": "žawz",
-      "orthographic": "žawz",
+      "form": "intsán",
+      "orthographic": "intsán",
       "gloss": "husband"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "hair"
     },
     {
-      "form": "šaxve",
-      "orthographic": "šaxve",
+      "form": "šaʿar",
+      "orthographic": "šaʿar",
       "gloss": "hair"
     },
     {
@@ -470,8 +470,8 @@
       "gloss": "breast"
     },
     {
-      "form": "suðr",
-      "orthographic": "suðr",
+      "form": "pizz",
+      "orthographic": "pizz",
       "gloss": "breast"
     },
     {
@@ -505,8 +505,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "mass",
-      "orthographic": "mass",
+      "form": "ðirʿe",
+      "orthographic": "ðirʿe",
       "gloss": "to suck"
     },
     {
@@ -520,8 +520,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "ražžʿe",
-      "orthographic": "ražžʿe",
+      "form": "staffʿe",
+      "orthographic": "staffʿe",
       "gloss": "to vomit"
     },
     {
@@ -555,8 +555,8 @@
       "gloss": "to think"
     },
     {
-      "form": "ftaen-",
-      "orthographic": "ftaen-",
+      "form": "paen-",
+      "orthographic": "paen-",
       "gloss": "to think"
     },
     {
@@ -595,8 +595,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "starrʿe",
-      "orthographic": "starrʿe",
+      "form": "ðarep",
+      "orthographic": "ðarep",
       "gloss": "to fight"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "palas",
-      "orthographic": "palas",
+      "form": "ʿiser",
+      "orthographic": "ʿiser",
       "gloss": "to squeeze"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "xaff",
-      "orthographic": "xaff",
+      "form": "maʿak",
+      "orthographic": "maʿak",
       "gloss": "to rub"
     },
     {
@@ -845,8 +845,8 @@
       "gloss": "road"
     },
     {
-      "form": "tarp",
-      "orthographic": "tarp",
+      "form": "trik",
+      "orthographic": "trik",
       "gloss": "road"
     },
     {
@@ -925,8 +925,8 @@
       "gloss": "good"
     },
     {
-      "form": "kaes",
-      "orthographic": "kaes",
+      "form": "taep",
+      "orthographic": "taep",
       "gloss": "good"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "if"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "kan",
+      "orthographic": "kan",
       "gloss": "if"
     },
     {

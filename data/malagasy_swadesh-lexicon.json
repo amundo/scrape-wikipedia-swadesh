@@ -30,8 +30,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "isika",
-      "orthographic": "isika",
+      "form": "izahay",
+      "orthographic": "izahay",
       "gloss": "we (1pl)"
     },
     {
@@ -45,13 +45,13 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "izy",
-      "orthographic": "izy",
+      "form": "izy ireo",
+      "orthographic": "izy ireo",
       "gloss": "they (3pl)"
     },
     {
-      "form": "izy",
-      "orthographic": "izy",
+      "form": "ry ireo",
+      "orthographic": "ry ireo",
       "gloss": "they (3pl)"
     },
     {
@@ -95,8 +95,8 @@
       "gloss": "when"
     },
     {
-      "form": "oviana",
-      "orthographic": "oviana",
+      "form": "rahoviana",
+      "orthographic": "rahoviana",
       "gloss": "when"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "how"
     },
     {
-      "form": "ahoana",
-      "orthographic": "ahoana",
+      "form": "manahoana",
+      "orthographic": "manahoana",
       "gloss": "how"
     },
     {
@@ -210,8 +210,8 @@
       "gloss": "thin"
     },
     {
-      "form": "manify",
-      "orthographic": "manify",
+      "form": "mahia",
+      "orthographic": "mahia",
       "gloss": "thin"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "fish"
     },
     {
-      "form": "trondro",
-      "orthographic": "trondro",
+      "form": "hazandrano",
+      "orthographic": "hazandrano",
       "gloss": "fish"
     },
     {
@@ -280,8 +280,8 @@
       "gloss": "dog"
     },
     {
-      "form": "alika",
-      "orthographic": "alika",
+      "form": "amboa",
+      "orthographic": "amboa",
       "gloss": "dog"
     },
     {
@@ -315,8 +315,8 @@
       "gloss": "stick"
     },
     {
-      "form": "kibay",
-      "orthographic": "kibay",
+      "form": "tehina",
+      "orthographic": "tehina",
       "gloss": "stick"
     },
     {
@@ -340,8 +340,8 @@
       "gloss": "root"
     },
     {
-      "form": "faka",
-      "orthographic": "faka",
+      "form": "fototra",
+      "orthographic": "fototra",
       "gloss": "root"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "grass"
     },
     {
-      "form": "ahitra",
-      "orthographic": "ahitra",
+      "form": "bozaka",
+      "orthographic": "bozaka",
       "gloss": "grass"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "feather"
     },
     {
-      "form": "penina",
-      "orthographic": "penina",
+      "form": "volom-borona",
+      "orthographic": "volom-borona",
       "gloss": "feather"
     },
     {
@@ -505,8 +505,8 @@
       "gloss": "neck"
     },
     {
-      "form": "vozona",
-      "orthographic": "vozona",
+      "form": "tenda",
+      "orthographic": "tenda",
       "gloss": "neck"
     },
     {
@@ -570,8 +570,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "miaina",
-      "orthographic": "miaina",
+      "form": "misefo",
+      "orthographic": "misefo",
       "gloss": "to breathe"
     },
     {
@@ -580,8 +580,8 @@
       "gloss": "to laugh"
     },
     {
-      "form": "hehy",
-      "orthographic": "hehy",
+      "form": "tokelaka",
+      "orthographic": "tokelaka",
       "gloss": "to laugh"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "matahotra",
-      "orthographic": "matahotra",
+      "form": "manahy",
+      "orthographic": "manahy",
       "gloss": "to fear"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "to die"
     },
     {
-      "form": "nodimandry",
-      "orthographic": "nodimandry",
+      "form": "maty",
+      "orthographic": "maty",
       "gloss": "to die"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "mamono",
-      "orthographic": "mamono",
+      "form": "mahafaty",
+      "orthographic": "mahafaty",
       "gloss": "to kill"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "mikiky",
-      "orthographic": "mikiky",
+      "form": "mikaoka",
+      "orthographic": "mikaoka",
       "gloss": "to scratch"
     },
     {
@@ -695,8 +695,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "mihady",
-      "orthographic": "mihady",
+      "form": "mandavaka",
+      "orthographic": "mandavaka",
       "gloss": "to dig"
     },
     {
@@ -720,13 +720,13 @@
       "gloss": "to come"
     },
     {
-      "form": "avy",
-      "orthographic": "avy",
+      "form": "tonga",
+      "orthographic": "tonga",
       "gloss": "to come"
     },
     {
-      "form": "avy",
-      "orthographic": "avy",
+      "form": "tamy",
+      "orthographic": "tamy",
       "gloss": "to come"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "mifoha",
-      "orthographic": "mifoha",
+      "form": "mitsangana",
+      "orthographic": "mitsangana",
       "gloss": "to stand"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "mamehy",
-      "orthographic": "mamehy",
+      "form": "manatotra",
+      "orthographic": "manatotra",
       "gloss": "to tie"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to say"
     },
     {
-      "form": "milaza",
-      "orthographic": "milaza",
+      "form": "miteny",
+      "orthographic": "miteny",
       "gloss": "to say"
     },
     {
@@ -840,8 +840,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "mihira",
-      "orthographic": "mihira",
+      "form": "mikalo",
+      "orthographic": "mikalo",
       "gloss": "to sing"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "lake"
     },
     {
-      "form": "kamory",
-      "orthographic": "kamory",
+      "form": "farihy",
+      "orthographic": "farihy",
       "gloss": "lake"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "sea"
     },
     {
-      "form": "ranomasina",
-      "orthographic": "ranomasina",
+      "form": "riaka",
+      "orthographic": "riaka",
       "gloss": "sea"
     },
     {
@@ -970,8 +970,8 @@
       "gloss": "snow"
     },
     {
-      "form": "ranomandry",
-      "orthographic": "ranomandry",
+      "form": "lanezy",
+      "orthographic": "lanezy",
       "gloss": "snow"
     },
     {
@@ -1075,8 +1075,8 @@
       "gloss": "old"
     },
     {
-      "form": "antitra",
-      "orthographic": "antitra",
+      "form": "tonta",
+      "orthographic": "tonta",
       "gloss": "old"
     },
     {
@@ -1180,8 +1180,8 @@
       "gloss": "and"
     },
     {
-      "form": "sy",
-      "orthographic": "sy",
+      "form": "ary",
+      "orthographic": "ary",
       "gloss": "and"
     },
     {

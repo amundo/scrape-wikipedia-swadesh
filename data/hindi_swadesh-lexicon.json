@@ -20,13 +20,13 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tū",
-      "orthographic": "तू",
+      "form": "tum",
+      "orthographic": "तुम",
       "gloss": "you (2sg)"
     },
     {
-      "form": "tū",
-      "orthographic": "तू",
+      "form": "āp",
+      "orthographic": "आप",
       "gloss": "you (2sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "yah",
-      "orthographic": "यह",
+      "form": "vah",
+      "orthographic": "वह",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "tum",
-      "orthographic": "तुम",
+      "form": "āp",
+      "orthographic": "आप",
       "gloss": "you (2pl)"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "ye",
-      "orthographic": "ये",
+      "form": "ve",
+      "orthographic": "वे",
       "gloss": "they (3pl)"
     },
     {
@@ -120,13 +120,13 @@
       "gloss": "all"
     },
     {
-      "form": "sab",
-      "orthographic": "सब",
+      "form": "sabhī",
+      "orthographic": "सभी",
       "gloss": "all"
     },
     {
-      "form": "sab",
-      "orthographic": "सब",
+      "form": "sāre",
+      "orthographic": "सारे",
       "gloss": "all"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "woman"
     },
     {
-      "form": "aurat",
-      "orthographic": "औरत",
+      "form": "mahilā",
+      "orthographic": "महिला",
       "gloss": "woman"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "insān",
-      "orthographic": "इंसान",
+      "form": "manuṣya",
+      "orthographic": "मनुष्य",
       "gloss": "man (human being)"
     },
     {
@@ -320,8 +320,8 @@
       "gloss": "stick"
     },
     {
-      "form": "ḍaṇḍā",
-      "orthographic": "डंडा",
+      "form": "lāṭhī",
+      "orthographic": "लाठी",
       "gloss": "stick"
     },
     {
@@ -370,8 +370,8 @@
       "gloss": "skin"
     },
     {
-      "form": "camṛī",
-      "orthographic": "चमड़ी",
+      "form": "tvacā",
+      "orthographic": "त्वचा",
       "gloss": "skin"
     },
     {
@@ -520,8 +520,8 @@
       "gloss": "liver"
     },
     {
-      "form": "jigar",
-      "orthographic": "जिगर",
+      "form": "kalejā",
+      "orthographic": "कलेजा",
       "gloss": "liver"
     },
     {
@@ -555,8 +555,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "ulṭī karnā",
-      "orthographic": "उल्टी करना",
+      "form": "ulṭī mārnā",
+      "orthographic": "उल्टी मारना",
       "gloss": "to vomit"
     },
     {
@@ -580,8 +580,8 @@
       "gloss": "to see"
     },
     {
-      "form": "dikhnā",
-      "orthographic": "दिखना",
+      "form": "dekhnā",
+      "orthographic": "देखना",
       "gloss": "to see"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "dabānā",
-      "orthographic": "दबाना",
+      "form": "nicoṛnā",
+      "orthographic": "निचोड़ना",
       "gloss": "to squeeze"
     },
     {
@@ -760,8 +760,8 @@
       "gloss": "to push"
     },
     {
-      "form": "dhakkā denā",
-      "orthographic": "धक्का देना",
+      "form": "dhakkā mārnā",
+      "orthographic": "धक्का मारना",
       "gloss": "to push"
     },
     {
@@ -790,8 +790,8 @@
       "gloss": "to say"
     },
     {
-      "form": "kahnā",
-      "orthographic": "कहना",
+      "form": "bolnā",
+      "orthographic": "बोलना",
       "gloss": "to say"
     },
     {
@@ -940,8 +940,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "jalnā",
-      "orthographic": "जलना",
+      "form": "jalānā",
+      "orthographic": "जलाना",
       "gloss": "to burn"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "right"
     },
     {
-      "form": "dāyā̃",
-      "orthographic": "दायाँ",
+      "form": "dāhinā",
+      "orthographic": "दाहिना",
       "gloss": "right"
     },
     {
@@ -1110,13 +1110,13 @@
       "gloss": "at"
     },
     {
-      "form": "pe",
-      "orthographic": "पे",
+      "form": "par",
+      "orthographic": "पर",
       "gloss": "at"
     },
     {
-      "form": "pe",
-      "orthographic": "पे",
+      "form": "mẽ",
+      "orthographic": "में",
       "gloss": "at"
     },
     {
@@ -1125,8 +1125,8 @@
       "gloss": "in"
     },
     {
-      "form": "mẽ",
-      "orthographic": "में",
+      "form": "ke andar",
+      "orthographic": "के अंदर",
       "gloss": "in"
     },
     {

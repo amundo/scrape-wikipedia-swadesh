@@ -40,8 +40,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "i",
-      "orthographic": "i",
+      "form": "int",
+      "orthographic": "int",
       "gloss": "they (3pl)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "this"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "mañ",
+      "orthographic": "mañ",
       "gloss": "this"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "that"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "se",
+      "orthographic": "se",
       "gloss": "that"
     },
     {
@@ -75,8 +75,8 @@
       "gloss": "there"
     },
     {
-      "form": "aze",
-      "orthographic": "aze",
+      "form": "eno",
+      "orthographic": "eno",
       "gloss": "there"
     },
     {
@@ -100,18 +100,18 @@
       "gloss": "when"
     },
     {
-      "form": "pedavare",
-      "orthographic": "pedavare",
+      "form": "pegoulz",
+      "orthographic": "pegoulz",
       "gloss": "when"
     },
     {
-      "form": "pedavare",
-      "orthographic": "pedavare",
+      "form": "peur",
+      "orthographic": "peur",
       "gloss": "when"
     },
     {
-      "form": "pedavare",
-      "orthographic": "pedavare",
+      "form": "pevare",
+      "orthographic": "pevare",
       "gloss": "when"
     },
     {
@@ -120,13 +120,13 @@
       "gloss": "how"
     },
     {
-      "form": "pegiz",
-      "orthographic": "pegiz",
+      "form": "penaos",
+      "orthographic": "penaos",
       "gloss": "how"
     },
     {
-      "form": "pegiz",
-      "orthographic": "pegiz",
+      "form": "pevod",
+      "orthographic": "pevod",
       "gloss": "how"
     },
     {
@@ -135,8 +135,8 @@
       "gloss": "not"
     },
     {
-      "form": "ne",
-      "orthographic": "ne",
+      "form": "ket",
+      "orthographic": "ket",
       "gloss": "not"
     },
     {
@@ -145,8 +145,8 @@
       "gloss": "all"
     },
     {
-      "form": "holl",
-      "orthographic": "holl",
+      "form": "tout",
+      "orthographic": "tout",
       "gloss": "all"
     },
     {
@@ -155,8 +155,8 @@
       "gloss": "many"
     },
     {
-      "form": "kalz",
-      "orthographic": "kalz",
+      "form": "lies a",
+      "orthographic": "lies a",
       "gloss": "many"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "some"
     },
     {
-      "form": "bennak",
-      "orthographic": "bennak",
+      "form": "meur a",
+      "orthographic": "meur a",
       "gloss": "some"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "other"
     },
     {
-      "form": "all",
-      "orthographic": "all",
+      "form": "arall",
+      "orthographic": "arall",
       "gloss": "other"
     },
     {
@@ -215,8 +215,8 @@
       "gloss": "big"
     },
     {
-      "form": "bras",
-      "orthographic": "bras",
+      "form": "meur",
+      "orthographic": "meur",
       "gloss": "big"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "thick"
     },
     {
-      "form": "tev",
-      "orthographic": "tev",
+      "form": "fetis",
+      "orthographic": "fetis",
       "gloss": "thick"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "enk",
-      "orthographic": "enk",
+      "form": "strizh",
+      "orthographic": "strizh",
       "gloss": "narrow"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "thin"
     },
     {
-      "form": "moan",
-      "orthographic": "moan",
+      "form": "tanav",
+      "orthographic": "tanav",
       "gloss": "thin"
     },
     {
@@ -280,8 +280,8 @@
       "gloss": "woman"
     },
     {
-      "form": "gwreg",
-      "orthographic": "gwreg",
+      "form": "maouez",
+      "orthographic": "maouez",
       "gloss": "woman"
     },
     {
@@ -290,13 +290,13 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "gour",
-      "orthographic": "gour",
+      "form": "gwaz",
+      "orthographic": "gwaz",
       "gloss": "man (adult male)"
     },
     {
-      "form": "gour",
-      "orthographic": "gour",
+      "form": "den",
+      "orthographic": "den",
       "gloss": "man (adult male)"
     },
     {
@@ -335,13 +335,13 @@
       "gloss": "animal"
     },
     {
-      "form": "aneval",
-      "orthographic": "aneval",
+      "form": "loen",
+      "orthographic": "loen",
       "gloss": "animal"
     },
     {
-      "form": "aneval",
-      "orthographic": "aneval",
+      "form": "mil",
+      "orthographic": "mil",
       "gloss": "animal"
     },
     {
@@ -355,8 +355,8 @@
       "gloss": "bird"
     },
     {
-      "form": "evn",
-      "orthographic": "evn",
+      "form": "labous",
+      "orthographic": "labous",
       "gloss": "bird"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "snake"
     },
     {
-      "form": "naer",
-      "orthographic": "naer",
+      "form": "sarpant",
+      "orthographic": "sarpant",
       "gloss": "snake"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "worm"
     },
     {
-      "form": "buzhug",
-      "orthographic": "buzhug",
+      "form": "preñv",
+      "orthographic": "preñv",
       "gloss": "worm"
     },
     {
@@ -400,8 +400,8 @@
       "gloss": "forest"
     },
     {
-      "form": "koad",
-      "orthographic": "koad",
+      "form": "koed",
+      "orthographic": "koed",
       "gloss": "forest"
     },
     {
@@ -445,8 +445,8 @@
       "gloss": "grass"
     },
     {
-      "form": "geot",
-      "orthographic": "geot",
+      "form": "gwelt",
+      "orthographic": "gwelt",
       "gloss": "grass"
     },
     {
@@ -480,8 +480,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "druz",
-      "orthographic": "druz",
+      "form": "lart",
+      "orthographic": "lart",
       "gloss": "fat (noun)"
     },
     {
@@ -535,8 +535,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "beg",
-      "orthographic": "beg",
+      "form": "genoù",
+      "orthographic": "genoù",
       "gloss": "mouth"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "foot"
     },
     {
-      "form": "troad",
-      "orthographic": "troad",
+      "form": "troed",
+      "orthographic": "troed",
       "gloss": "foot"
     },
     {
@@ -590,8 +590,8 @@
       "gloss": "belly"
     },
     {
-      "form": "kof",
-      "orthographic": "kof",
+      "form": "tor",
+      "orthographic": "tor",
       "gloss": "belly"
     },
     {
@@ -630,8 +630,8 @@
       "gloss": "to drink"
     },
     {
-      "form": "evañ",
-      "orthographic": "evañ",
+      "form": "evet",
+      "orthographic": "evet",
       "gloss": "to drink"
     },
     {
@@ -640,8 +640,8 @@
       "gloss": "to eat"
     },
     {
-      "form": "debriñ",
-      "orthographic": "debriñ",
+      "form": "boueta",
+      "orthographic": "boueta",
       "gloss": "to eat"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "dantañ",
-      "orthographic": "dantañ",
+      "form": "krogiñ",
+      "orthographic": "krogiñ",
       "gloss": "to bite"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "sunañ",
-      "orthographic": "sunañ",
+      "form": "denañ",
+      "orthographic": "denañ",
       "gloss": "to suck"
     },
     {
@@ -675,13 +675,13 @@
       "gloss": "to vomit"
     },
     {
-      "form": "c'hwedañ",
-      "orthographic": "c'hwedañ",
+      "form": "dislonkañ",
+      "orthographic": "dislonkañ",
       "gloss": "to vomit"
     },
     {
-      "form": "c'hwedañ",
-      "orthographic": "c'hwedañ",
+      "form": "reucheutiñ",
+      "orthographic": "reucheutiñ",
       "gloss": "to vomit"
     },
     {
@@ -695,8 +695,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "alanat",
-      "orthographic": "alanat",
+      "form": "analañ",
+      "orthographic": "analañ",
       "gloss": "to breathe"
     },
     {
@@ -725,8 +725,8 @@
       "gloss": "to think"
     },
     {
-      "form": "prederiañ",
-      "orthographic": "prederiañ",
+      "form": "soñjal",
+      "orthographic": "soñjal",
       "gloss": "to think"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "aoniñ",
-      "orthographic": "aoniñ",
+      "form": "kaout aon",
+      "orthographic": "kaout aon",
       "gloss": "to fear"
     },
     {
@@ -770,8 +770,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "gouren",
-      "orthographic": "gouren",
+      "form": "stourm",
+      "orthographic": "stourm",
       "gloss": "to fight"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to hunt"
     },
     {
-      "form": "hemolc'hiñ",
-      "orthographic": "hemolc'hiñ",
+      "form": "chaseal",
+      "orthographic": "chaseal",
       "gloss": "to hunt"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "kravat",
-      "orthographic": "kravat",
+      "form": "skrabat",
+      "orthographic": "skrabat",
       "gloss": "to scratch"
     },
     {
@@ -835,8 +835,8 @@
       "gloss": "to walk"
     },
     {
-      "form": "kerzhet",
-      "orthographic": "kerzhet",
+      "form": "bale",
+      "orthographic": "bale",
       "gloss": "to walk"
     },
     {
@@ -880,8 +880,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "dalc'hen",
-      "orthographic": "dalc'hen",
+      "form": "derc'hel",
+      "orthographic": "derc'hel",
       "gloss": "to hold"
     },
     {
@@ -890,8 +890,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "gwaskañ",
-      "orthographic": "gwaskañ",
+      "form": "stardañ",
+      "orthographic": "stardañ",
       "gloss": "to squeeze"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "taravat",
-      "orthographic": "taravat",
+      "form": "frotañ",
+      "orthographic": "frotañ",
       "gloss": "to rub"
     },
     {
@@ -910,8 +910,8 @@
       "gloss": "to wash"
     },
     {
-      "form": "golc'hiñ",
-      "orthographic": "golc'hiñ",
+      "form": "gwalc'hiñ",
+      "orthographic": "gwalc'hiñ",
       "gloss": "to wash"
     },
     {
@@ -920,8 +920,8 @@
       "gloss": "to wipe"
     },
     {
-      "form": "sec'hañ",
-      "orthographic": "sec'hañ",
+      "form": "torchañ",
+      "orthographic": "torchañ",
       "gloss": "to wipe"
     },
     {
@@ -930,8 +930,8 @@
       "gloss": "to pull"
     },
     {
-      "form": "sachañ",
-      "orthographic": "sachañ",
+      "form": "tennañ",
+      "orthographic": "tennañ",
       "gloss": "to pull"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "teurel",
-      "orthographic": "teurel",
+      "form": "chetañ",
+      "orthographic": "chetañ",
       "gloss": "to throw"
     },
     {
@@ -955,8 +955,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "koulmañ",
-      "orthographic": "koulmañ",
+      "form": "eren",
+      "orthographic": "eren",
       "gloss": "to tie"
     },
     {
@@ -970,8 +970,8 @@
       "gloss": "to count"
     },
     {
-      "form": "niveriñ",
-      "orthographic": "niveriñ",
+      "form": "kontañ",
+      "orthographic": "kontañ",
       "gloss": "to count"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "kanañ",
-      "orthographic": "kanañ",
+      "form": "kana",
+      "orthographic": "kana",
       "gloss": "to sing"
     },
     {
@@ -1000,8 +1000,8 @@
       "gloss": "to float"
     },
     {
-      "form": "flotañ",
-      "orthographic": "flotañ",
+      "form": "neuviñ",
+      "orthographic": "neuviñ",
       "gloss": "to float"
     },
     {
@@ -1015,8 +1015,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "reviñ",
-      "orthographic": "reviñ",
+      "form": "skornañ",
+      "orthographic": "skornañ",
       "gloss": "to freeze"
     },
     {
@@ -1055,13 +1055,13 @@
       "gloss": "river"
     },
     {
-      "form": "aven",
-      "orthographic": "aven",
+      "form": "rinier",
+      "orthographic": "rinier",
       "gloss": "river"
     },
     {
-      "form": "aven",
-      "orthographic": "aven",
+      "form": "stêr",
+      "orthographic": "stêr",
       "gloss": "river"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "fog"
     },
     {
-      "form": "nivlenn",
-      "orthographic": "nivlenn",
+      "form": "morenn",
+      "orthographic": "morenn",
       "gloss": "fog"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "sky"
     },
     {
-      "form": "neñv",
-      "orthographic": "neñv",
+      "form": "oabl",
+      "orthographic": "oabl",
       "gloss": "sky"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "wind"
     },
     {
-      "form": "avel",
-      "orthographic": "avel",
+      "form": "gwent",
+      "orthographic": "gwent",
       "gloss": "wind"
     },
     {
@@ -1165,8 +1165,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "leskiñ",
-      "orthographic": "leskiñ",
+      "form": "deviñ",
+      "orthographic": "deviñ",
       "gloss": "to burn"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "green"
     },
     {
-      "form": "glas",
-      "orthographic": "glas",
+      "form": "gwer",
+      "orthographic": "gwer",
       "gloss": "green"
     },
     {
@@ -1220,8 +1220,8 @@
       "gloss": "day"
     },
     {
-      "form": "dez",
-      "orthographic": "dez",
+      "form": "deiz",
+      "orthographic": "deiz",
       "gloss": "day"
     },
     {
@@ -1230,13 +1230,13 @@
       "gloss": "year"
     },
     {
-      "form": "bloaz",
-      "orthographic": "bloaz",
+      "form": "bloavezh",
+      "orthographic": "bloavezh",
       "gloss": "year"
     },
     {
-      "form": "bloaz",
-      "orthographic": "bloaz",
+      "form": "blizen",
+      "orthographic": "blizen",
       "gloss": "year"
     },
     {
@@ -1245,8 +1245,8 @@
       "gloss": "warm"
     },
     {
-      "form": "tomm",
-      "orthographic": "tomm",
+      "form": "toemm",
+      "orthographic": "toemm",
       "gloss": "warm"
     },
     {
@@ -1255,8 +1255,8 @@
       "gloss": "cold"
     },
     {
-      "form": "yen",
-      "orthographic": "yen",
+      "form": "yein",
+      "orthographic": "yein",
       "gloss": "cold"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "old"
     },
     {
-      "form": "hen",
-      "orthographic": "hen",
+      "form": "kozh",
+      "orthographic": "kozh",
       "gloss": "old"
     },
     {
@@ -1285,8 +1285,8 @@
       "gloss": "good"
     },
     {
-      "form": "da",
-      "orthographic": "da",
+      "form": "mad",
+      "orthographic": "mad",
       "gloss": "good"
     },
     {
@@ -1295,8 +1295,8 @@
       "gloss": "bad"
     },
     {
-      "form": "fall",
-      "orthographic": "fall",
+      "form": "drouk",
+      "orthographic": "drouk",
       "gloss": "bad"
     },
     {
@@ -1310,8 +1310,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "lous",
-      "orthographic": "lous",
+      "form": "loudour",
+      "orthographic": "loudour",
       "gloss": "dirty"
     },
     {
@@ -1325,8 +1325,8 @@
       "gloss": "round"
     },
     {
-      "form": "krenn",
-      "orthographic": "krenn",
+      "form": "ront",
+      "orthographic": "ront",
       "gloss": "round"
     },
     {
@@ -1340,8 +1340,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "dall",
-      "orthographic": "dall",
+      "form": "soc'h",
+      "orthographic": "soc'h",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1350,8 +1350,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "levn",
-      "orthographic": "levn",
+      "form": "lintr",
+      "orthographic": "lintr",
       "gloss": "smooth"
     },
     {
@@ -1375,8 +1375,8 @@
       "gloss": "near"
     },
     {
-      "form": "tost",
-      "orthographic": "tost",
+      "form": "ogos",
+      "orthographic": "ogos",
       "gloss": "near"
     },
     {
@@ -1395,8 +1395,8 @@
       "gloss": "left"
     },
     {
-      "form": "kleiz",
-      "orthographic": "kleiz",
+      "form": "klez",
+      "orthographic": "klez",
       "gloss": "left"
     },
     {
@@ -1410,18 +1410,18 @@
       "gloss": "in"
     },
     {
-      "form": "e",
-      "orthographic": "e",
+      "form": "en",
+      "orthographic": "en",
       "gloss": "in"
     },
     {
-      "form": "e",
-      "orthographic": "e",
+      "form": "ba",
+      "orthographic": "ba",
       "gloss": "in"
     },
     {
-      "form": "e",
-      "orthographic": "e",
+      "form": "e-barzh",
+      "orthographic": "e-barzh",
       "gloss": "in"
     },
     {
@@ -1430,8 +1430,8 @@
       "gloss": "with"
     },
     {
-      "form": "gant",
-      "orthographic": "gant",
+      "form": "get",
+      "orthographic": "get",
       "gloss": "with"
     },
     {
@@ -1445,13 +1445,13 @@
       "gloss": "if"
     },
     {
-      "form": "ma",
-      "orthographic": "ma",
+      "form": "mar",
+      "orthographic": "mar",
       "gloss": "if"
     },
     {
-      "form": "ma",
-      "orthographic": "ma",
+      "form": "pe",
+      "orthographic": "pe",
       "gloss": "if"
     },
     {
@@ -1460,13 +1460,13 @@
       "gloss": "because"
     },
     {
-      "form": "dre ma",
-      "orthographic": "dre ma",
+      "form": "abalamour ma",
+      "orthographic": "abalamour ma",
       "gloss": "because"
     },
     {
-      "form": "dre ma",
-      "orthographic": "dre ma",
+      "form": "peogwir",
+      "orthographic": "peogwir",
       "gloss": "because"
     },
     {

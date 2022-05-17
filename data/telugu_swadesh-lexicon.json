@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "nuvvu",
-      "orthographic": "నువ్వు",
+      "form": "nīvu",
+      "orthographic": "నీవు",
       "gloss": "you (2sg)"
     },
     {
@@ -30,18 +30,18 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ataḍu",
-      "orthographic": "అతడు",
+      "form": "atanu",
+      "orthographic": "అతను",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ataḍu",
-      "orthographic": "అతడు",
+      "form": "vāḍu",
+      "orthographic": "వాడు",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ataḍu",
-      "orthographic": "అతడు",
+      "form": "vāru",
+      "orthographic": "వారు",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "manamu",
-      "orthographic": "మనము",
+      "form": "mēmu",
+      "orthographic": "మేము",
       "gloss": "we (1pl)"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "vāḷḷu",
-      "orthographic": "వాళ్ళు",
+      "form": "avi",
+      "orthographic": "అవి",
       "gloss": "they (3pl)"
     },
     {
@@ -85,13 +85,13 @@
       "gloss": "here"
     },
     {
-      "form": "ikkaḍa",
-      "orthographic": "ఇక్కడ",
+      "form": "iccaṭa",
+      "orthographic": "ఇచ్చట",
       "gloss": "here"
     },
     {
-      "form": "ikkaḍa",
-      "orthographic": "ఇక్కడ",
+      "form": "īḍa",
+      "orthographic": "ఈడ",
       "gloss": "here"
     },
     {
@@ -100,13 +100,13 @@
       "gloss": "there"
     },
     {
-      "form": "akkaḍa",
-      "orthographic": "అక్కడ",
+      "form": "accaṭa",
+      "orthographic": "అచ్చట",
       "gloss": "there"
     },
     {
-      "form": "akkaḍa",
-      "orthographic": "అక్కడ",
+      "form": "āḍa",
+      "orthographic": "ఆడ",
       "gloss": "there"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "what"
     },
     {
-      "form": "ēmiṭi",
-      "orthographic": "ఏమిటి",
+      "form": "ēṇṭi",
+      "orthographic": "ఏంటి",
       "gloss": "what"
     },
     {
@@ -130,13 +130,13 @@
       "gloss": "where"
     },
     {
-      "form": "ekkaḍa",
-      "orthographic": "ఎక్కడ",
+      "form": "eccaṭa",
+      "orthographic": "ఎచ్చట",
       "gloss": "where"
     },
     {
-      "form": "ekkaḍa",
-      "orthographic": "ఎక్కడ",
+      "form": "ēḍa",
+      "orthographic": "ఏడ",
       "gloss": "where"
     },
     {
@@ -150,8 +150,8 @@
       "gloss": "how"
     },
     {
-      "form": "elā",
-      "orthographic": "ఎలా",
+      "form": "eṭlā",
+      "orthographic": "ఎట్లా",
       "gloss": "how"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "not"
     },
     {
-      "form": "kādu",
-      "orthographic": "కాదు",
+      "form": "lēdu",
+      "orthographic": "లేదు",
       "gloss": "not"
     },
     {
@@ -170,13 +170,13 @@
       "gloss": "all"
     },
     {
-      "form": "andaru",
-      "orthographic": "అందరు",
+      "form": "annī",
+      "orthographic": "అన్నీ",
       "gloss": "all"
     },
     {
-      "form": "andaru",
-      "orthographic": "అందరు",
+      "form": "mottamu",
+      "orthographic": "మొత్తము",
       "gloss": "all"
     },
     {
@@ -190,13 +190,13 @@
       "gloss": "some"
     },
     {
-      "form": "kondaru",
-      "orthographic": "కొందరు",
+      "form": "konni",
+      "orthographic": "కొన్ని",
       "gloss": "some"
     },
     {
-      "form": "kondaru",
-      "orthographic": "కొందరు",
+      "form": "konta",
+      "orthographic": "కొంత",
       "gloss": "some"
     },
     {
@@ -210,8 +210,8 @@
       "gloss": "other"
     },
     {
-      "form": "vērē",
-      "orthographic": "వేరే",
+      "form": "itara",
+      "orthographic": "ఇతర",
       "gloss": "other"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "thick"
     },
     {
-      "form": "mandamaina",
-      "orthographic": "మందమైన",
+      "form": "cikkani",
+      "orthographic": "చిక్కని",
       "gloss": "thick"
     },
     {
@@ -285,8 +285,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "irukaina",
-      "orthographic": "ఇరుకైన",
+      "form": "sannani",
+      "orthographic": "సన్నని",
       "gloss": "narrow"
     },
     {
@@ -295,8 +295,8 @@
       "gloss": "thin"
     },
     {
-      "form": "sannani",
-      "orthographic": "సన్నని",
+      "form": "palucani",
+      "orthographic": "పలుచని",
       "gloss": "thin"
     },
     {
@@ -305,13 +305,13 @@
       "gloss": "woman"
     },
     {
-      "form": "āḍadi",
-      "orthographic": "ఆడది",
+      "form": "strī",
+      "orthographic": "స్త్రీ",
       "gloss": "woman"
     },
     {
-      "form": "āḍadi",
-      "orthographic": "ఆడది",
+      "form": "mahiḷa",
+      "orthographic": "మహిళ",
       "gloss": "woman"
     },
     {
@@ -320,8 +320,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "magavāḍu",
-      "orthographic": "మగవాడు",
+      "form": "puruṣuḍu",
+      "orthographic": "పురుషుడు",
       "gloss": "man (adult male)"
     },
     {
@@ -335,8 +335,8 @@
       "gloss": "child"
     },
     {
-      "form": "pilla",
-      "orthographic": "పిల్ల",
+      "form": "pillavāḍu",
+      "orthographic": "పిల్లవాడు",
       "gloss": "child"
     },
     {
@@ -345,13 +345,13 @@
       "gloss": "wife"
     },
     {
-      "form": "peḷḷāṁ",
-      "orthographic": "పెళ్ళాం",
+      "form": "bhārya",
+      "orthographic": "భార్య",
       "gloss": "wife"
     },
     {
-      "form": "peḷḷāṁ",
-      "orthographic": "పెళ్ళాం",
+      "form": "āli",
+      "orthographic": "ఆలి",
       "gloss": "wife"
     },
     {
@@ -360,13 +360,13 @@
       "gloss": "husband"
     },
     {
-      "form": "moguḍu",
-      "orthographic": "మొగుడు",
+      "form": "bharta",
+      "orthographic": "భర్త",
       "gloss": "husband"
     },
     {
-      "form": "moguḍu",
-      "orthographic": "మొగుడు",
+      "form": "penimiṭi",
+      "orthographic": "పెనిమిటి",
       "gloss": "husband"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "mother"
     },
     {
-      "form": "amma",
-      "orthographic": "అమ్మ",
+      "form": "talli",
+      "orthographic": "తల్లి",
       "gloss": "mother"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "father"
     },
     {
-      "form": "nānna",
-      "orthographic": "నాన్న",
+      "form": "taṇḍri",
+      "orthographic": "తండ్రి",
       "gloss": "father"
     },
     {
@@ -405,8 +405,8 @@
       "gloss": "bird"
     },
     {
-      "form": "pakṣi",
-      "orthographic": "పక్షి",
+      "form": "piṭṭa",
+      "orthographic": "పిట్ట",
       "gloss": "bird"
     },
     {
@@ -445,8 +445,8 @@
       "gloss": "stick"
     },
     {
-      "form": "karra",
-      "orthographic": "కర్ర",
+      "form": "kaṭṭe",
+      "orthographic": "కట్టె",
       "gloss": "stick"
     },
     {
@@ -455,8 +455,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "paṇḍu",
-      "orthographic": "పండు",
+      "form": "phalamu",
+      "orthographic": "ఫలము",
       "gloss": "fruit"
     },
     {
@@ -485,8 +485,8 @@
       "gloss": "flower"
     },
     {
-      "form": "puvvu",
-      "orthographic": "పువ్వు",
+      "form": "puṣpamu",
+      "orthographic": "పుష్పము",
       "gloss": "flower"
     },
     {
@@ -500,8 +500,8 @@
       "gloss": "rope"
     },
     {
-      "form": "tāḍu",
-      "orthographic": "తాడు",
+      "form": "mōku",
+      "orthographic": "మోకు",
       "gloss": "rope"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "skin"
     },
     {
-      "form": "tōlu",
-      "orthographic": "తోలు",
+      "form": "carmamu",
+      "orthographic": "చర్మము",
       "gloss": "skin"
     },
     {
@@ -525,8 +525,8 @@
       "gloss": "blood"
     },
     {
-      "form": "raktamu",
-      "orthographic": "రక్తము",
+      "form": "netturu",
+      "orthographic": "నెత్తురు",
       "gloss": "blood"
     },
     {
@@ -535,13 +535,13 @@
       "gloss": "bone"
     },
     {
-      "form": "emuka",
-      "orthographic": "ఎముక",
+      "form": "bomike",
+      "orthographic": "బొమికె",
       "gloss": "bone"
     },
     {
-      "form": "emuka",
-      "orthographic": "ఎముక",
+      "form": "bokka",
+      "orthographic": "బొక్క",
       "gloss": "bone"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "hair"
     },
     {
-      "form": "veṇṭrukalu",
-      "orthographic": "వెంట్రుకలు",
+      "form": "juṭṭu",
+      "orthographic": "జుట్టు",
       "gloss": "hair"
     },
     {
@@ -595,8 +595,8 @@
       "gloss": "eye"
     },
     {
-      "form": "kannu",
-      "orthographic": "కన్ను",
+      "form": "nētraṁ",
+      "orthographic": "నేత్రం",
       "gloss": "eye"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "nōru",
-      "orthographic": "నోరు",
+      "form": "mūti",
+      "orthographic": "మూతి",
       "gloss": "mouth"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "foot"
     },
     {
-      "form": "pādamu",
-      "orthographic": "పాదము",
+      "form": "aḍugu",
+      "orthographic": "అడుగు",
       "gloss": "foot"
     },
     {
@@ -655,8 +655,8 @@
       "gloss": "hand"
     },
     {
-      "form": "ceyyi",
-      "orthographic": "చెయ్యి",
+      "form": "cēyi",
+      "orthographic": "చేయి",
       "gloss": "hand"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "belly"
     },
     {
-      "form": "poṭṭa",
-      "orthographic": "పొట్ట",
+      "form": "kaḍupu",
+      "orthographic": "కడుపు",
       "gloss": "belly"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "neck"
     },
     {
-      "form": "meḍa",
-      "orthographic": "మెడ",
+      "form": "kaṇṭhaṁ",
+      "orthographic": "కంఠం",
       "gloss": "neck"
     },
     {
@@ -695,8 +695,8 @@
       "gloss": "back"
     },
     {
-      "form": "vīpu",
-      "orthographic": "వీపు",
+      "form": "vennu",
+      "orthographic": "వెన్ను",
       "gloss": "back"
     },
     {
@@ -705,8 +705,8 @@
       "gloss": "breast"
     },
     {
-      "form": "cannu",
-      "orthographic": "చన్ను",
+      "form": "stanamu",
+      "orthographic": "స్తనము",
       "gloss": "breast"
     },
     {
@@ -735,8 +735,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "koruku",
-      "orthographic": "కొరుకు",
+      "form": "karacu",
+      "orthographic": "కరచు",
       "gloss": "to bite"
     },
     {
@@ -760,8 +760,8 @@
       "gloss": "to blow"
     },
     {
-      "form": "ūdu",
-      "orthographic": "ఊదు",
+      "form": "vīcu",
+      "orthographic": "వీచు",
       "gloss": "to blow"
     },
     {
@@ -790,8 +790,8 @@
       "gloss": "to know"
     },
     {
-      "form": "telusukonu",
-      "orthographic": "తెలుసుకొను",
+      "form": "erugu",
+      "orthographic": "ఎరుగు",
       "gloss": "to know"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "vāsana cūcu",
-      "orthographic": "వాసన చూచు",
+      "form": "mūccūcu",
+      "orthographic": "మూచ్చూచు",
       "gloss": "to smell"
     },
     {
@@ -815,8 +815,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "beduru",
-      "orthographic": "బెదురు",
+      "form": "bhayapaḍu",
+      "orthographic": "భయపడు",
       "gloss": "to fear"
     },
     {
@@ -825,13 +825,13 @@
       "gloss": "to sleep"
     },
     {
-      "form": "kunuku",
-      "orthographic": "కునుకు",
+      "form": "tūgu",
+      "orthographic": "తూగు",
       "gloss": "to sleep"
     },
     {
-      "form": "kunuku",
-      "orthographic": "కునుకు",
+      "form": "nidra pōvu",
+      "orthographic": "నిద్ర పోవు",
       "gloss": "to sleep"
     },
     {
@@ -880,8 +880,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "poḍucu",
-      "orthographic": "పొడుచు",
+      "form": "kuccu /kuɕːu/",
+      "orthographic": "కుచ్చు /kuɕːu/",
       "gloss": "to stab"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "to fly"
     },
     {
-      "form": "eguru",
-      "orthographic": "ఎగురు",
+      "form": "egaravēyu",
+      "orthographic": "ఎగరవేయు",
       "gloss": "to fly"
     },
     {
@@ -935,8 +935,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "niluconu",
-      "orthographic": "నిలుచొను",
+      "form": "nilabaḍu",
+      "orthographic": "నిలబడు",
       "gloss": "to stand"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "tippu",
-      "orthographic": "తిప్పు",
+      "form": "tirugu",
+      "orthographic": "తిరుగు",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "to push"
     },
     {
-      "form": "neṭṭu",
-      "orthographic": "నెట్టు",
+      "form": "tōyu",
+      "orthographic": "తోయు",
       "gloss": "to push"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "sun"
     },
     {
-      "form": "sūryuḍu",
-      "orthographic": "సూర్యుడు",
+      "form": "poddu",
+      "orthographic": "పొద్దు",
       "gloss": "sun"
     },
     {
@@ -1070,13 +1070,13 @@
       "gloss": "moon"
     },
     {
-      "form": "candruḍu",
-      "orthographic": "చంద్రుడు",
+      "form": "candamāma",
+      "orthographic": "చందమామ",
       "gloss": "moon"
     },
     {
-      "form": "candruḍu",
-      "orthographic": "చంద్రుడు",
+      "form": "nelavēlpu",
+      "orthographic": "నెలవేల్పు",
       "gloss": "moon"
     },
     {
@@ -1085,13 +1085,13 @@
       "gloss": "star"
     },
     {
-      "form": "nakṣatraṁ",
-      "orthographic": "నక్షత్రం",
+      "form": "tāra",
+      "orthographic": "తార",
       "gloss": "star"
     },
     {
-      "form": "nakṣatraṁ",
-      "orthographic": "నక్షత్రం",
+      "form": "cukka",
+      "orthographic": "చుక్క",
       "gloss": "star"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "rain"
     },
     {
-      "form": "kuriyu",
-      "orthographic": "కురియు",
+      "form": "varṣiñcu",
+      "orthographic": "వర్షించు",
       "gloss": "rain"
     },
     {
@@ -1125,8 +1125,8 @@
       "gloss": "sea"
     },
     {
-      "form": "samudraṁ",
-      "orthographic": "సముద్రం",
+      "form": "kaḍali",
+      "orthographic": "కడలి",
       "gloss": "sea"
     },
     {
@@ -1155,13 +1155,13 @@
       "gloss": "earth"
     },
     {
-      "form": "mannu",
-      "orthographic": "మన్ను",
+      "form": "maṭṭi",
+      "orthographic": "మట్టి",
       "gloss": "earth"
     },
     {
-      "form": "mannu",
-      "orthographic": "మన్ను",
+      "form": "nēla",
+      "orthographic": "నేల",
       "gloss": "earth"
     },
     {
@@ -1180,8 +1180,8 @@
       "gloss": "sky"
     },
     {
-      "form": "niṅgi",
-      "orthographic": "నింగి",
+      "form": "ākāśaṁ",
+      "orthographic": "ఆకాశం",
       "gloss": "sky"
     },
     {
@@ -1210,8 +1210,8 @@
       "gloss": "fire"
     },
     {
-      "form": "maṇṭa",
-      "orthographic": "మంట",
+      "form": "nippu",
+      "orthographic": "నిప్పు",
       "gloss": "fire"
     },
     {
@@ -1225,8 +1225,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "kālu",
-      "orthographic": "కాలు",
+      "form": "maṇḍu",
+      "orthographic": "మండు",
       "gloss": "to burn"
     },
     {
@@ -1265,8 +1265,8 @@
       "gloss": "black"
     },
     {
-      "form": "nalla",
-      "orthographic": "నల్ల",
+      "form": "karri",
+      "orthographic": "కర్రి",
       "gloss": "black"
     },
     {
@@ -1275,13 +1275,13 @@
       "gloss": "night"
     },
     {
-      "form": "rēyi",
-      "orthographic": "రేయి",
+      "form": "rātri",
+      "orthographic": "రాత్రి",
       "gloss": "night"
     },
     {
-      "form": "rēyi",
-      "orthographic": "రేయి",
+      "form": "māpu",
+      "orthographic": "మాపు",
       "gloss": "night"
     },
     {
@@ -1295,13 +1295,13 @@
       "gloss": "year"
     },
     {
-      "form": "yēḍu",
-      "orthographic": "యేడు",
+      "form": "yēḍādi",
+      "orthographic": "యేడాది",
       "gloss": "year"
     },
     {
-      "form": "yēḍu",
-      "orthographic": "యేడు",
+      "form": "saṁvatsaraṁ",
+      "orthographic": "సంవత్సరం",
       "gloss": "year"
     },
     {
@@ -1345,8 +1345,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "kuḷḷina",
-      "orthographic": "కుళ్ళిన",
+      "form": "ceḍina",
+      "orthographic": "చెడిన",
       "gloss": "rotten"
     },
     {
@@ -1375,8 +1375,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "moṇḍi",
-      "orthographic": "మొండి",
+      "form": "moddaina",
+      "orthographic": "మొద్దైన",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1395,8 +1395,8 @@
       "gloss": "dry"
     },
     {
-      "form": "poḍi",
-      "orthographic": "పొడి",
+      "form": "eṇḍu",
+      "orthographic": "ఎండు",
       "gloss": "dry"
     },
     {
@@ -1430,8 +1430,8 @@
       "gloss": "at"
     },
     {
-      "form": "-vadda",
-      "orthographic": "-వద్ద",
+      "form": "-vaipu",
+      "orthographic": "-వైపు",
       "gloss": "at"
     },
     {
@@ -1460,8 +1460,8 @@
       "gloss": "because"
     },
     {
-      "form": "-valla",
-      "orthographic": "-వల్ల",
+      "form": "endukaṇṭē",
+      "orthographic": "ఎందుకంటే",
       "gloss": "because"
     },
     {

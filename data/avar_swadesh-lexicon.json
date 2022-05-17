@@ -25,13 +25,13 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hew",
-      "orthographic": "гьев",
+      "form": "hej",
+      "orthographic": "гьей",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hew",
-      "orthographic": "гьев",
+      "form": "heb",
+      "orthographic": "гьеб",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -40,8 +40,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "nikl",
-      "orthographic": "нилӀ",
+      "form": "niž",
+      "orthographic": "ниж",
       "gloss": "we (1pl)"
     },
     {
@@ -80,8 +80,8 @@
       "gloss": "who"
     },
     {
-      "form": "š̄iw",
-      "orthographic": "щив",
+      "form": "š̄ij",
+      "orthographic": "щий",
       "gloss": "who"
     },
     {
@@ -115,8 +115,8 @@
       "gloss": "all"
     },
     {
-      "form": "kinalgo",
-      "orthographic": "киналго",
+      "form": "kinabgo",
+      "orthographic": "кинабго",
       "gloss": "all"
     },
     {
@@ -125,13 +125,13 @@
       "gloss": "many"
     },
     {
-      "form": "ʿemer",
-      "orthographic": "гӀемер",
+      "form": "ʿemerab",
+      "orthographic": "гӀемераб",
       "gloss": "many"
     },
     {
-      "form": "ʿemer",
-      "orthographic": "гӀемер",
+      "form": "ʿemeral",
+      "orthographic": "гӀемерал",
       "gloss": "many"
     },
     {
@@ -145,13 +145,13 @@
       "gloss": "few"
     },
     {
-      "form": "dah",
-      "orthographic": "дагь",
+      "form": "dahab",
+      "orthographic": "дагьаб",
       "gloss": "few"
     },
     {
-      "form": "dah",
-      "orthographic": "дагь",
+      "form": "dahal",
+      "orthographic": "дагьал",
       "gloss": "few"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "bixinči",
-      "orthographic": "бихьинчи",
+      "form": "či",
+      "orthographic": "чи",
       "gloss": "man (adult male)"
     },
     {
@@ -250,8 +250,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "ʿadan",
-      "orthographic": "гӀадан",
+      "form": "insan",
+      "orthographic": "инсан",
       "gloss": "man (human being)"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "wife"
     },
     {
-      "form": "ładi",
-      "orthographic": "лъади",
+      "form": "č̣užu",
+      "orthographic": "чӀужу",
       "gloss": "wife"
     },
     {
@@ -290,8 +290,8 @@
       "gloss": "animal"
     },
     {
-      "form": "ruḥč̣agołi",
-      "orthographic": "рухӀчӀаголъи",
+      "form": "ḥajwan",
+      "orthographic": "хӀайван",
       "gloss": "animal"
     },
     {
@@ -350,8 +350,8 @@
       "gloss": "seed"
     },
     {
-      "form": "xon",
-      "orthographic": "хьон",
+      "form": "muh",
+      "orthographic": "мугь",
       "gloss": "seed"
     },
     {
@@ -410,13 +410,13 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "beènłi",
-      "orthographic": "беэнлъи",
+      "form": "kḷarałi",
+      "orthographic": "кьаралъи",
       "gloss": "fat (noun)"
     },
     {
-      "form": "beènłi",
-      "orthographic": "беэнлъи",
+      "form": "ṭaṭi",
+      "orthographic": "тӀатӀи",
       "gloss": "fat (noun)"
     },
     {
@@ -475,8 +475,8 @@
       "gloss": "tooth"
     },
     {
-      "form": "ʿus",
-      "orthographic": "гӀус",
+      "form": "ca",
+      "orthographic": "ца",
       "gloss": "tooth"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "hand"
     },
     {
-      "form": "kwer",
-      "orthographic": "квер",
+      "form": "q̄at",
+      "orthographic": "хъат",
       "gloss": "hand"
     },
     {
@@ -530,8 +530,8 @@
       "gloss": "guts"
     },
     {
-      "form": "bakḷ-ḳač",
-      "orthographic": "бакь-кӀач",
+      "form": "urhimes",
+      "orthographic": "ургьимес",
       "gloss": "guts"
     },
     {
@@ -625,8 +625,8 @@
       "gloss": "to think"
     },
     {
-      "form": "urġize",
-      "orthographic": "ургъизе",
+      "form": "pikru habize",
+      "orthographic": "пикру гьабизе",
       "gloss": "to think"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "maḥ č̣waze",
-      "orthographic": "махӀ чӀвазе",
+      "form": "sunṭize",
+      "orthographic": "сунтӀизе",
       "gloss": "to smell"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "q̇̄erkḷeze",
-      "orthographic": "къеркьезе",
+      "form": "raġize",
+      "orthographic": "рагъизе",
       "gloss": "to fight"
     },
     {
@@ -695,8 +695,8 @@
       "gloss": "to split"
     },
     {
-      "form": "bikḷizabize",
-      "orthographic": "бикьизабизе",
+      "form": "bikḷize",
+      "orthographic": "бикьизе",
       "gloss": "to split"
     },
     {
@@ -705,8 +705,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "q̇̄azabize",
-      "orthographic": "къазабизе",
+      "form": "ḥunčizabize",
+      "orthographic": "хӀунчизабизе",
       "gloss": "to stab"
     },
     {
@@ -725,8 +725,8 @@
       "gloss": "to swim"
     },
     {
-      "form": "łedeze",
-      "orthographic": "лъедезе",
+      "form": "łim χ̄aze",
+      "orthographic": "лъим ххазе",
       "gloss": "to swim"
     },
     {
@@ -740,13 +740,13 @@
       "gloss": "to walk"
     },
     {
-      "form": "rił̄ine",
-      "orthographic": "рилълъине",
+      "form": "ine",
+      "orthographic": "ине",
       "gloss": "to walk"
     },
     {
-      "form": "rił̄ine",
-      "orthographic": "рилълъине",
+      "form": "xwadize",
+      "orthographic": "хьвадизе",
       "gloss": "to walk"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "swerizarize",
-      "orthographic": "сверизаризе",
+      "form": "rus̄inarize",
+      "orthographic": "руссинаризе",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "to fall"
     },
     {
-      "form": "bortize",
-      "orthographic": "бортизе",
+      "form": "š̄apize",
+      "orthographic": "щапизе",
       "gloss": "to fall"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "dande q̇̄aze",
-      "orthographic": "данде къазе",
+      "form": "ṭade cuze",
+      "orthographic": "тӀаде цузе",
       "gloss": "to squeeze"
     },
     {
@@ -875,8 +875,8 @@
       "gloss": "to float"
     },
     {
-      "form": "łedon ine",
-      "orthographic": "лъедон ине",
+      "form": "łedine",
+      "orthographic": "лъедине",
       "gloss": "to float"
     },
     {
@@ -925,8 +925,8 @@
       "gloss": "river"
     },
     {
-      "form": "ʿor",
-      "orthographic": "гӀор",
+      "form": "łar",
+      "orthographic": "лъар",
       "gloss": "river"
     },
     {
@@ -950,8 +950,8 @@
       "gloss": "stone"
     },
     {
-      "form": "gamač̣",
-      "orthographic": "гамачӀ",
+      "form": "hec̣o",
+      "orthographic": "гьецӀо",
       "gloss": "stone"
     },
     {
@@ -980,8 +980,8 @@
       "gloss": "fog"
     },
     {
-      "form": "xux",
-      "orthographic": "хьухь",
+      "form": "ʿodonaḳ̄",
+      "orthographic": "гӀодонакӀкӀ",
       "gloss": "fog"
     },
     {
@@ -1020,8 +1020,8 @@
       "gloss": "ash"
     },
     {
-      "form": "raq̄u",
-      "orthographic": "рахъу",
+      "form": "buḥun",
+      "orthographic": "бухӀун",
       "gloss": "ash"
     },
     {
@@ -1030,8 +1030,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "c̣a reḳine",
-      "orthographic": "цӀа рекӀине",
+      "form": "buḥize",
+      "orthographic": "бухӀизе",
       "gloss": "to burn"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "year"
     },
     {
-      "form": "son",
-      "orthographic": "сон",
+      "form": "łaʿel",
+      "orthographic": "лъагӀел",
       "gloss": "year"
     },
     {
@@ -1135,8 +1135,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "čorokab",
-      "orthographic": "чорокаб",
+      "form": "q̄ubab",
+      "orthographic": "хъубаб",
       "gloss": "dirty"
     },
     {
@@ -1145,8 +1145,8 @@
       "gloss": "straight"
     },
     {
-      "form": "biṭarab",
-      "orthographic": "битӀараб",
+      "form": "c̣anbiṭarab",
+      "orthographic": "цӀанбитӀараб",
       "gloss": "straight"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "c̣wakarab",
-      "orthographic": "цӀвакараб",
+      "form": "biṭarab",
+      "orthographic": "битӀараб",
       "gloss": "smooth"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "correct"
     },
     {
-      "form": "biṭarab",
-      "orthographic": "битӀараб",
+      "form": "riṭuq̄ab",
+      "orthographic": "ритӀухъаб",
       "gloss": "correct"
     },
     {
@@ -1200,8 +1200,8 @@
       "gloss": "near"
     },
     {
-      "form": "ʿagarab",
-      "orthographic": "гӀагараб",
+      "form": "asḳoseb",
+      "orthographic": "аскӀосеб",
       "gloss": "near"
     },
     {
@@ -1225,8 +1225,8 @@
       "gloss": "at"
     },
     {
-      "form": "asḳob",
-      "orthographic": "аскӀоб",
+      "form": "-q̄",
+      "orthographic": "-хъ",
       "gloss": "at"
     },
     {
@@ -1235,23 +1235,23 @@
       "gloss": "in"
     },
     {
-      "form": "žanib",
-      "orthographic": "жаниб",
+      "form": "-łukl",
+      "orthographic": "-лъулӀ",
       "gloss": "in"
     },
     {
-      "form": "žanib",
-      "orthographic": "жаниб",
+      "form": "-uł",
+      "orthographic": "-улъ",
       "gloss": "in"
     },
     {
-      "form": "žanib",
-      "orthographic": "жаниб",
+      "form": "-ib",
+      "orthographic": "-иб",
       "gloss": "in"
     },
     {
-      "form": "žanib",
-      "orthographic": "жаниб",
+      "form": "-ob",
+      "orthographic": "-об",
       "gloss": "in"
     },
     {
@@ -1260,8 +1260,8 @@
       "gloss": "with"
     },
     {
-      "form": "cadaq̄",
-      "orthographic": "цадахъ",
+      "form": "-gun",
+      "orthographic": "-гун",
       "gloss": "with"
     },
     {
@@ -1270,8 +1270,8 @@
       "gloss": "and"
     },
     {
-      "form": "wa",
-      "orthographic": "ва",
+      "form": "-gi",
+      "orthographic": "-ги",
       "gloss": "and"
     },
     {
@@ -1280,13 +1280,13 @@
       "gloss": "if"
     },
     {
-      "form": "nagah",
-      "orthographic": "нагагь",
+      "form": "-ani",
+      "orthographic": "-ани",
       "gloss": "if"
     },
     {
-      "form": "nagah",
-      "orthographic": "нагагь",
+      "form": "-ni",
+      "orthographic": "-ни",
       "gloss": "if"
     },
     {
@@ -1295,13 +1295,13 @@
       "gloss": "because"
     },
     {
-      "form": "š̄aj guroni",
-      "orthographic": "щай гурони",
+      "form": "š̄aj abuni",
+      "orthographic": "щай абуни",
       "gloss": "because"
     },
     {
-      "form": "š̄aj guroni",
-      "orthographic": "щай гурони",
+      "form": "š̄aj gurełul",
+      "orthographic": "щай гурелъул",
       "gloss": "because"
     },
     {

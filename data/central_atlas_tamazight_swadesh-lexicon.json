@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "kgg",
-      "orthographic": "ⴽⴳⴳ",
+      "form": "kmm",
+      "orthographic": "ⴽⵎⵎ",
       "gloss": "you (2sg)"
     },
     {
@@ -30,8 +30,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ntta",
-      "orthographic": "ⵏⵜⵜⴰ",
+      "form": "nttat",
+      "orthographic": "ⵏⵜⵜⴰⵜ",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -45,8 +45,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "kunni",
-      "orthographic": "ⴽⵓⵏⵏⵉ",
+      "form": "kninti",
+      "orthographic": "ⴽⵏⵉⵏⵜⵉ",
       "gloss": "you (2pl)"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "nihni",
-      "orthographic": "ⵏⵉⵀⵏⵉ",
+      "form": "nihnti",
+      "orthographic": "ⵏⵉⵀⵏⵜⵉ",
       "gloss": "they (3pl)"
     },
     {
@@ -65,13 +65,13 @@
       "gloss": "this"
     },
     {
-      "form": "wad",
-      "orthographic": "ⵡⴰⴷ",
+      "form": "tad",
+      "orthographic": "ⵜⴰⴷ",
       "gloss": "this"
     },
     {
-      "form": "wad",
-      "orthographic": "ⵡⴰⴷ",
+      "form": "ayad",
+      "orthographic": "ⴰⵢⴰⴷ",
       "gloss": "this"
     },
     {
@@ -80,13 +80,13 @@
       "gloss": "that"
     },
     {
-      "form": "wan",
-      "orthographic": "ⵡⴰⵏ",
+      "form": "tan",
+      "orthographic": "ⵜⴰⵏ",
       "gloss": "that"
     },
     {
-      "form": "wan",
-      "orthographic": "ⵡⴰⵏ",
+      "form": "ayin",
+      "orthographic": "ⴰⵢⵉⵏ",
       "gloss": "that"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "when"
     },
     {
-      "form": "milmi",
-      "orthographic": "ⵎⵉⵍⵎⵉ",
+      "form": "mantur",
+      "orthographic": "ⵎⴰⵏⵜⵓⵔ",
       "gloss": "when"
     },
     {
@@ -140,8 +140,8 @@
       "gloss": "all"
     },
     {
-      "form": "qaḥ",
-      "orthographic": "ⵇⴰⵃ",
+      "form": "kul",
+      "orthographic": "ⴽⵓⵍ",
       "gloss": "all"
     },
     {
@@ -150,8 +150,8 @@
       "gloss": "many"
     },
     {
-      "form": "bzzaf",
-      "orthographic": "ⴱⵣⵣⴰⴼ",
+      "form": "ggidi",
+      "orthographic": "ⴳⴳⵉⴷⵉ",
       "gloss": "many"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "few"
     },
     {
-      "form": "imik",
-      "orthographic": "ⵉⵎⵉⴽ",
+      "form": "šwiy",
+      "orthographic": "ⵛⵡⵉⵢ",
       "gloss": "few"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "other"
     },
     {
-      "form": "yaḍn",
-      "orthographic": "ⵢⴰⴹⵏ",
+      "form": "yaḍnin",
+      "orthographic": "ⵢⴰⴹⵏⵉⵏ",
       "gloss": "other"
     },
     {
@@ -185,8 +185,8 @@
       "gloss": "one"
     },
     {
-      "form": "yun",
-      "orthographic": "ⵢⵓⵏ",
+      "form": "yut",
+      "orthographic": "ⵢⵓⵜ",
       "gloss": "one"
     },
     {
@@ -195,8 +195,8 @@
       "gloss": "two"
     },
     {
-      "form": "sin",
-      "orthographic": "ⵙⵉⵏ",
+      "form": "snat",
+      "orthographic": "ⵙⵏⴰⵜ",
       "gloss": "two"
     },
     {
@@ -210,8 +210,8 @@
       "gloss": "four"
     },
     {
-      "form": "kkuẓ",
-      "orthographic": "ⴽⴽⵓⵥ",
+      "form": "rbɛa",
+      "orthographic": "ⵔⴱⵄⴰ",
       "gloss": "four"
     },
     {
@@ -220,8 +220,8 @@
       "gloss": "five"
     },
     {
-      "form": "smmus",
-      "orthographic": "ⵙⵎⵎⵓⵙ",
+      "form": "xmsa",
+      "orthographic": "ⵅⵎⵙⴰ",
       "gloss": "five"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "big"
     },
     {
-      "form": "axatar",
-      "orthographic": "ⴰⵅⴰⵜⴰⵔ",
+      "form": "amqqran",
+      "orthographic": "ⴰⵎⵇⵇⵔⴰⵏ",
       "gloss": "big"
     },
     {
@@ -245,8 +245,8 @@
       "gloss": "wide"
     },
     {
-      "form": "fliy",
-      "orthographic": "ⴼⵍⵉⵢ",
+      "form": "wsɛ",
+      "orthographic": "ⵡⵙⵄ",
       "gloss": "wide"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "heavy"
     },
     {
-      "form": "ẓẓag",
-      "orthographic": "ⵥⵥⴰⴳ",
+      "form": "stil",
+      "orthographic": "ⵙⵜⵉⵍ",
       "gloss": "heavy"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "short"
     },
     {
-      "form": "ašṭṭwan",
-      "orthographic": "ⴰⵛⵟⵟⵡⴰⵏ",
+      "form": "gzil",
+      "orthographic": "ⴳⵣⵉⵍ",
       "gloss": "short"
     },
     {
@@ -310,13 +310,13 @@
       "gloss": "child"
     },
     {
-      "form": "lɛil",
-      "orthographic": "ⵍⵄⵉⵍ",
+      "form": "arba",
+      "orthographic": "ⴰⵔⴱⴰ",
       "gloss": "child"
     },
     {
-      "form": "lɛil",
-      "orthographic": "ⵍⵄⵉⵍ",
+      "form": "iširri",
+      "orthographic": "ⵉⵛⵉⵔⵔⵉ",
       "gloss": "child"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "tree"
     },
     {
-      "form": "asklu",
-      "orthographic": "ⴰⵙⴽⵍⵓ",
+      "form": "axlijj",
+      "orthographic": "ⴰⵅⵍⵉⵊⵊ",
       "gloss": "tree"
     },
     {
@@ -390,8 +390,8 @@
       "gloss": "stick"
     },
     {
-      "form": "taɣrušt",
-      "orthographic": "ⵜⴰⵖⵔⵓⵛⵜ",
+      "form": "taɣritt",
+      "orthographic": "ⵜⴰⵖⵔⵉⵜⵜ",
       "gloss": "stick"
     },
     {
@@ -405,13 +405,13 @@
       "gloss": "seed"
     },
     {
-      "form": "ifsan",
-      "orthographic": "ⵉⴼⵙⴰⵏ",
+      "form": "zzrriɛt",
+      "orthographic": "ⵣⵣⵔⵔⵉⵄⵜ",
       "gloss": "seed"
     },
     {
-      "form": "ifsan",
-      "orthographic": "ⵉⴼⵙⴰⵏ",
+      "form": "amud",
+      "orthographic": "ⴰⵎⵓⴷ",
       "gloss": "seed"
     },
     {
@@ -420,8 +420,8 @@
       "gloss": "leaf"
     },
     {
-      "form": "tawriqt",
-      "orthographic": "ⵜⴰⵡⵔⵉⵇⵜ",
+      "form": "ifr",
+      "orthographic": "ⵉⴼⵔ",
       "gloss": "leaf"
     },
     {
@@ -450,13 +450,13 @@
       "gloss": "rope"
     },
     {
-      "form": "asqqn",
-      "orthographic": "ⴰⵙⵇⵇⵏ",
+      "form": "izikr",
+      "orthographic": "ⵉⵣⵉⴽⵔ",
       "gloss": "rope"
     },
     {
-      "form": "asqqn",
-      "orthographic": "ⴰⵙⵇⵇⵏ",
+      "form": "agatu",
+      "orthographic": "ⴰⴳⴰⵜⵓ",
       "gloss": "rope"
     },
     {
@@ -465,13 +465,13 @@
       "gloss": "skin"
     },
     {
-      "form": "agʷlim",
-      "orthographic": "ⴰⴳⵯⵍⵉⵎ",
+      "form": "ahitur",
+      "orthographic": "ⴰⵀⵉⵜⵓⵔ",
       "gloss": "skin"
     },
     {
-      "form": "agʷlim",
-      "orthographic": "ⴰⴳⵯⵍⵉⵎ",
+      "form": "aksum",
+      "orthographic": "ⴰⴽⵙⵓⵎ",
       "gloss": "skin"
     },
     {
@@ -495,8 +495,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "ims",
-      "orthographic": "ⵉⵎⵙ",
+      "form": "tadunt",
+      "orthographic": "ⵜⴰⴷⵓⵏⵜ",
       "gloss": "fat (noun)"
     },
     {
@@ -530,13 +530,13 @@
       "gloss": "head"
     },
     {
-      "form": "iɣf",
-      "orthographic": "ⵉⵖⴼ",
+      "form": "aqṛṛu",
+      "orthographic": "ⴰⵇⵕⵕⵓ",
       "gloss": "head"
     },
     {
-      "form": "iɣf",
-      "orthographic": "ⵉⵖⴼ",
+      "form": "aqšaš",
+      "orthographic": "ⴰⵇⵛⴰⵛ",
       "gloss": "head"
     },
     {
@@ -555,8 +555,8 @@
       "gloss": "nose"
     },
     {
-      "form": "tignzar",
-      "orthographic": "ⵜⵉⴳⵏⵣⴰⵔ",
+      "form": "anzar",
+      "orthographic": "ⴰⵏⵣⴰⵔ",
       "gloss": "nose"
     },
     {
@@ -565,8 +565,8 @@
       "gloss": "mouth"
     },
     {
-      "form": "aqmu",
-      "orthographic": "ⴰⵇⵎⵓ",
+      "form": "imi",
+      "orthographic": "ⵉⵎⵉ",
       "gloss": "mouth"
     },
     {
@@ -575,13 +575,13 @@
       "gloss": "tooth"
     },
     {
-      "form": "uxs",
-      "orthographic": "ⵓⵅⵙ",
+      "form": "tuɣmst",
+      "orthographic": "ⵜⵓⵖⵎⵙⵜ",
       "gloss": "tooth"
     },
     {
-      "form": "uxs",
-      "orthographic": "ⵓⵅⵙ",
+      "form": "ugl",
+      "orthographic": "ⵓⴳⵍ",
       "gloss": "tooth"
     },
     {
@@ -595,13 +595,13 @@
       "gloss": "fingernail"
     },
     {
-      "form": "aššr",
-      "orthographic": "ⴰⵛⵛⵔ",
+      "form": "iskr",
+      "orthographic": "ⵉⵙⴽⵔ",
       "gloss": "fingernail"
     },
     {
-      "form": "aššr",
-      "orthographic": "ⴰⵛⵛⵔ",
+      "form": "axbaš",
+      "orthographic": "ⴰⵅⴱⴰⵛ",
       "gloss": "fingernail"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "belly"
     },
     {
-      "form": "aɛddis",
-      "orthographic": "ⴰⵄⴷⴷⵉⵙ",
+      "form": "adis",
+      "orthographic": "ⴰⴷⵉⵙ",
       "gloss": "belly"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "guts"
     },
     {
-      "form": "isṛman",
-      "orthographic": "ⵉⵙⵕⵎⴰⵏ",
+      "form": "taduwwart",
+      "orthographic": "ⵜⴰⴷⵓⵡⵡⴰⵔⵜ",
       "gloss": "guts"
     },
     {
@@ -655,8 +655,8 @@
       "gloss": "neck"
     },
     {
-      "form": "ḥnyi",
-      "orthographic": "ⵃⵏⵢⵉ",
+      "form": "amgrḍ",
+      "orthographic": "ⴰⵎⴳⵔⴹ",
       "gloss": "neck"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "breast"
     },
     {
-      "form": "abubbu",
-      "orthographic": "ⴰⴱⵓⴱⴱⵓ",
+      "form": "iff",
+      "orthographic": "ⵉⴼⴼ",
       "gloss": "breast"
     },
     {
@@ -700,8 +700,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "šš",
-      "orthographic": "ⵛⵛ",
+      "form": "qqs",
+      "orthographic": "ⵇⵇⵙ",
       "gloss": "to bite"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to split"
     },
     {
-      "form": "stɣ",
-      "orthographic": "ⵙⵜⵖ",
+      "form": "ṭṭiqs",
+      "orthographic": "ⵟⵟⵉⵇⵙ",
       "gloss": "to split"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to come"
     },
     {
-      "form": "as",
-      "orthographic": "ⴰⵙ",
+      "form": "ddu d",
+      "orthographic": "ⴷⴷⵓ ⴷ",
       "gloss": "to come"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "bdd",
-      "orthographic": "ⴱⴷⴷ",
+      "form": "nkr",
+      "orthographic": "ⵏⴽⵔ",
       "gloss": "to stand"
     },
     {
@@ -885,8 +885,8 @@
       "gloss": "to fall"
     },
     {
-      "form": "ḍr",
-      "orthographic": "ⴹⵔ",
+      "form": "ttutty",
+      "orthographic": "ⵜⵜⵓⵜⵜⵢ",
       "gloss": "to fall"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "ṭṭf",
-      "orthographic": "ⵟⵟⴼ",
+      "form": "amẓ",
+      "orthographic": "ⴰⵎⵥ",
       "gloss": "to hold"
     },
     {
@@ -910,8 +910,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "ẓm",
-      "orthographic": "ⵥⵎ",
+      "form": "ẓiyr",
+      "orthographic": "ⵥⵉⵢⵔ",
       "gloss": "to squeeze"
     },
     {
@@ -935,8 +935,8 @@
       "gloss": "to pull"
     },
     {
-      "form": "nzɣ",
-      "orthographic": "ⵏⵣⵖ",
+      "form": "ldi",
+      "orthographic": "ⵍⴷⵉ",
       "gloss": "to pull"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "to push"
     },
     {
-      "form": "tḥi",
-      "orthographic": "ⵜⵃⵉ",
+      "form": "dfɛ",
+      "orthographic": "ⴷⴼⵄ",
       "gloss": "to push"
     },
     {
@@ -960,18 +960,18 @@
       "gloss": "to tie"
     },
     {
-      "form": "ass",
-      "orthographic": "ⴰⵙⵙ",
+      "form": "qqn",
+      "orthographic": "ⵇⵇⵏ",
       "gloss": "to tie"
     },
     {
-      "form": "ass",
-      "orthographic": "ⴰⵙⵙ",
+      "form": "krs",
+      "orthographic": "ⴽⵔⵙ",
       "gloss": "to tie"
     },
     {
-      "form": "ass",
-      "orthographic": "ⴰⵙⵙ",
+      "form": "krf",
+      "orthographic": "ⴽⵔⴼ",
       "gloss": "to tie"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "irir",
-      "orthographic": "ⵉⵔⵉⵔ",
+      "form": "ini izlan",
+      "orthographic": "ⵉⵏⵉ ⵉⵣⵍⴰⵏ",
       "gloss": "to sing"
     },
     {
@@ -1005,13 +1005,13 @@
       "gloss": "to play"
     },
     {
-      "form": "urar",
-      "orthographic": "ⵓⵔⴰⵔ",
+      "form": "hdr",
+      "orthographic": "ⵀⴷⵔ",
       "gloss": "to play"
     },
     {
-      "form": "urar",
-      "orthographic": "ⵓⵔⴰⵔ",
+      "form": "lɛb",
+      "orthographic": "ⵍⵄⴱ",
       "gloss": "to play"
     },
     {
@@ -1025,18 +1025,18 @@
       "gloss": "to flow"
     },
     {
-      "form": "azzl",
-      "orthographic": "ⴰⵣⵣⵍ",
+      "form": "suddm",
+      "orthographic": "ⵙⵓⴷⴷⵎ",
       "gloss": "to flow"
     },
     {
-      "form": "azzl",
-      "orthographic": "ⴰⵣⵣⵍ",
+      "form": "ngi",
+      "orthographic": "ⵏⴳⵉ",
       "gloss": "to flow"
     },
     {
-      "form": "azzl",
-      "orthographic": "ⴰⵣⵣⵍ",
+      "form": "rwl",
+      "orthographic": "ⵔⵡⵍ",
       "gloss": "to flow"
     },
     {
@@ -1045,8 +1045,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "grs",
-      "orthographic": "ⴳⵔⵙ",
+      "form": "jmmd",
+      "orthographic": "ⵊⵎⵎⴷ",
       "gloss": "to freeze"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "stone"
     },
     {
-      "form": "aẓru",
-      "orthographic": "ⴰⵥⵔⵓ",
+      "form": "islli",
+      "orthographic": "ⵉⵙⵍⵍⵉ",
       "gloss": "stone"
     },
     {
@@ -1115,8 +1115,8 @@
       "gloss": "sand"
     },
     {
-      "form": "alxix",
-      "orthographic": "ⴰⵍⵅⵉⵅ",
+      "form": "rrmla",
+      "orthographic": "ⵔⵔⵎⵍⴰ",
       "gloss": "sand"
     },
     {
@@ -1150,8 +1150,8 @@
       "gloss": "wind"
     },
     {
-      "form": "azwu",
-      "orthographic": "ⴰⵣⵡⵓ",
+      "form": "aɣrbi",
+      "orthographic": "ⴰⵖⵔⴱⵉ",
       "gloss": "wind"
     },
     {
@@ -1165,13 +1165,13 @@
       "gloss": "ice"
     },
     {
-      "form": "iwri",
-      "orthographic": "ⵉⵡⵔⵉ",
+      "form": "agʷris",
+      "orthographic": "ⴰⴳⵯⵔⵉⵙ",
       "gloss": "ice"
     },
     {
-      "form": "iwri",
-      "orthographic": "ⵉⵡⵔⵉ",
+      "form": "agris",
+      "orthographic": "ⴰⴳⵔⵉⵙ",
       "gloss": "ice"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "fire"
     },
     {
-      "form": "afa",
-      "orthographic": "ⴰⴼⴰ",
+      "form": "lɛafit",
+      "orthographic": "ⵍⵄⴰⴼⵉⵜ",
       "gloss": "fire"
     },
     {
@@ -1200,13 +1200,13 @@
       "gloss": "to burn"
     },
     {
-      "form": "ɣus",
-      "orthographic": "ⵖⵓⵙ",
+      "form": "ssɣus",
+      "orthographic": "ⵙⵙⵖⵓⵙ",
       "gloss": "to burn"
     },
     {
-      "form": "ɣus",
-      "orthographic": "ⵖⵓⵙ",
+      "form": "kmḍ",
+      "orthographic": "ⴽⵎⴹ",
       "gloss": "to burn"
     },
     {
@@ -1240,8 +1240,8 @@
       "gloss": "white"
     },
     {
-      "form": "umlil",
-      "orthographic": "ⵓⵎⵍⵉⵍ",
+      "form": "amllal",
+      "orthographic": "ⴰⵎⵍⵍⴰⵍ",
       "gloss": "white"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "black"
     },
     {
-      "form": "abrkan",
-      "orthographic": "ⴰⴱⵔⴽⴰⵏ",
+      "form": "abxxuš",
+      "orthographic": "ⴰⴱⵅⵅⵓⵛ",
       "gloss": "black"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "warm"
     },
     {
-      "form": "ḥmu",
-      "orthographic": "ⵃⵎⵓ",
+      "form": "rɣ",
+      "orthographic": "ⵔⵖ",
       "gloss": "warm"
     },
     {
@@ -1305,8 +1305,8 @@
       "gloss": "good"
     },
     {
-      "form": "iẓil",
-      "orthographic": "ⵉⵥⵉⵍ",
+      "form": "ɣudu",
+      "orthographic": "ⵖⵓⴷⵓ",
       "gloss": "good"
     },
     {
@@ -1315,13 +1315,13 @@
       "gloss": "bad"
     },
     {
-      "form": "gar",
-      "orthographic": "ⴳⴰⵔ",
+      "form": "xxu",
+      "orthographic": "ⵅⵅⵓ",
       "gloss": "bad"
     },
     {
-      "form": "gar",
-      "orthographic": "ⴳⴰⵔ",
+      "form": "uriḥlin",
+      "orthographic": "ⵓⵔⵉⵃⵍⵉⵏ",
       "gloss": "bad"
     },
     {
@@ -1335,13 +1335,13 @@
       "gloss": "dirty"
     },
     {
-      "form": "rku",
-      "orthographic": "ⵔⴽⵓ",
+      "form": "umum",
+      "orthographic": "ⵓⵎⵓⵎ",
       "gloss": "dirty"
     },
     {
-      "form": "rku",
-      "orthographic": "ⵔⴽⵓ",
+      "form": "wsx",
+      "orthographic": "ⵡⵙⵅ",
       "gloss": "dirty"
     },
     {
@@ -1350,8 +1350,8 @@
       "gloss": "straight"
     },
     {
-      "form": "nm",
-      "orthographic": "ⵏⵎ",
+      "form": "sggm",
+      "orthographic": "ⵙⴳⴳⵎ",
       "gloss": "straight"
     },
     {
@@ -1380,8 +1380,8 @@
       "gloss": "wet"
     },
     {
-      "form": "bzy",
-      "orthographic": "ⴱⵣⵢ",
+      "form": "mmɣ",
+      "orthographic": "ⵎⵎⵖ",
       "gloss": "wet"
     },
     {
@@ -1390,8 +1390,8 @@
       "gloss": "dry"
     },
     {
-      "form": "qqar",
-      "orthographic": "ⵇⵇⴰⵔ",
+      "form": "zwu",
+      "orthographic": "ⵣⵡⵓ",
       "gloss": "dry"
     },
     {
@@ -1400,13 +1400,13 @@
       "gloss": "correct"
     },
     {
-      "form": "stitt",
-      "orthographic": "ⵙⵜⵉⵜⵜ",
+      "form": "sḥu",
+      "orthographic": "ⵙⵃⵓ",
       "gloss": "correct"
     },
     {
-      "form": "stitt",
-      "orthographic": "ⵙⵜⵉⵜⵜ",
+      "form": "lḥqq",
+      "orthographic": "ⵍⵃⵇⵇ",
       "gloss": "correct"
     },
     {
@@ -1415,8 +1415,8 @@
       "gloss": "near"
     },
     {
-      "form": "d",
-      "orthographic": "ⴷ",
+      "form": "qrrb",
+      "orthographic": "ⵇⵔⵔⴱ",
       "gloss": "near"
     },
     {
@@ -1440,8 +1440,8 @@
       "gloss": "at"
     },
     {
-      "form": "ɣr",
-      "orthographic": "ⵖⵔ",
+      "form": "y",
+      "orthographic": "ⵢ",
       "gloss": "at"
     },
     {
@@ -1450,8 +1450,8 @@
       "gloss": "in"
     },
     {
-      "form": "y",
-      "orthographic": "ⵢ",
+      "form": "dy",
+      "orthographic": "ⴷⵢ",
       "gloss": "in"
     },
     {

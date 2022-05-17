@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "ʔinta",
-      "orthographic": "إنت",
+      "form": "ʔinti",
+      "orthographic": "إنتي",
       "gloss": "you (2sg)"
     },
     {
@@ -30,8 +30,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "huwwe",
-      "orthographic": "هو",
+      "form": "hiyye",
+      "orthographic": "هي",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "humme",
-      "orthographic": "هم",
+      "form": "hinne",
+      "orthographic": "هن",
       "gloss": "they (3pl)"
     },
     {
@@ -60,23 +60,23 @@
       "gloss": "this"
     },
     {
-      "form": "hād",
-      "orthographic": "هاد",
+      "form": "hāda",
+      "orthographic": "هادا",
       "gloss": "this"
     },
     {
-      "form": "hād",
-      "orthographic": "هاد",
+      "form": "hādi",
+      "orthographic": "هادي",
       "gloss": "this"
     },
     {
-      "form": "hād",
-      "orthographic": "هاد",
+      "form": "hāy",
+      "orthographic": "هاي",
       "gloss": "this"
     },
     {
-      "form": "hād",
-      "orthographic": "هاد",
+      "form": "hadōl",
+      "orthographic": "هدول",
       "gloss": "this"
     },
     {
@@ -85,13 +85,13 @@
       "gloss": "that"
     },
     {
-      "form": "hadāk",
-      "orthographic": "هداك",
+      "form": "hadīk",
+      "orthographic": "هديك",
       "gloss": "that"
     },
     {
-      "form": "hadāk",
-      "orthographic": "هداك",
+      "form": "hadolāk",
+      "orthographic": "هدولاك",
       "gloss": "that"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "there"
     },
     {
-      "form": "hunāk",
-      "orthographic": "هناك",
+      "form": "ḡād",
+      "orthographic": "غاد",
       "gloss": "there"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "what"
     },
     {
-      "form": "ʔēš",
-      "orthographic": "إيش",
+      "form": "šū",
+      "orthographic": "شو",
       "gloss": "what"
     },
     {
@@ -145,8 +145,8 @@
       "gloss": "not"
     },
     {
-      "form": "muš",
-      "orthographic": "مُش",
+      "form": "miš",
+      "orthographic": "مِش",
       "gloss": "not"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "some"
     },
     {
-      "form": "baʕḍ",
-      "orthographic": "بعض",
+      "form": "kam min",
+      "orthographic": "كم",
       "gloss": "some"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "few"
     },
     {
-      "form": "šway",
-      "orthographic": "شوي",
+      "form": "šwayye",
+      "orthographic": "شوية",
       "gloss": "few"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "one"
     },
     {
-      "form": "wāḥad",
-      "orthographic": "واحد",
+      "form": "waḥde",
+      "orthographic": "واحدة",
       "gloss": "one"
     },
     {
@@ -200,8 +200,8 @@
       "gloss": "two"
     },
     {
-      "form": "tnēn",
-      "orthographic": "تنين",
+      "form": "tintēn",
+      "orthographic": "تنتين",
       "gloss": "two"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "man (adult male)"
     },
     {
-      "form": "zalame",
-      "orthographic": "زلمة",
+      "form": "rijjāl",
+      "orthographic": "رجال",
       "gloss": "man (adult male)"
     },
     {
@@ -290,8 +290,8 @@
       "gloss": "child"
     },
     {
-      "form": "walad",
-      "orthographic": "ولد",
+      "form": "ṭifl",
+      "orthographic": "طفل",
       "gloss": "child"
     },
     {
@@ -365,8 +365,8 @@
       "gloss": "stick"
     },
     {
-      "form": "ʕaṣāy",
-      "orthographic": "عصاي",
+      "form": "ʕaṣāye",
+      "orthographic": "عصاية",
       "gloss": "stick"
     },
     {
@@ -590,8 +590,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "nataʔ",
-      "orthographic": "نتق",
+      "form": "istafraḡ",
+      "orthographic": "استفرغ",
       "gloss": "to vomit"
     },
     {
@@ -665,8 +665,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "tḵānaʔ",
-      "orthographic": "تخانق",
+      "form": "tʔātal",
+      "orthographic": "تقاتل",
       "gloss": "to fight"
     },
     {
@@ -790,8 +790,8 @@
       "gloss": "to push"
     },
     {
-      "form": "dafaš",
-      "orthographic": "دفش",
+      "form": "dafaʕ",
+      "orthographic": "دفع",
       "gloss": "to push"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "water"
     },
     {
-      "form": "ṃajj",
-      "orthographic": "مي",
+      "form": "ṃajje",
+      "orthographic": "مية",
       "gloss": "water"
     },
     {
@@ -920,8 +920,8 @@
       "gloss": "earth"
     },
     {
-      "form": "ʔarḍ",
-      "orthographic": "أرض",
+      "form": "trāb",
+      "orthographic": "تراب",
       "gloss": "earth"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "red"
     },
     {
-      "form": "ʔaḥmar",
-      "orthographic": "أحمر",
+      "form": "ḥamra",
+      "orthographic": "حمرا",
       "gloss": "red"
     },
     {
@@ -1000,8 +1000,8 @@
       "gloss": "green"
     },
     {
-      "form": "ʔaḵḍar",
-      "orthographic": "أخضر",
+      "form": "ḵaḍra",
+      "orthographic": "خضرا",
       "gloss": "green"
     },
     {
@@ -1010,8 +1010,8 @@
       "gloss": "yellow"
     },
     {
-      "form": "ʔaṣfar",
-      "orthographic": "أصفر",
+      "form": "ṣafra",
+      "orthographic": "صفرا",
       "gloss": "yellow"
     },
     {
@@ -1020,8 +1020,8 @@
       "gloss": "white"
     },
     {
-      "form": "ʔabyaḍ",
-      "orthographic": "أبيض",
+      "form": "bayḍa",
+      "orthographic": "بيضا",
       "gloss": "white"
     },
     {
@@ -1030,8 +1030,8 @@
       "gloss": "black"
     },
     {
-      "form": "ʔaswad",
-      "orthographic": "أسود",
+      "form": "sōda",
+      "orthographic": "سودا",
       "gloss": "black"
     },
     {
@@ -1045,8 +1045,8 @@
       "gloss": "day"
     },
     {
-      "form": "yōm",
-      "orthographic": "يوم",
+      "form": "nhār",
+      "orthographic": "نهار",
       "gloss": "day"
     },
     {
@@ -1070,8 +1070,8 @@
       "gloss": "full"
     },
     {
-      "form": "malān",
-      "orthographic": "ملان",
+      "form": "malyān",
+      "orthographic": "مليان",
       "gloss": "full"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "good"
     },
     {
-      "form": "mnīḥ",
-      "orthographic": "منيح",
+      "form": "ṭayyib",
+      "orthographic": "طيب",
       "gloss": "good"
     },
     {
@@ -1105,8 +1105,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "ḵarbān",
-      "orthographic": "خربان",
+      "form": "mḵammij",
+      "orthographic": "مخمج",
       "gloss": "rotten"
     },
     {
@@ -1135,8 +1135,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "bārid",
-      "orthographic": "بارد",
+      "form": "tilim",
+      "orthographic": "تلم",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1145,8 +1145,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "nāʕim",
-      "orthographic": "ناعم",
+      "form": "mālis",
+      "orthographic": "مالس",
       "gloss": "smooth"
     },
     {
@@ -1200,8 +1200,8 @@
       "gloss": "with"
     },
     {
-      "form": "maʕ",
-      "orthographic": "مع",
+      "form": "bi-",
+      "orthographic": "بـ",
       "gloss": "with"
     },
     {
@@ -1215,13 +1215,13 @@
       "gloss": "if"
     },
     {
-      "form": "law",
-      "orthographic": "لو",
+      "form": "ʔiza",
+      "orthographic": "إذا",
       "gloss": "if"
     },
     {
-      "form": "law",
-      "orthographic": "لو",
+      "form": "ʔin",
+      "orthographic": "إن",
       "gloss": "if"
     },
     {
@@ -1230,8 +1230,8 @@
       "gloss": "because"
     },
     {
-      "form": "ʕašān",
-      "orthographic": "عشان",
+      "form": "laʔinnu",
+      "orthographic": "لإنه",
       "gloss": "because"
     },
     {

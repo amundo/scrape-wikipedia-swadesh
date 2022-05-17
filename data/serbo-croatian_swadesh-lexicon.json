@@ -45,8 +45,8 @@
       "gloss": "this"
     },
     {
-      "form": "ovaj",
-      "orthographic": "ovaj",
+      "form": "taj",
+      "orthographic": "taj",
       "gloss": "this"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "that"
     },
     {
-      "form": "taj",
-      "orthographic": "taj",
+      "form": "onaj",
+      "orthographic": "onaj",
       "gloss": "that"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "here"
     },
     {
-      "form": "ovde",
-      "orthographic": "ovde",
+      "form": "ovdje",
+      "orthographic": "ovdje",
       "gloss": "here"
     },
     {
@@ -80,8 +80,8 @@
       "gloss": "who"
     },
     {
-      "form": "ko",
-      "orthographic": "ko",
+      "form": "tko",
+      "orthographic": "tko",
       "gloss": "who"
     },
     {
@@ -90,8 +90,8 @@
       "gloss": "what"
     },
     {
-      "form": "što",
-      "orthographic": "što",
+      "form": "šta",
+      "orthographic": "šta",
       "gloss": "what"
     },
     {
@@ -100,8 +100,8 @@
       "gloss": "where"
     },
     {
-      "form": "gde",
-      "orthographic": "gde",
+      "form": "gdje",
+      "orthographic": "gdje",
       "gloss": "where"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "many"
     },
     {
-      "form": "mnogo",
-      "orthographic": "mnogo",
+      "form": "puno",
+      "orthographic": "puno",
       "gloss": "many"
     },
     {
@@ -185,8 +185,8 @@
       "gloss": "long"
     },
     {
-      "form": "dug",
-      "orthographic": "dug",
+      "form": "dugačak",
+      "orthographic": "dugačak",
       "gloss": "long"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "čovek",
-      "orthographic": "čovek",
+      "form": "čovjek",
+      "orthographic": "čovjek",
       "gloss": "man (human being)"
     },
     {
@@ -250,8 +250,8 @@
       "gloss": "child"
     },
     {
-      "form": "dete",
-      "orthographic": "dete",
+      "form": "dijete",
+      "orthographic": "dijete",
       "gloss": "child"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "wife"
     },
     {
-      "form": "žena",
-      "orthographic": "žena",
+      "form": "supruga",
+      "orthographic": "supruga",
       "gloss": "wife"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "husband"
     },
     {
-      "form": "muž",
-      "orthographic": "muž",
+      "form": "suprug",
+      "orthographic": "suprug",
       "gloss": "husband"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "louse"
     },
     {
-      "form": "uš",
-      "orthographic": "uš",
+      "form": "vaš",
+      "orthographic": "vaš",
       "gloss": "louse"
     },
     {
@@ -325,8 +325,8 @@
       "gloss": "worm"
     },
     {
-      "form": "crv",
-      "orthographic": "crv",
+      "form": "glista",
+      "orthographic": "glista",
       "gloss": "worm"
     },
     {
@@ -345,13 +345,13 @@
       "gloss": "stick"
     },
     {
-      "form": "štap",
-      "orthographic": "štap",
+      "form": "prut",
+      "orthographic": "prut",
       "gloss": "stick"
     },
     {
-      "form": "štap",
-      "orthographic": "štap",
+      "form": "drška",
+      "orthographic": "drška",
       "gloss": "stick"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "voće",
-      "orthographic": "voće",
+      "form": "plod",
+      "orthographic": "plod",
       "gloss": "fruit"
     },
     {
@@ -370,8 +370,8 @@
       "gloss": "seed"
     },
     {
-      "form": "seme",
-      "orthographic": "seme",
+      "form": "sjeme",
+      "orthographic": "sjeme",
       "gloss": "seed"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "root"
     },
     {
-      "form": "koren",
-      "orthographic": "koren",
+      "form": "korijen",
+      "orthographic": "korijen",
       "gloss": "root"
     },
     {
@@ -400,8 +400,8 @@
       "gloss": "flower"
     },
     {
-      "form": "cvet",
-      "orthographic": "cvet",
+      "form": "cvijet",
+      "orthographic": "cvijet",
       "gloss": "flower"
     },
     {
@@ -415,13 +415,13 @@
       "gloss": "rope"
     },
     {
-      "form": "konopac",
-      "orthographic": "konopac",
+      "form": "uže",
+      "orthographic": "uže",
       "gloss": "rope"
     },
     {
-      "form": "konopac",
-      "orthographic": "konopac",
+      "form": "špaga",
+      "orthographic": "špaga",
       "gloss": "rope"
     },
     {
@@ -450,8 +450,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "mast",
-      "orthographic": "mast",
+      "form": "salo",
+      "orthographic": "salo",
       "gloss": "fat (noun)"
     },
     {
@@ -480,13 +480,13 @@
       "gloss": "hair"
     },
     {
-      "form": "kosa",
-      "orthographic": "kosa",
+      "form": "dlaka",
+      "orthographic": "dlaka",
       "gloss": "hair"
     },
     {
-      "form": "kosa",
-      "orthographic": "kosa",
+      "form": "vlas",
+      "orthographic": "vlas",
       "gloss": "hair"
     },
     {
@@ -500,8 +500,8 @@
       "gloss": "ear"
     },
     {
-      "form": "uho",
-      "orthographic": "uho",
+      "form": "uvo",
+      "orthographic": "uvo",
       "gloss": "ear"
     },
     {
@@ -540,8 +540,8 @@
       "gloss": "foot"
     },
     {
-      "form": "stopa",
-      "orthographic": "stopa",
+      "form": "stopalo",
+      "orthographic": "stopalo",
       "gloss": "foot"
     },
     {
@@ -555,8 +555,8 @@
       "gloss": "knee"
     },
     {
-      "form": "koleno",
-      "orthographic": "koleno",
+      "form": "koljeno",
+      "orthographic": "koljeno",
       "gloss": "knee"
     },
     {
@@ -565,8 +565,8 @@
       "gloss": "hand"
     },
     {
-      "form": "ruka",
-      "orthographic": "ruka",
+      "form": "šaka",
+      "orthographic": "šaka",
       "gloss": "hand"
     },
     {
@@ -580,8 +580,8 @@
       "gloss": "belly"
     },
     {
-      "form": "stomak",
-      "orthographic": "stomak",
+      "form": "trbuh",
+      "orthographic": "trbuh",
       "gloss": "belly"
     },
     {
@@ -590,8 +590,8 @@
       "gloss": "guts"
     },
     {
-      "form": "crevo",
-      "orthographic": "crevo",
+      "form": "crijevo",
+      "orthographic": "crijevo",
       "gloss": "guts"
     },
     {
@@ -610,8 +610,8 @@
       "gloss": "breast"
     },
     {
-      "form": "grudi",
-      "orthographic": "grudi",
+      "form": "prsa",
+      "orthographic": "prsa",
       "gloss": "breast"
     },
     {
@@ -640,8 +640,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "ujesti",
-      "orthographic": "ujesti",
+      "form": "ugristi",
+      "orthographic": "ugristi",
       "gloss": "to bite"
     },
     {
@@ -665,8 +665,8 @@
       "gloss": "to blow"
     },
     {
-      "form": "puhati",
-      "orthographic": "puhati",
+      "form": "duvati",
+      "orthographic": "duvati",
       "gloss": "to blow"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to laugh"
     },
     {
-      "form": "smijati",
-      "orthographic": "smijati",
+      "form": "smejati",
+      "orthographic": "smejati",
       "gloss": "to laugh"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "to see"
     },
     {
-      "form": "videti",
-      "orthographic": "videti",
+      "form": "vidjeti",
+      "orthographic": "vidjeti",
       "gloss": "to see"
     },
     {
@@ -720,13 +720,13 @@
       "gloss": "to fear"
     },
     {
-      "form": "plašiti",
-      "orthographic": "plašiti",
+      "form": "bojati",
+      "orthographic": "bojati",
       "gloss": "to fear"
     },
     {
-      "form": "plašiti",
-      "orthographic": "plašiti",
+      "form": "strahovati",
+      "orthographic": "strahovati",
       "gloss": "to fear"
     },
     {
@@ -740,8 +740,8 @@
       "gloss": "to live"
     },
     {
-      "form": "živeti",
-      "orthographic": "živeti",
+      "form": "živjeti",
+      "orthographic": "živjeti",
       "gloss": "to live"
     },
     {
@@ -750,8 +750,8 @@
       "gloss": "to die"
     },
     {
-      "form": "umreti",
-      "orthographic": "umreti",
+      "form": "umrijeti",
+      "orthographic": "umrijeti",
       "gloss": "to die"
     },
     {
@@ -765,8 +765,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "tući",
-      "orthographic": "tući",
+      "form": "boriti",
+      "orthographic": "boriti",
       "gloss": "to fight"
     },
     {
@@ -785,13 +785,13 @@
       "gloss": "to cut"
     },
     {
-      "form": "seći",
-      "orthographic": "seći",
+      "form": "sjeći",
+      "orthographic": "sjeći",
       "gloss": "to cut"
     },
     {
-      "form": "seći",
-      "orthographic": "seći",
+      "form": "rezati",
+      "orthographic": "rezati",
       "gloss": "to cut"
     },
     {
@@ -800,8 +800,8 @@
       "gloss": "to split"
     },
     {
-      "form": "deliti",
-      "orthographic": "deliti",
+      "form": "dijeliti",
+      "orthographic": "dijeliti",
       "gloss": "to split"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to fly"
     },
     {
-      "form": "leteti",
-      "orthographic": "leteti",
+      "form": "letjeti",
+      "orthographic": "letjeti",
       "gloss": "to fly"
     },
     {
@@ -855,8 +855,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "sedeti",
-      "orthographic": "sedeti",
+      "form": "sjediti",
+      "orthographic": "sjediti",
       "gloss": "to sit"
     },
     {
@@ -890,8 +890,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "stisnuti",
-      "orthographic": "stisnuti",
+      "form": "stegnuti",
+      "orthographic": "stegnuti",
       "gloss": "to squeeze"
     },
     {
@@ -940,8 +940,8 @@
       "gloss": "to count"
     },
     {
-      "form": "brojati",
-      "orthographic": "brojati",
+      "form": "brojiti",
+      "orthographic": "brojiti",
       "gloss": "to count"
     },
     {
@@ -950,8 +950,8 @@
       "gloss": "to say"
     },
     {
-      "form": "reći",
-      "orthographic": "reći",
+      "form": "kazati",
+      "orthographic": "kazati",
       "gloss": "to say"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "pevati",
-      "orthographic": "pevati",
+      "form": "pjevati",
+      "orthographic": "pjevati",
       "gloss": "to sing"
     },
     {
@@ -975,8 +975,8 @@
       "gloss": "to float"
     },
     {
-      "form": "plutati",
-      "orthographic": "plutati",
+      "form": "ploviti",
+      "orthographic": "ploviti",
       "gloss": "to float"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "zalediti",
-      "orthographic": "zalediti",
+      "form": "smrznuti",
+      "orthographic": "smrznuti",
       "gloss": "to freeze"
     },
     {
@@ -1000,8 +1000,8 @@
       "gloss": "to swell"
     },
     {
-      "form": "oteći",
-      "orthographic": "oteći",
+      "form": "oteknuti",
+      "orthographic": "oteknuti",
       "gloss": "to swell"
     },
     {
@@ -1015,8 +1015,8 @@
       "gloss": "moon"
     },
     {
-      "form": "mesec",
-      "orthographic": "mesec",
+      "form": "mjesec",
+      "orthographic": "mjesec",
       "gloss": "moon"
     },
     {
@@ -1025,8 +1025,8 @@
       "gloss": "star"
     },
     {
-      "form": "zvezda",
-      "orthographic": "zvezda",
+      "form": "zvijezda",
+      "orthographic": "zvijezda",
       "gloss": "star"
     },
     {
@@ -1045,8 +1045,8 @@
       "gloss": "river"
     },
     {
-      "form": "reka",
-      "orthographic": "reka",
+      "form": "rijeka",
+      "orthographic": "rijeka",
       "gloss": "river"
     },
     {
@@ -1065,8 +1065,8 @@
       "gloss": "salt"
     },
     {
-      "form": "sol",
-      "orthographic": "sol",
+      "form": "so",
+      "orthographic": "so",
       "gloss": "salt"
     },
     {
@@ -1075,13 +1075,13 @@
       "gloss": "stone"
     },
     {
-      "form": "kamen",
-      "orthographic": "kamen",
+      "form": "stena",
+      "orthographic": "stena",
       "gloss": "stone"
     },
     {
-      "form": "kamen",
-      "orthographic": "kamen",
+      "form": "stijena",
+      "orthographic": "stijena",
       "gloss": "stone"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "sand"
     },
     {
-      "form": "pesak",
-      "orthographic": "pesak",
+      "form": "pijesak",
+      "orthographic": "pijesak",
       "gloss": "sand"
     },
     {
@@ -1125,8 +1125,8 @@
       "gloss": "wind"
     },
     {
-      "form": "vetar",
-      "orthographic": "vetar",
+      "form": "vjetar",
+      "orthographic": "vjetar",
       "gloss": "wind"
     },
     {
@@ -1135,8 +1135,8 @@
       "gloss": "snow"
     },
     {
-      "form": "sneg",
-      "orthographic": "sneg",
+      "form": "snijeg",
+      "orthographic": "snijeg",
       "gloss": "snow"
     },
     {
@@ -1165,8 +1165,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "goreti",
-      "orthographic": "goreti",
+      "form": "gorjeti",
+      "orthographic": "gorjeti",
       "gloss": "to burn"
     },
     {
@@ -1175,8 +1175,8 @@
       "gloss": "road"
     },
     {
-      "form": "put",
-      "orthographic": "put",
+      "form": "cesta",
+      "orthographic": "cesta",
       "gloss": "road"
     },
     {
@@ -1205,8 +1205,8 @@
       "gloss": "white"
     },
     {
-      "form": "beo",
-      "orthographic": "beo",
+      "form": "bijel",
+      "orthographic": "bijel",
       "gloss": "white"
     },
     {
@@ -1240,8 +1240,8 @@
       "gloss": "cold"
     },
     {
-      "form": "hladno",
-      "orthographic": "hladno",
+      "form": "hladnoća",
+      "orthographic": "hladnoća",
       "gloss": "cold"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "truo",
-      "orthographic": "truo",
+      "form": "gnjio",
+      "orthographic": "gnjio",
       "gloss": "rotten"
     },
     {
@@ -1290,8 +1290,8 @@
       "gloss": "straight"
     },
     {
-      "form": "prav",
-      "orthographic": "prav",
+      "form": "ravan",
+      "orthographic": "ravan",
       "gloss": "straight"
     },
     {
@@ -1300,8 +1300,8 @@
       "gloss": "round"
     },
     {
-      "form": "obao",
-      "orthographic": "obao",
+      "form": "okrugao",
+      "orthographic": "okrugao",
       "gloss": "round"
     },
     {
@@ -1335,8 +1335,8 @@
       "gloss": "correct"
     },
     {
-      "form": "točan",
-      "orthographic": "točan",
+      "form": "tačan",
+      "orthographic": "tačan",
       "gloss": "correct"
     },
     {
@@ -1360,8 +1360,8 @@
       "gloss": "left"
     },
     {
-      "form": "levo",
-      "orthographic": "levo",
+      "form": "lijevo",
+      "orthographic": "lijevo",
       "gloss": "left"
     },
     {
@@ -1380,8 +1380,8 @@
       "gloss": "with"
     },
     {
-      "form": "s",
-      "orthographic": "s",
+      "form": "sa",
+      "orthographic": "sa",
       "gloss": "with"
     },
     {
@@ -1400,18 +1400,18 @@
       "gloss": "because"
     },
     {
-      "form": "zato",
-      "orthographic": "zato",
+      "form": "radi",
+      "orthographic": "radi",
       "gloss": "because"
     },
     {
-      "form": "zato",
-      "orthographic": "zato",
+      "form": "jer",
+      "orthographic": "jer",
       "gloss": "because"
     },
     {
-      "form": "zato",
-      "orthographic": "zato",
+      "form": "budući da",
+      "orthographic": "budući da",
       "gloss": "because"
     },
     {

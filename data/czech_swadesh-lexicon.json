@@ -45,13 +45,13 @@
       "gloss": "this"
     },
     {
-      "form": "tento",
-      "orthographic": "tento",
+      "form": "tato",
+      "orthographic": "tato",
       "gloss": "this"
     },
     {
-      "form": "tento",
-      "orthographic": "tento",
+      "form": "toto",
+      "orthographic": "toto",
       "gloss": "this"
     },
     {
@@ -60,13 +60,13 @@
       "gloss": "that"
     },
     {
-      "form": "tamten",
-      "orthographic": "tamten",
+      "form": "tamta",
+      "orthographic": "tamta",
       "gloss": "that"
     },
     {
-      "form": "tamten",
-      "orthographic": "tamten",
+      "form": "tamto",
+      "orthographic": "tamto",
       "gloss": "that"
     },
     {
@@ -75,18 +75,18 @@
       "gloss": "here"
     },
     {
-      "form": "zde",
-      "orthographic": "zde",
+      "form": "tady",
+      "orthographic": "tady",
       "gloss": "here"
     },
     {
-      "form": "zde",
-      "orthographic": "zde",
+      "form": "tu",
+      "orthographic": "tu",
       "gloss": "here"
     },
     {
-      "form": "zde",
-      "orthographic": "zde",
+      "form": "sem",
+      "orthographic": "sem",
       "gloss": "here"
     },
     {
@@ -125,8 +125,8 @@
       "gloss": "not"
     },
     {
-      "form": "ne",
-      "orthographic": "ne",
+      "form": "ne-",
+      "orthographic": "ne-",
       "gloss": "not"
     },
     {
@@ -135,8 +135,8 @@
       "gloss": "all"
     },
     {
-      "form": "vše",
-      "orthographic": "vše",
+      "form": "všechno",
+      "orthographic": "všechno",
       "gloss": "all"
     },
     {
@@ -145,8 +145,8 @@
       "gloss": "many"
     },
     {
-      "form": "mnoho",
-      "orthographic": "mnoho",
+      "form": "hodně",
+      "orthographic": "hodně",
       "gloss": "many"
     },
     {
@@ -155,13 +155,13 @@
       "gloss": "some"
     },
     {
-      "form": "několik",
-      "orthographic": "několik",
+      "form": "pár",
+      "orthographic": "pár",
       "gloss": "some"
     },
     {
-      "form": "několik",
-      "orthographic": "několik",
+      "form": "trocha",
+      "orthographic": "trocha",
       "gloss": "some"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "few"
     },
     {
-      "form": "málo",
-      "orthographic": "málo",
+      "form": "nemnoho",
+      "orthographic": "nemnoho",
       "gloss": "few"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "other"
     },
     {
-      "form": "druhý",
-      "orthographic": "druhý",
+      "form": "jiný",
+      "orthographic": "jiný",
       "gloss": "other"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "thick"
     },
     {
-      "form": "tlustý",
-      "orthographic": "tlustý",
+      "form": "hrubý",
+      "orthographic": "hrubý",
       "gloss": "thick"
     },
     {
@@ -285,13 +285,13 @@
       "gloss": "wife"
     },
     {
-      "form": "žena",
-      "orthographic": "žena",
+      "form": "manželka",
+      "orthographic": "manželka",
       "gloss": "wife"
     },
     {
-      "form": "žena",
-      "orthographic": "žena",
+      "form": "choť",
+      "orthographic": "choť",
       "gloss": "wife"
     },
     {
@@ -300,13 +300,13 @@
       "gloss": "husband"
     },
     {
-      "form": "muž",
-      "orthographic": "muž",
+      "form": "manžel",
+      "orthographic": "manžel",
       "gloss": "husband"
     },
     {
-      "form": "muž",
-      "orthographic": "muž",
+      "form": "choť",
+      "orthographic": "choť",
       "gloss": "husband"
     },
     {
@@ -315,13 +315,13 @@
       "gloss": "mother"
     },
     {
-      "form": "matka",
-      "orthographic": "matka",
+      "form": "máma",
+      "orthographic": "máma",
       "gloss": "mother"
     },
     {
-      "form": "matka",
-      "orthographic": "matka",
+      "form": "mateř",
+      "orthographic": "mateř",
       "gloss": "mother"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "snake"
     },
     {
-      "form": "had",
-      "orthographic": "had",
+      "form": "zmije",
+      "orthographic": "zmije",
       "gloss": "snake"
     },
     {
@@ -385,23 +385,23 @@
       "gloss": "stick"
     },
     {
-      "form": "hůl",
-      "orthographic": "hůl",
+      "form": "klacek",
+      "orthographic": "klacek",
       "gloss": "stick"
     },
     {
-      "form": "hůl",
-      "orthographic": "hůl",
+      "form": "prut",
+      "orthographic": "prut",
       "gloss": "stick"
     },
     {
-      "form": "hůl",
-      "orthographic": "hůl",
+      "form": "kůl",
+      "orthographic": "kůl",
       "gloss": "stick"
     },
     {
-      "form": "hůl",
-      "orthographic": "hůl",
+      "form": "pálka",
+      "orthographic": "pálka",
       "gloss": "stick"
     },
     {
@@ -410,8 +410,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "ovoce",
-      "orthographic": "ovoce",
+      "form": "plod",
+      "orthographic": "plod",
       "gloss": "fruit"
     },
     {
@@ -420,8 +420,8 @@
       "gloss": "seed"
     },
     {
-      "form": "semeno",
-      "orthographic": "semeno",
+      "form": "sémě",
+      "orthographic": "sémě",
       "gloss": "seed"
     },
     {
@@ -455,13 +455,13 @@
       "gloss": "rope"
     },
     {
-      "form": "lano",
-      "orthographic": "lano",
+      "form": "provaz",
+      "orthographic": "provaz",
       "gloss": "rope"
     },
     {
-      "form": "lano",
-      "orthographic": "lano",
+      "form": "šňůra",
+      "orthographic": "šňůra",
       "gloss": "rope"
     },
     {
@@ -490,13 +490,13 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "tuk",
-      "orthographic": "tuk",
+      "form": "sádlo",
+      "orthographic": "sádlo",
       "gloss": "fat (noun)"
     },
     {
-      "form": "tuk",
-      "orthographic": "tuk",
+      "form": "maz",
+      "orthographic": "maz",
       "gloss": "fat (noun)"
     },
     {
@@ -515,13 +515,13 @@
       "gloss": "tail"
     },
     {
-      "form": "ocas",
-      "orthographic": "ocas",
+      "form": "ohon",
+      "orthographic": "ohon",
       "gloss": "tail"
     },
     {
-      "form": "ocas",
-      "orthographic": "ocas",
+      "form": "chvost",
+      "orthographic": "chvost",
       "gloss": "tail"
     },
     {
@@ -560,13 +560,13 @@
       "gloss": "mouth"
     },
     {
-      "form": "ústa",
-      "orthographic": "ústa",
+      "form": "pusa",
+      "orthographic": "pusa",
       "gloss": "mouth"
     },
     {
-      "form": "ústa",
-      "orthographic": "ústa",
+      "form": "huba",
+      "orthographic": "huba",
       "gloss": "mouth"
     },
     {
@@ -590,13 +590,13 @@
       "gloss": "foot"
     },
     {
-      "form": "noha",
-      "orthographic": "noha",
+      "form": "chodidlo",
+      "orthographic": "chodidlo",
       "gloss": "foot"
     },
     {
-      "form": "noha",
-      "orthographic": "noha",
+      "form": "stopa",
+      "orthographic": "stopa",
       "gloss": "foot"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "hand"
     },
     {
-      "form": "ruka",
-      "orthographic": "ruka",
+      "form": "dlaň",
+      "orthographic": "dlaň",
       "gloss": "hand"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "guts"
     },
     {
-      "form": "vnitřnosti",
-      "orthographic": "vnitřnosti",
+      "form": "útroby",
+      "orthographic": "útroby",
       "gloss": "guts"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "neck"
     },
     {
-      "form": "krk",
-      "orthographic": "krk",
+      "form": "šíje",
+      "orthographic": "šíje",
       "gloss": "neck"
     },
     {
@@ -655,8 +655,8 @@
       "gloss": "back"
     },
     {
-      "form": "záda",
-      "orthographic": "záda",
+      "form": "hřbet",
+      "orthographic": "hřbet",
       "gloss": "back"
     },
     {
@@ -665,13 +665,13 @@
       "gloss": "breast"
     },
     {
-      "form": "prs",
-      "orthographic": "prs",
+      "form": "hruď",
+      "orthographic": "hruď",
       "gloss": "breast"
     },
     {
-      "form": "prs",
-      "orthographic": "prs",
+      "form": "ňadro",
+      "orthographic": "ňadro",
       "gloss": "breast"
     },
     {
@@ -700,8 +700,8 @@
       "gloss": "to bite"
     },
     {
-      "form": "kousat",
-      "orthographic": "kousat",
+      "form": "hryzat",
+      "orthographic": "hryzat",
       "gloss": "to bite"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "sát",
-      "orthographic": "sát",
+      "form": "cucat",
+      "orthographic": "cucat",
       "gloss": "to suck"
     },
     {
@@ -725,13 +725,13 @@
       "gloss": "to vomit"
     },
     {
-      "form": "zvracet",
-      "orthographic": "zvracet",
+      "form": "blít",
+      "orthographic": "blít",
       "gloss": "to vomit"
     },
     {
-      "form": "zvracet",
-      "orthographic": "zvracet",
+      "form": "dávit",
+      "orthographic": "dávit",
       "gloss": "to vomit"
     },
     {
@@ -740,13 +740,13 @@
       "gloss": "to blow"
     },
     {
-      "form": "foukat",
-      "orthographic": "foukat",
+      "form": "vanout",
+      "orthographic": "vanout",
       "gloss": "to blow"
     },
     {
-      "form": "foukat",
-      "orthographic": "foukat",
+      "form": "vít",
+      "orthographic": "vít",
       "gloss": "to blow"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to know"
     },
     {
-      "form": "vědět",
-      "orthographic": "vědět",
+      "form": "znát",
+      "orthographic": "znát",
       "gloss": "to know"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "to think"
     },
     {
-      "form": "myslet",
-      "orthographic": "myslet",
+      "form": "dumat",
+      "orthographic": "dumat",
       "gloss": "to think"
     },
     {
@@ -795,8 +795,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "čichat",
-      "orthographic": "čichat",
+      "form": "cítit",
+      "orthographic": "cítit",
       "gloss": "to smell"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "bát",
-      "orthographic": "bát",
+      "form": "strachovat",
+      "orthographic": "strachovat",
       "gloss": "to fear"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "to die"
     },
     {
-      "form": "umírat",
-      "orthographic": "umírat",
+      "form": "umřít",
+      "orthographic": "umřít",
       "gloss": "to die"
     },
     {
@@ -835,8 +835,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "zabít",
-      "orthographic": "zabít",
+      "form": "usmrtit",
+      "orthographic": "usmrtit",
       "gloss": "to kill"
     },
     {
@@ -845,8 +845,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "bojovat",
-      "orthographic": "bojovat",
+      "form": "válčit",
+      "orthographic": "válčit",
       "gloss": "to fight"
     },
     {
@@ -865,18 +865,18 @@
       "gloss": "to cut"
     },
     {
-      "form": "řezat",
-      "orthographic": "řezat",
+      "form": "tít",
+      "orthographic": "tít",
       "gloss": "to cut"
     },
     {
-      "form": "řezat",
-      "orthographic": "řezat",
+      "form": "tnout",
+      "orthographic": "tnout",
       "gloss": "to cut"
     },
     {
-      "form": "řezat",
-      "orthographic": "řezat",
+      "form": "síci",
+      "orthographic": "síci",
       "gloss": "to cut"
     },
     {
@@ -890,8 +890,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "bodnout",
-      "orthographic": "bodnout",
+      "form": "píchnout",
+      "orthographic": "píchnout",
       "gloss": "to stab"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "škrábat",
-      "orthographic": "škrábat",
+      "form": "drápat",
+      "orthographic": "drápat",
       "gloss": "to scratch"
     },
     {
@@ -925,13 +925,13 @@
       "gloss": "to walk"
     },
     {
-      "form": "jít",
-      "orthographic": "jít",
+      "form": "kráčet",
+      "orthographic": "kráčet",
       "gloss": "to walk"
     },
     {
-      "form": "jít",
-      "orthographic": "jít",
+      "form": "chodit",
+      "orthographic": "chodit",
       "gloss": "to walk"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "to fall"
     },
     {
-      "form": "padat",
-      "orthographic": "padat",
+      "form": "upadnout",
+      "orthographic": "upadnout",
       "gloss": "to fall"
     },
     {
@@ -985,13 +985,13 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "stlačit",
-      "orthographic": "stlačit",
+      "form": "zmáčknout",
+      "orthographic": "zmáčknout",
       "gloss": "to squeeze"
     },
     {
-      "form": "stlačit",
-      "orthographic": "stlačit",
+      "form": "stisknout",
+      "orthographic": "stisknout",
       "gloss": "to squeeze"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "to wash"
     },
     {
-      "form": "mýt",
-      "orthographic": "mýt",
+      "form": "umývat",
+      "orthographic": "umývat",
       "gloss": "to wash"
     },
     {
@@ -1050,8 +1050,8 @@
       "gloss": "to say"
     },
     {
-      "form": "mluvit",
-      "orthographic": "mluvit",
+      "form": "říkat",
+      "orthographic": "říkat",
       "gloss": "to say"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "zpívat",
-      "orthographic": "zpívat",
+      "form": "pět",
+      "orthographic": "pět",
       "gloss": "to sing"
     },
     {
@@ -1080,8 +1080,8 @@
       "gloss": "to flow"
     },
     {
-      "form": "téct",
-      "orthographic": "téct",
+      "form": "téci",
+      "orthographic": "téci",
       "gloss": "to flow"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "mrznout",
-      "orthographic": "mrznout",
+      "form": "zmrznout",
+      "orthographic": "zmrznout",
       "gloss": "to freeze"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "moon"
     },
     {
-      "form": "měsíc",
-      "orthographic": "měsíc",
+      "form": "luna",
+      "orthographic": "luna",
       "gloss": "moon"
     },
     {
@@ -1175,8 +1175,8 @@
       "gloss": "cloud"
     },
     {
-      "form": "mrak",
-      "orthographic": "mrak",
+      "form": "oblak",
+      "orthographic": "oblak",
       "gloss": "cloud"
     },
     {
@@ -1210,8 +1210,8 @@
       "gloss": "smoke"
     },
     {
-      "form": "kouř",
-      "orthographic": "kouř",
+      "form": "dým",
+      "orthographic": "dým",
       "gloss": "smoke"
     },
     {
@@ -1235,13 +1235,13 @@
       "gloss": "road"
     },
     {
-      "form": "silnice",
-      "orthographic": "silnice",
+      "form": "cesta",
+      "orthographic": "cesta",
       "gloss": "road"
     },
     {
-      "form": "silnice",
-      "orthographic": "silnice",
+      "form": "pouť",
+      "orthographic": "pouť",
       "gloss": "road"
     },
     {
@@ -1290,8 +1290,8 @@
       "gloss": "year"
     },
     {
-      "form": "rok",
-      "orthographic": "rok",
+      "form": "léto",
+      "orthographic": "léto",
       "gloss": "year"
     },
     {
@@ -1305,8 +1305,8 @@
       "gloss": "cold"
     },
     {
-      "form": "studený",
-      "orthographic": "studený",
+      "form": "chladný",
+      "orthographic": "chladný",
       "gloss": "cold"
     },
     {
@@ -1335,8 +1335,8 @@
       "gloss": "bad"
     },
     {
-      "form": "špatný",
-      "orthographic": "špatný",
+      "form": "zlý",
+      "orthographic": "zlý",
       "gloss": "bad"
     },
     {
@@ -1355,8 +1355,8 @@
       "gloss": "straight"
     },
     {
-      "form": "přímý",
-      "orthographic": "přímý",
+      "form": "rovný",
+      "orthographic": "rovný",
       "gloss": "straight"
     },
     {
@@ -1400,8 +1400,8 @@
       "gloss": "near"
     },
     {
-      "form": "blízký",
-      "orthographic": "blízký",
+      "form": "nedaleký",
+      "orthographic": "nedaleký",
       "gloss": "near"
     },
     {
@@ -1425,8 +1425,8 @@
       "gloss": "at"
     },
     {
-      "form": "u",
-      "orthographic": "u",
+      "form": "při",
+      "orthographic": "při",
       "gloss": "at"
     },
     {
@@ -1435,8 +1435,8 @@
       "gloss": "in"
     },
     {
-      "form": "v",
-      "orthographic": "v",
+      "form": "ve",
+      "orthographic": "ve",
       "gloss": "in"
     },
     {
@@ -1445,8 +1445,8 @@
       "gloss": "with"
     },
     {
-      "form": "s",
-      "orthographic": "s",
+      "form": "se",
+      "orthographic": "se",
       "gloss": "with"
     },
     {
@@ -1455,8 +1455,8 @@
       "gloss": "and"
     },
     {
-      "form": "a",
-      "orthographic": "a",
+      "form": "i",
+      "orthographic": "i",
       "gloss": "and"
     },
     {
@@ -1465,8 +1465,8 @@
       "gloss": "if"
     },
     {
-      "form": "jestliže",
-      "orthographic": "jestliže",
+      "form": "jestli",
+      "orthographic": "jestli",
       "gloss": "if"
     },
     {
@@ -1475,13 +1475,13 @@
       "gloss": "because"
     },
     {
-      "form": "protože",
-      "orthographic": "protože",
+      "form": "jelikož",
+      "orthographic": "jelikož",
       "gloss": "because"
     },
     {
-      "form": "protože",
-      "orthographic": "protože",
+      "form": "poněvadž",
+      "orthographic": "poněvadž",
       "gloss": "because"
     },
     {

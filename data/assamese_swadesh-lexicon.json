@@ -20,13 +20,13 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "toi",
-      "orthographic": "তই",
+      "form": "tumi",
+      "orthographic": "তুমি",
       "gloss": "you (2sg)"
     },
     {
-      "form": "toi",
-      "orthographic": "তই",
+      "form": "apuni",
+      "orthographic": "আপুনি",
       "gloss": "you (2sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "xi",
-      "orthographic": "সি",
+      "form": "i",
+      "orthographic": "ই",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,13 +50,13 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "tohõt",
-      "orthographic": "তহঁত",
+      "form": "tümalük",
+      "orthographic": "তোমালোক",
       "gloss": "you (2pl)"
     },
     {
-      "form": "tohõt",
-      "orthographic": "তহঁত",
+      "form": "apünalük",
+      "orthographic": "আপোনালোক",
       "gloss": "you (2pl)"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "xihõt",
-      "orthographic": "সিহঁত",
+      "form": "ihõt",
+      "orthographic": "ইহঁত",
       "gloss": "they (3pl)"
     },
     {
@@ -125,8 +125,8 @@
       "gloss": "all"
     },
     {
-      "form": "atai",
-      "orthographic": "আটাই",
+      "form": "xokolü",
+      "orthographic": "সকলো",
       "gloss": "all"
     },
     {
@@ -195,8 +195,8 @@
       "gloss": "thick"
     },
     {
-      "form": "dath",
-      "orthographic": "ডাঠ",
+      "form": "müta",
+      "orthographic": "মোটা",
       "gloss": "thick"
     },
     {
@@ -215,8 +215,8 @@
       "gloss": "short"
     },
     {
-      "form": "suti",
-      "orthographic": "চুটি",
+      "form": "sapor",
+      "orthographic": "চাপৰ",
       "gloss": "short"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "thin"
     },
     {
-      "form": "patol",
-      "orthographic": "পাতল",
+      "form": "khin",
+      "orthographic": "খীণ",
       "gloss": "thin"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "child"
     },
     {
-      "form": "löra-süali",
-      "orthographic": "ল’ৰা-ছোৱালী",
+      "form": "soli",
+      "orthographic": "ছলি",
       "gloss": "child"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "husband"
     },
     {
-      "form": "giri",
-      "orthographic": "গিৰি",
+      "form": "poi",
+      "orthographic": "পৈ",
       "gloss": "husband"
     },
     {
@@ -280,13 +280,13 @@
       "gloss": "mother"
     },
     {
-      "form": "ma",
-      "orthographic": "মা",
+      "form": "ai",
+      "orthographic": "আই",
       "gloss": "mother"
     },
     {
-      "form": "ma",
-      "orthographic": "মা",
+      "form": "amma",
+      "orthographic": "আম্মা",
       "gloss": "mother"
     },
     {
@@ -295,13 +295,13 @@
       "gloss": "father"
     },
     {
-      "form": "deuta",
-      "orthographic": "দেউতা",
+      "form": "bap",
+      "orthographic": "বাপ",
       "gloss": "father"
     },
     {
-      "form": "deuta",
-      "orthographic": "দেউতা",
+      "form": "abba",
+      "orthographic": "আব্বা",
       "gloss": "father"
     },
     {
@@ -350,13 +350,13 @@
       "gloss": "forest"
     },
     {
-      "form": "habi",
-      "orthographic": "হাবি",
+      "form": "zoṅghol",
+      "orthographic": "জংঘল",
       "gloss": "forest"
     },
     {
-      "form": "habi",
-      "orthographic": "হাবি",
+      "form": "bon",
+      "orthographic": "বন",
       "gloss": "forest"
     },
     {
@@ -365,8 +365,8 @@
       "gloss": "stick"
     },
     {
-      "form": "bari",
-      "orthographic": "বাৰি",
+      "form": "kathi",
+      "orthographic": "কাঠি",
       "gloss": "stick"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "skin"
     },
     {
-      "form": "sal",
-      "orthographic": "ছাল",
+      "form": "samra",
+      "orthographic": "চামৰা",
       "gloss": "skin"
     },
     {
@@ -425,8 +425,8 @@
       "gloss": "meat"
     },
     {
-      "form": "moṅoh",
-      "orthographic": "মঙহ",
+      "form": "maṅxo",
+      "orthographic": "মাংস",
       "gloss": "meat"
     },
     {
@@ -445,8 +445,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "sorri",
-      "orthographic": "চৰ্বি",
+      "form": "tel",
+      "orthographic": "তেল",
       "gloss": "fat (noun)"
     },
     {
@@ -480,8 +480,8 @@
       "gloss": "head"
     },
     {
-      "form": "mur",
-      "orthographic": "মূৰ",
+      "form": "matha",
+      "orthographic": "মাথা",
       "gloss": "head"
     },
     {
@@ -530,8 +530,8 @@
       "gloss": "leg"
     },
     {
-      "form": "bhori",
-      "orthographic": "ভৰি",
+      "form": "theṅ",
+      "orthographic": "ঠেং",
       "gloss": "leg"
     },
     {
@@ -550,8 +550,8 @@
       "gloss": "wing"
     },
     {
-      "form": "deuka",
-      "orthographic": "ডেউকা",
+      "form": "pakhi",
+      "orthographic": "পাখি",
       "gloss": "wing"
     },
     {
@@ -585,13 +585,13 @@
       "gloss": "heart"
     },
     {
-      "form": "hia",
-      "orthographic": "হিয়া",
+      "form": "koliza",
+      "orthographic": "কলিজা",
       "gloss": "heart"
     },
     {
-      "form": "hia",
-      "orthographic": "হিয়া",
+      "form": "amothu",
+      "orthographic": "আমঠু",
       "gloss": "heart"
     },
     {
@@ -600,8 +600,8 @@
       "gloss": "liver"
     },
     {
-      "form": "zokrit",
-      "orthographic": "যকৃত",
+      "form": "koliza",
+      "orthographic": "কলিজা",
       "gloss": "liver"
     },
     {
@@ -610,13 +610,13 @@
       "gloss": "to drink"
     },
     {
-      "form": "khüa",
-      "orthographic": "খোৱা",
+      "form": "pi kha",
+      "orthographic": "পি খা",
       "gloss": "to drink"
     },
     {
-      "form": "khüa",
-      "orthographic": "খোৱা",
+      "form": "pi",
+      "orthographic": "পি",
       "gloss": "to drink"
     },
     {
@@ -635,13 +635,13 @@
       "gloss": "to suck"
     },
     {
-      "form": "suh",
-      "orthographic": "চুহ",
+      "form": "sup",
+      "orthographic": "চুপ",
       "gloss": "to suck"
     },
     {
-      "form": "suh",
-      "orthographic": "চুহ",
+      "form": "xüh",
+      "orthographic": "শোহ",
       "gloss": "to suck"
     },
     {
@@ -720,8 +720,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "mar",
-      "orthographic": "মাৰ",
+      "form": "mari pela",
+      "orthographic": "মাৰি পেলা",
       "gloss": "to kill"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "sep",
-      "orthographic": "চেপ",
+      "form": "hẽs",
+      "orthographic": "হেঁচ",
       "gloss": "to squeeze"
     },
     {
@@ -895,8 +895,8 @@
       "gloss": "to float"
     },
     {
-      "form": "üpoṅ",
-      "orthographic": "ওপং",
+      "form": "bhah",
+      "orthographic": "ভাহ",
       "gloss": "to float"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "river"
     },
     {
-      "form": "noi",
-      "orthographic": "নৈ",
+      "form": "nodi",
+      "orthographic": "নদী",
       "gloss": "river"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "salt"
     },
     {
-      "form": "nimokh",
-      "orthographic": "নিমখ",
+      "form": "nun",
+      "orthographic": "নুন",
       "gloss": "salt"
     },
     {
@@ -975,8 +975,8 @@
       "gloss": "stone"
     },
     {
-      "form": "xil",
-      "orthographic": "শিল",
+      "form": "pathor",
+      "orthographic": "পাথৰ",
       "gloss": "stone"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "fog"
     },
     {
-      "form": "kũwoli",
-      "orthographic": "কুঁৱলী",
+      "form": "nir",
+      "orthographic": "নিয়ৰ",
       "gloss": "fog"
     },
     {
@@ -1055,8 +1055,8 @@
       "gloss": "road"
     },
     {
-      "form": "ali",
-      "orthographic": "আলি",
+      "form": "bat",
+      "orthographic": "বাট",
       "gloss": "road"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "warm"
     },
     {
-      "form": "topot",
-      "orthographic": "তপত",
+      "form": "gorom",
+      "orthographic": "গৰম",
       "gloss": "warm"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "cold"
     },
     {
-      "form": "sẽsa",
-      "orthographic": "চেঁচা",
+      "form": "thanda",
+      "orthographic": "ঠাণ্ডা",
       "gloss": "cold"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "full"
     },
     {
-      "form": "bhora",
-      "orthographic": "ভৰা",
+      "form": "pura",
+      "orthographic": "পুৰা",
       "gloss": "full"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "mihi",
-      "orthographic": "মিহি",
+      "form": "sikun",
+      "orthographic": "চিকুণ",
       "gloss": "smooth"
     },
     {
@@ -1200,8 +1200,8 @@
       "gloss": "wet"
     },
     {
-      "form": "tita",
-      "orthographic": "তিতা",
+      "form": "bhiza",
+      "orthographic": "ভিজা",
       "gloss": "wet"
     },
     {
@@ -1220,8 +1220,8 @@
       "gloss": "near"
     },
     {
-      "form": "üsor",
-      "orthographic": "ওচৰ",
+      "form": "kax",
+      "orthographic": "কাষ",
       "gloss": "near"
     },
     {

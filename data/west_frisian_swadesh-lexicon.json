@@ -20,13 +20,13 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "do",
-      "orthographic": "do",
+      "form": "dû",
+      "orthographic": "dû",
       "gloss": "you (2sg)"
     },
     {
-      "form": "do",
-      "orthographic": "do",
+      "form": "jo",
+      "orthographic": "jo",
       "gloss": "you (2sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hy",
-      "orthographic": "hy",
+      "form": "er",
+      "orthographic": "er",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "sy",
-      "orthographic": "sy",
+      "form": "hja",
+      "orthographic": "hja",
       "gloss": "they (3pl)"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "this"
     },
     {
-      "form": "dit",
-      "orthographic": "dit",
+      "form": "dizze",
+      "orthographic": "dizze",
       "gloss": "this"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "when"
     },
     {
-      "form": "wannear",
-      "orthographic": "wannear",
+      "form": "hoenear",
+      "orthographic": "hoenear",
       "gloss": "when"
     },
     {
@@ -125,8 +125,8 @@
       "gloss": "all"
     },
     {
-      "form": "alle",
-      "orthographic": "alle",
+      "form": "allegear",
+      "orthographic": "allegear",
       "gloss": "all"
     },
     {
@@ -135,13 +135,13 @@
       "gloss": "many"
     },
     {
-      "form": "gâns",
-      "orthographic": "gâns",
+      "form": "in protte",
+      "orthographic": "in protte",
       "gloss": "many"
     },
     {
-      "form": "gâns",
-      "orthographic": "gâns",
+      "form": "folle",
+      "orthographic": "folle",
       "gloss": "many"
     },
     {
@@ -150,13 +150,13 @@
       "gloss": "some"
     },
     {
-      "form": "wat",
-      "orthographic": "wat",
+      "form": "guon",
+      "orthographic": "guon",
       "gloss": "some"
     },
     {
-      "form": "wat",
-      "orthographic": "wat",
+      "form": "sommige",
+      "orthographic": "sommige",
       "gloss": "some"
     },
     {
@@ -165,13 +165,13 @@
       "gloss": "few"
     },
     {
-      "form": "in",
-      "orthographic": "in",
+      "form": "pear",
+      "orthographic": "pear",
       "gloss": "few"
     },
     {
-      "form": "in",
-      "orthographic": "in",
+      "form": "inkele",
+      "orthographic": "inkele",
       "gloss": "few"
     },
     {
@@ -220,8 +220,8 @@
       "gloss": "wide"
     },
     {
-      "form": "wiid",
-      "orthographic": "wiid",
+      "form": "breed",
+      "orthographic": "breed",
       "gloss": "wide"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "thick"
     },
     {
-      "form": "dik",
-      "orthographic": "dik",
+      "form": "tsjok",
+      "orthographic": "tsjok",
       "gloss": "thick"
     },
     {
@@ -255,13 +255,13 @@
       "gloss": "narrow"
     },
     {
-      "form": "nau",
-      "orthographic": "nau",
+      "form": "ing",
+      "orthographic": "ing",
       "gloss": "narrow"
     },
     {
-      "form": "nau",
-      "orthographic": "nau",
+      "form": "smel",
+      "orthographic": "smel",
       "gloss": "narrow"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "woman"
     },
     {
-      "form": "frou",
-      "orthographic": "frou",
+      "form": "frommes",
+      "orthographic": "frommes",
       "gloss": "woman"
     },
     {
@@ -300,8 +300,8 @@
       "gloss": "wife"
     },
     {
-      "form": "frou",
-      "orthographic": "frou",
+      "form": "wiif",
+      "orthographic": "wiif",
       "gloss": "wife"
     },
     {
@@ -365,8 +365,8 @@
       "gloss": "forest"
     },
     {
-      "form": "wâld",
-      "orthographic": "wâld",
+      "form": "bosk",
+      "orthographic": "bosk",
       "gloss": "forest"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "stick"
     },
     {
-      "form": "stok",
-      "orthographic": "stok",
+      "form": "stôk",
+      "orthographic": "stôk",
       "gloss": "stick"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "fruit",
-      "orthographic": "fruit",
+      "form": "frucht",
+      "orthographic": "frucht",
       "gloss": "fruit"
     },
     {
@@ -400,8 +400,8 @@
       "gloss": "leaf"
     },
     {
-      "form": "blêd",
-      "orthographic": "blêd",
+      "form": "loaf",
+      "orthographic": "loaf",
       "gloss": "leaf"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "neck"
     },
     {
-      "form": "nekke",
-      "orthographic": "nekke",
+      "form": "hals",
+      "orthographic": "hals",
       "gloss": "neck"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "breast"
     },
     {
-      "form": "boarst",
-      "orthographic": "boarst",
+      "form": "bast",
+      "orthographic": "bast",
       "gloss": "breast"
     },
     {
@@ -620,8 +620,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "oerjaan",
-      "orthographic": "oerjaan",
+      "form": "kotse",
+      "orthographic": "kotse",
       "gloss": "to vomit"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "sykhelje",
-      "orthographic": "sykhelje",
+      "form": "asemje",
+      "orthographic": "asemje",
       "gloss": "to breathe"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to know"
     },
     {
-      "form": "witte",
-      "orthographic": "witte",
+      "form": "kenne",
+      "orthographic": "kenne",
       "gloss": "to know"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "bang",
-      "orthographic": "bang",
+      "form": "wêze",
+      "orthographic": "wêze",
       "gloss": "to fear"
     },
     {
@@ -700,8 +700,8 @@
       "gloss": "to die"
     },
     {
-      "form": "stjerre",
-      "orthographic": "stjerre",
+      "form": "deagean",
+      "orthographic": "deagean",
       "gloss": "to die"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "fermoardzje",
-      "orthographic": "fermoardzje",
+      "form": "deadzje",
+      "orthographic": "deadzje",
       "gloss": "to kill"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "slaan",
-      "orthographic": "slaan",
+      "form": "reitsje",
+      "orthographic": "reitsje",
       "gloss": "to hit"
     },
     {
@@ -850,8 +850,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "goaie",
-      "orthographic": "goaie",
+      "form": "smite",
+      "orthographic": "smite",
       "gloss": "to throw"
     },
     {
@@ -885,8 +885,8 @@
       "gloss": "to play"
     },
     {
-      "form": "boartsje",
-      "orthographic": "boartsje",
+      "form": "spylje",
+      "orthographic": "spylje",
       "gloss": "to play"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "sky"
     },
     {
-      "form": "loft",
-      "orthographic": "loft",
+      "form": "himel",
+      "orthographic": "himel",
       "gloss": "sky"
     },
     {
@@ -1030,8 +1030,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "baarne",
-      "orthographic": "baarne",
+      "form": "brâne",
+      "orthographic": "brâne",
       "gloss": "to burn"
     },
     {
@@ -1040,8 +1040,8 @@
       "gloss": "road"
     },
     {
-      "form": "dyk",
-      "orthographic": "dyk",
+      "form": "wei",
+      "orthographic": "wei",
       "gloss": "road"
     },
     {
@@ -1155,8 +1155,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "bot",
-      "orthographic": "bot",
+      "form": "stomp",
+      "orthographic": "stomp",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1165,8 +1165,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "flak",
-      "orthographic": "flak",
+      "form": "glêd",
+      "orthographic": "glêd",
       "gloss": "smooth"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "correct"
     },
     {
-      "form": "krek",
-      "orthographic": "krek",
+      "form": "korrekt",
+      "orthographic": "korrekt",
       "gloss": "correct"
     },
     {
@@ -1210,8 +1210,8 @@
       "gloss": "left"
     },
     {
-      "form": "links",
-      "orthographic": "links",
+      "form": "lofts",
+      "orthographic": "lofts",
       "gloss": "left"
     },
     {
@@ -1220,8 +1220,8 @@
       "gloss": "at"
     },
     {
-      "form": "by",
-      "orthographic": "by",
+      "form": "aon",
+      "orthographic": "aon",
       "gloss": "at"
     },
     {

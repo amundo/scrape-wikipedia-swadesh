@@ -45,8 +45,8 @@
       "gloss": "this"
     },
     {
-      "form": "aquest",
-      "orthographic": "aquest",
+      "form": "aqueix",
+      "orthographic": "aqueix",
       "gloss": "this"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "here"
     },
     {
-      "form": "ací",
-      "orthographic": "ací",
+      "form": "aquí",
+      "orthographic": "aquí",
       "gloss": "here"
     },
     {
@@ -70,8 +70,8 @@
       "gloss": "there"
     },
     {
-      "form": "allà",
-      "orthographic": "allà",
+      "form": "allí",
+      "orthographic": "allí",
       "gloss": "there"
     },
     {
@@ -85,8 +85,8 @@
       "gloss": "what"
     },
     {
-      "form": "què",
-      "orthographic": "què",
+      "form": "quin",
+      "orthographic": "quin",
       "gloss": "what"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "big"
     },
     {
-      "form": "gran",
-      "orthographic": "gran",
+      "form": "gros",
+      "orthographic": "gros",
       "gloss": "big"
     },
     {
@@ -195,13 +195,13 @@
       "gloss": "small"
     },
     {
-      "form": "petit",
-      "orthographic": "petit",
+      "form": "menut",
+      "orthographic": "menut",
       "gloss": "small"
     },
     {
-      "form": "petit",
-      "orthographic": "petit",
+      "form": "xic",
+      "orthographic": "xic",
       "gloss": "small"
     },
     {
@@ -245,8 +245,8 @@
       "gloss": "wife"
     },
     {
-      "form": "muller",
-      "orthographic": "muller",
+      "form": "esposa",
+      "orthographic": "esposa",
       "gloss": "wife"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "husband"
     },
     {
-      "form": "marit",
-      "orthographic": "marit",
+      "form": "espòs",
+      "orthographic": "espòs",
       "gloss": "husband"
     },
     {
@@ -285,8 +285,8 @@
       "gloss": "bird"
     },
     {
-      "form": "ocell",
-      "orthographic": "ocell",
+      "form": "au",
+      "orthographic": "au",
       "gloss": "bird"
     },
     {
@@ -325,8 +325,8 @@
       "gloss": "stick"
     },
     {
-      "form": "bastó",
-      "orthographic": "bastó",
+      "form": "pal",
+      "orthographic": "pal",
       "gloss": "stick"
     },
     {
@@ -335,8 +335,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "fruit",
-      "orthographic": "fruit",
+      "form": "fruita",
+      "orthographic": "fruita",
       "gloss": "fruit"
     },
     {
@@ -410,8 +410,8 @@
       "gloss": "horn"
     },
     {
-      "form": "corn",
-      "orthographic": "corn",
+      "form": "banya",
+      "orthographic": "banya",
       "gloss": "horn"
     },
     {
@@ -430,8 +430,8 @@
       "gloss": "hair"
     },
     {
-      "form": "pèl",
-      "orthographic": "pèl",
+      "form": "cabell",
+      "orthographic": "cabell",
       "gloss": "hair"
     },
     {
@@ -555,13 +555,13 @@
       "gloss": "to suck"
     },
     {
-      "form": "xuclar",
-      "orthographic": "xuclar",
+      "form": "mamar",
+      "orthographic": "mamar",
       "gloss": "to suck"
     },
     {
-      "form": "xuclar",
-      "orthographic": "xuclar",
+      "form": "xarrupar",
+      "orthographic": "xarrupar",
       "gloss": "to suck"
     },
     {
@@ -600,8 +600,8 @@
       "gloss": "to hear"
     },
     {
-      "form": "sentir",
-      "orthographic": "sentir",
+      "form": "oir",
+      "orthographic": "oir",
       "gloss": "to hear"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "colpejar",
-      "orthographic": "colpejar",
+      "form": "picar",
+      "orthographic": "picar",
       "gloss": "to hit"
     },
     {
@@ -675,8 +675,8 @@
       "gloss": "to split"
     },
     {
-      "form": "partir",
-      "orthographic": "partir",
+      "form": "separar",
+      "orthographic": "separar",
       "gloss": "to split"
     },
     {
@@ -690,13 +690,13 @@
       "gloss": "to scratch"
     },
     {
-      "form": "raspar",
-      "orthographic": "raspar",
+      "form": "rascar",
+      "orthographic": "rascar",
       "gloss": "to scratch"
     },
     {
-      "form": "raspar",
-      "orthographic": "raspar",
+      "form": "esgarrinxar",
+      "orthographic": "esgarrinxar",
       "gloss": "to scratch"
     },
     {
@@ -705,8 +705,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "cavar",
-      "orthographic": "cavar",
+      "form": "excavar",
+      "orthographic": "excavar",
       "gloss": "to dig"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to swim"
     },
     {
-      "form": "nedar",
-      "orthographic": "nedar",
+      "form": "nadar",
+      "orthographic": "nadar",
       "gloss": "to swim"
     },
     {
@@ -735,8 +735,8 @@
       "gloss": "to come"
     },
     {
-      "form": "venir",
-      "orthographic": "venir",
+      "form": "vindre",
+      "orthographic": "vindre",
       "gloss": "to come"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "estar",
-      "orthographic": "estar",
+      "form": "dret",
+      "orthographic": "dret",
       "gloss": "to stand"
     },
     {
@@ -765,8 +765,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "girar",
-      "orthographic": "girar",
+      "form": "tombar",
+      "orthographic": "tombar",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to give"
     },
     {
-      "form": "donar",
-      "orthographic": "donar",
+      "form": "dar",
+      "orthographic": "dar",
       "gloss": "to give"
     },
     {
@@ -790,8 +790,8 @@
       "gloss": "to hold"
     },
     {
-      "form": "aguantar",
-      "orthographic": "aguantar",
+      "form": "sostenir",
+      "orthographic": "sostenir",
       "gloss": "to hold"
     },
     {
@@ -800,8 +800,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "prémer",
-      "orthographic": "prémer",
+      "form": "estrènyer",
+      "orthographic": "estrènyer",
       "gloss": "to squeeze"
     },
     {
@@ -815,8 +815,8 @@
       "gloss": "to wash"
     },
     {
-      "form": "rentar",
-      "orthographic": "rentar",
+      "form": "netejar",
+      "orthographic": "netejar",
       "gloss": "to wash"
     },
     {
@@ -875,8 +875,8 @@
       "gloss": "to float"
     },
     {
-      "form": "flotar",
-      "orthographic": "flotar",
+      "form": "surar",
+      "orthographic": "surar",
       "gloss": "to float"
     },
     {
@@ -890,8 +890,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "gelar",
-      "orthographic": "gelar",
+      "form": "glaçar",
+      "orthographic": "glaçar",
       "gloss": "to freeze"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "star"
     },
     {
-      "form": "estel",
-      "orthographic": "estel",
+      "form": "estrella",
+      "orthographic": "estrella",
       "gloss": "star"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "sand"
     },
     {
-      "form": "arena",
-      "orthographic": "arena",
+      "form": "sorra",
+      "orthographic": "sorra",
       "gloss": "sand"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "ice"
     },
     {
-      "form": "gel",
-      "orthographic": "gel",
+      "form": "glaç",
+      "orthographic": "glaç",
       "gloss": "ice"
     },
     {
@@ -1045,8 +1045,8 @@
       "gloss": "red"
     },
     {
-      "form": "vermell",
-      "orthographic": "vermell",
+      "form": "roig",
+      "orthographic": "roig",
       "gloss": "red"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "warm"
     },
     {
-      "form": "calent",
-      "orthographic": "calent",
+      "form": "càlid",
+      "orthographic": "càlid",
       "gloss": "warm"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "good"
     },
     {
-      "form": "bo",
-      "orthographic": "bo",
+      "form": "bé",
+      "orthographic": "bé",
       "gloss": "good"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "bad"
     },
     {
-      "form": "dolent",
-      "orthographic": "dolent",
+      "form": "roí",
+      "orthographic": "roí",
       "gloss": "bad"
     },
     {
@@ -1155,8 +1155,8 @@
       "gloss": "round"
     },
     {
-      "form": "rodó",
-      "orthographic": "rodó",
+      "form": "redó",
+      "orthographic": "redó",
       "gloss": "round"
     },
     {
@@ -1165,8 +1165,8 @@
       "gloss": "sharp (as a knife)"
     },
     {
-      "form": "esmolat",
-      "orthographic": "esmolat",
+      "form": "agut",
+      "orthographic": "agut",
       "gloss": "sharp (as a knife)"
     },
     {
@@ -1175,8 +1175,8 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "esmussat",
-      "orthographic": "esmussat",
+      "form": "rom",
+      "orthographic": "rom",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "llis",
-      "orthographic": "llis",
+      "form": "suau",
+      "orthographic": "suau",
       "gloss": "smooth"
     },
     {
@@ -1195,8 +1195,8 @@
       "gloss": "wet"
     },
     {
-      "form": "humit",
-      "orthographic": "humit",
+      "form": "mullat",
+      "orthographic": "mullat",
       "gloss": "wet"
     },
     {
@@ -1215,8 +1215,8 @@
       "gloss": "near"
     },
     {
-      "form": "prop",
-      "orthographic": "prop",
+      "form": "vora",
+      "orthographic": "vora",
       "gloss": "near"
     },
     {
@@ -1230,8 +1230,8 @@
       "gloss": "right"
     },
     {
-      "form": "dret",
-      "orthographic": "dret",
+      "form": "dreta",
+      "orthographic": "dreta",
       "gloss": "right"
     },
     {
@@ -1240,8 +1240,8 @@
       "gloss": "left"
     },
     {
-      "form": "esquerre",
-      "orthographic": "esquerre",
+      "form": "esquerra",
+      "orthographic": "esquerra",
       "gloss": "left"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "at"
     },
     {
-      "form": "a",
-      "orthographic": "a",
+      "form": "en",
+      "orthographic": "en",
       "gloss": "at"
     },
     {
@@ -1260,8 +1260,8 @@
       "gloss": "in"
     },
     {
-      "form": "dins",
-      "orthographic": "dins",
+      "form": "en",
+      "orthographic": "en",
       "gloss": "in"
     },
     {

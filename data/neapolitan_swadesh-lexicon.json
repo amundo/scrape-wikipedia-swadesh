@@ -90,8 +90,8 @@
       "gloss": "not"
     },
     {
-      "form": "nun",
-      "orthographic": "nun",
+      "form": "no",
+      "orthographic": "no",
       "gloss": "not"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "two"
     },
     {
-      "form": "dduje",
-      "orthographic": "dduje",
+      "form": "ddoje",
+      "orthographic": "ddoje",
       "gloss": "two"
     },
     {
@@ -165,8 +165,8 @@
       "gloss": "wide"
     },
     {
-      "form": "largo",
-      "orthographic": "largo",
+      "form": "chiatto",
+      "orthographic": "chiatto",
       "gloss": "wide"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "heavy"
     },
     {
-      "form": "pesante",
-      "orthographic": "pesante",
+      "form": "gravante",
+      "orthographic": "gravante",
       "gloss": "heavy"
     },
     {
@@ -205,8 +205,8 @@
       "gloss": "thin"
     },
     {
-      "form": "fino",
-      "orthographic": "fino",
+      "form": "sicco",
+      "orthographic": "sicco",
       "gloss": "thin"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "crestiano",
-      "orthographic": "crestiano",
+      "form": "perzona",
+      "orthographic": "perzona",
       "gloss": "man (human being)"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "child"
     },
     {
-      "form": "criaturo",
-      "orthographic": "criaturo",
+      "form": "ninno",
+      "orthographic": "ninno",
       "gloss": "child"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "animal"
     },
     {
-      "form": "anemale",
-      "orthographic": "anemale",
+      "form": "nimmale",
+      "orthographic": "nimmale",
       "gloss": "animal"
     },
     {
@@ -290,8 +290,8 @@
       "gloss": "louse"
     },
     {
-      "form": "chiattillo",
-      "orthographic": "chiattillo",
+      "form": "peducchio",
+      "orthographic": "peducchio",
       "gloss": "louse"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "tree"
     },
     {
-      "form": "chianta",
-      "orthographic": "chianta",
+      "form": "arvulo",
+      "orthographic": "arvulo",
       "gloss": "tree"
     },
     {
@@ -320,13 +320,13 @@
       "gloss": "forest"
     },
     {
-      "form": "furesta",
-      "orthographic": "furesta",
+      "form": "vosco",
+      "orthographic": "vosco",
       "gloss": "forest"
     },
     {
-      "form": "furesta",
-      "orthographic": "furesta",
+      "form": "arvorata",
+      "orthographic": "arvorata",
       "gloss": "forest"
     },
     {
@@ -335,8 +335,8 @@
       "gloss": "stick"
     },
     {
-      "form": "mazza",
-      "orthographic": "mazza",
+      "form": "varra",
+      "orthographic": "varra",
       "gloss": "stick"
     },
     {
@@ -355,8 +355,8 @@
       "gloss": "leaf"
     },
     {
-      "form": "fronna",
-      "orthographic": "fronna",
+      "form": "foglia",
+      "orthographic": "foglia",
       "gloss": "leaf"
     },
     {
@@ -365,8 +365,8 @@
       "gloss": "root"
     },
     {
-      "form": "recina",
-      "orthographic": "recina",
+      "form": "radeca",
+      "orthographic": "radeca",
       "gloss": "root"
     },
     {
@@ -375,8 +375,8 @@
       "gloss": "bark (of a tree)"
     },
     {
-      "form": "scuorcio",
-      "orthographic": "scuorcio",
+      "form": "scuorzo",
+      "orthographic": "scuorzo",
       "gloss": "bark (of a tree)"
     },
     {
@@ -395,8 +395,8 @@
       "gloss": "rope"
     },
     {
-      "form": "zoca",
-      "orthographic": "zoca",
+      "form": "fona",
+      "orthographic": "fona",
       "gloss": "rope"
     },
     {
@@ -405,8 +405,8 @@
       "gloss": "skin"
     },
     {
-      "form": "pelle",
-      "orthographic": "pelle",
+      "form": "cuorio",
+      "orthographic": "cuorio",
       "gloss": "skin"
     },
     {
@@ -430,8 +430,8 @@
       "gloss": "fat (noun)"
     },
     {
-      "form": "ciuotto",
-      "orthographic": "ciuotto",
+      "form": "grasso",
+      "orthographic": "grasso",
       "gloss": "fat (noun)"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "leg"
     },
     {
-      "form": "cossa",
-      "orthographic": "cossa",
+      "form": "jamma",
+      "orthographic": "jamma",
       "gloss": "leg"
     },
     {
@@ -550,8 +550,8 @@
       "gloss": "back"
     },
     {
-      "form": "rina",
-      "orthographic": "rina",
+      "form": "schina",
+      "orthographic": "schina",
       "gloss": "back"
     },
     {
@@ -560,8 +560,8 @@
       "gloss": "breast"
     },
     {
-      "form": "pietto",
-      "orthographic": "pietto",
+      "form": "zizza",
+      "orthographic": "zizza",
       "gloss": "breast"
     },
     {
@@ -575,8 +575,8 @@
       "gloss": "liver"
     },
     {
-      "form": "fecheto",
-      "orthographic": "fecheto",
+      "form": "fecato",
+      "orthographic": "fecato",
       "gloss": "liver"
     },
     {
@@ -600,8 +600,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "zucà",
-      "orthographic": "zucà",
+      "form": "surchià",
+      "orthographic": "surchià",
       "gloss": "to suck"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "vummecà",
-      "orthographic": "vummecà",
+      "form": "reverzà",
+      "orthographic": "reverzà",
       "gloss": "to vomit"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to smell"
     },
     {
-      "form": "osemà",
-      "orthographic": "osemà",
+      "form": "fetere",
+      "orthographic": "fetere",
       "gloss": "to smell"
     },
     {
@@ -675,8 +675,8 @@
       "gloss": "to sleep"
     },
     {
-      "form": "durmì",
-      "orthographic": "durmì",
+      "form": "dormere",
+      "orthographic": "dormere",
       "gloss": "to sleep"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "to live"
     },
     {
-      "form": "campà",
-      "orthographic": "campà",
+      "form": "vivere",
+      "orthographic": "vivere",
       "gloss": "to live"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "vattere",
-      "orthographic": "vattere",
+      "form": "culpì",
+      "orthographic": "culpì",
       "gloss": "to hit"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to split"
     },
     {
-      "form": "spartere",
-      "orthographic": "spartere",
+      "form": "sengà",
+      "orthographic": "sengà",
       "gloss": "to split"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "scippà",
-      "orthographic": "scippà",
+      "form": "graffià",
+      "orthographic": "graffià",
       "gloss": "to scratch"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "scavà",
-      "orthographic": "scavà",
+      "form": "scafutà",
+      "orthographic": "scafutà",
       "gloss": "to dig"
     },
     {
@@ -795,8 +795,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "iriere",
-      "orthographic": "iriere",
+      "form": "stà",
+      "orthographic": "stà",
       "gloss": "to stand"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "girà",
-      "orthographic": "girà",
+      "form": "avutà",
+      "orthographic": "avutà",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -815,8 +815,8 @@
       "gloss": "to fall"
     },
     {
-      "form": "cadé",
-      "orthographic": "cadé",
+      "form": "cascà",
+      "orthographic": "cascà",
       "gloss": "to fall"
     },
     {
@@ -835,8 +835,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "nzeppà",
-      "orthographic": "nzeppà",
+      "form": "spremmere",
+      "orthographic": "spremmere",
       "gloss": "to squeeze"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "lancià",
-      "orthographic": "lancià",
+      "form": "jettà",
+      "orthographic": "jettà",
       "gloss": "to throw"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "to play"
     },
     {
-      "form": "pazzià",
-      "orthographic": "pazzià",
+      "form": "jucà",
+      "orthographic": "jucà",
       "gloss": "to play"
     },
     {
@@ -925,8 +925,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "jaccià",
-      "orthographic": "jaccià",
+      "form": "gelà",
+      "orthographic": "gelà",
       "gloss": "to freeze"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "rain"
     },
     {
-      "form": "chioggia",
-      "orthographic": "chioggia",
+      "form": "chioppeta",
+      "orthographic": "chioppeta",
       "gloss": "rain"
     },
     {
@@ -1035,8 +1035,8 @@
       "gloss": "ice"
     },
     {
-      "form": "jaccio",
-      "orthographic": "jaccio",
+      "form": "chiatro",
+      "orthographic": "chiatro",
       "gloss": "ice"
     },
     {
@@ -1090,8 +1090,8 @@
       "gloss": "white"
     },
     {
-      "form": "ghianco",
-      "orthographic": "ghianco",
+      "form": "janco",
+      "orthographic": "janco",
       "gloss": "white"
     },
     {
@@ -1150,8 +1150,8 @@
       "gloss": "bad"
     },
     {
-      "form": "cattivo",
-      "orthographic": "cattivo",
+      "form": "malamente",
+      "orthographic": "malamente",
       "gloss": "bad"
     },
     {
@@ -1160,8 +1160,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "fraceto",
-      "orthographic": "fraceto",
+      "form": "speruto",
+      "orthographic": "speruto",
       "gloss": "rotten"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "zuozzo",
-      "orthographic": "zuozzo",
+      "form": "sivo",
+      "orthographic": "sivo",
       "gloss": "dirty"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "sharp (as a knife)"
     },
     {
-      "form": "prufilato",
-      "orthographic": "prufilato",
+      "form": "puntuto",
+      "orthographic": "puntuto",
       "gloss": "sharp (as a knife)"
     },
     {
@@ -1205,8 +1205,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "muollo",
-      "orthographic": "muollo",
+      "form": "liscio",
+      "orthographic": "liscio",
       "gloss": "smooth"
     },
     {
@@ -1215,8 +1215,8 @@
       "gloss": "wet"
     },
     {
-      "form": "umeto",
-      "orthographic": "umeto",
+      "form": "nfuso",
+      "orthographic": "nfuso",
       "gloss": "wet"
     },
     {
@@ -1235,8 +1235,8 @@
       "gloss": "near"
     },
     {
-      "form": "vecino",
-      "orthographic": "vecino",
+      "form": "azzico",
+      "orthographic": "azzico",
       "gloss": "near"
     },
     {
@@ -1245,8 +1245,8 @@
       "gloss": "far"
     },
     {
-      "form": "luntano",
-      "orthographic": "luntano",
+      "form": "arrasso",
+      "orthographic": "arrasso",
       "gloss": "far"
     },
     {
@@ -1255,8 +1255,8 @@
       "gloss": "right"
     },
     {
-      "form": "deritta",
-      "orthographic": "deritta",
+      "form": "canzo",
+      "orthographic": "canzo",
       "gloss": "right"
     },
     {
@@ -1275,8 +1275,8 @@
       "gloss": "in"
     },
     {
-      "form": "dinto",
-      "orthographic": "dinto",
+      "form": "in",
+      "orthographic": "in",
       "gloss": "in"
     },
     {

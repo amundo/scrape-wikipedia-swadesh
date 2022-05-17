@@ -15,8 +15,8 @@
       "gloss": "I (1sg)"
     },
     {
-      "form": "jien",
-      "orthographic": "jien",
+      "form": "jiena",
+      "orthographic": "jiena",
       "gloss": "I (1sg)"
     },
     {
@@ -25,8 +25,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "int",
-      "orthographic": "int",
+      "form": "inti",
+      "orthographic": "inti",
       "gloss": "you (2sg)"
     },
     {
@@ -35,18 +35,18 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hu",
-      "orthographic": "hu",
+      "form": "huwa",
+      "orthographic": "huwa",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hu",
-      "orthographic": "hu",
+      "form": "hi",
+      "orthographic": "hi",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "hu",
-      "orthographic": "hu",
+      "form": "hija",
+      "orthographic": "hija",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -95,13 +95,13 @@
       "gloss": "what"
     },
     {
-      "form": "x'inhu",
-      "orthographic": "x'inhu",
+      "form": "għal xiex",
+      "orthographic": "għal xiex",
       "gloss": "what"
     },
     {
-      "form": "x'inhu",
-      "orthographic": "x'inhu",
+      "form": "x'",
+      "orthographic": "x'",
       "gloss": "what"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "two"
     },
     {
-      "form": "tnejn",
-      "orthographic": "tnejn",
+      "form": "żewġ",
+      "orthographic": "żewġ",
       "gloss": "two"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "bniedem",
-      "orthographic": "bniedem",
+      "form": "uman",
+      "orthographic": "uman",
       "gloss": "man (human being)"
     },
     {
@@ -320,13 +320,13 @@
       "gloss": "stick"
     },
     {
-      "form": "bastun",
-      "orthographic": "bastun",
+      "form": "ħatar",
+      "orthographic": "ħatar",
       "gloss": "stick"
     },
     {
-      "form": "bastun",
-      "orthographic": "bastun",
+      "form": "stikka",
+      "orthographic": "stikka",
       "gloss": "stick"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "flower"
     },
     {
-      "form": "fjura",
-      "orthographic": "fjura",
+      "form": "warda",
+      "orthographic": "warda",
       "gloss": "flower"
     },
     {
@@ -515,13 +515,13 @@
       "gloss": "breast"
     },
     {
-      "form": "sider",
-      "orthographic": "sider",
+      "form": "ħodon",
+      "orthographic": "ħodon",
       "gloss": "breast"
     },
     {
-      "form": "sider",
-      "orthographic": "sider",
+      "form": "żejża",
+      "orthographic": "żejża",
       "gloss": "breast"
     },
     {
@@ -635,13 +635,13 @@
       "gloss": "to fight"
     },
     {
-      "form": "ġġieled",
-      "orthographic": "ġġieled",
+      "form": "tqabad",
+      "orthographic": "tqabad",
       "gloss": "to fight"
     },
     {
-      "form": "ġġieled",
-      "orthographic": "ġġieled",
+      "form": "tqatel",
+      "orthographic": "tqatel",
       "gloss": "to fight"
     },
     {
@@ -675,13 +675,13 @@
       "gloss": "to scratch"
     },
     {
-      "form": "barax",
-      "orthographic": "barax",
+      "form": "giref",
+      "orthographic": "giref",
       "gloss": "to scratch"
     },
     {
-      "form": "barax",
-      "orthographic": "barax",
+      "form": "ħakk",
+      "orthographic": "ħakk",
       "gloss": "to scratch"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "ħakk",
-      "orthographic": "ħakk",
+      "form": "għorok",
+      "orthographic": "għorok",
       "gloss": "to rub"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to sing"
     },
     {
-      "form": "għanna",
-      "orthographic": "għanna",
+      "form": "kanta",
+      "orthographic": "kanta",
       "gloss": "to sing"
     },
     {
@@ -835,8 +835,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "inġazza",
-      "orthographic": "inġazza",
+      "form": "ffriża",
+      "orthographic": "ffriża",
       "gloss": "to freeze"
     },
     {
@@ -860,13 +860,13 @@
       "gloss": "star"
     },
     {
-      "form": "stilla",
-      "orthographic": "stilla",
+      "form": "niġma",
+      "orthographic": "niġma",
       "gloss": "star"
     },
     {
-      "form": "stilla",
-      "orthographic": "stilla",
+      "form": "kewkba",
+      "orthographic": "kewkba",
       "gloss": "star"
     },
     {
@@ -905,8 +905,8 @@
       "gloss": "stone"
     },
     {
-      "form": "ġebla",
-      "orthographic": "ġebla",
+      "form": "ħaġra",
+      "orthographic": "ħaġra",
       "gloss": "stone"
     },
     {
@@ -925,8 +925,8 @@
       "gloss": "earth"
     },
     {
-      "form": "ħamrija",
-      "orthographic": "ħamrija",
+      "form": "art",
+      "orthographic": "art",
       "gloss": "earth"
     },
     {
@@ -955,8 +955,8 @@
       "gloss": "snow"
     },
     {
-      "form": "silġ",
-      "orthographic": "silġ",
+      "form": "borra",
+      "orthographic": "borra",
       "gloss": "snow"
     },
     {
@@ -1030,13 +1030,13 @@
       "gloss": "day"
     },
     {
-      "form": "jum",
-      "orthographic": "jum",
+      "form": "nhar",
+      "orthographic": "nhar",
       "gloss": "day"
     },
     {
-      "form": "jum",
-      "orthographic": "jum",
+      "form": "ġurnata",
+      "orthographic": "ġurnata",
       "gloss": "day"
     },
     {
@@ -1070,13 +1070,13 @@
       "gloss": "old"
     },
     {
-      "form": "qadim",
-      "orthographic": "qadim",
+      "form": "antik",
+      "orthographic": "antik",
       "gloss": "old"
     },
     {
-      "form": "qadim",
-      "orthographic": "qadim",
+      "form": "xiħ",
+      "orthographic": "xiħ",
       "gloss": "old"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "dry"
     },
     {
-      "form": "niexef",
-      "orthographic": "niexef",
+      "form": "xott",
+      "orthographic": "xott",
       "gloss": "dry"
     },
     {
@@ -1140,8 +1140,8 @@
       "gloss": "correct"
     },
     {
-      "form": "tajjeb",
-      "orthographic": "tajjeb",
+      "form": "korrett",
+      "orthographic": "korrett",
       "gloss": "correct"
     },
     {
@@ -1180,8 +1180,8 @@
       "gloss": "with"
     },
     {
-      "form": "ma'",
-      "orthographic": "ma'",
+      "form": "b'",
+      "orthographic": "b'",
       "gloss": "with"
     },
     {

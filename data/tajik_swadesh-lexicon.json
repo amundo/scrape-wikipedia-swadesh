@@ -25,8 +25,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "ü",
-      "orthographic": "ӯ",
+      "form": "vay",
+      "orthographic": "вай",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "heavy"
     },
     {
-      "form": "vaznin",
-      "orthographic": "вазнин",
+      "form": "sangin",
+      "orthographic": "сангин",
       "gloss": "heavy"
     },
     {
@@ -185,8 +185,8 @@
       "gloss": "short"
     },
     {
-      "form": "kütoh",
-      "orthographic": "кӯтоҳ",
+      "form": "past",
+      "orthographic": "паст",
       "gloss": "short"
     },
     {
@@ -215,8 +215,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "inson",
-      "orthographic": "инсон",
+      "form": "odam",
+      "orthographic": "одам",
       "gloss": "man (human being)"
     },
     {
@@ -570,8 +570,8 @@
       "gloss": "to live"
     },
     {
-      "form": "zistan",
-      "orthographic": "зистан",
+      "form": "zindagī kardan",
+      "orthographic": "зиндагӣ кардан",
       "gloss": "to live"
     },
     {
@@ -655,8 +655,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "nišastan",
-      "orthographic": "нишастан",
+      "form": "šištan",
+      "orthographic": "шиштан",
       "gloss": "to sit"
     },
     {
@@ -720,8 +720,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "partoftan",
-      "orthographic": "партофтан",
+      "form": "andoxtan",
+      "orthographic": "андохтан",
       "gloss": "to throw"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "sun"
     },
     {
-      "form": "xuršed",
-      "orthographic": "хуршед",
+      "form": "oftob",
+      "orthographic": "офтоб",
       "gloss": "sun"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "river"
     },
     {
-      "form": "rüd",
-      "orthographic": "рӯд",
+      "form": "daryo",
+      "orthographic": "дарё",
       "gloss": "river"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "sea"
     },
     {
-      "form": "bahr",
-      "orthographic": "баҳр",
+      "form": "daryo",
+      "orthographic": "дарё",
       "gloss": "sea"
     },
     {
@@ -965,8 +965,8 @@
       "gloss": "cold"
     },
     {
-      "form": "xunuk",
-      "orthographic": "хунук",
+      "form": "sard",
+      "orthographic": "сард",
       "gloss": "cold"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "old"
     },
     {
-      "form": "kühna",
-      "orthographic": "кӯҳна",
+      "form": "pir",
+      "orthographic": "пир",
       "gloss": "old"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "good"
     },
     {
-      "form": "naġz",
-      "orthographic": "нағз",
+      "form": "xub",
+      "orthographic": "хуб",
       "gloss": "good"
     },
     {
@@ -1005,8 +1005,8 @@
       "gloss": "bad"
     },
     {
-      "form": "bad",
-      "orthographic": "бад",
+      "form": "ganda",
+      "orthographic": "ганда",
       "gloss": "bad"
     },
     {

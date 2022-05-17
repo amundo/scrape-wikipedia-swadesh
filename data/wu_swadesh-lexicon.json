@@ -30,13 +30,13 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "aq7 laq8/la6",
-      "orthographic": "阿拉",
+      "form": "ngu6 gni6",
+      "orthographic": "我伲",
       "gloss": "we (1pl)"
     },
     {
-      "form": "aq7 laq8/la6",
-      "orthographic": "阿拉",
+      "form": "gni6",
+      "orthographic": "伲",
       "gloss": "we (1pl)"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "this"
     },
     {
-      "form": "geq8",
-      "orthographic": "搿",
+      "form": "diq8",
+      "orthographic": "迭",
       "gloss": "this"
     },
     {
@@ -65,38 +65,38 @@
       "gloss": "that"
     },
     {
-      "form": "e1",
-      "orthographic": "哀",
+      "form": "i1",
+      "orthographic": "伊",
       "gloss": "that"
     },
     {
-      "form": "geq8 taq7",
+      "form": "搿墶",
       "orthographic": "搿墶",
       "gloss": "here"
     },
     {
       "form": "geq8 taq7",
-      "orthographic": "搿墶",
+      "orthographic": "搿𡍲",
       "gloss": "here"
     },
     {
-      "form": "geq8 taq7",
-      "orthographic": "搿墶",
+      "form": "tshy1 di6",
+      "orthographic": "此地",
       "gloss": "here"
     },
     {
-      "form": "e1 mi6 taq7",
+      "form": "哀面墶",
       "orthographic": "哀面墶",
       "gloss": "there"
     },
     {
       "form": "e1 mi6 taq7",
-      "orthographic": "哀面墶",
+      "orthographic": "哀面𡍲",
       "gloss": "there"
     },
     {
-      "form": "e1 mi6 taq7",
-      "orthographic": "哀面墶",
+      "form": "i1 taq7",
+      "orthographic": "伊墶",
       "gloss": "there"
     },
     {
@@ -110,8 +110,8 @@
       "gloss": "what"
     },
     {
-      "form": "sa5",
-      "orthographic": "啥",
+      "form": "sa5 meq8 zy6",
+      "orthographic": "啥物事",
       "gloss": "what"
     },
     {
@@ -120,18 +120,18 @@
       "gloss": "where"
     },
     {
-      "form": "sa5 di6 faon1",
-      "orthographic": "啥地方",
+      "form": "gha6 li6",
+      "orthographic": "嚡裏",
       "gloss": "where"
     },
     {
-      "form": "sa5 di6 faon1",
-      "orthographic": "啥地方",
+      "form": "嚡裏墶",
+      "orthographic": "嚡裏墶",
       "gloss": "where"
     },
     {
-      "form": "sa5 di6 faon1",
-      "orthographic": "啥地方",
+      "form": "gha6 li6 taq7",
+      "orthographic": "嚡裏𡍲",
       "gloss": "where"
     },
     {
@@ -140,8 +140,8 @@
       "gloss": "when"
     },
     {
-      "form": "sa5 zen6 kuaon1",
-      "orthographic": "啥辰光",
+      "form": "ci5 zy6",
+      "orthographic": "幾時",
       "gloss": "when"
     },
     {
@@ -160,8 +160,8 @@
       "gloss": "all"
     },
     {
-      "form": "zhi6 bu6",
-      "orthographic": "全部",
+      "form": "ze6",
+      "orthographic": "儕",
       "gloss": "all"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "many"
     },
     {
-      "form": "ciau1 kue1",
-      "orthographic": "交關",
+      "form": "tu1",
+      "orthographic": "多",
       "gloss": "many"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "other"
     },
     {
-      "form": "ji6 tha1",
-      "orthographic": "其他",
+      "form": "biq8 yan6",
+      "orthographic": "別樣",
       "gloss": "other"
     },
     {
@@ -205,8 +205,8 @@
       "gloss": "two"
     },
     {
-      "form": "lian6",
-      "orthographic": "兩",
+      "form": "gni6",
+      "orthographic": "二",
       "gloss": "two"
     },
     {
@@ -240,8 +240,8 @@
       "gloss": "wide"
     },
     {
-      "form": "khuoe1",
-      "orthographic": "寬",
+      "form": "khueq7",
+      "orthographic": "闊",
       "gloss": "wide"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "short"
     },
     {
-      "form": "toe5",
-      "orthographic": "短",
+      "form": "a5",
+      "orthographic": "矮",
       "gloss": "short"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "ghaq8",
-      "orthographic": "狹",
+      "form": "tsaq7",
+      "orthographic": "窄",
       "gloss": "narrow"
     },
     {
@@ -310,13 +310,13 @@
       "gloss": "wife"
     },
     {
-      "form": "lau6 bu6",
-      "orthographic": "老婆",
+      "form": "ka1 tsy5 bu6",
+      "orthographic": "家主婆",
       "gloss": "wife"
     },
     {
-      "form": "lau6 bu6",
-      "orthographic": "老婆",
+      "form": "chi1 tsy5",
+      "orthographic": "妻子",
       "gloss": "wife"
     },
     {
@@ -325,8 +325,8 @@
       "gloss": "husband"
     },
     {
-      "form": "lau6 kon1",
-      "orthographic": "老公",
+      "form": "zan6 fu1",
+      "orthographic": "丈夫",
       "gloss": "husband"
     },
     {
@@ -335,18 +335,18 @@
       "gloss": "mother"
     },
     {
-      "form": "ma1 ma1",
-      "orthographic": "媽媽",
+      "form": "m1 ma1",
+      "orthographic": "姆媽",
       "gloss": "mother"
     },
     {
-      "form": "ma1 ma1",
-      "orthographic": "媽媽",
+      "form": "gnian6",
+      "orthographic": "娘",
       "gloss": "mother"
     },
     {
-      "form": "ma1 ma1",
-      "orthographic": "媽媽",
+      "form": "mu1 chin1",
+      "orthographic": "母親",
       "gloss": "mother"
     },
     {
@@ -355,18 +355,18 @@
       "gloss": "father"
     },
     {
-      "form": "pa1 pa1",
-      "orthographic": "爸爸",
+      "form": "tia1",
+      "orthographic": "爹",
       "gloss": "father"
     },
     {
-      "form": "pa1 pa1",
-      "orthographic": "爸爸",
+      "form": "ya6",
+      "orthographic": "爺",
       "gloss": "father"
     },
     {
-      "form": "pa1 pa1",
-      "orthographic": "爸爸",
+      "form": "vu6 chin1",
+      "orthographic": "父親",
       "gloss": "father"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "hair"
     },
     {
-      "form": "deu6 faq7",
-      "orthographic": "頭髮",
+      "form": "mau6",
+      "orthographic": "毛",
       "gloss": "hair"
     },
     {
@@ -565,8 +565,8 @@
       "gloss": "leg"
     },
     {
-      "form": "ciaq7",
-      "orthographic": "腳",
+      "form": "the5",
+      "orthographic": "腿",
       "gloss": "leg"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "heart"
     },
     {
-      "form": "shin1",
-      "orthographic": "心",
+      "form": "shin1 zaon6",
+      "orthographic": "心臟",
       "gloss": "heart"
     },
     {
@@ -630,8 +630,8 @@
       "gloss": "to drink"
     },
     {
-      "form": "haq7/heq7",
-      "orthographic": "喝",
+      "form": "chiq7",
+      "orthographic": "吃",
       "gloss": "to drink"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "soq7",
-      "orthographic": "嗍",
+      "form": "shiq7",
+      "orthographic": "吸",
       "gloss": "to suck"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "to fear"
     },
     {
-      "form": "pho5",
-      "orthographic": "怕",
+      "form": "haq7",
+      "orthographic": "嚇",
       "gloss": "to fear"
     },
     {
@@ -750,8 +750,8 @@
       "gloss": "to hit"
     },
     {
-      "form": "tan5",
-      "orthographic": "打",
+      "form": "khau1",
+      "orthographic": "敲",
       "gloss": "to hit"
     },
     {
@@ -760,13 +760,13 @@
       "gloss": "to cut"
     },
     {
-      "form": "tse1",
-      "orthographic": "劗",
+      "form": "chiq7",
+      "orthographic": "切",
       "gloss": "to cut"
     },
     {
-      "form": "tse1",
-      "orthographic": "劗",
+      "form": "ci5",
+      "orthographic": "剪",
       "gloss": "to cut"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "tshoq7",
-      "orthographic": "戳",
+      "form": "zoq8",
+      "orthographic": "鑿",
       "gloss": "to stab"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to walk"
     },
     {
-      "form": "tseu5",
-      "orthographic": "走",
+      "form": "tseu5 lu6",
+      "orthographic": "走路",
       "gloss": "to walk"
     },
     {
@@ -825,8 +825,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "khuen5",
-      "orthographic": "睏",
+      "form": "thaon5",
+      "orthographic": "躺",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -850,13 +850,13 @@
       "gloss": "to fall"
     },
     {
-      "form": "peq7",
+      "form": "撥",
       "orthographic": "撥",
       "gloss": "to give"
     },
     {
       "form": "peq7",
-      "orthographic": "撥",
+      "orthographic": "畀",
       "gloss": "to give"
     },
     {
@@ -870,18 +870,18 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "gniaq8",
-      "orthographic": "捏",
+      "form": "tsen5",
+      "orthographic": "捘",
       "gloss": "to squeeze"
     },
     {
-      "form": "gnioq8",
+      "form": "掿",
       "orthographic": "掿",
       "gloss": "to rub"
     },
     {
       "form": "gnioq8",
-      "orthographic": "掿",
+      "orthographic": "𢫭",
       "gloss": "to rub"
     },
     {
@@ -935,13 +935,13 @@
       "gloss": "to sing"
     },
     {
-      "form": "beq8 shian5",
+      "form": "孛相",
       "orthographic": "孛相",
       "gloss": "to play"
     },
     {
       "form": "beq8 shian5",
-      "orthographic": "孛相",
+      "orthographic": "白相",
       "gloss": "to play"
     },
     {
@@ -980,8 +980,8 @@
       "gloss": "star"
     },
     {
-      "form": "shin1 shin1",
-      "orthographic": "星星",
+      "form": "shin1",
+      "orthographic": "星",
       "gloss": "star"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "water"
     },
     {
-      "form": "sy5",
-      "orthographic": "水",
+      "form": "zo6",
+      "orthographic": "茶",
       "gloss": "water"
     },
     {
@@ -1035,8 +1035,8 @@
       "gloss": "dust"
     },
     {
-      "form": "hue1",
-      "orthographic": "灰",
+      "form": "hue1 zen6",
+      "orthographic": "灰塵",
       "gloss": "dust"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "red"
     },
     {
-      "form": "ghon6",
-      "orthographic": "紅",
+      "form": "ghon6 nge6 seq7",
+      "orthographic": "紅顏色",
       "gloss": "red"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "green"
     },
     {
-      "form": "loq8",
-      "orthographic": "綠",
+      "form": "loq8 nge6 seq7",
+      "orthographic": "綠顏色",
       "gloss": "green"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "yellow"
     },
     {
-      "form": "waon6",
-      "orthographic": "黃",
+      "form": "waon6 nge6 seq7",
+      "orthographic": "黃顏色",
       "gloss": "yellow"
     },
     {
@@ -1140,8 +1140,8 @@
       "gloss": "white"
     },
     {
-      "form": "baq8",
-      "orthographic": "白",
+      "form": "baq8 nge6 seq7",
+      "orthographic": "白顏色",
       "gloss": "white"
     },
     {
@@ -1150,8 +1150,8 @@
       "gloss": "black"
     },
     {
-      "form": "heq7",
-      "orthographic": "黑",
+      "form": "heq7 nge6 seq7",
+      "orthographic": "黑顏色",
       "gloss": "black"
     },
     {
@@ -1160,18 +1160,18 @@
       "gloss": "night"
     },
     {
-      "form": "ya6 li6",
-      "orthographic": "夜裏",
+      "form": "ya6 li6 shian5",
+      "orthographic": "夜裏向",
       "gloss": "night"
     },
     {
-      "form": "ya6 li6",
-      "orthographic": "夜裏",
+      "form": "ya6 tau5",
+      "orthographic": "夜到",
       "gloss": "night"
     },
     {
-      "form": "ya6 li6",
-      "orthographic": "夜裏",
+      "form": "ya6 deu6",
+      "orthographic": "夜頭",
       "gloss": "night"
     },
     {
@@ -1180,13 +1180,13 @@
       "gloss": "day"
     },
     {
-      "form": "thi1",
-      "orthographic": "天",
+      "form": "gniq6",
+      "orthographic": "日",
       "gloss": "day"
     },
     {
-      "form": "thi1",
-      "orthographic": "天",
+      "form": "gniq6 thi5",
+      "orthographic": "日天",
       "gloss": "day"
     },
     {
@@ -1210,8 +1210,8 @@
       "gloss": "full"
     },
     {
-      "form": "moe6",
-      "orthographic": "滿",
+      "form": "pau5",
+      "orthographic": "飽",
       "gloss": "full"
     },
     {
@@ -1225,8 +1225,8 @@
       "gloss": "old"
     },
     {
-      "form": "jieu6",
-      "orthographic": "舊",
+      "form": "lau6",
+      "orthographic": "老",
       "gloss": "old"
     },
     {
@@ -1280,8 +1280,8 @@
       "gloss": "wet"
     },
     {
-      "form": "seq7",
-      "orthographic": "濕",
+      "form": "zau6",
+      "orthographic": "潮",
       "gloss": "wet"
     },
     {
@@ -1320,18 +1320,18 @@
       "gloss": "at"
     },
     {
-      "form": "laq8",
-      "orthographic": "辣",
+      "form": "laq8 laq8",
+      "orthographic": "辣辣",
       "gloss": "at"
     },
     {
-      "form": "laq8",
-      "orthographic": "辣",
+      "form": "laq8 he5",
+      "orthographic": "辣海",
       "gloss": "at"
     },
     {
-      "form": "laq8",
-      "orthographic": "辣",
+      "form": "laq8 ke5",
+      "orthographic": "辣該",
       "gloss": "at"
     },
     {
@@ -1340,13 +1340,13 @@
       "gloss": "in"
     },
     {
-      "form": "li6 shian5",
-      "orthographic": "裏向",
+      "form": "li6 deu6",
+      "orthographic": "裏頭",
       "gloss": "in"
     },
     {
-      "form": "li6 shian5",
-      "orthographic": "裏向",
+      "form": "li6",
+      "orthographic": "裏",
       "gloss": "in"
     },
     {
@@ -1355,33 +1355,33 @@
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "theq7",
+      "orthographic": "脱",
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "teq7 tsy5",
+      "orthographic": "得仔",
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "theq7 tsy5",
+      "orthographic": "脫仔",
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "kau1/kau5",
+      "orthographic": "交",
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "paon1",
+      "orthographic": "幫",
       "gloss": "with"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "ken1",
+      "orthographic": "跟",
       "gloss": "with"
     },
     {
@@ -1390,28 +1390,28 @@
       "gloss": "and"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "theq7",
+      "orthographic": "脱",
       "gloss": "and"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "kau1/kau5",
+      "orthographic": "交",
       "gloss": "and"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "ken1",
+      "orthographic": "跟",
       "gloss": "and"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "paon1",
+      "orthographic": "幫",
       "gloss": "and"
     },
     {
-      "form": "teq7",
-      "orthographic": "得",
+      "form": "lau6",
+      "orthographic": "咾",
       "gloss": "and"
     },
     {
@@ -1420,18 +1420,18 @@
       "gloss": "if"
     },
     {
-      "form": "cia6 sy5",
-      "orthographic": "假使",
+      "form": "zy6 ku5",
+      "orthographic": "如果",
       "gloss": "if"
     },
     {
-      "form": "cia6 sy5",
-      "orthographic": "假使",
+      "form": "cia5 zy6",
+      "orthographic": "假如",
       "gloss": "if"
     },
     {
-      "form": "cia6 sy5",
-      "orthographic": "假使",
+      "form": "meq8",
+      "orthographic": "末",
       "gloss": "if"
     },
     {
@@ -1440,8 +1440,8 @@
       "gloss": "because"
     },
     {
-      "form": "in1 we6",
-      "orthographic": "因為",
+      "form": "lau6",
+      "orthographic": "咾",
       "gloss": "because"
     },
     {

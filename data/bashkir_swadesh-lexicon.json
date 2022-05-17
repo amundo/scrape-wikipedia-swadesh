@@ -85,8 +85,8 @@
       "gloss": "how"
     },
     {
-      "form": "nisek",
-      "orthographic": "нисек",
+      "form": "qalay",
+      "orthographic": "ҡалай",
       "gloss": "how"
     },
     {
@@ -150,13 +150,13 @@
       "gloss": "big"
     },
     {
-      "form": "ður",
-      "orthographic": "ҙур",
+      "form": "däw",
+      "orthographic": "дәү",
       "gloss": "big"
     },
     {
-      "form": "ður",
-      "orthographic": "ҙур",
+      "form": "ölkän",
+      "orthographic": "өлкән",
       "gloss": "big"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "thick"
     },
     {
-      "form": "qalïn",
-      "orthographic": "ҡалын",
+      "form": "yïwan",
+      "orthographic": "йыуан",
       "gloss": "thick"
     },
     {
@@ -190,8 +190,8 @@
       "gloss": "small"
     },
     {
-      "form": "bäläkäy",
-      "orthographic": "бәләкәй",
+      "form": "bäläkäs",
+      "orthographic": "бәләкәс",
       "gloss": "small"
     },
     {
@@ -210,8 +210,8 @@
       "gloss": "thin"
     },
     {
-      "form": "yoqa",
-      "orthographic": "йоҡа",
+      "form": "näðek",
+      "orthographic": "нәҙек",
       "gloss": "thin"
     },
     {
@@ -250,8 +250,8 @@
       "gloss": "mother"
     },
     {
-      "form": "äsäy",
-      "orthographic": "әсәй",
+      "form": "inäy",
+      "orthographic": "инәй",
       "gloss": "mother"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "animal"
     },
     {
-      "form": "yänlek",
-      "orthographic": "йәнлек",
+      "form": "xayuan",
+      "orthographic": "хайуан",
       "gloss": "animal"
     },
     {
@@ -300,8 +300,8 @@
       "gloss": "worm"
     },
     {
-      "form": "qort",
-      "orthographic": "ҡорт",
+      "form": "seläwsen",
+      "orthographic": "селәүсен",
       "gloss": "worm"
     },
     {
@@ -345,8 +345,8 @@
       "gloss": "bark (of a tree)"
     },
     {
-      "form": "qayïr",
-      "orthographic": "ҡайыр",
+      "form": "qabïq",
+      "orthographic": "ҡабыҡ",
       "gloss": "bark (of a tree)"
     },
     {
@@ -395,8 +395,8 @@
       "gloss": "egg"
     },
     {
-      "form": "yomortqa",
-      "orthographic": "йомортҡа",
+      "form": "kükäy",
+      "orthographic": "күкәй",
       "gloss": "egg"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "feather"
     },
     {
-      "form": "qawïrhïn",
-      "orthographic": "ҡауырһын",
+      "form": "qawrïy",
+      "orthographic": "ҡаурый",
       "gloss": "feather"
     },
     {
@@ -495,8 +495,8 @@
       "gloss": "belly"
     },
     {
-      "form": "es",
-      "orthographic": "эс",
+      "form": "qorhaq",
+      "orthographic": "ҡорһаҡ",
       "gloss": "belly"
     },
     {
@@ -645,8 +645,8 @@
       "gloss": "to cut"
     },
     {
-      "form": "qïrqïw",
-      "orthographic": "ҡырҡыу",
+      "form": "kiθew",
+      "orthographic": "киҫеү",
       "gloss": "to cut"
     },
     {
@@ -660,8 +660,8 @@
       "gloss": "to stab"
     },
     {
-      "form": "sänsew",
-      "orthographic": "сәнсеү",
+      "form": "qaðaw",
+      "orthographic": "ҡаҙау",
       "gloss": "to stab"
     },
     {
@@ -760,13 +760,13 @@
       "gloss": "to push"
     },
     {
-      "form": "etew",
-      "orthographic": "этеү",
+      "form": "etärew",
+      "orthographic": "этәреү",
       "gloss": "to push"
     },
     {
-      "form": "etew",
-      "orthographic": "этеү",
+      "form": "törtöw",
+      "orthographic": "төртөү",
       "gloss": "to push"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "tašlaw",
-      "orthographic": "ташлау",
+      "form": "bärew",
+      "orthographic": "бәреү",
       "gloss": "to throw"
     },
     {
@@ -795,8 +795,8 @@
       "gloss": "to count"
     },
     {
-      "form": "hanaw",
-      "orthographic": "һанау",
+      "form": "iθäpläw",
+      "orthographic": "иҫәпләү",
       "gloss": "to count"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "tuñïw",
-      "orthographic": "туңыу",
+      "form": "öšöw",
+      "orthographic": "өшөү",
       "gloss": "to freeze"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "dust"
     },
     {
-      "form": "sañ",
-      "orthographic": "саң",
+      "form": "tuðan",
+      "orthographic": "туҙан",
       "gloss": "dust"
     },
     {
@@ -910,8 +910,8 @@
       "gloss": "earth"
     },
     {
-      "form": "tupraq",
-      "orthographic": "тупраҡ",
+      "form": "yer",
+      "orthographic": "ер",
       "gloss": "earth"
     },
     {
@@ -1040,8 +1040,8 @@
       "gloss": "old"
     },
     {
-      "form": "iθke",
-      "orthographic": "иҫке",
+      "form": "qart",
+      "orthographic": "ҡарт",
       "gloss": "old"
     },
     {
@@ -1050,8 +1050,8 @@
       "gloss": "good"
     },
     {
-      "form": "häybät",
-      "orthographic": "һәйбәт",
+      "form": "yaqšï",
+      "orthographic": "яҡшы",
       "gloss": "good"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "bad"
     },
     {
-      "form": "nasar",
-      "orthographic": "насар",
+      "form": "yaman",
+      "orthographic": "яман",
       "gloss": "bad"
     },
     {
@@ -1085,8 +1085,8 @@
       "gloss": "round"
     },
     {
-      "form": "yomoro",
-      "orthographic": "йоморо",
+      "form": "tüñäräk",
+      "orthographic": "түңәрәк",
       "gloss": "round"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "far"
     },
     {
-      "form": "alïθ",
-      "orthographic": "алыҫ",
+      "form": "yïraq",
+      "orthographic": "йыраҡ",
       "gloss": "far"
     },
     {
@@ -1150,8 +1150,8 @@
       "gloss": "at"
     },
     {
-      "form": "-da/-dä/-ta/-tä/-ða/-ðä",
-      "orthographic": "-да",
+      "form": "-la/-lä",
+      "orthographic": "-ла",
       "gloss": "at"
     },
     {
@@ -1160,13 +1160,13 @@
       "gloss": "in"
     },
     {
-      "form": "-da/-dä/-ta/-tä/-ða/-ðä",
-      "orthographic": "-да",
+      "form": "-la/-lä",
+      "orthographic": "-ла",
       "gloss": "in"
     },
     {
-      "form": "-da/-dä/-ta/-tä/-ða/-ðä",
-      "orthographic": "-да",
+      "form": "esendä",
+      "orthographic": "эсендә",
       "gloss": "in"
     },
     {
@@ -1180,18 +1180,18 @@
       "gloss": "and"
     },
     {
-      "form": "häm",
-      "orthographic": "һәм",
+      "form": "menän",
+      "orthographic": "менән",
       "gloss": "and"
     },
     {
-      "form": "häm",
-      "orthographic": "һәм",
+      "form": "da/dä/ta/tä/ða/ðä",
+      "orthographic": "да",
       "gloss": "and"
     },
     {
-      "form": "häm",
-      "orthographic": "һәм",
+      "form": "la/lä",
+      "orthographic": "ла",
       "gloss": "and"
     },
     {
@@ -1200,13 +1200,13 @@
       "gloss": "if"
     },
     {
-      "form": "-ha/-hä",
-      "orthographic": "-һа",
+      "form": "ägär",
+      "orthographic": "әгәр",
       "gloss": "if"
     },
     {
-      "form": "-ha/-hä",
-      "orthographic": "-һа",
+      "form": "ägär ðä",
+      "orthographic": "әгәр ҙә",
       "gloss": "if"
     },
     {

@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tū̃",
-      "orthographic": "ਤੂੰ",
+      "form": "tusī̃",
+      "orthographic": "ਤੁਸੀਂ",
       "gloss": "you (2sg)"
     },
     {
@@ -30,8 +30,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "iha",
-      "orthographic": "ਇਹ",
+      "form": "uha",
+      "orthographic": "ਉਹ",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "iha",
-      "orthographic": "ਇਹ",
+      "form": "uha",
+      "orthographic": "ਉਹ",
       "gloss": "they (3pl)"
     },
     {
@@ -105,8 +105,8 @@
       "gloss": "not"
     },
     {
-      "form": "nahī̃",
-      "orthographic": "ਨਹੀਂ",
+      "form": "nā",
+      "orthographic": "ਨਾ",
       "gloss": "not"
     },
     {
@@ -115,8 +115,8 @@
       "gloss": "all"
     },
     {
-      "form": "sārā",
-      "orthographic": "ਸਾਰਾ",
+      "form": "sabh",
+      "orthographic": "ਸਭ",
       "gloss": "all"
     },
     {
@@ -135,13 +135,13 @@
       "gloss": "few"
     },
     {
-      "form": "thoṛe",
-      "orthographic": "ਥੋਡ਼ੇ",
+      "form": "ghaṭṭa",
+      "orthographic": "ਘੱਟ",
       "gloss": "few"
     },
     {
-      "form": "thoṛe",
-      "orthographic": "ਥੋਡ਼ੇ",
+      "form": "virle",
+      "orthographic": "ਵਿਰਲੇ",
       "gloss": "few"
     },
     {
@@ -150,8 +150,8 @@
       "gloss": "other"
     },
     {
-      "form": "dūjā",
-      "orthographic": "ਦੂਜਾ",
+      "form": "dūsrā",
+      "orthographic": "ਦੂਸਰਾ",
       "gloss": "other"
     },
     {
@@ -220,8 +220,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "bhīṛā",
-      "orthographic": "ਭੀਡ਼ਾ",
+      "form": "sauṛā",
+      "orthographic": "ਸੌਡ਼ਾ",
       "gloss": "narrow"
     },
     {
@@ -245,8 +245,8 @@
       "gloss": "man (human being)"
     },
     {
-      "form": "manukkha",
-      "orthographic": "ਮਨੁੱਖ",
+      "form": "inasān",
+      "orthographic": "ਇਨਸਾਨ",
       "gloss": "man (human being)"
     },
     {
@@ -275,13 +275,13 @@
       "gloss": "father"
     },
     {
-      "form": "pio",
-      "orthographic": "ਪਿਓ",
+      "form": "pitā",
+      "orthographic": "ਪਿਤਾ",
       "gloss": "father"
     },
     {
-      "form": "pio",
-      "orthographic": "ਪਿਓ",
+      "form": "abbā",
+      "orthographic": "ਅੱਬਾ",
       "gloss": "father"
     },
     {
@@ -360,13 +360,13 @@
       "gloss": "bark (of a tree)"
     },
     {
-      "form": "chilla",
-      "orthographic": "ਛਿੱਲ",
+      "form": "chāl",
+      "orthographic": "ਛਾਲ",
       "gloss": "bark (of a tree)"
     },
     {
-      "form": "chilla",
-      "orthographic": "ਛਿੱਲ",
+      "form": "khalla",
+      "orthographic": "ਖੱਲ",
       "gloss": "bark (of a tree)"
     },
     {
@@ -400,13 +400,13 @@
       "gloss": "blood"
     },
     {
-      "form": "xūn",
-      "orthographic": "ਖ਼ੂਨ",
+      "form": "lahū",
+      "orthographic": "ਲਹੂ",
       "gloss": "blood"
     },
     {
-      "form": "xūn",
-      "orthographic": "ਖ਼ੂਨ",
+      "form": "rakat",
+      "orthographic": "ਰਕਤ",
       "gloss": "blood"
     },
     {
@@ -515,8 +515,8 @@
       "gloss": "belly"
     },
     {
-      "form": "ḍhiḍḍa",
-      "orthographic": "ਢਿੱਡ",
+      "form": "peṭ",
+      "orthographic": "ਪੇਟ",
       "gloss": "belly"
     },
     {
@@ -535,8 +535,8 @@
       "gloss": "back"
     },
     {
-      "form": "piṭṭha",
-      "orthographic": "ਪਿੱਠ",
+      "form": "vāpas",
+      "orthographic": "ਵਾਪਸ",
       "gloss": "back"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "leṭṇā",
-      "orthographic": "ਲੇਟਣਾ",
+      "form": "paiṇā",
+      "orthographic": "ਪੈਣਾ",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -900,8 +900,8 @@
       "gloss": "earth"
     },
     {
-      "form": "zamīn",
-      "orthographic": "ਜ਼ਮੀਨ",
+      "form": "dhartī",
+      "orthographic": "ਧਰਤੀ",
       "gloss": "earth"
     },
     {
@@ -915,8 +915,8 @@
       "gloss": "fog"
     },
     {
-      "form": "kohrā",
-      "orthographic": "ਕੋਹਰਾ",
+      "form": "dhund",
+      "orthographic": "ਧੁੰਦ",
       "gloss": "fog"
     },
     {
@@ -955,8 +955,8 @@
       "gloss": "ash"
     },
     {
-      "form": "suāha",
-      "orthographic": "ਸੁਆਹ",
+      "form": "rākh",
+      "orthographic": "ਰਾਖ",
       "gloss": "ash"
     },
     {
@@ -995,8 +995,8 @@
       "gloss": "white"
     },
     {
-      "form": "safaid",
-      "orthographic": "ਸਫ਼ੈਦ",
+      "form": "ciṭṭā",
+      "orthographic": "ਚਿੱਟਾ",
       "gloss": "white"
     },
     {
@@ -1010,8 +1010,8 @@
       "gloss": "night"
     },
     {
-      "form": "rāt",
-      "orthographic": "ਰਾਤ",
+      "form": "hanerā",
+      "orthographic": "ਹਨੇਰਾ",
       "gloss": "night"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "bad"
     },
     {
-      "form": "burā",
-      "orthographic": "ਬੁਰਾ",
+      "form": "xarāb",
+      "orthographic": "ਖ਼ਰਾਬ",
       "gloss": "bad"
     },
     {
@@ -1100,8 +1100,8 @@
       "gloss": "smooth"
     },
     {
-      "form": "kūḷā",
-      "orthographic": "ਕੂਲ਼ਾ",
+      "form": "ciknā",
+      "orthographic": "ਚਿਕਨਾ",
       "gloss": "smooth"
     },
     {
@@ -1125,8 +1125,8 @@
       "gloss": "near"
     },
     {
-      "form": "koḷ",
-      "orthographic": "ਕੋਲ਼",
+      "form": "neṛe",
+      "orthographic": "ਨੇੜੇ",
       "gloss": "near"
     },
     {
@@ -1150,8 +1150,8 @@
       "gloss": "at"
     },
     {
-      "form": "utte",
-      "orthographic": "ਉੱਤੇ",
+      "form": "'te",
+      "orthographic": "'ਤੇ",
       "gloss": "at"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "and"
     },
     {
-      "form": "ate",
-      "orthographic": "ਅਤੇ",
+      "form": "te",
+      "orthographic": "ਤੇ",
       "gloss": "and"
     },
     {
@@ -1190,8 +1190,8 @@
       "gloss": "name"
     },
     {
-      "form": "nām",
-      "orthographic": "ਨਾਮ",
+      "form": "nā",
+      "orthographic": "ਨਾ",
       "gloss": "name"
     }
   ]

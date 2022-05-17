@@ -50,8 +50,8 @@
       "gloss": "that"
     },
     {
-      "form": "su",
-      "orthographic": "su",
+      "form": "samp",
+      "orthographic": "samp",
       "gloss": "that"
     },
     {
@@ -65,8 +65,8 @@
       "gloss": "there"
     },
     {
-      "form": "tane",
-      "orthographic": "tane",
+      "form": "omp",
+      "orthographic": "omp",
       "gloss": "there"
     },
     {
@@ -175,8 +175,8 @@
       "gloss": "small"
     },
     {
-      "form": "lykaśke",
-      "orthographic": "lykaśke",
+      "form": "totka",
+      "orthographic": "totka",
       "gloss": "small"
     },
     {
@@ -185,8 +185,8 @@
       "gloss": "woman"
     },
     {
-      "form": "klyiye",
-      "orthographic": "klyiye",
+      "form": "śana",
+      "orthographic": "śana",
       "gloss": "woman"
     },
     {
@@ -255,8 +255,8 @@
       "gloss": "snake"
     },
     {
-      "form": "arṣāklo",
-      "orthographic": "arṣāklo",
+      "form": "auk",
+      "orthographic": "auk",
       "gloss": "snake"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "forest"
     },
     {
-      "form": "wartto",
-      "orthographic": "wartto",
+      "form": "karāś",
+      "orthographic": "karāś",
       "gloss": "forest"
     },
     {
@@ -295,8 +295,8 @@
       "gloss": "seed"
     },
     {
-      "form": "sārm",
-      "orthographic": "sārm",
+      "form": "śäktālye",
+      "orthographic": "śäktālye",
       "gloss": "seed"
     },
     {
@@ -330,8 +330,8 @@
       "gloss": "skin"
     },
     {
-      "form": "ewe",
-      "orthographic": "ewe",
+      "form": "yetse",
+      "orthographic": "yetse",
       "gloss": "skin"
     },
     {
@@ -350,8 +350,8 @@
       "gloss": "bone"
     },
     {
-      "form": "āy",
-      "orthographic": "āy",
+      "form": "āsta",
+      "orthographic": "āsta",
       "gloss": "bone"
     },
     {
@@ -500,8 +500,8 @@
       "gloss": "to breathe"
     },
     {
-      "form": "anāṣṣäṃ",
-      "orthographic": "anāṣṣäṃ",
+      "form": "satāṣṣäṃ",
+      "orthographic": "satāṣṣäṃ",
       "gloss": "to breathe"
     },
     {
@@ -525,8 +525,8 @@
       "gloss": "to know"
     },
     {
-      "form": "aiśtär",
-      "orthographic": "aiśtär",
+      "form": "kärsanaṃ",
+      "orthographic": "kärsanaṃ",
       "gloss": "to know"
     },
     {
@@ -585,8 +585,8 @@
       "gloss": "to cut"
     },
     {
-      "form": "karsnaṃ",
-      "orthographic": "karsnaṃ",
+      "form": "latkanaṃ",
+      "orthographic": "latkanaṃ",
       "gloss": "to cut"
     },
     {
@@ -635,8 +635,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "ṣamäṃ",
-      "orthographic": "ṣamäṃ",
+      "form": "āṣṣäṃ",
+      "orthographic": "āṣṣäṃ",
       "gloss": "to sit"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "kluttaṅktär",
-      "orthographic": "kluttaṅktär",
+      "form": "sporttotär",
+      "orthographic": "sporttotär",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -670,8 +670,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "klupnātär",
-      "orthographic": "klupnātär",
+      "form": "nuskaṣṣäṃ",
+      "orthographic": "nuskaṣṣäṃ",
       "gloss": "to squeeze"
     },
     {
@@ -680,8 +680,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "lyuwetär",
-      "orthographic": "lyuwetär",
+      "form": "kantanatär",
+      "orthographic": "kantanatär",
       "gloss": "to rub"
     },
     {
@@ -710,8 +710,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "karṣṣäṃ",
-      "orthographic": "karṣṣäṃ",
+      "form": "saläṣṣäṃ",
+      "orthographic": "saläṣṣäṃ",
       "gloss": "to throw"
     },
     {
@@ -720,8 +720,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "śanmästär",
-      "orthographic": "śanmästär",
+      "form": "kärkaṣṣäṃ",
+      "orthographic": "kärkaṣṣäṃ",
       "gloss": "to tie"
     },
     {
@@ -820,8 +820,8 @@
       "gloss": "dust"
     },
     {
-      "form": "tweye",
-      "orthographic": "tweye",
+      "form": "taur",
+      "orthographic": "taur",
       "gloss": "dust"
     },
     {
@@ -860,8 +860,8 @@
       "gloss": "ash"
     },
     {
-      "form": "taur",
-      "orthographic": "taur",
+      "form": "tweye",
+      "orthographic": "tweye",
       "gloss": "ash"
     },
     {
@@ -870,8 +870,8 @@
       "gloss": "to burn"
     },
     {
-      "form": "tsakṣtär",
-      "orthographic": "tsakṣtär",
+      "form": "pälketär",
+      "orthographic": "pälketär",
       "gloss": "to burn"
     },
     {
@@ -960,8 +960,8 @@
       "gloss": "bad"
     },
     {
-      "form": "yolo",
-      "orthographic": "yolo",
+      "form": "pakwāre",
+      "orthographic": "pakwāre",
       "gloss": "bad"
     },
     {
@@ -975,8 +975,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "sal",
-      "orthographic": "sal",
+      "form": "kraketstse",
+      "orthographic": "kraketstse",
       "gloss": "dirty"
     },
     {
@@ -985,8 +985,8 @@
       "gloss": "sharp (as a knife)"
     },
     {
-      "form": "mātre",
-      "orthographic": "mātre",
+      "form": "akwatse",
+      "orthographic": "akwatse",
       "gloss": "sharp (as a knife)"
     },
     {
@@ -1015,13 +1015,13 @@
       "gloss": "near"
     },
     {
-      "form": "akartte",
-      "orthographic": "akartte",
+      "form": "ysape",
+      "orthographic": "ysape",
       "gloss": "near"
     },
     {
-      "form": "akartte",
-      "orthographic": "akartte",
+      "form": "etsuwai",
+      "orthographic": "etsuwai",
       "gloss": "near"
     },
     {
@@ -1030,8 +1030,8 @@
       "gloss": "far"
     },
     {
-      "form": "lau",
-      "orthographic": "lau",
+      "form": "lauke",
+      "orthographic": "lauke",
       "gloss": "far"
     },
     {
@@ -1070,8 +1070,8 @@
       "gloss": "if"
     },
     {
-      "form": "krui",
-      "orthographic": "krui",
+      "form": "ente",
+      "orthographic": "ente",
       "gloss": "if"
     },
     {
@@ -1080,8 +1080,8 @@
       "gloss": "because"
     },
     {
-      "form": "kuce",
-      "orthographic": "kuce",
+      "form": "mäkte",
+      "orthographic": "mäkte",
       "gloss": "because"
     },
     {

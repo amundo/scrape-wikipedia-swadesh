@@ -20,13 +20,13 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "tú",
-      "orthographic": "tú",
+      "form": "vos",
+      "orthographic": "vos",
       "gloss": "you (2sg)"
     },
     {
-      "form": "tú",
-      "orthographic": "tú",
+      "form": "usted",
+      "orthographic": "usted",
       "gloss": "you (2sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "él",
-      "orthographic": "él",
+      "form": "ella",
+      "orthographic": "ella",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -45,8 +45,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "nosotros",
-      "orthographic": "nosotros",
+      "form": "nosotras",
+      "orthographic": "nosotras",
       "gloss": "we (1pl)"
     },
     {
@@ -55,13 +55,13 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "vosotros",
-      "orthographic": "vosotros",
+      "form": "vosotras",
+      "orthographic": "vosotras",
       "gloss": "you (2pl)"
     },
     {
-      "form": "vosotros",
-      "orthographic": "vosotros",
+      "form": "ustedes",
+      "orthographic": "ustedes",
       "gloss": "you (2pl)"
     },
     {
@@ -70,8 +70,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "ellos",
-      "orthographic": "ellos",
+      "form": "ellas",
+      "orthographic": "ellas",
       "gloss": "they (3pl)"
     },
     {
@@ -85,8 +85,8 @@
       "gloss": "that"
     },
     {
-      "form": "ese",
-      "orthographic": "ese",
+      "form": "aquel",
+      "orthographic": "aquel",
       "gloss": "that"
     },
     {
@@ -95,8 +95,8 @@
       "gloss": "here"
     },
     {
-      "form": "aquí",
-      "orthographic": "aquí",
+      "form": "acá",
+      "orthographic": "acá",
       "gloss": "here"
     },
     {
@@ -225,8 +225,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "estrecho",
-      "orthographic": "estrecho",
+      "form": "angosto",
+      "orthographic": "angosto",
       "gloss": "narrow"
     },
     {
@@ -235,8 +235,8 @@
       "gloss": "thin"
     },
     {
-      "form": "delgado",
-      "orthographic": "delgado",
+      "form": "flaco",
+      "orthographic": "flaco",
       "gloss": "thin"
     },
     {
@@ -265,8 +265,8 @@
       "gloss": "wife"
     },
     {
-      "form": "esposa",
-      "orthographic": "esposa",
+      "form": "mujer",
+      "orthographic": "mujer",
       "gloss": "wife"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "husband"
     },
     {
-      "form": "esposo",
-      "orthographic": "esposo",
+      "form": "marido",
+      "orthographic": "marido",
       "gloss": "husband"
     },
     {
@@ -300,8 +300,8 @@
       "gloss": "fish"
     },
     {
-      "form": "pez",
-      "orthographic": "pez",
+      "form": "pescado",
+      "orthographic": "pescado",
       "gloss": "fish"
     },
     {
@@ -325,13 +325,13 @@
       "gloss": "snake"
     },
     {
-      "form": "serpiente",
-      "orthographic": "serpiente",
+      "form": "víbora",
+      "orthographic": "víbora",
       "gloss": "snake"
     },
     {
-      "form": "serpiente",
-      "orthographic": "serpiente",
+      "form": "culebra",
+      "orthographic": "culebra",
       "gloss": "snake"
     },
     {
@@ -390,8 +390,8 @@
       "gloss": "grass"
     },
     {
-      "form": "hierba",
-      "orthographic": "hierba",
+      "form": "grama",
+      "orthographic": "grama",
       "gloss": "grass"
     },
     {
@@ -450,8 +450,8 @@
       "gloss": "hair"
     },
     {
-      "form": "pelo",
-      "orthographic": "pelo",
+      "form": "cabello",
+      "orthographic": "cabello",
       "gloss": "hair"
     },
     {
@@ -525,8 +525,8 @@
       "gloss": "belly"
     },
     {
-      "form": "barriga",
-      "orthographic": "barriga",
+      "form": "vientre",
+      "orthographic": "vientre",
       "gloss": "belly"
     },
     {
@@ -690,8 +690,8 @@
       "gloss": "to scratch"
     },
     {
-      "form": "arañar",
-      "orthographic": "arañar",
+      "form": "rascar",
+      "orthographic": "rascar",
       "gloss": "to scratch"
     },
     {
@@ -700,8 +700,8 @@
       "gloss": "to dig"
     },
     {
-      "form": "cavar",
-      "orthographic": "cavar",
+      "form": "excavar",
+      "orthographic": "excavar",
       "gloss": "to dig"
     },
     {
@@ -730,13 +730,13 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "echarse",
-      "orthographic": "echarse",
+      "form": "yacer",
+      "orthographic": "yacer",
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "echarse",
-      "orthographic": "echarse",
+      "form": "estar",
+      "orthographic": "estar",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "sentarse",
-      "orthographic": "sentarse",
+      "form": "estar",
+      "orthographic": "estar",
       "gloss": "to sit"
     },
     {
@@ -755,8 +755,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "levantarse",
-      "orthographic": "levantarse",
+      "form": "estar de pie",
+      "orthographic": "estar de pie",
       "gloss": "to stand"
     },
     {
@@ -765,8 +765,8 @@
       "gloss": "to turn (intransitive)"
     },
     {
-      "form": "girar",
-      "orthographic": "girar",
+      "form": "dar",
+      "orthographic": "dar",
       "gloss": "to turn (intransitive)"
     },
     {
@@ -810,13 +810,13 @@
       "gloss": "to pull"
     },
     {
-      "form": "tirar",
-      "orthographic": "tirar",
+      "form": "jalar",
+      "orthographic": "jalar",
       "gloss": "to pull"
     },
     {
-      "form": "tirar",
-      "orthographic": "tirar",
+      "form": "halar",
+      "orthographic": "halar",
       "gloss": "to pull"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "tirar",
-      "orthographic": "tirar",
+      "form": "arrojar",
+      "orthographic": "arrojar",
       "gloss": "to throw"
     },
     {
@@ -880,8 +880,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "congelarse",
-      "orthographic": "congelarse",
+      "form": "helar",
+      "orthographic": "helar",
       "gloss": "to freeze"
     },
     {
@@ -1060,8 +1060,8 @@
       "gloss": "warm"
     },
     {
-      "form": "caliente",
-      "orthographic": "caliente",
+      "form": "cálido",
+      "orthographic": "cálido",
       "gloss": "warm"
     },
     {
@@ -1120,8 +1120,8 @@
       "gloss": "sharp (as a knife)"
     },
     {
-      "form": "agudo",
-      "orthographic": "agudo",
+      "form": "afilado",
+      "orthographic": "afilado",
       "gloss": "sharp (as a knife)"
     },
     {
@@ -1130,13 +1130,13 @@
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "sin filo",
-      "orthographic": "sin filo",
+      "form": "embotado",
+      "orthographic": "embotado",
       "gloss": "dull (as a knife)"
     },
     {
-      "form": "sin filo",
-      "orthographic": "sin filo",
+      "form": "romo",
+      "orthographic": "romo",
       "gloss": "dull (as a knife)"
     },
     {
@@ -1185,8 +1185,8 @@
       "gloss": "at"
     },
     {
-      "form": "en",
-      "orthographic": "en",
+      "form": "a",
+      "orthographic": "a",
       "gloss": "at"
     },
     {
@@ -1205,8 +1205,8 @@
       "gloss": "and"
     },
     {
-      "form": "y",
-      "orthographic": "y",
+      "form": "e",
+      "orthographic": "e",
       "gloss": "and"
     },
     {

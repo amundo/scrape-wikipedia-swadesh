@@ -35,8 +35,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "ma",
-      "orthographic": "ma",
+      "form": "oon",
+      "orthographic": "oon",
       "gloss": "you (2pl)"
     },
     {
@@ -45,8 +45,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "wey",
-      "orthographic": "wey",
+      "form": "u",
+      "orthographic": "u",
       "gloss": "they (3pl)"
     },
     {
@@ -60,8 +60,8 @@
       "gloss": "that"
     },
     {
-      "form": "te",
-      "orthographic": "te",
+      "form": "se",
+      "orthographic": "se",
       "gloss": "that"
     },
     {
@@ -110,13 +110,13 @@
       "gloss": "all"
     },
     {
-      "form": "saoh",
-      "orthographic": "saoh",
+      "form": "khol",
+      "orthographic": "khol",
       "gloss": "all"
     },
     {
-      "form": "saoh",
-      "orthographic": "saoh",
+      "form": "czeek",
+      "orthographic": "czeek",
       "gloss": "all"
     },
     {
@@ -130,8 +130,8 @@
       "gloss": "some"
     },
     {
-      "form": "markaam",
-      "orthographic": "markaam",
+      "form": "kaaman",
+      "orthographic": "kaaman",
       "gloss": "some"
     },
     {
@@ -140,8 +140,8 @@
       "gloss": "few"
     },
     {
-      "form": "fookan",
-      "orthographic": "fookan",
+      "form": "fofookan",
+      "orthographic": "fofookan",
       "gloss": "few"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "big"
     },
     {
-      "form": "uyúm",
-      "orthographic": "uyúm",
+      "form": "niyo",
+      "orthographic": "niyo",
       "gloss": "big"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "mother"
     },
     {
-      "form": "nani",
-      "orthographic": "nani",
+      "form": "nana",
+      "orthographic": "nana",
       "gloss": "mother"
     },
     {
@@ -270,8 +270,8 @@
       "gloss": "father"
     },
     {
-      "form": "tati",
-      "orthographic": "tati",
+      "form": "tata",
+      "orthographic": "tata",
       "gloss": "father"
     },
     {
@@ -320,8 +320,8 @@
       "gloss": "forest"
     },
     {
-      "form": "jangle",
-      "orthographic": "jangle",
+      "form": "gongo",
+      "orthographic": "gongo",
       "gloss": "forest"
     },
     {
@@ -360,8 +360,8 @@
       "gloss": "flower"
     },
     {
-      "form": "asqúr",
-      "orthographic": "asqúr",
+      "form": "gambori",
+      "orthographic": "gambori",
       "gloss": "flower"
     },
     {
@@ -380,8 +380,8 @@
       "gloss": "skin"
     },
     {
-      "form": "bat",
-      "orthographic": "bat",
+      "form": "wat",
+      "orthographic": "wat",
       "gloss": "skin"
     },
     {
@@ -410,8 +410,8 @@
       "gloss": "egg"
     },
     {
-      "form": "tuma",
-      "orthographic": "tuma",
+      "form": "tingan",
+      "orthographic": "tingan",
       "gloss": "egg"
     },
     {
@@ -510,8 +510,8 @@
       "gloss": "guts"
     },
     {
-      "form": "cher",
-      "orthographic": "cher",
+      "form": "chering",
+      "orthographic": "chering",
       "gloss": "guts"
     },
     {
@@ -720,8 +720,8 @@
       "gloss": "to give"
     },
     {
-      "form": "oochom",
-      "orthographic": "oochom",
+      "form": "fat echom",
+      "orthographic": "fat echom",
       "gloss": "to give"
     },
     {
@@ -735,8 +735,8 @@
       "gloss": "to rub"
     },
     {
-      "form": "czagham",
-      "orthographic": "czagham",
+      "form": "baldan dechom",
+      "orthographic": "baldan dechom",
       "gloss": "to rub"
     },
     {
@@ -990,8 +990,8 @@
       "gloss": "full"
     },
     {
-      "form": "bir",
-      "orthographic": "bir",
+      "form": "hek",
+      "orthographic": "hek",
       "gloss": "full"
     },
     {
@@ -1010,8 +1010,8 @@
       "gloss": "good"
     },
     {
-      "form": "daltás",
-      "orthographic": "daltás",
+      "form": "showa",
+      "orthographic": "showa",
       "gloss": "good"
     },
     {
@@ -1095,8 +1095,8 @@
       "gloss": "in"
     },
     {
-      "form": "-chi",
-      "orthographic": "-chi",
+      "form": "ooley",
+      "orthographic": "ooley",
       "gloss": "in"
     },
     {
@@ -1110,8 +1110,8 @@
       "gloss": "and"
     },
     {
-      "form": "ka",
-      "orthographic": "ka",
+      "form": "kaat",
+      "orthographic": "kaat",
       "gloss": "and"
     },
     {

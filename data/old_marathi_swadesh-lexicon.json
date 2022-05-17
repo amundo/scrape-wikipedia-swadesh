@@ -25,8 +25,8 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "to",
-      "orthographic": "𑘝𑘻",
+      "form": "tyo",
+      "orthographic": "𑘝𑘿𑘧𑘻",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -35,8 +35,8 @@
       "gloss": "we (1pl)"
     },
     {
-      "form": "āmīṃ",
-      "orthographic": "𑘁𑘦𑘲𑘽",
+      "form": "āmhī",
+      "orthographic": "𑘁𑘦𑘿𑘮𑘲",
       "gloss": "we (1pl)"
     },
     {
@@ -45,8 +45,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "tumhe",
-      "orthographic": "𑘝𑘳𑘦𑘿𑘮𑘹",
+      "form": "tumhīṃ",
+      "orthographic": "𑘝𑘳𑘦𑘿𑘮𑘲𑘽",
       "gloss": "you (2pl)"
     },
     {
@@ -55,8 +55,8 @@
       "gloss": "they (3pl)"
     },
     {
-      "form": "te",
-      "orthographic": "𑘝𑘹",
+      "form": "tīyā",
+      "orthographic": "𑘝𑘲𑘧𑘰",
       "gloss": "they (3pl)"
     },
     {
@@ -65,13 +65,13 @@
       "gloss": "this"
     },
     {
-      "form": "hā",
-      "orthographic": "𑘮𑘰",
+      "form": "he",
+      "orthographic": "𑘮𑘹",
       "gloss": "this"
     },
     {
-      "form": "hā",
-      "orthographic": "𑘮𑘰",
+      "form": "heṃ",
+      "orthographic": "𑘮𑘹𑘽",
       "gloss": "this"
     },
     {
@@ -80,13 +80,13 @@
       "gloss": "that"
     },
     {
-      "form": "to",
-      "orthographic": "𑘝𑘻",
+      "form": "tī",
+      "orthographic": "𑘝𑘲",
       "gloss": "that"
     },
     {
-      "form": "to",
-      "orthographic": "𑘝𑘻",
+      "form": "teṃ",
+      "orthographic": "𑘝𑘹𑘽",
       "gloss": "that"
     },
     {
@@ -100,8 +100,8 @@
       "gloss": "there"
     },
     {
-      "form": "tetha",
-      "orthographic": "𑘝𑘹𑘞",
+      "form": "tekaḍe",
+      "orthographic": "𑘝𑘹𑘎𑘚𑘹",
       "gloss": "there"
     },
     {
@@ -110,18 +110,18 @@
       "gloss": "who"
     },
     {
-      "form": "kavaṇa",
-      "orthographic": "𑘎𑘪𑘜",
+      "form": "kavhaṇa",
+      "orthographic": "𑘎𑘪𑘿𑘮𑘜",
       "gloss": "who"
     },
     {
-      "form": "kavaṇa",
-      "orthographic": "𑘎𑘪𑘜",
+      "form": "koṇa",
+      "orthographic": "𑘎𑘻𑘜",
       "gloss": "who"
     },
     {
-      "form": "kavaṇa",
-      "orthographic": "𑘎𑘪𑘜",
+      "form": "koṇha",
+      "orthographic": "𑘎𑘻𑘜𑘿𑘮",
       "gloss": "who"
     },
     {
@@ -130,13 +130,13 @@
       "gloss": "what"
     },
     {
-      "form": "kāī",
-      "orthographic": "𑘎𑘰𑘃",
+      "form": "kāya",
+      "orthographic": "𑘎𑘰𑘧",
       "gloss": "what"
     },
     {
-      "form": "kāī",
-      "orthographic": "𑘎𑘰𑘃",
+      "form": "kāye",
+      "orthographic": "𑘎𑘰𑘧𑘹",
       "gloss": "what"
     },
     {
@@ -150,18 +150,18 @@
       "gloss": "when"
     },
     {
-      "form": "kaīṃ",
-      "orthographic": "𑘎𑘃𑘽",
+      "form": "keṃvhā",
+      "orthographic": "𑘎𑘹𑘽𑘪𑘿𑘮𑘰",
       "gloss": "when"
     },
     {
-      "form": "kaīṃ",
-      "orthographic": "𑘎𑘃𑘽",
+      "form": "kaiṃ",
+      "orthographic": "𑘎𑘺𑘽",
       "gloss": "when"
     },
     {
-      "form": "kaīṃ",
-      "orthographic": "𑘎𑘃𑘽",
+      "form": "kedhavāṃ",
+      "orthographic": "𑘎𑘹𑘠𑘪𑘰𑘽",
       "gloss": "when"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "how"
     },
     {
-      "form": "kaisa",
-      "orthographic": "𑘎𑘺𑘭",
+      "form": "kaisenī",
+      "orthographic": "𑘎𑘺𑘭𑘹𑘡𑘲",
       "gloss": "how"
     },
     {
@@ -180,8 +180,8 @@
       "gloss": "not"
     },
     {
-      "form": "nāhī",
-      "orthographic": "𑘡𑘰𑘮𑘲",
+      "form": "nāhīṃ",
+      "orthographic": "𑘡𑘰𑘮𑘲𑘽",
       "gloss": "not"
     },
     {
@@ -190,23 +190,23 @@
       "gloss": "all"
     },
     {
-      "form": "sakaḷa",
-      "orthographic": "𑘭𑘎𑘯",
+      "form": "sakaḷai",
+      "orthographic": "𑘭𑘎𑘯𑘺",
       "gloss": "all"
     },
     {
-      "form": "sakaḷa",
-      "orthographic": "𑘭𑘎𑘯",
+      "form": "sagaḷa",
+      "orthographic": "𑘭𑘐𑘯",
       "gloss": "all"
     },
     {
-      "form": "sakaḷa",
-      "orthographic": "𑘭𑘎𑘯",
+      "form": "sakaḷīka",
+      "orthographic": "𑘭𑘎𑘯𑘲𑘎",
       "gloss": "all"
     },
     {
-      "form": "sakaḷa",
-      "orthographic": "𑘭𑘎𑘯",
+      "form": "sakaḷaika",
+      "orthographic": "𑘭𑘎𑘯𑘺𑘎",
       "gloss": "all"
     },
     {
@@ -215,18 +215,18 @@
       "gloss": "small"
     },
     {
-      "form": "lahāṇā",
-      "orthographic": "𑘩𑘮𑘰𑘜𑘰",
+      "form": "lahānā",
+      "orthographic": "𑘩𑘮𑘰𑘡𑘰",
       "gloss": "small"
     },
     {
-      "form": "lahāṇā",
-      "orthographic": "𑘩𑘮𑘰𑘜𑘰",
+      "form": "lahānāla",
+      "orthographic": "𑘩𑘮𑘰𑘡𑘰𑘩",
       "gloss": "small"
     },
     {
-      "form": "lahāṇā",
-      "orthographic": "𑘩𑘮𑘰𑘜𑘰",
+      "form": "lāna",
+      "orthographic": "𑘩𑘰𑘡",
       "gloss": "small"
     },
     {
@@ -245,13 +245,13 @@
       "gloss": "fish"
     },
     {
-      "form": "māsā",
-      "orthographic": "𑘦𑘰𑘭𑘰",
+      "form": "macha",
+      "orthographic": "𑘦𑘔",
       "gloss": "fish"
     },
     {
-      "form": "māsā",
-      "orthographic": "𑘦𑘰𑘭𑘰",
+      "form": "maccha",
+      "orthographic": "𑘦𑘓𑘿𑘔",
       "gloss": "fish"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "bird"
     },
     {
-      "form": "pākhīruṃ",
-      "orthographic": "𑘢𑘰𑘏𑘲𑘨𑘳𑘽",
+      "form": "pakṣī",
+      "orthographic": "𑘢𑘎𑘿𑘬𑘲",
       "gloss": "bird"
     },
     {
@@ -340,8 +340,8 @@
       "gloss": "back"
     },
     {
-      "form": "pāṭa",
-      "orthographic": "𑘢𑘰𑘘",
+      "form": "pāṭhī",
+      "orthographic": "𑘢𑘰𑘙𑘲",
       "gloss": "back"
     }
   ]

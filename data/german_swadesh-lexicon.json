@@ -20,8 +20,8 @@
       "gloss": "you (2sg)"
     },
     {
-      "form": "du",
-      "orthographic": "du",
+      "form": "Sie",
+      "orthographic": "Sie",
       "gloss": "you (2sg)"
     },
     {
@@ -30,13 +30,13 @@
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "er",
-      "orthographic": "er",
+      "form": "sie",
+      "orthographic": "sie",
       "gloss": "he, she, it (3sg)"
     },
     {
-      "form": "er",
-      "orthographic": "er",
+      "form": "es",
+      "orthographic": "es",
       "gloss": "he, she, it (3sg)"
     },
     {
@@ -50,8 +50,8 @@
       "gloss": "you (2pl)"
     },
     {
-      "form": "ihr",
-      "orthographic": "ihr",
+      "form": "Sie",
+      "orthographic": "Sie",
       "gloss": "you (2pl)"
     },
     {
@@ -65,18 +65,18 @@
       "gloss": "this"
     },
     {
-      "form": "dieser",
-      "orthographic": "dieser",
+      "form": "diese",
+      "orthographic": "diese",
       "gloss": "this"
     },
     {
-      "form": "dieser",
-      "orthographic": "dieser",
+      "form": "dieses",
+      "orthographic": "dieses",
       "gloss": "this"
     },
     {
-      "form": "dieser",
-      "orthographic": "dieser",
+      "form": "dies",
+      "orthographic": "dies",
       "gloss": "this"
     },
     {
@@ -85,28 +85,28 @@
       "gloss": "that"
     },
     {
-      "form": "der",
-      "orthographic": "der",
+      "form": "die",
+      "orthographic": "die",
       "gloss": "that"
     },
     {
-      "form": "der",
-      "orthographic": "der",
+      "form": "das",
+      "orthographic": "das",
       "gloss": "that"
     },
     {
-      "form": "der",
-      "orthographic": "der",
+      "form": "jener",
+      "orthographic": "jener",
       "gloss": "that"
     },
     {
-      "form": "der",
-      "orthographic": "der",
+      "form": "jene",
+      "orthographic": "jene",
       "gloss": "that"
     },
     {
-      "form": "der",
-      "orthographic": "der",
+      "form": "jenes",
+      "orthographic": "jenes",
       "gloss": "that"
     },
     {
@@ -120,8 +120,8 @@
       "gloss": "there"
     },
     {
-      "form": "da",
-      "orthographic": "da",
+      "form": "dort",
+      "orthographic": "dort",
       "gloss": "there"
     },
     {
@@ -170,8 +170,8 @@
       "gloss": "some"
     },
     {
-      "form": "einige",
-      "orthographic": "einige",
+      "form": "manche",
+      "orthographic": "manche",
       "gloss": "some"
     },
     {
@@ -195,8 +195,8 @@
       "gloss": "two"
     },
     {
-      "form": "zwei",
-      "orthographic": "zwei",
+      "form": "zwo",
+      "orthographic": "zwo",
       "gloss": "two"
     },
     {
@@ -230,8 +230,8 @@
       "gloss": "wide"
     },
     {
-      "form": "breit",
-      "orthographic": "breit",
+      "form": "weit",
+      "orthographic": "weit",
       "gloss": "wide"
     },
     {
@@ -260,8 +260,8 @@
       "gloss": "narrow"
     },
     {
-      "form": "eng",
-      "orthographic": "eng",
+      "form": "schmal",
+      "orthographic": "schmal",
       "gloss": "narrow"
     },
     {
@@ -275,8 +275,8 @@
       "gloss": "woman"
     },
     {
-      "form": "Frau",
-      "orthographic": "Frau",
+      "form": "Weib",
+      "orthographic": "Weib",
       "gloss": "woman"
     },
     {
@@ -300,8 +300,8 @@
       "gloss": "wife"
     },
     {
-      "form": "Frau",
-      "orthographic": "Frau",
+      "form": "Ehefrau",
+      "orthographic": "Ehefrau",
       "gloss": "wife"
     },
     {
@@ -310,8 +310,8 @@
       "gloss": "husband"
     },
     {
-      "form": "Mann",
-      "orthographic": "Mann",
+      "form": "Ehemann",
+      "orthographic": "Ehemann",
       "gloss": "husband"
     },
     {
@@ -370,8 +370,8 @@
       "gloss": "forest"
     },
     {
-      "form": "Forst",
-      "orthographic": "Forst",
+      "form": "Wald",
+      "orthographic": "Wald",
       "gloss": "forest"
     },
     {
@@ -385,8 +385,8 @@
       "gloss": "fruit"
     },
     {
-      "form": "Frucht",
-      "orthographic": "Frucht",
+      "form": "Obst",
+      "orthographic": "Obst",
       "gloss": "fruit"
     },
     {
@@ -395,8 +395,8 @@
       "gloss": "seed"
     },
     {
-      "form": "Samen",
-      "orthographic": "Samen",
+      "form": "Saat",
+      "orthographic": "Saat",
       "gloss": "seed"
     },
     {
@@ -415,8 +415,8 @@
       "gloss": "bark (of a tree)"
     },
     {
-      "form": "Borke",
-      "orthographic": "Borke",
+      "form": "Rinde",
+      "orthographic": "Rinde",
       "gloss": "bark (of a tree)"
     },
     {
@@ -435,13 +435,13 @@
       "gloss": "rope"
     },
     {
-      "form": "Leine",
-      "orthographic": "Leine",
+      "form": "Seil",
+      "orthographic": "Seil",
       "gloss": "rope"
     },
     {
-      "form": "Leine",
-      "orthographic": "Leine",
+      "form": "Strick",
+      "orthographic": "Strick",
       "gloss": "rope"
     },
     {
@@ -485,8 +485,8 @@
       "gloss": "tail"
     },
     {
-      "form": "Schwanz",
-      "orthographic": "Schwanz",
+      "form": "Schweif",
+      "orthographic": "Schweif",
       "gloss": "tail"
     },
     {
@@ -505,8 +505,8 @@
       "gloss": "head"
     },
     {
-      "form": "Haupt",
-      "orthographic": "Haupt",
+      "form": "Kopf",
+      "orthographic": "Kopf",
       "gloss": "head"
     },
     {
@@ -570,13 +570,13 @@
       "gloss": "wing"
     },
     {
-      "form": "Fittich",
-      "orthographic": "Fittich",
+      "form": "Flügel",
+      "orthographic": "Flügel",
       "gloss": "wing"
     },
     {
-      "form": "Fittich",
-      "orthographic": "Fittich",
+      "form": "Schwinge",
+      "orthographic": "Schwinge",
       "gloss": "wing"
     },
     {
@@ -585,8 +585,8 @@
       "gloss": "belly"
     },
     {
-      "form": "Bauch",
-      "orthographic": "Bauch",
+      "form": "Leib",
+      "orthographic": "Leib",
       "gloss": "belly"
     },
     {
@@ -595,18 +595,18 @@
       "gloss": "guts"
     },
     {
-      "form": "Eingeweide",
-      "orthographic": "Eingeweide",
+      "form": "Gedärm",
+      "orthographic": "Gedärm",
       "gloss": "guts"
     },
     {
-      "form": "Eingeweide",
-      "orthographic": "Eingeweide",
+      "form": "Innereien",
+      "orthographic": "Innereien",
       "gloss": "guts"
     },
     {
-      "form": "Eingeweide",
-      "orthographic": "Eingeweide",
+      "form": "Kaldaunen",
+      "orthographic": "Kaldaunen",
       "gloss": "guts"
     },
     {
@@ -615,8 +615,8 @@
       "gloss": "neck"
     },
     {
-      "form": "Hals",
-      "orthographic": "Hals",
+      "form": "Nacken",
+      "orthographic": "Nacken",
       "gloss": "neck"
     },
     {
@@ -630,8 +630,8 @@
       "gloss": "breast"
     },
     {
-      "form": "Brust",
-      "orthographic": "Brust",
+      "form": "Busen",
+      "orthographic": "Busen",
       "gloss": "breast"
     },
     {
@@ -665,8 +665,8 @@
       "gloss": "to suck"
     },
     {
-      "form": "lutschen",
-      "orthographic": "lutschen",
+      "form": "saugen",
+      "orthographic": "saugen",
       "gloss": "to suck"
     },
     {
@@ -675,8 +675,8 @@
       "gloss": "to spit"
     },
     {
-      "form": "speien",
-      "orthographic": "speien",
+      "form": "spucken",
+      "orthographic": "spucken",
       "gloss": "to spit"
     },
     {
@@ -685,8 +685,8 @@
       "gloss": "to vomit"
     },
     {
-      "form": "brechen",
-      "orthographic": "brechen",
+      "form": "erbrechen",
+      "orthographic": "erbrechen",
       "gloss": "to vomit"
     },
     {
@@ -695,13 +695,13 @@
       "gloss": "to blow"
     },
     {
-      "form": "blasen",
-      "orthographic": "blasen",
+      "form": "pusten",
+      "orthographic": "pusten",
       "gloss": "to blow"
     },
     {
-      "form": "blasen",
-      "orthographic": "blasen",
+      "form": "wehen",
+      "orthographic": "wehen",
       "gloss": "to blow"
     },
     {
@@ -730,8 +730,8 @@
       "gloss": "to know"
     },
     {
-      "form": "kennen",
-      "orthographic": "kennen",
+      "form": "wissen",
+      "orthographic": "wissen",
       "gloss": "to know"
     },
     {
@@ -770,8 +770,8 @@
       "gloss": "to kill"
     },
     {
-      "form": "töten",
-      "orthographic": "töten",
+      "form": "umbringen",
+      "orthographic": "umbringen",
       "gloss": "to kill"
     },
     {
@@ -780,8 +780,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "fechten",
-      "orthographic": "fechten",
+      "form": "kämpfen",
+      "orthographic": "kämpfen",
       "gloss": "to fight"
     },
     {
@@ -805,8 +805,8 @@
       "gloss": "to split"
     },
     {
-      "form": "spalten",
-      "orthographic": "spalten",
+      "form": "spleißen",
+      "orthographic": "spleißen",
       "gloss": "to split"
     },
     {
@@ -820,13 +820,13 @@
       "gloss": "to scratch"
     },
     {
-      "form": "kratzen",
-      "orthographic": "kratzen",
+      "form": "ritzen",
+      "orthographic": "ritzen",
       "gloss": "to scratch"
     },
     {
-      "form": "kratzen",
-      "orthographic": "kratzen",
+      "form": "scharren",
+      "orthographic": "scharren",
       "gloss": "to scratch"
     },
     {
@@ -920,8 +920,8 @@
       "gloss": "to push"
     },
     {
-      "form": "drücken",
-      "orthographic": "drücken",
+      "form": "schieben",
+      "orthographic": "schieben",
       "gloss": "to push"
     },
     {
@@ -935,8 +935,8 @@
       "gloss": "to tie"
     },
     {
-      "form": "binden",
-      "orthographic": "binden",
+      "form": "knüpfen",
+      "orthographic": "knüpfen",
       "gloss": "to tie"
     },
     {
@@ -950,8 +950,8 @@
       "gloss": "to count"
     },
     {
-      "form": "rechnen",
-      "orthographic": "rechnen",
+      "form": "zählen",
+      "orthographic": "zählen",
       "gloss": "to count"
     },
     {
@@ -980,8 +980,8 @@
       "gloss": "to flow"
     },
     {
-      "form": "fließen",
-      "orthographic": "fließen",
+      "form": "strömen",
+      "orthographic": "strömen",
       "gloss": "to flow"
     },
     {
@@ -1195,8 +1195,8 @@
       "gloss": "bad"
     },
     {
-      "form": "schlecht",
-      "orthographic": "schlecht",
+      "form": "übel",
+      "orthographic": "übel",
       "gloss": "bad"
     },
     {
@@ -1205,8 +1205,8 @@
       "gloss": "rotten"
     },
     {
-      "form": "faul",
-      "orthographic": "faul",
+      "form": "verrottet",
+      "orthographic": "verrottet",
       "gloss": "rotten"
     },
     {
@@ -1215,8 +1215,8 @@
       "gloss": "dirty"
     },
     {
-      "form": "schmutzig",
-      "orthographic": "schmutzig",
+      "form": "dreckig",
+      "orthographic": "dreckig",
       "gloss": "dirty"
     },
     {
@@ -1250,8 +1250,8 @@
       "gloss": "wet"
     },
     {
-      "form": "nass",
-      "orthographic": "nass",
+      "form": "feucht",
+      "orthographic": "feucht",
       "gloss": "wet"
     },
     {
@@ -1260,8 +1260,8 @@
       "gloss": "dry"
     },
     {
-      "form": "dürr",
-      "orthographic": "dürr",
+      "form": "trocken",
+      "orthographic": "trocken",
       "gloss": "dry"
     },
     {
@@ -1280,8 +1280,8 @@
       "gloss": "far"
     },
     {
-      "form": "fern",
-      "orthographic": "fern",
+      "form": "weit",
+      "orthographic": "weit",
       "gloss": "far"
     },
     {
@@ -1300,8 +1300,8 @@
       "gloss": "at"
     },
     {
-      "form": "an",
-      "orthographic": "an",
+      "form": "bei",
+      "orthographic": "bei",
       "gloss": "at"
     },
     {
@@ -1325,8 +1325,8 @@
       "gloss": "if"
     },
     {
-      "form": "ob",
-      "orthographic": "ob",
+      "form": "wenn",
+      "orthographic": "wenn",
       "gloss": "if"
     },
     {

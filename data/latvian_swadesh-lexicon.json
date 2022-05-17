@@ -230,8 +230,8 @@
       "gloss": "animal"
     },
     {
-      "form": "dzīvnieks",
-      "orthographic": "dzīvnieks",
+      "form": "zvērs",
+      "orthographic": "zvērs",
       "gloss": "animal"
     },
     {
@@ -280,13 +280,13 @@
       "gloss": "stick"
     },
     {
-      "form": "žagars",
-      "orthographic": "žagars",
+      "form": "miets",
+      "orthographic": "miets",
       "gloss": "stick"
     },
     {
-      "form": "žagars",
-      "orthographic": "žagars",
+      "form": "nūja",
+      "orthographic": "nūja",
       "gloss": "stick"
     },
     {
@@ -320,8 +320,8 @@
       "gloss": "flower"
     },
     {
-      "form": "zieds",
-      "orthographic": "zieds",
+      "form": "puķe",
+      "orthographic": "puķe",
       "gloss": "flower"
     },
     {
@@ -335,13 +335,13 @@
       "gloss": "rope"
     },
     {
-      "form": "aukla",
-      "orthographic": "aukla",
+      "form": "virve",
+      "orthographic": "virve",
       "gloss": "rope"
     },
     {
-      "form": "aukla",
-      "orthographic": "aukla",
+      "form": "striķis",
+      "orthographic": "striķis",
       "gloss": "rope"
     },
     {
@@ -355,8 +355,8 @@
       "gloss": "meat"
     },
     {
-      "form": "gaļa",
-      "orthographic": "gaļa",
+      "form": "miesa",
+      "orthographic": "miesa",
       "gloss": "meat"
     },
     {
@@ -475,8 +475,8 @@
       "gloss": "guts"
     },
     {
-      "form": "zarnas",
-      "orthographic": "zarnas",
+      "form": "iekšas",
+      "orthographic": "iekšas",
       "gloss": "guts"
     },
     {
@@ -575,13 +575,13 @@
       "gloss": "to smell"
     },
     {
-      "form": "ost",
-      "orthographic": "ost",
+      "form": "saost",
+      "orthographic": "saost",
       "gloss": "to smell"
     },
     {
-      "form": "ost",
-      "orthographic": "ost",
+      "form": "smaržot",
+      "orthographic": "smaržot",
       "gloss": "to smell"
     },
     {
@@ -595,13 +595,13 @@
       "gloss": "to sleep"
     },
     {
-      "form": "gulēt",
-      "orthographic": "gulēt",
+      "form": "dusēt",
+      "orthographic": "dusēt",
       "gloss": "to sleep"
     },
     {
-      "form": "gulēt",
-      "orthographic": "gulēt",
+      "form": "čučēt",
+      "orthographic": "čučēt",
       "gloss": "to sleep"
     },
     {
@@ -625,8 +625,8 @@
       "gloss": "to fight"
     },
     {
-      "form": "cīnīties",
-      "orthographic": "cīnīties",
+      "form": "kauties",
+      "orthographic": "kauties",
       "gloss": "to fight"
     },
     {
@@ -650,8 +650,8 @@
       "gloss": "to split"
     },
     {
-      "form": "sadalīt",
-      "orthographic": "sadalīt",
+      "form": "sašķelt",
+      "orthographic": "sašķelt",
       "gloss": "to split"
     },
     {
@@ -695,8 +695,8 @@
       "gloss": "to lie (as in a bed)"
     },
     {
-      "form": "gulēt",
-      "orthographic": "gulēt",
+      "form": "gulties",
+      "orthographic": "gulties",
       "gloss": "to lie (as in a bed)"
     },
     {
@@ -705,8 +705,8 @@
       "gloss": "to sit"
     },
     {
-      "form": "sēdēt",
-      "orthographic": "sēdēt",
+      "form": "sēsties",
+      "orthographic": "sēsties",
       "gloss": "to sit"
     },
     {
@@ -715,8 +715,8 @@
       "gloss": "to stand"
     },
     {
-      "form": "stāvēt",
-      "orthographic": "stāvēt",
+      "form": "stāties",
+      "orthographic": "stāties",
       "gloss": "to stand"
     },
     {
@@ -745,8 +745,8 @@
       "gloss": "to squeeze"
     },
     {
-      "form": "spiest",
-      "orthographic": "spiest",
+      "form": "žmiegt",
+      "orthographic": "žmiegt",
       "gloss": "to squeeze"
     },
     {
@@ -775,8 +775,8 @@
       "gloss": "to push"
     },
     {
-      "form": "stumt",
-      "orthographic": "stumt",
+      "form": "grūst",
+      "orthographic": "grūst",
       "gloss": "to push"
     },
     {
@@ -785,8 +785,8 @@
       "gloss": "to throw"
     },
     {
-      "form": "mest",
-      "orthographic": "mest",
+      "form": "sviest",
+      "orthographic": "sviest",
       "gloss": "to throw"
     },
     {
@@ -810,8 +810,8 @@
       "gloss": "to say"
     },
     {
-      "form": "teikt",
-      "orthographic": "teikt",
+      "form": "sacīt",
+      "orthographic": "sacīt",
       "gloss": "to say"
     },
     {
@@ -830,8 +830,8 @@
       "gloss": "to float"
     },
     {
-      "form": "peldēt",
-      "orthographic": "peldēt",
+      "form": "pludināt",
+      "orthographic": "pludināt",
       "gloss": "to float"
     },
     {
@@ -845,8 +845,8 @@
       "gloss": "to freeze"
     },
     {
-      "form": "salt",
-      "orthographic": "salt",
+      "form": "stingt",
+      "orthographic": "stingt",
       "gloss": "to freeze"
     },
     {
@@ -855,8 +855,8 @@
       "gloss": "to swell"
     },
     {
-      "form": "uztūkt",
-      "orthographic": "uztūkt",
+      "form": "piebriest",
+      "orthographic": "piebriest",
       "gloss": "to swell"
     },
     {
@@ -925,8 +925,8 @@
       "gloss": "earth"
     },
     {
-      "form": "zeme",
-      "orthographic": "zeme",
+      "form": "augsne",
+      "orthographic": "augsne",
       "gloss": "earth"
     },
     {
@@ -945,8 +945,8 @@
       "gloss": "sky"
     },
     {
-      "form": "debess",
-      "orthographic": "debess",
+      "form": "debesis",
+      "orthographic": "debesis",
       "gloss": "sky"
     },
     {
@@ -1000,8 +1000,8 @@
       "gloss": "red"
     },
     {
-      "form": "sarkans",
-      "orthographic": "sarkans",
+      "form": "ruds",
+      "orthographic": "ruds",
       "gloss": "red"
     },
     {
@@ -1065,8 +1065,8 @@
       "gloss": "old"
     },
     {
-      "form": "vecs",
-      "orthographic": "vecs",
+      "form": "sens",
+      "orthographic": "sens",
       "gloss": "old"
     },
     {
@@ -1080,8 +1080,8 @@
       "gloss": "bad"
     },
     {
-      "form": "slikts",
-      "orthographic": "slikts",
+      "form": "ļauns",
+      "orthographic": "ļauns",
       "gloss": "bad"
     },
     {
@@ -1100,8 +1100,8 @@
       "gloss": "straight"
     },
     {
-      "form": "taisns",
-      "orthographic": "taisns",
+      "form": "tiešs",
+      "orthographic": "tiešs",
       "gloss": "straight"
     },
     {
@@ -1130,8 +1130,8 @@
       "gloss": "wet"
     },
     {
-      "form": "mitrs",
-      "orthographic": "mitrs",
+      "form": "slapjš",
+      "orthographic": "slapjš",
       "gloss": "wet"
     },
     {
@@ -1160,8 +1160,8 @@
       "gloss": "right"
     },
     {
-      "form": "labais",
-      "orthographic": "labais",
+      "form": "pa labi",
+      "orthographic": "pa labi",
       "gloss": "right"
     },
     {
@@ -1170,8 +1170,8 @@
       "gloss": "left"
     },
     {
-      "form": "kreisais",
-      "orthographic": "kreisais",
+      "form": "pa kreisi",
+      "orthographic": "pa kreisi",
       "gloss": "left"
     },
     {
@@ -1205,8 +1205,8 @@
       "gloss": "because"
     },
     {
-      "form": "tāpēc",
-      "orthographic": "tāpēc",
+      "form": "jo",
+      "orthographic": "jo",
       "gloss": "because"
     },
     {
@@ -1215,8 +1215,8 @@
       "gloss": "name"
     },
     {
-      "form": "vārds",
-      "orthographic": "vārds",
+      "form": "nosaukums",
+      "orthographic": "nosaukums",
       "gloss": "name"
     }
   ]
